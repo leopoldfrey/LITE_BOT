@@ -1,0 +1,1896 @@
+{
+    "pieces": [
+        {
+            "title": "M\u00c9LICERTE",
+            "actes": {
+                "I": {
+                    "title": "Acte Premier",
+                    "scenes": {
+                        "I01": {
+                            "title": "Sc\u00e8ne Premi\u00e8re",
+                            "repliques": {
+                                "I01-1": {
+                                    "personnage": "Acante",
+                                    "vers": {
+                                        "0": "Ah\u00a0! charmante Daphn\u00e9."
+                                    }
+                                },
+                                "I01-2": {
+                                    "personnage": "Tyr\u00e8ne",
+                                    "vers": {
+                                        "0": "Trop aimable \u00c9rox\u00e8ne."
+                                    }
+                                },
+                                "I01-3": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Acante, laisse-moi."
+                                    }
+                                },
+                                "I01-4": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "Ne me suis point, Tyr\u00e8ne."
+                                    }
+                                },
+                                "I01-5": {
+                                    "personnage": "Acante",
+                                    "vers": {
+                                        "0": "Pourquoi me chasses-tu\u00a0?"
+                                    }
+                                },
+                                "I01-6": {
+                                    "personnage": "Tyr\u00e8ne",
+                                    "vers": {
+                                        "0": "Pourquoi fuis-tu mes pas\u00a0?"
+                                    }
+                                },
+                                "I01-7": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Tu me plais loin de moi."
+                                    }
+                                },
+                                "I01-8": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "Je m\u2019aime o\u00f9 tu n\u2019es pas."
+                                    }
+                                },
+                                "I01-9": {
+                                    "personnage": "Acante",
+                                    "vers": {
+                                        "0": "Ne cesseras-tu point cette rigueur mortelle\u00a0?"
+                                    }
+                                },
+                                "I01-10": {
+                                    "personnage": "Tyr\u00e8ne",
+                                    "vers": {
+                                        "0": "Ne cesseras-tu point de m\u2019\u00eatre si cruelle\u00a0?"
+                                    }
+                                },
+                                "I01-11": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Ne cesseras-tu point tes inutiles v\u0153ux ?"
+                                    }
+                                },
+                                "I01-12": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "Ne cesseras-tu point de m\u2019\u00eatre si f\u00e2cheux\u00a0?"
+                                    }
+                                },
+                                "I01-13": {
+                                    "personnage": "Acante",
+                                    "vers": {
+                                        "0": "Si tu n\u2019en prends piti\u00e9, je succombe \u00e0 ma peine."
+                                    }
+                                },
+                                "I01-14": {
+                                    "personnage": "Tyr\u00e8ne",
+                                    "vers": {
+                                        "0": "Si tu ne me secours, ma mort est trop certaine."
+                                    }
+                                },
+                                "I01-15": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Si tu ne veux partir, je vais quitter ce lieu."
+                                    }
+                                },
+                                "I01-16": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "Si tu veux demeurer, je te vais dire adieu."
+                                    }
+                                },
+                                "I01-17": {
+                                    "personnage": "Acante",
+                                    "vers": {
+                                        "0": "H\u00e9 bien en m\u2019\u00e9loignant, je te vais satisfaire."
+                                    }
+                                },
+                                "I01-18": {
+                                    "personnage": "Tyr\u00e8ne",
+                                    "vers": {
+                                        "0": "Mon d\u00e9part va t\u2019\u00f4ter ce qui peut te d\u00e9plaire."
+                                    }
+                                },
+                                "I01-19": {
+                                    "personnage": "Acante",
+                                    "vers": {
+                                        "0": "G\u00e9n\u00e9reuse \u00c9rox\u00e8ne, en faveur de mes feux",
+                                        "1": "Daigne au moins par piti\u00e9 lui dire un mot ou deux."
+                                    }
+                                },
+                                "I01-20": {
+                                    "personnage": "Tyr\u00e8ne",
+                                    "vers": {
+                                        "0": "Obligeante Daphn\u00e9, parle \u00e0 cette inhumaine.",
+                                        "1": "Et sache d\u2019o\u00f9 pour moi proc\u00e8de tant de haine."
+                                    }
+                                }
+                            }
+                        },
+                        "I02": {
+                            "title": "Sc\u00e8ne Seconde",
+                            "repliques": {
+                                "I02-1": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "Acante a du m\u00e9rite, et t\u2019aime tendrement.",
+                                        "1": "D\u2019o\u00f9 vient que tu lui fais un si dur traitement\u00a0?"
+                                    }
+                                },
+                                "I02-2": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Tyr\u00e8ne vaut beaucoup, et languit pour tes charmes.",
+                                        "1": "D\u2019o\u00f9 vient que sans piti\u00e9 tu vois couler ses larmes ?"
+                                    }
+                                },
+                                "I02-3": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "Puisque j\u2019ai fait ici la demande avant toi,",
+                                        "1": "La raison te condamne \u00e0 r\u00e9pondre avant moi."
+                                    }
+                                },
+                                "I02-4": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Pour tous les soins d\u2019Acante, on me voit inflexible,",
+                                        "1": "Parce qu\u2019\u00e0 d\u2019autres v\u0153ux je me trouve sensible."
+                                    }
+                                },
+                                "I02-5": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "Je ne fais pour Tyr\u00e8ne \u00e9clater que rigueur,",
+                                        "1": "Parce qu\u2019un autre choix est ma\u00eetre de mon c\u0153ur."
+                                    }
+                                },
+                                "I02-6": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Puis-je savoir de toi ce choix qu\u2019on te voit taire\u00a0?"
+                                    }
+                                },
+                                "I02-7": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "Oui, si tu veux du tien m\u2019apprendre le myst\u00e8re."
+                                    }
+                                },
+                                "I02-8": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Sans te nommer celui qu\u2019Amour m\u2019a fait choisir,",
+                                        "1": "Je puis facilement contenter ton d\u00e9sir,",
+                                        "2": "Et de la main d\u2019Atis, ce Peintre inimitable,",
+                                        "3": "J\u2019en garde dans ma poche un portrait admirable,",
+                                        "4": "Qui jusques au moindre trait lui ressemble si fort,",
+                                        "5": "Qu\u2019il est s\u00fbr que tes yeux le conna\u00eetront d\u2019abord."
+                                    }
+                                },
+                                "I02-9": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "Je puis te contenter par une m\u00eame voie,",
+                                        "1": "Et payer ton secret en pareille monnaie.",
+                                        "2": "J\u2019ai de la main aussi de ce Peintre fameux,",
+                                        "3": "Un aimable Portrait de l\u2019objet de mes v\u0153ux,",
+                                        "4": "Si plein de tous ses traits et de sa gr\u00e2ce extr\u00eame,",
+                                        "5": "Que tu pourras d\u2019abord te le nommer toi-m\u00eame."
+                                    }
+                                },
+                                "I02-10": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "La bo\u00eete que le Peintre a fait faire pour moi,",
+                                        "1": "Est tout \u00e0 fait semblable \u00e0 celle que je vois."
+                                    }
+                                },
+                                "I02-11": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "Il est vrai, l\u2019une \u00e0 l\u2019autre enti\u00e8rement ressemble,",
+                                        "1": "Et certes, il faut qu\u2019Atis les ait fait faire ensemble."
+                                    }
+                                },
+                                "I02-12": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Faisons en m\u00eame temps par un peu de couleurs,",
+                                        "1": "Confidence \u00e0 nos yeux du secret de nos c\u0153urs."
+                                    }
+                                },
+                                "I02-13": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "Voyons \u00e0 qui plus vite entendra ce langage,",
+                                        "1": "Et qui parle le mieux, de l\u2019un ou l\u2019autre ouvrage."
+                                    }
+                                },
+                                "I02-14": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "La m\u00e9prise est plaisante, et tu te brouilles bien,",
+                                        "1": "Au lieu de ton portrait, tu m\u2019as rendu le mien."
+                                    }
+                                },
+                                "I02-15": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "Il est vrai, je ne sais comme j\u2019ai fait la chose."
+                                    }
+                                },
+                                "I02-16": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Donne. De cette erreur ta r\u00eaverie est cause."
+                                    }
+                                },
+                                "I02-17": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "Que veut dire ceci\u00a0? Nous nous jouons, je crois.",
+                                        "1": "Tu fais de ces Portraits m\u00eame chose que moi."
+                                    }
+                                },
+                                "I02-18": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Certes, c\u2019est pour en rire, et tu peux me le rendre."
+                                    }
+                                },
+                                "I02-19": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "Voici le vrai moyen de ne se point m\u00e9prendre."
+                                    }
+                                },
+                                "I02-20": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "De mes sens pr\u00e9venus est-ce une illusion\u00a0?"
+                                    }
+                                },
+                                "I02-21": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "Mon \u00e2me sur mes yeux fait-elle impression\u00a0?"
+                                    }
+                                },
+                                "I02-22": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Myrtil \u00e0 mes regards s\u2019offre dans cet ouvrage."
+                                    }
+                                },
+                                "I02-23": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "De Myrtil dans ces traits je rencontre l\u2019Image."
+                                    }
+                                },
+                                "I02-24": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "C\u2019est le jeune Myrtil qui fait na\u00eetre mes feux."
+                                    }
+                                },
+                                "I02-25": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "C\u2019est au jeune Myrtil que tendent tous mes v\u0153ux."
+                                    }
+                                },
+                                "I02-26": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Je venais aujourd\u2019hui te prier de lui dire,",
+                                        "1": "Les soins que pour son sort son m\u00e9rite m\u2019inspire."
+                                    }
+                                },
+                                "I02-27": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "Je venais te chercher pour servir mon ardeur,",
+                                        "1": "Dans le dessein que j\u2019ai de m\u2019assurer son c\u0153ur."
+                                    }
+                                },
+                                "I02-28": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Cette ardeur qu\u2019il t\u2019inspire est-elle si puissante\u00a0?"
+                                    }
+                                },
+                                "I02-29": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "L\u2019aimes-tu d\u2019une amour qui soit si violente\u00a0?"
+                                    }
+                                },
+                                "I02-30": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Il n\u2019est point de froideur qu\u2019il ne puisse enflammer,",
+                                        "1": "Et sa gr\u00e2ce naissante a de quoi tout charmer."
+                                    }
+                                },
+                                "I02-31": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "Il n\u2019est Nymphe en l\u2019aimant qui ne se t\u00eent heureuse,",
+                                        "1": "Et Diane sans honte en serait amoureuse."
+                                    }
+                                },
+                                "I02-32": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Rien que son air charmant ne me touche aujourd\u2019hui\u00a0;",
+                                        "1": "Et si j\u2019avais cent c\u0153urs, ils seraient tous pour lui."
+                                    }
+                                },
+                                "I02-33": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "Il efface \u00e0 mes yeux tout ce qu\u2019on voit para\u00eetre,",
+                                        "1": "Et si j\u2019avais un Sceptre, il en serait le Ma\u00eetre."
+                                    }
+                                },
+                                "I02-34": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Ce serait donc en vain qu\u2019\u00e0 chacune, en ce jour,",
+                                        "1": "On nous voudrait du sein arracher cet amour.",
+                                        "2": "Nos \u00e2mes dans leurs v\u0153ux sont trop bien affermies,",
+                                        "3": "Ne t\u00e2chons, s\u2019il se peut, qu\u2019\u00e0 demeurer amies.",
+                                        "4": "Et puisque en m\u00eame temps pour le m\u00eame sujet,",
+                                        "5": "Nous avons toutes deux form\u00e9 m\u00eame projet,",
+                                        "6": "Mettons dans ce d\u00e9bat la franchise en usage,",
+                                        "7": "Ne prenons l\u2019une et l\u2019autre aucun l\u00e2che avantage,",
+                                        "8": "Et courons nous ouvrir ensemble \u00e0 Lycarsis,",
+                                        "9": "Des tendres sentiments o\u00f9 nous jette son fils."
+                                    }
+                                },
+                                "I02-35": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "J\u2019ai peine \u00e0 concevoir, tant la surprise est forte,",
+                                        "1": "Comme un tel fils est n\u00e9 d\u2019un p\u00e8re de la sorte,",
+                                        "2": "Et sa taille, son air, sa parole et ses yeux,",
+                                        "3": "Feraient croire qu\u2019il est issu du sang des Dieux\u00a0:",
+                                        "4": "Mais enfin j\u2019y souscris, courons trouver ce p\u00e8re,",
+                                        "5": "Allons-lui de nos c\u0153urs d\u00e9couvrir le myst\u00e8re,",
+                                        "6": "Et consentons qu\u2019apr\u00e8s Myrtil, entre nous deux,",
+                                        "7": "D\u00e9cide par son choix ce combat de nos v\u0153ux."
+                                    }
+                                },
+                                "I02-36": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Soit, je vois Lycarsis avec Mopse et Nicandre,",
+                                        "1": "Ils pourront le quitter, cachons-nous pour attendre."
+                                    }
+                                }
+                            }
+                        },
+                        "I03": {
+                            "title": "Sc\u00e8ne III",
+                            "repliques": {
+                                "I03-1": {
+                                    "personnage": "Nicandre",
+                                    "vers": {
+                                        "0": "Dis-nous donc ta nouvelle."
+                                    }
+                                },
+                                "I03-2": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Ah\u00a0! que vous me pressez\u00a0!",
+                                        "1": "Cela ne se dit pas comme vous le pensez."
+                                    }
+                                },
+                                "I03-3": {
+                                    "personnage": "Mopse",
+                                    "vers": {
+                                        "0": "Que de sottes fa\u00e7ons, et que de badinage,",
+                                        "1": "M\u00e9nalque pour chanter n\u2019en fait pas davantage."
+                                    }
+                                },
+                                "I03-4": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Parmi les curieux des affaires d\u2019\u00c9tat,",
+                                        "1": "Une nouvelle \u00e0 dire est d\u2019un puissant \u00e9clat.",
+                                        "2": "Je me veux mettre un peu sur l\u2019homme d\u2019importance,",
+                                        "3": "Et jouir quelque temps de votre impatience."
+                                    }
+                                },
+                                "I03-5": {
+                                    "personnage": "Nicandre",
+                                    "vers": {
+                                        "0": "Veux-tu par tes d\u00e9lais nous fatiguer tous deux\u00a0?"
+                                    }
+                                },
+                                "I03-6": {
+                                    "personnage": "Mopse",
+                                    "vers": {
+                                        "0": "Prends-tu quelque plaisir \u00e0 te rendre f\u00e2cheux\u00a0?"
+                                    }
+                                },
+                                "I03-7": {
+                                    "personnage": "Nicandre",
+                                    "vers": {
+                                        "0": "De gr\u00e2ce, parle, et mets ces mines en arri\u00e8re."
+                                    }
+                                },
+                                "I03-8": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Priez-moi donc tous deux de la bonne mani\u00e8re,",
+                                        "1": "Et me dites chacun quel don vous me ferez,",
+                                        "2": "Pour obtenir de moi ce que vous d\u00e9sirez."
+                                    }
+                                },
+                                "I03-9": {
+                                    "personnage": "Mopse",
+                                    "vers": {
+                                        "0": "La peste soit du fat, laissons-le l\u00e0, Nicandre,",
+                                        "1": "Il br\u00fble de parler, bien plus que nous d\u2019entendre.",
+                                        "2": "Sa nouvelle lui p\u00e8se, il veut s\u2019en d\u00e9charger,",
+                                        "3": "Et ne l\u2019\u00e9couter pas, est le faire enrager."
+                                    }
+                                },
+                                "I03-10": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Eh."
+                                    }
+                                },
+                                "I03-11": {
+                                    "personnage": "Nicandre",
+                                    "vers": {
+                                        "0": "Te voil\u00e0 puni de tes fa\u00e7ons de faire."
+                                    }
+                                },
+                                "I03-12": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Je m\u2019en vais vous le dire, \u00e9coutez."
+                                    }
+                                },
+                                "I03-13": {
+                                    "personnage": "Mopse",
+                                    "vers": {
+                                        "0": "Point d\u2019affaire."
+                                    }
+                                },
+                                "I03-14": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Quoi\u00a0vous ne voulez pas m\u2019entendre\u00a0?"
+                                    }
+                                },
+                                "I03-15": {
+                                    "personnage": "Nicandre",
+                                    "vers": {
+                                        "0": "Non."
+                                    }
+                                },
+                                "I03-16": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Eh bien",
+                                        "1": "Je ne dirai donc mot, et vous ne saurez rien."
+                                    }
+                                },
+                                "I03-17": {
+                                    "personnage": "Mopse",
+                                    "vers": {
+                                        "0": "Soit."
+                                    }
+                                },
+                                "I03-18": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Vous ne saurez pas qu\u2019avec magnificence,",
+                                        "1": "Le Roi vient d\u2019honorer Temp\u00e9 de sa pr\u00e9sence\u00a0:",
+                                        "2": "Qu\u2019il entra dans Larisse hier sur le haut du jour\u00a0:",
+                                        "3": "Qu\u2019\u00e0 l\u2019aise je l\u2019y vis avec toute sa Cour.",
+                                        "4": "Que ces bois vont jouir aujourd\u2019hui de sa vue,",
+                                        "5": "Et qu\u2019on raisonne fort touchant cette venue."
+                                    }
+                                },
+                                "I03-19": {
+                                    "personnage": "Nicandre",
+                                    "vers": {
+                                        "0": "Nous n\u2019avons pas envie aussi de rien savoir."
+                                    }
+                                },
+                                "I03-20": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Je vis cent choses l\u00e0 ravissantes \u00e0 voir.",
+                                        "1": "Ce ne sont que Seigneurs, qui des pieds \u00e0 la t\u00eate,",
+                                        "2": "Sont brillants et par\u00e9s comme au jour d\u2019une f\u00eate,",
+                                        "3": "Ils surprennent la vue et nos pr\u00e9s au Printemps",
+                                        "4": "Avec toutes leurs fleurs sont bien moins \u00e9clatants.",
+                                        "5": "Pour le Prince entre tous, sans peine on le remarque,",
+                                        "6": "Et d\u2019une stade loin, il sent son grand Monarque,",
+                                        "7": "Dans toute sa personne, il a je ne sais quoi,",
+                                        "8": "Qui d\u2019abord fait juger que c\u2019est un ma\u00eetre Roi.",
+                                        "9": "Il le fait d\u2019une gr\u00e2ce \u00e0 nulle autre seconde,",
+                                        "10": "Et cela sans mentir lui sied le mieux du monde.",
+                                        "11": "On ne croirait jamais comme de toutes parts,",
+                                        "12": "Toute sa Cour s\u2019empresse \u00e0 chercher ses regards\u00a0:",
+                                        "13": "Ce sont autour de lui confusions plaisantes,",
+                                        "14": "Et l\u2019on dirait d\u2019un tas de mouches reluisantes,",
+                                        "15": "Qui suivent en tous lieux un doux rayon de miel.",
+                                        "16": "Enfin l\u2019on ne voit rien de si beau sous le Ciel,",
+                                        "17": "Et la f\u00eate de Pan parmi nous si ch\u00e9rie,",
+                                        "18": "Aupr\u00e8s de ce spectacle est une gueuserie\u00a0:",
+                                        "19": "Mais puisque sur le fier vous vous tenez si bien,",
+                                        "20": "Je garde ma nouvelle, et ne veux dire rien."
+                                    }
+                                },
+                                "I03-21": {
+                                    "personnage": "Mopse",
+                                    "vers": {
+                                        "0": "Et nous ne te voulons aucunement entendre."
+                                    }
+                                },
+                                "I03-22": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Allez vous promener."
+                                    }
+                                },
+                                "I03-23": {
+                                    "personnage": "Mopse",
+                                    "vers": {
+                                        "0": "Va-t\u2019en te faire pendre."
+                                    }
+                                }
+                            }
+                        },
+                        "I04": {
+                            "title": "Sc\u00e8ne IV",
+                            "repliques": {
+                                "I04-1": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "C\u2019est de cette fa\u00e7on que l\u2019on punit les gens,",
+                                        "1": "Quand ils font les ben\u00eats et les impertinents."
+                                    }
+                                },
+                                "I04-2": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Le Ciel tienne, Pasteur, vos brebis toujours saines."
+                                    }
+                                },
+                                "I04-3": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "C\u00e9r\u00e8s tienne de grains vos granges toujours pleines."
+                                    }
+                                },
+                                "I04-4": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Et le grand Pan vous donne \u00e0 chacune un \u00c9poux",
+                                        "1": "Qui vous aime beaucoup, et soit digne de vous."
+                                    }
+                                },
+                                "I04-5": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Ah\u00a0! Lycarsis, nos v\u0153ux \u00e0 m\u00eame but aspirent."
+                                    }
+                                },
+                                "I04-6": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "C\u2019est pour le m\u00eame objet que nos deux c\u0153urs soupirent."
+                                    }
+                                },
+                                "I04-7": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Et l\u2019amour, cet Enfant qui cause nos langueurs,",
+                                        "1": "A pris chez vous le trait dont il blesse nos c\u0153urs."
+                                    }
+                                },
+                                "I04-8": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "Et nous venons ici chercher votre alliance,",
+                                        "1": "Et voir qui de nous deux aura la pr\u00e9f\u00e9rence."
+                                    }
+                                },
+                                "I04-9": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Nymphes\u2026"
+                                    }
+                                },
+                                "I04-10": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Pour ce bien seul nous poussons des soupirs."
+                                    }
+                                },
+                                "I04-11": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Je suis\u2026"
+                                    }
+                                },
+                                "I04-12": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "\u00c0 ce bonheur tendent tous nos d\u00e9sirs."
+                                    }
+                                },
+                                "I04-13": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "C\u2019est un peu librement expliquer sa pens\u00e9e."
+                                    }
+                                },
+                                "I04-14": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Pourquoi."
+                                    }
+                                },
+                                "I04-15": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "La biens\u00e9ance y semble un peu bless\u00e9e."
+                                    }
+                                },
+                                "I04-16": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Ah point."
+                                    }
+                                },
+                                "I04-17": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Mais quand le c\u0153ur br\u00fble d\u2019un noble feu,",
+                                        "1": "On peut sans nulle honte en faire un libre aveu."
+                                    }
+                                },
+                                "I04-18": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Je\u2026"
+                                    }
+                                },
+                                "I04-19": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "Cette libert\u00e9 nous peut \u00eatre permise,",
+                                        "1": "Et du choix de nos c\u0153urs la beaut\u00e9 l\u2019autorise."
+                                    }
+                                },
+                                "I04-20": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "C\u2019est blesser ma pudeur que me flatter ainsi."
+                                    }
+                                },
+                                "I04-21": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "Non, non, n\u2019affectez point de modestie ici."
+                                    }
+                                },
+                                "I04-22": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Enfin tout notre bien est en votre puissance."
+                                    }
+                                },
+                                "I04-23": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "C\u2019est de vous que d\u00e9pend notre unique esp\u00e9rance."
+                                    }
+                                },
+                                "I04-24": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Trouverons-nous en vous quelques difficult\u00e9s\u00a0?"
+                                    }
+                                },
+                                "I04-25": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Ah."
+                                    }
+                                },
+                                "I04-26": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "Nos v\u0153ux, dites-moi, seront-ils rejet\u00e9s\u00a0?"
+                                    }
+                                },
+                                "I04-27": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Non, j\u2019ai re\u00e7u du Ciel une \u00e2me peu cruelle\u00a0;",
+                                        "1": "Je tiens de feu ma femme, et je me sens comme elle",
+                                        "2": "Pour les d\u00e9sirs d\u2019autrui beaucoup d\u2019humanit\u00e9,",
+                                        "3": "Et je ne suis point homme \u00e0 garder de fiert\u00e9."
+                                    }
+                                },
+                                "I04-28": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Accordez donc Myrtil \u00e0 notre amoureux z\u00e8le."
+                                    }
+                                },
+                                "I04-29": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "Et souffrez que son choix r\u00e8gle notre querelle."
+                                    }
+                                },
+                                "I04-30": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Myrtil\u00a0?"
+                                    }
+                                },
+                                "I04-31": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Oui, c\u2019est Myrtil que de vous nous voulons."
+                                    }
+                                },
+                                "I04-32": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "De qui pensez-vous donc qu\u2019ici nous vous parlons\u00a0?"
+                                    }
+                                },
+                                "I04-33": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Je ne sais, mais Myrtil n\u2019est gu\u00e8re dans un \u00e2ge",
+                                        "1": "Qui soit propre \u00e0 ranger au joug du mariage."
+                                    }
+                                },
+                                "I04-34": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Son m\u00e9rite naissant peut frapper d\u2019autres yeux,",
+                                        "1": "Et l\u2019on veut s\u2019engager un bien si pr\u00e9cieux,",
+                                        "2": "Pr\u00e9venir d\u2019autres c\u0153urs, et braver la fortune",
+                                        "3": "Sous les fermes liens d\u2019une cha\u00eene commune."
+                                    }
+                                },
+                                "I04-35": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "Comme par son esprit et ses autres brillants,",
+                                        "1": "Il rompt l\u2019ordre commun et devance le temps,",
+                                        "2": "Notre flamme pour lui veut en faire de m\u00eame,",
+                                        "3": "Et r\u00e9gler tous ses v\u0153ux sur son m\u00e9rite extr\u00eame."
+                                    }
+                                },
+                                "I04-36": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Il est vrai qu\u2019\u00e0 son \u00e2ge, il surprend quelquefois.",
+                                        "1": "Et cet Ath\u00e9nien qui fut chez moi vingt mois,",
+                                        "2": "Qui le trouvant joli, se mit en fantaisie",
+                                        "3": "De lui remplir l\u2019esprit de sa philosophie,",
+                                        "4": "Sur de certains discours l\u2019a rendu si profond,",
+                                        "5": "Que tout grand que je suis, souvent il me confond.",
+                                        "6": "Mais, avec tout cela, ce n\u2019est encore qu\u2019enfance,",
+                                        "7": "Et son fait est m\u00eal\u00e9 de beaucoup d\u2019innocence."
+                                    }
+                                },
+                                "I04-37": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Il n\u2019est point tant enfant, qu\u2019\u00e0 le voir chaque jour,",
+                                        "1": "Je ne le croie atteint d\u00e9j\u00e0 d\u2019un peu d\u2019amour,",
+                                        "2": "Et plus d\u2019une aventure \u00e0 mes yeux s\u2019est offerte,",
+                                        "3": "O\u00f9 j\u2019ai connu qu\u2019il suit la jeune M\u00e9licerte."
+                                    }
+                                },
+                                "I04-38": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "Ils pourraient bien s\u2019aimer, et je vois\u2026"
+                                    }
+                                },
+                                "I04-39": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Franc abus.",
+                                        "1": "Pour elle passe encore, elle a deux ans de plus,",
+                                        "2": "Et deux ans dans son sexe est une grande avance.",
+                                        "3": "Mais pour lui, le jeu seul l\u2019occupe tout, je pense,",
+                                        "4": "Et les petits d\u00e9sirs de se voir ajust\u00e9",
+                                        "5": "Ainsi que les Bergers de haute qualit\u00e9."
+                                    }
+                                },
+                                "I04-40": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Enfin nous d\u00e9sirons par le n\u0153ud d\u2019hym\u00e9n\u00e9e,",
+                                        "1": "Attacher sa fortune \u00e0 notre destin\u00e9e."
+                                    }
+                                },
+                                "I04-41": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "Nous voulons l\u2019une et l\u2019autre avec pareille ardeur,",
+                                        "1": "Nous assurer de loin l\u2019empire de son c\u0153ur."
+                                    }
+                                },
+                                "I04-42": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Je m\u2019en tiens honor\u00e9 autant qu\u2019on saurait croire.",
+                                        "1": "Je suis un pauvre P\u00e2tre, et ce m\u2019est trop de gloire,",
+                                        "2": "Que deux Nymphes d\u2019un rang le plus haut du pays,",
+                                        "3": "Disputent \u00e0 se faire un \u00e9poux de mon fils.",
+                                        "4": "Puisqu\u2019il vous pla\u00eet qu\u2019ainsi la chose s\u2019ex\u00e9cute,",
+                                        "5": "Je consens que son choix r\u00e8gle votre dispute,",
+                                        "6": "Et celle qu\u2019\u00e0 l\u2019\u00e9cart laissera cet arr\u00eat,",
+                                        "7": "Pourra pour son recours m\u2019\u00e9pouser, s\u2019il lui pla\u00eet.",
+                                        "8": "C\u2019est toujours m\u00eame sang et presque m\u00eame chose.",
+                                        "9": "Mais le voici, souffrez qu\u2019un peu je le dispose,",
+                                        "10": "Il tient quelque moineau qu\u2019il a pris fra\u00eechement.",
+                                        "11": "Et voil\u00e0 ses amours et son attachement."
+                                    }
+                                }
+                            }
+                        },
+                        "I05": {
+                            "title": "Sc\u00e8ne V",
+                            "repliques": {
+                                "I05-1": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Innocente petite b\u00eate,",
+                                        "1": "Qui contre ce qui vous arr\u00eate,",
+                                        "2": "Vous d\u00e9battez tant \u00e0 mes yeux,",
+                                        "3": "De votre libert\u00e9 ne plaignez point la perte,",
+                                        "4": "Votre destin est glorieux,",
+                                        "5": "Je vous ai pris pour M\u00e9licerte.",
+                                        "6": "Elle vous baisera, vous prenant dans sa main,",
+                                        "7": "Et de vous mettre en son sein,",
+                                        "8": "Elle vous fera la gr\u00e2ce.",
+                                        "9": "Est-il un sort au monde et plus doux et plus beau\u00a0?",
+                                        "10": "Et qui des Rois, h\u00e9las, heureux petit moineau,",
+                                        "11": "Ne voudrait \u00eatre en votre place\u00a0?"
+                                    }
+                                },
+                                "I05-2": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Myrtil, Myrtil, un mot, laissons l\u00e0 ces joyaux,",
+                                        "1": "Il s\u2019agit d\u2019autre chose ici que de moineaux.",
+                                        "2": "Ces deux Nymphes, Myrtil, \u00e0 la fois te pr\u00e9tendent,",
+                                        "3": "Et tout jeune d\u00e9j\u00e0 pour \u00e9poux te demandent.",
+                                        "4": "Je dois par un Hymen t\u2019engager \u00e0 leurs v\u0153ux,",
+                                        "5": "Et c\u2019est toi que l\u2019on veut qui choisisse des deux."
+                                    }
+                                },
+                                "I05-3": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Ces Nymphes\u2026"
+                                    }
+                                },
+                                "I05-4": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Oui\u00a0; des deux tu peux en choisir une\u00a0;",
+                                        "1": "Vois quel est ton bonheur, et b\u00e9nis la fortune."
+                                    }
+                                },
+                                "I05-5": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Ce choix qui m\u2019est offert, peut-il m\u2019\u00eatre un bonheur,",
+                                        "1": "S\u2019il n\u2019est aucunement souhait\u00e9 de mon c\u0153ur\u00a0?"
+                                    }
+                                },
+                                "I05-6": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Enfin, qu\u2019on le re\u00e7oive, et que sans se confondre,",
+                                        "1": "A l\u2019honneur qu\u2019elles font, on songe \u00e0 bien r\u00e9pondre."
+                                    }
+                                },
+                                "I05-7": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "Malgr\u00e9 cette fiert\u00e9 qui r\u00e8gne parmi nous,",
+                                        "1": "Deux Nymphes, \u00f4 Myrtil, viennent s\u2019offrir \u00e0 vous,",
+                                        "2": "Et de vos qualit\u00e9s les merveilles \u00e9closes,",
+                                        "3": "Font que nous renversons ici l\u2019ordre des choses."
+                                    }
+                                },
+                                "I05-8": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Nous vous laissons, Myrtil, pour l\u2019avis le meilleur,",
+                                        "1": "Consulter sur ce choix vos yeux et votre c\u0153ur,",
+                                        "2": "Et nous n\u2019en voulons point pr\u00e9venir les suffrages",
+                                        "3": "Par un r\u00e9cit par\u00e9 de tous nos avantages."
+                                    }
+                                },
+                                "I05-9": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "C\u2019est me faire un honneur dont l\u2019\u00e9clat me surprend\u00a0;",
+                                        "1": "Mais cet honneur pour moi, je l\u2019avoue, est trop grand.",
+                                        "2": "\u00c0 vos rares bont\u00e9s, il faut que je m\u2019oppose,",
+                                        "3": "Pour m\u00e9riter ce sort, je suis trop peu de chose\u00a0:",
+                                        "4": "Et je serais f\u00e2ch\u00e9, quels qu\u2019en soient les appas,",
+                                        "5": "Qu\u2019on vous bl\u00e2m\u00e2t pour moi de faire un choix trop bas."
+                                    }
+                                },
+                                "I05-10": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "Contentez nos d\u00e9sirs, quoi qu\u2019on en puisse croire,",
+                                        "1": "Et ne vous chargez point du soin de notre gloire."
+                                    }
+                                },
+                                "I05-11": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Non, ne descendez point dans ces humilit\u00e9s,",
+                                        "1": "Et laissez-nous juger ce que vous m\u00e9ritez."
+                                    }
+                                },
+                                "I05-12": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Le choix qui m\u2019est offert s\u2019oppose \u00e0 votre attente,",
+                                        "1": "Et peut seul emp\u00eacher que mon c\u0153ur vous contente.",
+                                        "2": "Le moyen de choisir de deux grandes beaut\u00e9s,",
+                                        "3": "\u00c9gales en naissance, et rares qualit\u00e9s\u00a0?",
+                                        "4": "Rejeter l\u2019une ou l\u2019autre est un crime effroyable\u00a0;",
+                                        "5": "Et n\u2019en choisir aucune est bien plus raisonnable."
+                                    }
+                                },
+                                "I05-13": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "Mais en faisant refus de r\u00e9pondre \u00e0 nos v\u0153ux,",
+                                        "1": "Au lieu d\u2019une, Myrtil, vous en outragez deux."
+                                    }
+                                },
+                                "I05-14": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Puisque nous consentons \u00e0 l\u2019arr\u00eat qu\u2019on peut rendre,",
+                                        "1": "Ces raisons ne font rien \u00e0 vouloir s\u2019en d\u00e9fendre."
+                                    }
+                                },
+                                "I05-15": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Eh bien, si ces raisons ne vous satisfont pas,",
+                                        "1": "Celle-ci le fera, j\u2019aime d\u2019autres appas,",
+                                        "2": "Et je sens bien qu\u2019un c\u0153ur, qu\u2019un bel objet engage,",
+                                        "3": "Est insensible et sourd \u00e0 tout autre avantage."
+                                    }
+                                },
+                                "I05-16": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Comment donc\u00a0? qu\u2019est-ce ci\u00a0? qui l\u2019e\u00fbt pu pr\u00e9sumer\u00a0?",
+                                        "1": "Et savez-vous, morveux, ce que c\u2019est que d\u2019aimer\u00a0?"
+                                    }
+                                },
+                                "I05-17": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Sans savoir ce que c\u2019est, mon c\u0153ur a su le faire."
+                                    }
+                                },
+                                "I05-18": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Mais cet amour me choque, et n\u2019est pas n\u00e9cessaire."
+                                    }
+                                },
+                                "I05-19": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Vous ne deviez donc pas, si cela vous d\u00e9pla\u00eet,",
+                                        "1": "Me faire un c\u0153ur sensible et tendre comme il est."
+                                    }
+                                },
+                                "I05-20": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Mais ce c\u0153ur que j\u2019ai fait, me doit ob\u00e9issance."
+                                    }
+                                },
+                                "I05-21": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Oui, lorsque d\u2019ob\u00e9ir il est en sa puissance."
+                                    }
+                                },
+                                "I05-22": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Mais enfin, sans mon ordre, il ne doit point aimer."
+                                    }
+                                },
+                                "I05-23": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Que n\u2019emp\u00eachiez-vous donc que l\u2019on p\u00fbt le charmer\u00a0?"
+                                    }
+                                },
+                                "I05-24": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Eh bien, je vous d\u00e9fends que cela continue."
+                                    }
+                                },
+                                "I05-25": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "La d\u00e9fense, j\u2019ai peur, sera trop tard venue."
+                                    }
+                                },
+                                "I05-26": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Quoi, les p\u00e8res n\u2019ont pas des droits sup\u00e9rieurs\u00a0?"
+                                    }
+                                },
+                                "I05-27": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Les Dieux qui sont bien plus ne forcent point les c\u0153urs."
+                                    }
+                                },
+                                "I05-28": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Les Dieux\u2026 Paix, petit sot, cette philosophie",
+                                        "1": "Me\u2026"
+                                    }
+                                },
+                                "I05-29": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Ne vous mettez point en courroux, je vous prie."
+                                    }
+                                },
+                                "I05-30": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Non, je veux qu\u2019il se donne \u00e0 l\u2019une pour \u00e9poux,",
+                                        "1": "Ou je vais lui donner le fouet tout devant vous\u00a0:",
+                                        "2": "Ah, ah, je vous ferai sentir que je suis p\u00e8re."
+                                    }
+                                },
+                                "I05-31": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Traitons, de gr\u00e2ce, ici les choses sans col\u00e8re."
+                                    }
+                                },
+                                "I05-32": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "Peut-on savoir de vous cet objet si charmant,",
+                                        "1": "Dont la beaut\u00e9, Myrtil, vous a fait son Amant\u00a0?"
+                                    }
+                                },
+                                "I05-33": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "M\u00e9licerte, Madame, elle en peut faire d\u2019autres."
+                                    }
+                                },
+                                "I05-34": {
+                                    "personnage": "\u00c9rox\u00e8ne",
+                                    "vers": {
+                                        "0": "Vous comparez, Myrtil, ses qualit\u00e9s aux n\u00f4tres\u00a0?"
+                                    }
+                                },
+                                "I05-35": {
+                                    "personnage": "Daphn\u00e9",
+                                    "vers": {
+                                        "0": "Le choix d\u2019elle et de nous est assez in\u00e9gal."
+                                    }
+                                },
+                                "I05-36": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Nymphes, au nom des Dieux, n\u2019en dites point de mal,",
+                                        "1": "Daignez consid\u00e9rer, de gr\u00e2ce, que je l\u2019aime,",
+                                        "2": "Et ne me jetez point dans un d\u00e9sordre extr\u00eame.",
+                                        "3": "Si j\u2019outrage en l\u2019aimant vos c\u00e9lestes attraits,",
+                                        "4": "Elle n\u2019a point de part au crime que je fais\u00a0:",
+                                        "5": "C\u2019est de moi, s\u2019il vous pla\u00eet, que vient toute l\u2019offense.",
+                                        "6": "Il est vrai d\u2019elle \u00e0 vous, je sais la diff\u00e9rence\u00a0;",
+                                        "7": "Mais par sa destin\u00e9e on se trouve encha\u00een\u00e9,",
+                                        "8": "Et je sens bien enfin que le Ciel m\u2019a donn\u00e9",
+                                        "9": "Pour vous tout le respect, Nymphes, imaginable\u00a0:",
+                                        "10": "Pour elle tout l\u2019amour dont une \u00e2me est capable.",
+                                        "11": "Je vois \u00e0 la rougeur qui vient de vous saisir,",
+                                        "12": "Que ce que je vous dis ne vous fait pas plaisir.",
+                                        "13": "Si vous parlez, mon c\u0153ur appr\u00e9hende d\u2019entendre",
+                                        "14": "Ce qui peut le blesser par l\u2019endroit le plus tendre\u00a0:",
+                                        "15": "Et pour me d\u00e9rober \u00e0 de semblables coups,",
+                                        "16": "Nymphes, j\u2019aime bien mieux prendre cong\u00e9 de vous."
+                                    }
+                                },
+                                "I05-37": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Myrtil, hol\u00e0, Myrtil, veux-tu revenir, tra\u00eetre.",
+                                        "1": "Il fuit, mais on verra qui de nous est le ma\u00eetre.",
+                                        "2": "Ne vous effrayez point de tous ces vains transports,",
+                                        "3": "Vous l\u2019aurez pour \u00e9poux, j\u2019en r\u00e9ponds corps pour corps."
+                                    }
+                                }
+                            }
+                        },
+                        "II01": {
+                            "title": "Sc\u00e8ne Premi\u00e8re",
+                            "repliques": {
+                                "II01-1": {
+                                    "personnage": "M\u00e9licerte",
+                                    "vers": {
+                                        "0": "Ah, Corinne, tu viens de l\u2019apprendre de Stelle,",
+                                        "1": "Et c\u2019est de Lycarsis qu\u2019elle tient la nouvelle."
+                                    }
+                                },
+                                "II01-2": {
+                                    "personnage": "Corinne",
+                                    "vers": {
+                                        "0": "Oui."
+                                    }
+                                },
+                                "II01-3": {
+                                    "personnage": "M\u00e9licerte",
+                                    "vers": {
+                                        "0": "Que les qualit\u00e9s, dont Myrtil est orn\u00e9,",
+                                        "1": "Ont su toucher d\u2019amour \u00c9rox\u00e8ne et Daphn\u00e9."
+                                    }
+                                },
+                                "II01-4": {
+                                    "personnage": "Corinne",
+                                    "vers": {
+                                        "0": "Oui."
+                                    }
+                                },
+                                "II01-5": {
+                                    "personnage": "M\u00e9licerte",
+                                    "vers": {
+                                        "0": "Que pour l\u2019obtenir leur ardeur est si grande,",
+                                        "1": "Qu\u2019ensemble elles en ont d\u00e9j\u00e0 fait la demande,",
+                                        "2": "Et que dans ce d\u00e9bat elles ont fait dessein",
+                                        "3": "De passer d\u00e8s cette heure \u00e0 recevoir sa main.",
+                                        "4": "Ah, que tes mots ont peine \u00e0 sortir de ta bouche,",
+                                        "5": "Et que c\u2019est faiblement que mon souci te touche."
+                                    }
+                                },
+                                "II01-6": {
+                                    "personnage": "Corinne",
+                                    "vers": {
+                                        "0": "Mais quoi, que voulez-vous, c\u2019est l\u00e0 la v\u00e9rit\u00e9,",
+                                        "1": "Et vous redites tout, comme je l\u2019ai cont\u00e9."
+                                    }
+                                },
+                                "II01-7": {
+                                    "personnage": "M\u00e9licerte",
+                                    "vers": {
+                                        "0": "Mais comment Lycarsis re\u00e7oit-il cette affaire\u00a0?"
+                                    }
+                                },
+                                "II01-8": {
+                                    "personnage": "Corinne",
+                                    "vers": {
+                                        "0": "Comme un honneur, je crois, qui doit beaucoup lui plaire."
+                                    }
+                                },
+                                "II01-9": {
+                                    "personnage": "M\u00e9licerte",
+                                    "vers": {
+                                        "0": "Et ne vois-tu pas bien, toi qui sais mon ardeur,",
+                                        "1": "Qu\u2019avec ce mot, h\u00e9las\u00a0! tu me perces le c\u0153ur."
+                                    }
+                                },
+                                "II01-10": {
+                                    "personnage": "Corinne",
+                                    "vers": {
+                                        "0": "Comment\u00a0?"
+                                    }
+                                },
+                                "II01-11": {
+                                    "personnage": "M\u00e9licerte",
+                                    "vers": {
+                                        "0": "Me mettre aux yeux que le sort implacable",
+                                        "1": "Aupr\u00e8s d\u2019elles me rend trop peu consid\u00e9rable,",
+                                        "2": "Et qu\u2019\u00e0 moi par leur rang on les va pr\u00e9f\u00e9rer,",
+                                        "3": "N\u2019est-ce pas une id\u00e9e \u00e0 me d\u00e9sesp\u00e9rer\u00a0?"
+                                    }
+                                },
+                                "II01-12": {
+                                    "personnage": "Corinne",
+                                    "vers": {
+                                        "0": "Mais quoi\u00a0? je vous r\u00e9ponds et dis ce que je pense."
+                                    }
+                                },
+                                "II01-13": {
+                                    "personnage": "M\u00e9licerte",
+                                    "vers": {
+                                        "0": "Ah, tu me fais mourir par ton indiff\u00e9rence.",
+                                        "1": "Mais dis, quels sentiments Myrtil a-t-il fait voir\u00a0?"
+                                    }
+                                },
+                                "II01-14": {
+                                    "personnage": "Corinne",
+                                    "vers": {
+                                        "0": "Je ne sais."
+                                    }
+                                },
+                                "II01-15": {
+                                    "personnage": "M\u00e9licerte",
+                                    "vers": {
+                                        "0": "Et c\u2019est l\u00e0 ce qu\u2019il fallait savoir,",
+                                        "1": "Cruelle."
+                                    }
+                                },
+                                "II01-16": {
+                                    "personnage": "Corinne",
+                                    "vers": {
+                                        "0": "En v\u00e9rit\u00e9, je ne sais comment faire,",
+                                        "1": "Et de tous les c\u00f4t\u00e9s je trouve \u00e0 vous d\u00e9plaire."
+                                    }
+                                },
+                                "II01-17": {
+                                    "personnage": "M\u00e9licerte",
+                                    "vers": {
+                                        "0": "C\u2019est que tu n\u2019entres point dans tous les mouvements",
+                                        "1": "D\u2019un c\u0153ur, h\u00e9las rempli de tendres sentiments.",
+                                        "2": "Va-t\u2019en, laisse-moi seule en cette solitude",
+                                        "3": "Passer quelques moments de mon inqui\u00e9tude."
+                                    }
+                                }
+                            }
+                        },
+                        "II02": {
+                            "title": "Sc\u00e8ne II",
+                            "repliques": {
+                                "II02-1": {
+                                    "personnage": "M\u00e9licerte",
+                                    "vers": {
+                                        "0": "Vous le voyez, mon c\u0153ur, ce que c\u2019est que d\u2019aimer,",
+                                        "1": "Et B\u00e9lise avait su trop bien m\u2019en informer.",
+                                        "2": "Cette charmante m\u00e8re avant sa destin\u00e9e,",
+                                        "3": "Me disait une fois, sur le bord du P\u00e9n\u00e9e,",
+                                        "4": "De ces le\u00e7ons, mon c\u0153ur, je m\u2019\u00e9tais souvenue\u00a0:",
+                                        "5": "Et quand Myrtil venait \u00e0 s\u2019offrir \u00e0 ma vue,",
+                                        "6": "Qu\u2019il jouait avec moi, qu\u2019il me rendait des soins,",
+                                        "7": "Je vous disais toujours de vous y plaire moins.",
+                                        "8": "Vous ne me cr\u00fbtes point, et votre complaisance",
+                                        "9": "Se vit bient\u00f4t chang\u00e9e en trop de bienveillance.",
+                                        "10": "Dans ce naissant amour qui flattait vos d\u00e9sirs,",
+                                        "11": "Vous ne vous figuriez que joie et que plaisirs\u00a0:",
+                                        "12": "Cependant vous voyez la cruelle disgr\u00e2ce,",
+                                        "13": "Dont en ce triste jour le destin vous menace,",
+                                        "14": "Et la peine mortelle o\u00f9 vous voil\u00e0 r\u00e9duit\u00a0!",
+                                        "15": "Ah, mon c\u0153ur\u00a0! ah, mon c\u0153ur\u00a0! je vous l\u2019avais bien dit\u00a0:",
+                                        "16": "Mais tenons, s\u2019il se peut, notre douleur couverte.",
+                                        "17": "Voici\u2026"
+                                    }
+                                }
+                            }
+                        },
+                        "II03": {
+                            "title": "Sc\u00e8ne III",
+                            "repliques": {
+                                "II03-1": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "J\u2019ai fait tant\u00f4t, charmante M\u00e9licerte,",
+                                        "1": "Un petit prisonnier que je garde pour vous,",
+                                        "2": "Et dont peut-\u00eatre un jour je deviendrai jaloux.",
+                                        "3": "C\u2019est un jeune Moineau, qu\u2019avec un soin extr\u00eame",
+                                        "4": "Je veux pour vous l\u2019offrir apprivoiser moi-m\u00eame.",
+                                        "5": "Le pr\u00e9sent n\u2019est pas grand\u00a0; mais les divinit\u00e9s",
+                                        "6": "Ne jettent leurs regards que sur les volont\u00e9s.",
+                                        "7": "C\u2019est le c\u0153ur qui fait tout, et jamais la richesse",
+                                        "8": "Des pr\u00e9sents que\u2026 Mais, Ciel, d\u2019o\u00f9 vient cette tristesse\u00a0?",
+                                        "9": "Qu\u2019avez-vous, M\u00e9licerte, et quel sombre chagrin",
+                                        "10": "Serait dans vos beaux yeux r\u00e9pandu ce matin\u00a0?",
+                                        "11": "Vous ne r\u00e9pondez point\u00a0? et ce morne silence",
+                                        "12": "Redouble encor ma peine et mon impatience.",
+                                        "13": "Parlez, de quel ennui ressentez-vous les coups\u00a0?",
+                                        "14": "Qu\u2019est-ce donc\u00a0?"
+                                    }
+                                },
+                                "II03-2": {
+                                    "personnage": "M\u00e9licerte",
+                                    "vers": {
+                                        "0": "Ce n\u2019est rien."
+                                    }
+                                },
+                                "II03-3": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Ce n\u2019est rien, dites-vous\u00a0?",
+                                        "1": "Et je vois cependant vos yeux couverts de larmes,",
+                                        "2": "Cela s\u2019accorde-t-il, beaut\u00e9 pleine de charmes\u00a0?",
+                                        "3": "Ah, ne me faites point un secret dont je meurs,",
+                                        "4": "Et m\u2019expliquez, h\u00e9las\u00a0! ce que disent ces pleurs."
+                                    }
+                                },
+                                "II03-4": {
+                                    "personnage": "M\u00e9licerte",
+                                    "vers": {
+                                        "0": "Rien ne me servirait de vous le faire entendre."
+                                    }
+                                },
+                                "II03-5": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Devez-vous rien avoir que je ne doive apprendre,",
+                                        "1": "Et ne blessez-vous pas notre amour aujourd\u2019hui,",
+                                        "2": "De vouloir me voler ma part de votre ennui\u00a0?",
+                                        "3": "Ah, ne le cachez point \u00e0 l\u2019ardeur qui m\u2019inspire."
+                                    }
+                                },
+                                "II03-6": {
+                                    "personnage": "M\u00e9licerte",
+                                    "vers": {
+                                        "0": "H\u00e9 bien, Myrtil, h\u00e9 bien, il faut donc vous le dire\u00a0:",
+                                        "1": "J\u2019ai su que par un choix plein de gloire pour vous,",
+                                        "2": "\u00c9rox\u00e8ne et Daphn\u00e9 vous veulent pour \u00c9poux\u00a0:",
+                                        "3": "Et je vous avouerai que j\u2019ai cette faiblesse,",
+                                        "4": "De n\u2019avoir pu, Myrtil, le savoir sans tristesse,",
+                                        "5": "Sans accuser du sort la rigoureuse loi,",
+                                        "6": "Qui les rend dans leurs v\u0153ux pr\u00e9f\u00e9rables \u00e0 moi."
+                                    }
+                                },
+                                "II03-7": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Et vous pouvez l\u2019avoir, cette injuste tristesse,",
+                                        "1": "Vous pouvez soup\u00e7onner mon amour de faiblesse,",
+                                        "2": "Et croire qu\u2019engag\u00e9 par des charmes si doux,",
+                                        "3": "Je puisse \u00eatre jamais \u00e0 quelque autre qu\u2019\u00e0 vous\u00a0?",
+                                        "4": "Que je puisse accepter une autre main offerte\u00a0?",
+                                        "5": "H\u00e9\u00a0! que vous ai-je fait, cruelle M\u00e9licerte,",
+                                        "6": "Pour traiter ma tendresse avec tant de rigueur,",
+                                        "7": "Et faire un jugement si mauvais de mon c\u0153ur\u00a0?",
+                                        "8": "Quoi, faut-il que de lui vous ayez quelque crainte,",
+                                        "9": "Je suis bien malheureux de souffrir cette atteinte\u00a0:",
+                                        "10": "Et que me sert d\u2019aimer comme je fais, h\u00e9las,",
+                                        "11": "Si vous \u00eates si pr\u00eate \u00e0 ne le croire pas."
+                                    }
+                                },
+                                "II03-8": {
+                                    "personnage": "M\u00e9licerte",
+                                    "vers": {
+                                        "0": "Je pourrais moins, Myrtil, redouter ces Rivales,",
+                                        "1": "Si les choses \u00e9taient de part et d\u2019autre \u00e9gales.",
+                                        "2": "Et dans un rang pareil j\u2019oserais esp\u00e9rer,",
+                                        "3": "Que peut-\u00eatre l\u2019Amour me ferait pr\u00e9f\u00e9rer\u00a0:",
+                                        "4": "Mais l\u2019in\u00e9galit\u00e9 de bien et de naissance,",
+                                        "5": "Qui peut d\u2019elles \u00e0 moi faire la diff\u00e9rence\u2026"
+                                    }
+                                },
+                                "II03-9": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Ah, leur rang de mon c\u0153ur ne viendra point \u00e0 bout,",
+                                        "1": "Et vos divins appas vous tiennent lieu de tout.",
+                                        "2": "Je vous aime, il suffit, et dans votre personne,",
+                                        "3": "Je vois Rang, Biens, Tr\u00e9sors, \u00c9tats, Sceptres, Couronne,",
+                                        "4": "Et des Rois les plus grands m\u2019offr\u00eet-on le pouvoir,",
+                                        "5": "Je n\u2019y changerais pas le bien de vous avoir.",
+                                        "6": "C\u2019est une v\u00e9rit\u00e9 toute sinc\u00e8re et pure,",
+                                        "7": "Et pouvoir en douter est me faire une injure."
+                                    }
+                                },
+                                "II03-10": {
+                                    "personnage": "M\u00e9licerte",
+                                    "vers": {
+                                        "0": "H\u00e9 bien, je crois, Myrtil, puisque vous le voulez,",
+                                        "1": "Que vos v\u0153ux par leur rang ne sont point \u00e9branl\u00e9s,",
+                                        "2": "Et que bien qu\u2019elles soient Nobles, riches et belles,",
+                                        "3": "Votre c\u0153ur m\u2019aime assez pour me mieux aimer qu\u2019elles\u00a0:",
+                                        "4": "Mais ce n\u2019est pas l\u2019Amour dont vous suivez la voix,",
+                                        "5": "Votre p\u00e8re, Myrtil, r\u00e9glera votre choix,",
+                                        "6": "Et de m\u00eame qu\u2019\u00e0 vous je ne lui suis pas ch\u00e8re,",
+                                        "7": "Pour pr\u00e9f\u00e9rer \u00e0 tout une simple Berg\u00e8re."
+                                    }
+                                },
+                                "II03-11": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Non, ch\u00e8re M\u00e9licerte, il n\u2019est p\u00e8re ni Dieux",
+                                        "1": "Qui me puissent forcer \u00e0 quitter vos beaux yeux,",
+                                        "2": "Et toujours de mes v\u0153ux, Reine comme vous \u00eates\u2026"
+                                    }
+                                },
+                                "II03-12": {
+                                    "personnage": "M\u00e9licerte",
+                                    "vers": {
+                                        "0": "Ah, Myrtil, prenez garde \u00e0 ce qu\u2019ici vous faites,",
+                                        "1": "N\u2019allez point pr\u00e9senter un espoir \u00e0 mon c\u0153ur,",
+                                        "2": "Qu\u2019il recevrait peut-\u00eatre avec trop de douceur,",
+                                        "3": "Et qui tombant apr\u00e8s comme un \u00e9clair qui passe,",
+                                        "4": "Me rendrait plus cruel le coup de ma disgr\u00e2ce."
+                                    }
+                                },
+                                "II03-13": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Quoi, faut-il des serments appeler le secours,",
+                                        "1": "Lorsque l\u2019on vous promet de vous aimer toujours\u00a0?",
+                                        "2": "Que vous vous faites tort par de telles alarmes,",
+                                        "3": "Et connaissez bien peu le pouvoir de vos charmes.",
+                                        "4": "H\u00e9 bien, puisqu\u2019il le faut, je jure par les Dieux,",
+                                        "5": "Et si ce n\u2019est assez, je jure par vos yeux,",
+                                        "6": "Qu\u2019on me tuera plut\u00f4t que je vous abandonne,",
+                                        "7": "Recevez-en ici la foi que je vous donne,",
+                                        "8": "Et souffrez que ma bouche avec ravissement,",
+                                        "9": "Sur cette belle main en signe le serment."
+                                    }
+                                },
+                                "II03-14": {
+                                    "personnage": "M\u00e9licerte",
+                                    "vers": {
+                                        "0": "Ah, Myrtil, levez-vous, de peur qu\u2019on ne vous voie."
+                                    }
+                                },
+                                "II03-15": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Est-il rien\u2026 Mais, \u00f4 Ciel, on vient troubler ma joie."
+                                    }
+                                }
+                            }
+                        },
+                        "II04": {
+                            "title": "Sc\u00e8ne IV",
+                            "repliques": {
+                                "II04-1": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Ne vous contraignez pas pour moi."
+                                    }
+                                },
+                                "II04-2": {
+                                    "personnage": "M\u00e9licerte",
+                                    "vers": {
+                                        "0": "Quel sort f\u00e2cheux."
+                                    }
+                                },
+                                "II04-3": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Cela ne va pas mal, continuez tous deux.",
+                                        "1": "Peste, mon petit fils, que vous avez l\u2019air tendre,",
+                                        "2": "Et qu\u2019en ma\u00eetre d\u00e9j\u00e0 vous savez vous y prendre.",
+                                        "3": "Vous a-t-il, ce savant, qu\u2019Ath\u00e8nes exila,",
+                                        "4": "Dans sa Philosophie appris ces choses-l\u00e0\u00a0:",
+                                        "5": "Et vous qui lui donnez de si douce mani\u00e8re",
+                                        "6": "Votre main \u00e0 baiser, la gentille Berg\u00e8re,",
+                                        "7": "L\u2019honneur vous apprend-il ces mignardes douceurs,",
+                                        "8": "Par qui vous d\u00e9bauchez ainsi les jeunes c\u0153urs\u00a0?"
+                                    }
+                                },
+                                "II04-4": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Ah, quittez de ces mots l\u2019outrageante bassesse,",
+                                        "1": "Et ne m\u2019accablez point d\u2019un discours qui la blesse."
+                                    }
+                                },
+                                "II04-5": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Je veux lui parler moi, toutes ces amiti\u00e9s\u2026"
+                                    }
+                                },
+                                "II04-6": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Je ne souffrirai point que vous la maltraitiez.",
+                                        "1": "\u00c0 du respect pour vous la naissance m\u2019engage,",
+                                        "2": "Mais je saurai sur moi vous punir de l\u2019outrage\u00a0:",
+                                        "3": "Oui, j\u2019atteste le Ciel, que si contre mes v\u0153ux,",
+                                        "4": "Vous lui dites encor le moindre mot f\u00e2cheux,",
+                                        "5": "Je vais avec ce fer, qui m\u2019en fera justice,",
+                                        "6": "Au milieu de mon sein vous chercher un supplice,",
+                                        "7": "Et par mon sang vers\u00e9 lui marquer promptement",
+                                        "8": "L\u2019\u00e9clatant d\u00e9saveu de votre emportement."
+                                    }
+                                },
+                                "II04-7": {
+                                    "personnage": "M\u00e9licerte",
+                                    "vers": {
+                                        "0": "Non, non, ne croyez pas qu\u2019avec art je l\u2019enflamme,",
+                                        "1": "Et que mon dessein soit de s\u00e9duire son \u00e2me\u00a0:",
+                                        "2": "S\u2019il s\u2019attache \u00e0 me voir, et me veut quelque bien,",
+                                        "3": "C\u2019est de son mouvement, je ne l\u2019y force en rien.",
+                                        "4": "Ce n\u2019est pas que mon c\u0153ur veuille ici se d\u00e9fendre,",
+                                        "5": "De r\u00e9pondre \u00e0 ses v\u0153ux d\u2019une ardeur assez tendre.",
+                                        "6": "Je l\u2019aime, je l\u2019avoue, autant qu\u2019on puisse aimer\u00a0:",
+                                        "7": "Mais cet amour n\u2019a rien qui vous doive alarmer.",
+                                        "8": "Et pour vous arracher toute injuste cr\u00e9ance,",
+                                        "9": "Je vous promets ici d\u2019\u00e9viter sa pr\u00e9sence\u00a0;",
+                                        "10": "De faire place au choix o\u00f9 vous vous r\u00e9soudrez,",
+                                        "11": "Et ne souffrir ses v\u0153ux que quand vous le voudrez."
+                                    }
+                                }
+                            }
+                        },
+                        "II05": {
+                            "title": "Sc\u00e8ne V",
+                            "repliques": {
+                                "II05-1": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Eh bien, vous triomphez avec cette retraite,",
+                                        "1": "Et dans ces mots votre \u00e2me a ce qu\u2019elle souhaite\u00a0:",
+                                        "2": "Mais apprenez qu\u2019en vain vous vous r\u00e9jouissez,",
+                                        "3": "Que vous serez tromp\u00e9 dans ce que vous pensez,",
+                                        "4": "Et qu\u2019avec tous vos soins, toute votre puissance,",
+                                        "5": "Vous ne gagnerez rien sur ma pers\u00e9v\u00e9rance."
+                                    }
+                                },
+                                "II05-2": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Comment, \u00e0 quel orgueil, fripon, vous vois-je aller\u00a0?",
+                                        "1": "Est-ce de la fa\u00e7on que l\u2019on me doit parler\u00a0?"
+                                    }
+                                },
+                                "II05-3": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Oui, j\u2019ai tort, il est vrai, mon transport n\u2019est pas sage\u00a0:",
+                                        "1": "Pour rentrer au devoir, je change de langage,",
+                                        "2": "Et je vous prie ici, mon P\u00e8re, au nom des Dieux,",
+                                        "3": "Et par tout ce qui peut vous \u00eatre pr\u00e9cieux,",
+                                        "4": "De ne vous point servir dans cette conjoncture,",
+                                        "5": "Des fiers droits que sur moi vous donne la nature,",
+                                        "6": "Ne m\u2019empoisonnez point vos bienfaits les plus doux,",
+                                        "7": "Le jour est un pr\u00e9sent que j\u2019ai re\u00e7u de vous\u00a0:",
+                                        "8": "Mais de quoi vous serai-je aujourd\u2019hui redevable,",
+                                        "9": "Si vous me l\u2019allez rendre, h\u00e9las\u00a0! insupportable\u00a0?",
+                                        "10": "Il est sans M\u00e9licerte un supplice \u00e0 mes yeux\u00a0:",
+                                        "11": "Sans ses divins appas, rien ne m\u2019est pr\u00e9cieux,",
+                                        "12": "Ils font tout mon bonheur, et toute mon envie,",
+                                        "13": "Et si vous me l\u2019\u00f4tez, vous m\u2019arrachez la vie."
+                                    }
+                                },
+                                "II05-4": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Aux douleurs de son \u00e2me il me fait prendre part.",
+                                        "1": "Qui l\u2019aurait jamais cru de ce petit pendard\u00a0?",
+                                        "2": "Quel amour, quels transports, quels discours pour son \u00e2ge\u00a0:",
+                                        "3": "J\u2019en suis confus, et sens que cet amour m\u2019engage."
+                                    }
+                                },
+                                "II05-5": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Voyez, me voulez-vous ordonner de mourir\u00a0?",
+                                        "1": "Vous n\u2019avez qu\u2019\u00e0 parler, je suis pr\u00eat d\u2019ob\u00e9ir."
+                                    }
+                                },
+                                "II05-6": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Je ne puis plus tenir, il m\u2019arrache des larmes,",
+                                        "1": "Et ces tendres propos me font rendre les armes."
+                                    }
+                                },
+                                "II05-7": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Que si dans votre c\u0153ur un reste d\u2019amiti\u00e9,",
+                                        "1": "Vous peut de mon destin donner quelque piti\u00e9,",
+                                        "2": "Accordez M\u00e9licerte \u00e0 mon ardente envie,",
+                                        "3": "Et vous ferez bien plus que me donner la vie."
+                                    }
+                                },
+                                "II05-8": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "L\u00e8ve-toi."
+                                    }
+                                },
+                                "II05-9": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Serez-vous sensible \u00e0 mes soupirs\u00a0?"
+                                    }
+                                },
+                                "II05-10": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Oui."
+                                    }
+                                },
+                                "II05-11": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "J\u2019obtiendrai de vous l\u2019objet de mes d\u00e9sirs ?"
+                                    }
+                                },
+                                "II05-12": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Oui."
+                                    }
+                                },
+                                "II05-13": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Vous ferez pour moi que son Oncle l\u2019oblige",
+                                        "1": "\u00c0 me donner sa main\u00a0?"
+                                    }
+                                },
+                                "II05-14": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Oui, l\u00e8ve-toi, te dis-je."
+                                    }
+                                },
+                                "II05-15": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "\u00d4 P\u00e8re, le meilleur qui jamais ait \u00e9t\u00e9,",
+                                        "1": "Que je baise vos mains, apr\u00e8s tant de bont\u00e9."
+                                    }
+                                },
+                                "II05-16": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Ah, que pour ses enfants un p\u00e8re a de faiblesse\u00a0!",
+                                        "1": "Peut-on rien refuser \u00e0 leurs mots de tendresse,",
+                                        "2": "Et ne se sent-on pas certains mouvements doux,",
+                                        "3": "Quand on vient \u00e0 songer que cela sort de vous\u00a0?"
+                                    }
+                                },
+                                "II05-17": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Me tiendrez-vous au moins la parole avanc\u00e9e.",
+                                        "1": "Ne changerez-vous point, dites-moi, de pens\u00e9e\u00a0?"
+                                    }
+                                },
+                                "II05-18": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Non."
+                                    }
+                                },
+                                "II05-19": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Me permettez-vous de vous d\u00e9sob\u00e9ir,",
+                                        "1": "Si de ces sentiments on vous fait revenir\u00a0:",
+                                        "2": "Prononcez le mot."
+                                    }
+                                },
+                                "II05-20": {
+                                    "personnage": "Lycarsis",
+                                    "vers": {
+                                        "0": "Oui. Ha, nature\u00a0! nature,",
+                                        "1": "Je m\u2019en vais trouver Mopse, et lui faire ouverture",
+                                        "2": "De l\u2019amour que sa Ni\u00e8ce, et toi, vous vous portez."
+                                    }
+                                },
+                                "II05-21": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Ah, que ne dois-je point \u00e0 vos rares bont\u00e9s\u00a0!",
+                                        "1": "Quelle heureuse nouvelle \u00e0 dire \u00e0 M\u00e9licerte,",
+                                        "2": "Je n\u2019accepterais pas une Couronne offerte,",
+                                        "3": "Pour le plaisir que j\u2019ai de courir lui porter,",
+                                        "4": "Ce merveilleux succ\u00e8s qui la doit contenter."
+                                    }
+                                }
+                            }
+                        },
+                        "II06": {
+                            "title": "Sc\u00e8ne VI",
+                            "repliques": {
+                                "II06-1": {
+                                    "personnage": "Acante",
+                                    "vers": {
+                                        "0": "Ah\u00a0! Myrtil, vous avez du Ciel re\u00e7u des charmes,",
+                                        "1": "Qui nous ont pr\u00e9par\u00e9 des mati\u00e8res de larmes,",
+                                        "2": "Et leur naissant \u00e9clat fatal \u00e0 nos ardeurs,",
+                                        "3": "De ce que nous aimons nous enl\u00e8ve les c\u0153urs."
+                                    }
+                                },
+                                "II06-2": {
+                                    "personnage": "Tyr\u00e8ne",
+                                    "vers": {
+                                        "0": "Peut-on savoir, Myrtil, vers qui de ces deux Belles",
+                                        "1": "Vous tournerez ce choix dont courent les nouvelles,",
+                                        "2": "Et sur qui doit de nous tomber ce coup affreux,",
+                                        "3": "Dont se voit foudroy\u00e9 tout l\u2019espoir de nos v\u0153ux\u00a0?"
+                                    }
+                                },
+                                "II06-3": {
+                                    "personnage": "Acante",
+                                    "vers": {
+                                        "0": "Ne faites point languir deux Amants davantage,",
+                                        "1": "Et nous dites quel sort votre c\u0153ur nous partage."
+                                    }
+                                },
+                                "II06-4": {
+                                    "personnage": "Tyr\u00e8ne",
+                                    "vers": {
+                                        "0": "Il vaut mieux quand on craint ces malheurs \u00e9clatants,",
+                                        "1": "En mourir tout d\u2019un coup que tra\u00eener si longtemps."
+                                    }
+                                },
+                                "II06-5": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Rendez, Nobles Bergers, le calme \u00e0 votre flamme,",
+                                        "1": "La Belle M\u00e9licerte a captiv\u00e9 mon \u00e2me\u00a0:",
+                                        "2": "Aupr\u00e8s de cet objet mon sort est assez doux,",
+                                        "3": "Pour ne pas consentir \u00e0 rien prendre sur vous.",
+                                        "4": "Et si vos v\u0153ux enfin n\u2019ont que les miens \u00e0 craindre,",
+                                        "5": "Vous n\u2019aurez l\u2019un ni l\u2019autre aucun lieu de vous plaindre."
+                                    }
+                                },
+                                "II06-6": {
+                                    "personnage": "Acante",
+                                    "vers": {
+                                        "0": "Ah, Myrtil, se peut-il que deux tristes Amants\u2026"
+                                    }
+                                },
+                                "II06-7": {
+                                    "personnage": "Tyr\u00e8ne",
+                                    "vers": {
+                                        "0": "Est-il vrai que le Ciel sensible \u00e0 nos tourments\u2026"
+                                    }
+                                },
+                                "II06-8": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Oui, content de mes fers comme d\u2019une victoire,",
+                                        "1": "Je me suis excus\u00e9 de ce choix plein de gloire\u00a0:",
+                                        "2": "J\u2019ai de mon P\u00e8re encore chang\u00e9 les volont\u00e9s,",
+                                        "3": "Et l\u2019ai fait consentir \u00e0 mes f\u00e9licit\u00e9s."
+                                    }
+                                },
+                                "II06-9": {
+                                    "personnage": "Acante",
+                                    "vers": {
+                                        "0": "Ah, que cette aventure est un charmant miracle,",
+                                        "1": "Et qu\u2019\u00e0 notre poursuite elle \u00f4te un grand obstacle."
+                                    }
+                                },
+                                "II06-10": {
+                                    "personnage": "Tyr\u00e8ne",
+                                    "vers": {
+                                        "0": "Elle peut renvoyer ces Nymphes \u00e0 nos v\u0153ux,",
+                                        "1": "Et nous donner moyen d\u2019\u00eatre contents tous deux."
+                                    }
+                                }
+                            }
+                        },
+                        "II07": {
+                            "title": "Sc\u00e8ne VII",
+                            "repliques": {
+                                "II07-1": {
+                                    "personnage": "Nicandre",
+                                    "vers": {
+                                        "0": "Savez-vous en quel lieu M\u00e9licerte est cach\u00e9e\u00a0?"
+                                    }
+                                },
+                                "II07-2": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Comment\u00a0?"
+                                    }
+                                },
+                                "II07-3": {
+                                    "personnage": "Nicandre",
+                                    "vers": {
+                                        "0": "En diligence elle est partout cherch\u00e9e."
+                                    }
+                                },
+                                "II07-4": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Et pourquoi\u00a0?"
+                                    }
+                                },
+                                "II07-5": {
+                                    "personnage": "Nicandre",
+                                    "vers": {
+                                        "0": "Nous allons perdre cette beaut\u00e9.",
+                                        "1": "C\u2019est pour elle qu\u2019ici le Roi s\u2019est transport\u00e9,",
+                                        "2": "Avec un grand Seigneur on dit qu\u2019il la marie."
+                                    }
+                                },
+                                "II07-6": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "\u00d4 Ciel, expliquez-moi ce discours, je vous prie."
+                                    }
+                                },
+                                "II07-7": {
+                                    "personnage": "Nicandre",
+                                    "vers": {
+                                        "0": "Ce sont des incidents grands et myst\u00e9rieux\u00a0:",
+                                        "1": "Oui, le Roi vient chercher M\u00e9licerte en ces lieux\u00a0;",
+                                        "2": "Et l\u2019on dit qu\u2019autrefois feu B\u00e9lise sa m\u00e8re,",
+                                        "3": "Dont tout Temp\u00e9 croyait que Mopse \u00e9tait le fr\u00e8re\u2026",
+                                        "4": "Mais je me suis charg\u00e9 de la chercher partout,",
+                                        "5": "Vous saurez tout cela tant\u00f4t de bout en bout."
+                                    }
+                                },
+                                "II07-8": {
+                                    "personnage": "Myrtil",
+                                    "vers": {
+                                        "0": "Ah, Dieux, quelle rigueur\u00a0! h\u00e9 Nicandre, Nicandre."
+                                    }
+                                },
+                                "II07-9": {
+                                    "personnage": "Acante",
+                                    "vers": {
+                                        "0": "Suivons aussi ses pas, afin de tout apprendre."
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

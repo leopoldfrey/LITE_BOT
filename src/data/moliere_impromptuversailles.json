@@ -1,0 +1,1685 @@
+{
+    "pieces": [
+        {
+            "title": "L\u2019IMPROMPTU DE VERSAILLES",
+            "actes": {
+                "-": {
+                    "title": "",
+                    "scenes": {
+                        "I01": {
+                            "title": "Sc\u00e8ne Premi\u00e8re",
+                            "repliques": {
+                                "I01-1": {
+                                    "personnage": "Moli\u00e8re seul parlant \u00e0 ses camarades qui sont derri\u00e8re le th\u00e9\u00e2tre",
+                                    "vers": {
+                                        "0": "Allons donc, messieurs et mesdames, vous moquez-vous avec votre longueur, et ne voulez-vous pas tous venir ici\u00a0?\n              La peste soit des gens\u00a0!\n              Hol\u00e0 ho\u00a0!\n              Monsieur de Br\u00e9court"
+                                    }
+                                },
+                                "I01-2": {
+                                    "personnage": "Br\u00e9court derri\u00e8re le th\u00e9\u00e2tre",
+                                    "vers": {
+                                        "0": "Quoi\u00a0?"
+                                    }
+                                },
+                                "I01-3": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Monsieur de La Grange\u00a0!"
+                                    }
+                                },
+                                "I01-4": {
+                                    "personnage": "La Grange derri\u00e8re le th\u00e9\u00e2tre",
+                                    "vers": {
+                                        "0": "Qu\u2019est-ce\u00a0?"
+                                    }
+                                },
+                                "I01-5": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Monsieur Du Croisy\u00a0!"
+                                    }
+                                },
+                                "I01-6": {
+                                    "personnage": "Du Croisy derri\u00e8re le th\u00e9\u00e2tre",
+                                    "vers": {
+                                        "0": "Pla\u00eet-il\u00a0?"
+                                    }
+                                },
+                                "I01-7": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Mademoiselle Du Parc\u00a0!"
+                                    }
+                                },
+                                "I01-8": {
+                                    "personnage": "Mademoiselle Du Parc derri\u00e8re le th\u00e9\u00e2tre",
+                                    "vers": {
+                                        "0": "H\u00e9 bien\u00a0?"
+                                    }
+                                },
+                                "I01-9": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Mademoiselle B\u00e9jart\u00a0!"
+                                    }
+                                },
+                                "I01-10": {
+                                    "personnage": "Mademoiselle b\u00e9jart derri\u00e8re le th\u00e9\u00e2tre",
+                                    "vers": {
+                                        "0": "Qu\u2019y a-t-il\u00a0?"
+                                    }
+                                },
+                                "I01-11": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Mademoiselle de Brie\u00a0!"
+                                    }
+                                },
+                                "I01-12": {
+                                    "personnage": "Mademoiselle de Brie derri\u00e8re le th\u00e9\u00e2tre",
+                                    "vers": {
+                                        "0": "Que veut-on\u00a0?"
+                                    }
+                                },
+                                "I01-13": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Mademoiselle Du Croisy\u00a0!"
+                                    }
+                                },
+                                "I01-14": {
+                                    "personnage": "Mademoiselle Du Croisy derri\u00e8re le th\u00e9\u00e2tre",
+                                    "vers": {
+                                        "0": "Qu\u2019est-ce que c\u2019est\u00a0?"
+                                    }
+                                },
+                                "I01-15": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Mademoiselle Herv\u00e9\u00a0!"
+                                    }
+                                },
+                                "I01-16": {
+                                    "personnage": "Mademoiselle herv\u00e9 derri\u00e8re le th\u00e9\u00e2tre",
+                                    "vers": {
+                                        "0": "On y va."
+                                    }
+                                },
+                                "I01-17": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Je crois que je deviendrai fou avec tous ces gens-ci.",
+                                        "1": "Eh t\u00eatebleu\u00a0!\n              Messieurs, me voulez-vous faire enrager aujourd\u2019hui\u00a0?"
+                                    }
+                                },
+                                "I01-18": {
+                                    "personnage": "Br\u00e9court",
+                                    "vers": {
+                                        "0": "Que voulez-vous qu\u2019on fasse\u00a0?\n              Nous ne savons pas nos r\u00f4les\u00a0; et c\u2019est nous faire \nenrager vous-m\u00eame, que de nous obliger \u00e0 jouer de la sorte."
+                                    }
+                                },
+                                "I01-19": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Ah\u00a0!\n              Les \u00e9tranges animaux \u00e0 conduire que des com\u00e9diens\u00a0!"
+                                    }
+                                },
+                                "I01-20": {
+                                    "personnage": "Mademoiselle b\u00e9jart",
+                                    "vers": {
+                                        "0": "Eh bien, nous voil\u00e0.\n              Que pr\u00e9tendez-vous faire\u00a0?"
+                                    }
+                                },
+                                "I01-21": {
+                                    "personnage": "Mademoiselle Du Parc",
+                                    "vers": {
+                                        "0": "Quelle est votre pens\u00e9e\u00a0?"
+                                    }
+                                },
+                                "I01-22": {
+                                    "personnage": "Mademoiselle de Brie",
+                                    "vers": {
+                                        "0": "De quoi est-il question\u00a0?"
+                                    }
+                                },
+                                "I01-23": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "De gr\u00e2ce, mettons-nous ici\u00a0; et \npuisque nous voil\u00e0 tous habill\u00e9s, et que le roi ne doit venir de deux \nheures, employons ce temps \u00e0 r\u00e9p\u00e9ter notre affaire et voir la mani\u00e8re \ndont il faut jouer les choses."
+                                    }
+                                },
+                                "I01-24": {
+                                    "personnage": "La Grange",
+                                    "vers": {
+                                        "0": "Le moyen de jouer ce qu\u2019on ne sait pas\u00a0?"
+                                    }
+                                },
+                                "I01-25": {
+                                    "personnage": "Mademoiselle Du Parc",
+                                    "vers": {
+                                        "0": "Pour moi, je vous d\u00e9clare que je ne me souviens pas d\u2019un mot de mon personnage."
+                                    }
+                                },
+                                "I01-26": {
+                                    "personnage": "Mademoiselle de Brie",
+                                    "vers": {
+                                        "0": "Je sais bien qu\u2019il me faudra souffler le mien d\u2019un bout \u00e0 l\u2019autre."
+                                    }
+                                },
+                                "I01-27": {
+                                    "personnage": "Mademoiselle b\u00e9jart",
+                                    "vers": {
+                                        "0": "Et moi, je me pr\u00e9pare fort \u00e0 tenir mon r\u00f4le \u00e0 la main."
+                                    }
+                                },
+                                "I01-28": {
+                                    "personnage": "Mademoiselle Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Et moi aussi."
+                                    }
+                                },
+                                "I01-29": {
+                                    "personnage": "Mademoiselle herv\u00e9",
+                                    "vers": {
+                                        "0": "Pour moi, je n\u2019ai pas grand\u2019chose \u00e0 dire."
+                                    }
+                                },
+                                "I01-30": {
+                                    "personnage": "Mademoiselle Du Croisy",
+                                    "vers": {
+                                        "0": "Ni moi non plus\u00a0; mais avec cela je ne r\u00e9pondrais pas de ne point manquer."
+                                    }
+                                },
+                                "I01-31": {
+                                    "personnage": "Du Croisy",
+                                    "vers": {
+                                        "0": "J\u2019en voudrais \u00eatre quitte pour dix pistoles."
+                                    }
+                                },
+                                "I01-32": {
+                                    "personnage": "Br\u00e9court",
+                                    "vers": {
+                                        "0": "Et moi, pour vingt bons coups de fouet, je vous assure."
+                                    }
+                                },
+                                "I01-33": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Vous voil\u00e0 tous bien malades, d\u2019avoir un m\u00e9chant r\u00f4le \u00e0 jouer, et que feriez-vous donc si vous \u00e9tiez en ma place\u00a0?"
+                                    }
+                                },
+                                "I01-34": {
+                                    "personnage": "Mademoiselle b\u00e9jart",
+                                    "vers": {
+                                        "0": "Qui, vous\u00a0?\n              Vous n\u2019\u00eates pas \u00e0 plaindre\u00a0; car, ayant fait la pi\u00e8ce, vous n\u2019avez pas peur d\u2019y manquer."
+                                    }
+                                },
+                                "I01-35": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Et n\u2019ai-je \u00e0 craindre que le \nmanquement de m\u00e9moire\u00a0?\n              Ne comptez-vous pour rien l\u2019inqui\u00e9tude d\u2019un succ\u00e8s qui ne \nregarde que moi seul\u00a0?\n              Et pensez-vous que ce soit une petite affaire que \nd\u2019exposer quelque chose de comique devant une assembl\u00e9e comme celle-ci, \nque d\u2019entreprendre de faire rire des personnes qui nous impriment le \nrespect et ne rient que quand ils veulent\u00a0?\n              Est-il auteur qui ne doive trembler lorsqu\u2019il en vient \u00e0 \ncette \u00e9preuve\u00a0? Et n\u2019est-ce pas \u00e0 moi de dire que je voudrais en \n\u00eatre quitte pour toutes les choses du monde\u00a0?"
+                                    }
+                                },
+                                "I01-36": {
+                                    "personnage": "Mademoiselle b\u00e9jart",
+                                    "vers": {
+                                        "0": "Si cela vous faisait trembler, vous \nprendriez mieux vos pr\u00e9cautions, et n\u2019auriez pas entrepris en huit jours\n ce que vous avez fait."
+                                    }
+                                },
+                                "I01-37": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Le moyen de m\u2019en d\u00e9fendre, quand un roi me l\u2019a command\u00e9\u00a0?"
+                                    }
+                                },
+                                "I01-38": {
+                                    "personnage": "Mademoiselle b\u00e9jart",
+                                    "vers": {
+                                        "0": "Le moyen\u00a0?\n              Une respectueuse excuse fond\u00e9e sur l\u2019impossibilit\u00e9 de la \nchose, dans le peu de temps qu\u2019on vous donne\u00a0; et tout autre, en \nvotre place, m\u00e9nagerait mieux sa r\u00e9putation, et se serait bien gard\u00e9 de \nse commettre comme vous faites.\n              O\u00f9 en serez-vous, je vous prie, si l\u2019affaire r\u00e9ussit \nmal\u00a0?\n              Et quel avantage pensez-vous qu\u2019en prendront tous vos \nennemis\u00a0?"
+                                    }
+                                },
+                                "I01-39": {
+                                    "personnage": "Mademoiselle de Brie",
+                                    "vers": {
+                                        "0": "En effet\u00a0; il fallait s\u2019excuser avec respect envers le roi, ou demander du temps davantage."
+                                    }
+                                },
+                                "I01-40": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Mon Dieu, mademoiselle, les rois \nn\u2019aiment rien tant qu\u2019une prompte ob\u00e9issance, et ne se plaisent point du\n tout \u00e0 trouver des obstacles.\n              Les choses ne sont bonnes que dans le temps qu\u2019ils les \nsouhaitent\u00a0; et leur en vouloir reculer le divertissement, est en \n\u00f4ter pour eux toute la gr\u00e2ce.\n              Ils veulent des plaisirs qui ne se fassent point \nattendre\u00a0; et les moins pr\u00e9par\u00e9s leur sont toujours les plus \nagr\u00e9ables. Nous ne devons jamais nous regarder dans ce qu\u2019ils d\u00e9sirent \nde nous\u00a0: nous ne sommes que pour leur plaire\u00a0; et lorsqu\u2019ils \nnous ordonnent quelque chose, c\u2019est \u00e0 nous \u00e0 profiter vite de l\u2019envie o\u00f9\n ils sont.\n              Il vaut mieux s\u2019acquitter mal de ce qu\u2019ils nous demandent,\n que de ne s\u2019en acquitter pas assez t\u00f4t\u00a0; et si l\u2019on a la honte de \nn\u2019avoir pas bien r\u00e9ussi, on a toujours la gloire d\u2019avoir ob\u00e9i vite \u00e0 \nleurs commandements.\n              Mais songeons \u00e0 r\u00e9p\u00e9ter, s\u2019il vous pla\u00eet."
+                                    }
+                                },
+                                "I01-41": {
+                                    "personnage": "Mademoiselle b\u00e9jart",
+                                    "vers": {
+                                        "0": "Comment pr\u00e9tendez-vous que nous fassions, si nous ne savons pas nos r\u00f4les\u00a0?"
+                                    }
+                                },
+                                "I01-42": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Vous les saurez, vous dis-je\u00a0; \net quand m\u00eame vous ne les sauriez pas tout \u00e0 fait, pouvez-vous pas y \nsuppl\u00e9er de votre esprit, puisque c\u2019est de la prose, et que vous savez \nvotre sujet\u00a0?"
+                                    }
+                                },
+                                "I01-43": {
+                                    "personnage": "Mademoiselle b\u00e9jart",
+                                    "vers": {
+                                        "0": "Je suis votre servante\u00a0: la prose est pis encore que les vers."
+                                    }
+                                },
+                                "I01-44": {
+                                    "personnage": "Mademoiselle Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Voulez-vous que je vous dise\u00a0?\n              Vous deviez faire une com\u00e9die o\u00f9 vous auriez jou\u00e9 tout seul."
+                                    }
+                                },
+                                "I01-45": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Taisez-vous, ma femme, vous \u00eates une b\u00eate."
+                                    }
+                                },
+                                "I01-46": {
+                                    "personnage": "Mademoiselle Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Grand merci, Monsieur mon mari.\n              Voil\u00e0 ce que c\u2019est\u00a0: le mariage change bien les gens, et vous ne m\u2019auriez pas dit cela il y a dix-huit mois."
+                                    }
+                                },
+                                "I01-47": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Taisez-vous, je vous prie."
+                                    }
+                                },
+                                "I01-48": {
+                                    "personnage": "Mademoiselle Moli\u00e8re",
+                                    "vers": {
+                                        "0": "C\u2019est une chose \u00e9trange qu\u2019une petite\n c\u00e9r\u00e9monie soit capable de nous \u00f4ter toutes nos belles qualit\u00e9s, et \nqu\u2019un mari et un galant regardent la m\u00eame personne avec des yeux si \ndiff\u00e9rents."
+                                    }
+                                },
+                                "I01-49": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Que de discours\u00a0!"
+                                    }
+                                },
+                                "I01-50": {
+                                    "personnage": "Mademoiselle Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Ma foi, si je faisais une com\u00e9die, je\n la ferais sur ce sujet.\n              Je justifierais les femmes de bien des choses dont on les \naccuse\u00a0; et je ferais craindre aux maris la diff\u00e9rence qu\u2019il y a de\n leurs mani\u00e8res brusques aux civilit\u00e9s des galants."
+                                    }
+                                },
+                                "I01-51": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Ahy\u00a0!\n              Laissons cela.\n              Il n\u2019est pas question de causer maintenant\u00a0: nous avons autre chose \u00e0 faire."
+                                    }
+                                },
+                                "I01-52": {
+                                    "personnage": "Mademoiselle b\u00e9jart",
+                                    "vers": {
+                                        "0": "Mais puisqu\u2019on vous a command\u00e9 de \ntravailler sur le sujet de la critique qu\u2019on a faite contre vous, que \nn\u2019avez-vous fait cette com\u00e9die des com\u00e9diens, dont vous nous avez parl\u00e9 \nil y a longtemps\u00a0?\n              C\u2019\u00e9tait une affaire toute trouv\u00e9e et qui venait fort bien \u00e0\n la chose, et d\u2019autant mieux, qu\u2019ayant entrepris de vous peindre, ils \nvous ouvraient l\u2019occasion de les peindre aussi, et que cela aurait pu \ns\u2019appeler leur portrait, \u00e0 bien plus juste titre que tout ce qu\u2019ils ont \nfait ne peut \u00eatre appel\u00e9 le v\u00f4tre.\n              Car vouloir contrefaire un com\u00e9dien dans un r\u00f4le comique, \nce n\u2019est pas le peindre lui-m\u00eame, c\u2019est peindre d\u2019apr\u00e8s lui les \npersonnages qu\u2019il repr\u00e9sente, et se servir des m\u00eames traits et des m\u00eames\n couleurs qu\u2019il est oblig\u00e9 d\u2019employer aux diff\u00e9rents tableaux des \ncaract\u00e8res ridicules qu\u2019il imite d\u2019apr\u00e8s nature\u00a0; mais contrefaire \nun com\u00e9dien dans des r\u00f4les s\u00e9rieux, c\u2019est le peindre par des d\u00e9fauts qui\n sont enti\u00e8rement de lui, puisque ces sortes de personnages ne veulent \nni les gestes, ni les tons de voix ridicules dans lesquels on le \nreconno\u00eet."
+                                    }
+                                },
+                                "I01-53": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Il est vrai\u00a0; mais j\u2019ai mes \nraisons pour ne le pas faire, et je n\u2019ai pas cru, entre nous, que la \nchose en val\u00fbt la peine\u00a0; et puis il fallait plus de temps pour \nex\u00e9cuter cette id\u00e9e. Comme leurs jours de com\u00e9dies sont les m\u00eames que \nles n\u00f4tres, \u00e0 peine ai-je \u00e9t\u00e9 les voir que trois ou quatre fois depuis \nque nous sommes \u00e0 Paris\u00a0; je n\u2019ai attrap\u00e9 de leur mani\u00e8re de \nr\u00e9citer que ce qui m\u2019a d\u2019abord saut\u00e9 aux yeux, et j\u2019aurais eu besoin de \nles \u00e9tudier davantage pour faire des portraits bien ressemblants."
+                                    }
+                                },
+                                "I01-54": {
+                                    "personnage": "Mademoiselle Du Parc",
+                                    "vers": {
+                                        "0": "Pour moi, j\u2019en ai reconnu quelques-uns dans votre bouche."
+                                    }
+                                },
+                                "I01-55": {
+                                    "personnage": "Mademoiselle de Brie",
+                                    "vers": {
+                                        "0": "Je n\u2019ai jamais ou\u00ef parler de cela."
+                                    }
+                                },
+                                "I01-56": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "C\u2019est une id\u00e9e qui m\u2019avait pass\u00e9 une \nfois par la t\u00eate, et que j\u2019ai laiss\u00e9e l\u00e0 comme une bagatelle, une \nbadinerie, qui peut-\u00eatre n\u2019aurait point fait rire."
+                                    }
+                                },
+                                "I01-57": {
+                                    "personnage": "Mademoiselle de Brie",
+                                    "vers": {
+                                        "0": "Dites-la-moi un peu, puisque vous l\u2019avez dite aux autres."
+                                    }
+                                },
+                                "I01-58": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Nous n\u2019avons pas le temps maintenant."
+                                    }
+                                },
+                                "I01-59": {
+                                    "personnage": "Mademoiselle de Brie",
+                                    "vers": {
+                                        "0": "Seulement deux mots."
+                                    }
+                                },
+                                "I01-60": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "J\u2019avais song\u00e9 une com\u00e9die o\u00f9 il y \naurait eu un po\u00e8te, que j\u2019aurais repr\u00e9sent\u00e9 moi-m\u00eame, qui serait venu \npour offrir une pi\u00e8ce \u00e0 une troupe de com\u00e9diens nouvellement arriv\u00e9s de \nla campagne.\n              \" Avez-vous, aurait-il dit, des acteurs et des actrices \nqui soient capables de bien faire valoir un ouvrage\u00a0?\n              Car ma pi\u00e8ce est une pi\u00e8ce...\n              Eh\u00a0!\n              Monsieur, auraient r\u00e9pondu les com\u00e9diens, nous avons des \nhommes et des femmes qui ont \u00e9t\u00e9 trouv\u00e9s raisonnables partout o\u00f9 nous \navons pass\u00e9.\n              Et qui fait les rois parmi vous\u00a0?\n              Voil\u00e0 un acteur qui s\u2019en d\u00e9m\u00eale parfois.\n              Qui\u00a0?\n              Ce jeune homme bien fait\u00a0?\n              Vous moquez-vous\u00a0?\n              Il faut un roi qui soit gros et gras comme quatre, un roi,\n morbleu\u00a0!\n              Qui soit entripaill\u00e9 comme il faut, un roi d\u2019une vaste \ncirconf\u00e9rence, et qui puisse remplir un tr\u00f4ne de la belle mani\u00e8re. La \nbelle chose qu\u2019un roi d\u2019une taille galante\u00a0!\n              Voil\u00e0 d\u00e9j\u00e0 un grand d\u00e9faut\u00a0; mais que je l\u2019entende un\n peu r\u00e9citer une douzaine de vers.\n              \"L\u00e0-dessus le com\u00e9dien aurait r\u00e9cit\u00e9, par exemple, \nquelques vers du roi de Nicom\u00e8de\u00a0:",
+                                        "1": "Te le dirai-je, Araspe\u00a0? Il m\u2019a trop bien servi\u00a0;",
+                                        "2": "Augmentant mon pouvoir...1",
+                                        "3": "Le plus naturellement qu\u2019il aurait \u00e9t\u00e9 possible.\n              Et le po\u00e8te\u00a0: Comment\u00a0?\n              Vous appelez cela r\u00e9citer\u00a0?\n              C\u2019est se railler\u00a0: il faut dire les choses avec emphase.\n              \u00c9coutez-moi.",
+                                        "4": "Te le dirai-je, Araspe\u00a0?... Etc...",
+                                        "5": "Voyez-vous cette posture\u00a0?\n              Remarquez bien cela.\n              L\u00e0, appuyer comme il faut le dernier vers.\n              Voil\u00e0 ce qui attire l\u2019approbation, et fait faire le \nbrouhaha.\n              Mais, Monsieur, aurait r\u00e9pondu le com\u00e9dien, il me semble \nqu\u2019un roi qui s\u2019entretient tout seul avec son capitaine des gardes parle\n un peu plus humainement, et ne prend gu\u00e8re ce ton de d\u00e9moniaque.\n              Vous ne savez ce que c\u2019est.\n              Allez-vous-en r\u00e9citer comme vous faites, vous verrez si \nvous ferez faire aucun \"Ah\u00a0!\" Voyons un peu une sc\u00e8ne d\u2019amant et \nd\u2019amante.\n              \"L\u00e0-dessus une com\u00e9dienne et un com\u00e9dien auraient fait une\n sc\u00e8ne ensemble, qui est celle de Camille et de Curiace.",
+                                        "6": "Iras-tu, ma ch\u00e8re \u00e2me, et ce funeste honneur",
+                                        "7": "Te pla\u00eet-il aux d\u00e9pens de tout notre bonheur\u00a0?",
+                                        "8": "H\u00e9las\u00a0! Je vois trop bien..., etc...2",
+                                        "9": "Tout de m\u00eame que l\u2019autre, et le plus \nnaturellement qu\u2019ils auraient pu.\n              Et le po\u00e8te aussit\u00f4t\u00a0: \" Vous vous moquez, vous ne \nfaites rien qui vaille, et voici comme il faut r\u00e9citer cela.\"",
+                                        "10": "Iras-tu, ma ch\u00e8re \u00e2me..., etc...",
+                                        "11": "Non, je te connais mieux..., etc...",
+                                        "12": "Voyez-vous comme cela est naturel et passionn\u00e9\u00a0?\n              Admirez ce visage riant qu\u2019elle conserve dans les plus grandes afflictions.\"\n              Enfin, voil\u00e0 l\u2019id\u00e9e\u00a0; et il aurait parcouru de m\u00eame tous les acteurs et toutes les actrices."
+                                    }
+                                },
+                                "I01-61": {
+                                    "personnage": "Mademoiselle de Brie",
+                                    "vers": {
+                                        "0": "Je trouve cette id\u00e9e assez plaisante, et j\u2019en ai reconnu l\u00e0 d\u00e8s le premier vers.\n              Continuez, je vous prie."
+                                    }
+                                },
+                                "I01-62": {
+                                    "personnage": "Moli\u00e8re imitant beauch\u00e2teau aussi com\u00e9dien dans les stances du cid",
+                                    "vers": {
+                                        "0": "Perc\u00e9 jusques au fond du c\u0153ur..., etc...",
+                                        "1": "Et celui-ci, le reconna\u00eetrez-vous bien dans Pomp\u00e9e de Sertorius\u00a0?",
+                                        "2": "L\u2019inimiti\u00e9 qui r\u00e8gne entre les deux partis,",
+                                        "3": "n\u2019y rend pas de l\u2019honneur..., etc...3"
+                                    }
+                                },
+                                "I01-63": {
+                                    "personnage": "Mademoiselle de Brie",
+                                    "vers": {
+                                        "0": "Je le reconnais un peu, je pense."
+                                    }
+                                },
+                                "I01-64": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Et celui-ci\u00a0?",
+                                        "1": "Seigneur, Polybe est mort..., etc...4"
+                                    }
+                                },
+                                "I01-65": {
+                                    "personnage": "Mademoiselle de Brie",
+                                    "vers": {
+                                        "0": "Oui, je sais qui c\u2019est\u00a0; mais il y en a quelques-uns d\u2019entre eux, je crois, que vous auriez peine \u00e0 contrefaire."
+                                    }
+                                },
+                                "I01-66": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Mon Dieu, il n\u2019y en a point qu\u2019on ne p\u00fbt attraper par quelque endroit, si je les avais bien \u00e9tudi\u00e9s.\n              Mais vous me faites perdre un temps qui nous est cher.\n              Songeons \u00e0 nous, de gr\u00e2ce, et ne nous amusons point davantage \u00e0 discourir.",
+                                        "1": "Vous, prenez garde \u00e0 bien repr\u00e9senter avec moi votre r\u00f4le de marquis."
+                                    }
+                                },
+                                "I01-67": {
+                                    "personnage": "Mademoiselle Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Toujours des marquis\u00a0!"
+                                    }
+                                },
+                                "I01-68": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Oui, toujours des marquis.\n              Que diable voulez-vous qu\u2019on prenne pour un caract\u00e8re \nagr\u00e9able de th\u00e9\u00e2tre\u00a0?\n              Le marquis aujourd\u2019hui est le plaisant de la \ncom\u00e9die\u00a0; et comme dans toutes les com\u00e9dies anciennes on voit \ntoujours un valet bouffon qui fait rire les auditeurs, de m\u00eame, dans \ntoutes nos pi\u00e8ces de maintenant, il faut toujours un marquis ridicule \nqui divertisse la compagnie."
+                                    }
+                                },
+                                "I01-69": {
+                                    "personnage": "Mademoiselle b\u00e9jart",
+                                    "vers": {
+                                        "0": "Il est vrai, on ne s\u2019en saurait passer."
+                                    }
+                                },
+                                "I01-70": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Pour vous, mademoiselle..."
+                                    }
+                                },
+                                "I01-71": {
+                                    "personnage": "Mademoiselle Du Parc",
+                                    "vers": {
+                                        "0": "Mon Dieu, pour moi, je m\u2019acquitterai \nfort mal de mon personnage, et je ne sais pas pourquoi vous m\u2019avez donn\u00e9\n ce r\u00f4le de fa\u00e7onni\u00e8re."
+                                    }
+                                },
+                                "I01-72": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Mon Dieu, mademoiselle, voil\u00e0 comme \nvous disiez lorsque l\u2019on vous donna celui de la Critique de l\u2019\u00c9cole des \nfemmes\u00a0; cependant vous vous en \u00eates acquitt\u00e9e \u00e0 merveille, et tout\n le monde est demeur\u00e9 d\u2019accord qu\u2019on ne peut pas mieux faire que vous \navez fait.\n              Croyez-moi, celui-ci sera de m\u00eame\u00a0; et vous le \njouerez mieux que vous ne pensez."
+                                    }
+                                },
+                                "I01-73": {
+                                    "personnage": "Mademoiselle Du Parc",
+                                    "vers": {
+                                        "0": "Comment cela se pourrait-il faire\u00a0?\n              Car il n\u2019y a point de personne au monde qui soit moins fa\u00e7onni\u00e8re que moi."
+                                    }
+                                },
+                                "I01-74": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Cela est vrai\u00a0; et c\u2019est en quoi\n vous faites mieux voir que vous \u00eates excellente com\u00e9dienne, de bien \nrepr\u00e9senter un personnage qui est si contraire \u00e0 votre humeur.\n              T\u00e2chez donc de bien prendre, tous, le caract\u00e8re de vos \nr\u00f4les, et de vous figurer que vous \u00eates ce que vous repr\u00e9sentez.",
+                                        "1": "Vous faites le po\u00e8te, vous, et vous \ndevez vous remplir de ce personnage, marquer cet air p\u00e9dant qui se \nconserve parmi le commerce du beau monde, ce ton de voix sentencieux, et\n cette exactitude de prononciation qui appuie sur toutes les syllabes, \net ne laisse \u00e9chapper aucune lettre de la plus s\u00e9v\u00e8re orthographe.",
+                                        "2": "Pour vous, vous faites un honn\u00eate \nhomme de Cour, comme vous avez d\u00e9j\u00e0 fait dans la \"Critique de l\u2019\u00c9cole \ndes femmes\", c\u2019est-\u00e0-dire que vous devez prendre un air pos\u00e9, un ton de \nvoix naturel, et gesticuler le moins qu\u2019il vous sera possible.",
+                                        "3": "Pour vous, je n\u2019ai rien \u00e0 vous dire.",
+                                        "4": "Vous, vous repr\u00e9sentez une de ces \nfemmes qui, pourvu qu\u2019elles ne fassent point l\u2019amour, croient que tout \nle reste leur est permis, de ces femmes qui se retranchent toujours \nfi\u00e8rement sur leur pruderie, regardent un chacun de haut en bas, et \nveulent que toutes les plus belles qualit\u00e9s que poss\u00e8dent les autres ne \nsoient rien en comparaison d\u2019un mis\u00e9rable honneur dont personne ne se \nsoucie.\n              Ayez toujours ce caract\u00e8re devant les yeux, pour en bien \nfaire les grimaces.",
+                                        "5": "Pour vous, vous faites une de ces \nfemmes qui pensent \u00eatre les plus vertueuses personnes du monde pourvu \nqu\u2019elles sauvent les apparences, de ces femmes qui croient que le p\u00e9ch\u00e9 \nn\u2019est que dans le scandale, qui veulent conduire doucement les affaires \nqu\u2019elles ont sur le pied d\u2019attachement honn\u00eate, et appellent amis ce que\n les autres nomment galants. Entrez bien dans ce caract\u00e8re.",
+                                        "6": "Vous, vous faites le m\u00eame personnage que dans la critique, et je n\u2019ai rien \u00e0 vous dire, non plus qu\u2019\u00e0 mademoiselle Du Parc.",
+                                        "7": "Pour vous, vous repr\u00e9sentez une de \nces personnes qui pr\u00eatent doucement des charit\u00e9s \u00e0 tout le monde, de ces\n femmes qui donnent toujours le petit coup de langue en passant, et \nseraient bien f\u00e2ch\u00e9es d\u2019avoir souffert qu\u2019on e\u00fbt dit du bien du \nprochain. Je crois que vous ne vous acquitterez pas mal de ce r\u00f4le.",
+                                        "8": "Et pour vous, vous \u00eates la soubrette \nde la pr\u00e9cieuse, qui se m\u00eale de temps en temps dans la conversation, et \nattrape, comme elle peut, tous les termes de sa ma\u00eetresse. Je vous dis \ntous vos caract\u00e8res, afin que vous vous les imprimiez fortement dans \nl\u2019esprit.\n              Commen\u00e7ons maintenant \u00e0 r\u00e9p\u00e9ter, et voyons comme cela ira.\n              Ah\u00a0!\n              Voici justement un f\u00e2cheux\u00a0!\n              Il ne nous fallait plus que cela."
+                                    }
+                                }
+                            }
+                        },
+                        "I02": {
+                            "title": "Sc\u00e8ne II",
+                            "repliques": {
+                                "I02-1": {
+                                    "personnage": "La thorilli\u00e8re",
+                                    "vers": {
+                                        "0": "Bonjour, Monsieur Moli\u00e8re."
+                                    }
+                                },
+                                "I02-2": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Monsieur, votre serviteur.\n              La peste soit de l\u2019homme\u00a0!"
+                                    }
+                                },
+                                "I02-3": {
+                                    "personnage": "La thorilli\u00e8re",
+                                    "vers": {
+                                        "0": "Comment vous en va\u00a0?"
+                                    }
+                                },
+                                "I02-4": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Fort bien, pour vous servir.\n              Mesdemoiselles, ne..."
+                                    }
+                                },
+                                "I02-5": {
+                                    "personnage": "La thorilli\u00e8re",
+                                    "vers": {
+                                        "0": "Je viens d\u2019un lieu o\u00f9 j\u2019ai bien dit du bien de vous."
+                                    }
+                                },
+                                "I02-6": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Je vous suis oblig\u00e9.\n              Que le diable t\u2019emporte\u00a0!\n              Ayez un peu soin..."
+                                    }
+                                },
+                                "I02-7": {
+                                    "personnage": "La thorilli\u00e8re",
+                                    "vers": {
+                                        "0": "Vous jouez une pi\u00e8ce nouvelle aujourd\u2019hui\u00a0?"
+                                    }
+                                },
+                                "I02-8": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Oui, Monsieur.\n              N\u2019oubliez pas..."
+                                    }
+                                },
+                                "I02-9": {
+                                    "personnage": "La thorilli\u00e8re",
+                                    "vers": {
+                                        "0": "C\u2019est le roi qui vous la fait faire\u00a0?"
+                                    }
+                                },
+                                "I02-10": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Oui, Monsieur.",
+                                        "1": "De gr\u00e2ce, songez..."
+                                    }
+                                },
+                                "I02-11": {
+                                    "personnage": "La thorilli\u00e8re",
+                                    "vers": {
+                                        "0": "Comment l\u2019appelez-vous\u00a0?"
+                                    }
+                                },
+                                "I02-12": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Oui, Monsieur."
+                                    }
+                                },
+                                "I02-13": {
+                                    "personnage": "La thorilli\u00e8re",
+                                    "vers": {
+                                        "0": "Je vous demande comment vous la nommez."
+                                    }
+                                },
+                                "I02-14": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Ah\u00a0!\n              Ma foi, je ne sais.",
+                                        "1": "Il faut, s\u2019il vous pla\u00eet, que vous..."
+                                    }
+                                },
+                                "I02-15": {
+                                    "personnage": "La thorilli\u00e8re",
+                                    "vers": {
+                                        "0": "Comment serez-vous habill\u00e9s\u00a0?"
+                                    }
+                                },
+                                "I02-16": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Comme vous voyez.",
+                                        "1": "Je vous prie..."
+                                    }
+                                },
+                                "I02-17": {
+                                    "personnage": "La thorilli\u00e8re",
+                                    "vers": {
+                                        "0": "Quand commencerez-vous\u00a0?"
+                                    }
+                                },
+                                "I02-18": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Quand le roi sera venu.",
+                                        "1": "Au diantre le questionneur\u00a0!"
+                                    }
+                                },
+                                "I02-19": {
+                                    "personnage": "La thorilli\u00e8re",
+                                    "vers": {
+                                        "0": "Quand croyez-vous qu\u2019il vienne\u00a0?"
+                                    }
+                                },
+                                "I02-20": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "La peste m\u2019\u00e9touffe, Monsieur, si je le sais."
+                                    }
+                                },
+                                "I02-21": {
+                                    "personnage": "La thorilli\u00e8re",
+                                    "vers": {
+                                        "0": "Savez-vous point\u00a0?..."
+                                    }
+                                },
+                                "I02-22": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Tenez, Monsieur, je suis le plus \nignorant homme du monde\u00a0; je ne sais rien de tout ce que vous \npourrez me demander, je vous jure.",
+                                        "1": "J\u2019enrage\u00a0!\n              Ce bourreau vient, avec un air tranquille, vous faire des \nquestions, et ne se soucie pas qu\u2019on ait en t\u00eate d\u2019autres affaires."
+                                    }
+                                },
+                                "I02-23": {
+                                    "personnage": "La thorilli\u00e8re",
+                                    "vers": {
+                                        "0": "Mesdemoiselles, votre serviteur."
+                                    }
+                                },
+                                "I02-24": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Ah\u00a0! Bon, le voil\u00e0 d\u2019un autre c\u00f4t\u00e9."
+                                    }
+                                },
+                                "I02-25": {
+                                    "personnage": "La thorilli\u00e8re \u00e0 mademoiselle du croisy",
+                                    "vers": {
+                                        "0": "Vous voil\u00e0 belle comme un petit ange.",
+                                        "1": "Jouez-vous toutes deux aujourd\u2019hui\u00a0?"
+                                    }
+                                },
+                                "I02-26": {
+                                    "personnage": "Mademoiselle Du Croisy",
+                                    "vers": {
+                                        "0": "Oui, Monsieur."
+                                    }
+                                },
+                                "I02-27": {
+                                    "personnage": "La thorilli\u00e8re",
+                                    "vers": {
+                                        "0": "Sans vous, la com\u00e9die ne vaudrait pas grand\u2019chose."
+                                    }
+                                },
+                                "I02-28": {
+                                    "personnage": "Moli\u00e8re bas aux actrices",
+                                    "vers": {
+                                        "0": "Vous ne voulez pas faire en aller cet homme-l\u00e0\u00a0?"
+                                    }
+                                },
+                                "I02-29": {
+                                    "personnage": "Mademoiselle de Brie \u00e0 la thorilli\u00e8re",
+                                    "vers": {
+                                        "0": "Monsieur, nous avons ici quelque chose \u00e0 r\u00e9p\u00e9ter ensemble."
+                                    }
+                                },
+                                "I02-30": {
+                                    "personnage": "La thorilli\u00e8re",
+                                    "vers": {
+                                        "0": "Ah\u00a0!\n              Parbleu\u00a0!\n              Je ne veux pas vous emp\u00eacher\u00a0: vous n\u2019avez qu\u2019\u00e0 poursuivre."
+                                    }
+                                },
+                                "I02-31": {
+                                    "personnage": "Mademoiselle de Brie",
+                                    "vers": {
+                                        "0": "Mais..."
+                                    }
+                                },
+                                "I02-32": {
+                                    "personnage": "La thorilli\u00e8re",
+                                    "vers": {
+                                        "0": "Non, non, je serais f\u00e2ch\u00e9 d\u2019incommoder personne.\n              Faites librement ce que vous avez \u00e0 faire."
+                                    }
+                                },
+                                "I02-33": {
+                                    "personnage": "Mademoiselle de Brie",
+                                    "vers": {
+                                        "0": "Oui, mais..."
+                                    }
+                                },
+                                "I02-34": {
+                                    "personnage": "La thorilli\u00e8re",
+                                    "vers": {
+                                        "0": "Je suis homme sans c\u00e9r\u00e9monie, vous dis-je, et vous pouvez r\u00e9p\u00e9ter ce qui vous plaira."
+                                    }
+                                },
+                                "I02-35": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Monsieur, ces demoiselles ont peine \u00e0 vous dire qu\u2019elles souhaiteraient fort que personne ne f\u00fbt ici pendant cette r\u00e9p\u00e9tition."
+                                    }
+                                },
+                                "I02-36": {
+                                    "personnage": "La thorilli\u00e8re",
+                                    "vers": {
+                                        "0": "Pourquoi\u00a0?\n              Il n\u2019y a point de danger pour moi."
+                                    }
+                                },
+                                "I02-37": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Monsieur, c\u2019est une coutume qu\u2019elles observent, et vous aurez plus de plaisir quand les choses vous surprendront."
+                                    }
+                                },
+                                "I02-38": {
+                                    "personnage": "La thorilli\u00e8re",
+                                    "vers": {
+                                        "0": "Je m\u2019en vais donc dire que vous \u00eates pr\u00eats."
+                                    }
+                                },
+                                "I02-39": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Point du tout, Monsieur\u00a0; ne vous h\u00e2tez pas, de gr\u00e2ce."
+                                    }
+                                }
+                            }
+                        },
+                        "I03": {
+                            "title": "Sc\u00e8ne III",
+                            "repliques": {
+                                "I03-1": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Ah\u00a0!\n              Que le monde est plein d\u2019impertinents\u00a0!\n              Or sus, commen\u00e7ons.\n              Figurez-vous donc premi\u00e8rement que la sc\u00e8ne est dans \nl\u2019antichambre du roi\u00a0; car c\u2019est un lieu o\u00f9 il se passe tous les \njours des choses assez plaisantes.\n              Il est ais\u00e9 de faire venir l\u00e0 toutes les personnes qu\u2019on \nveut, et on peut trouver des raisons m\u00eame pour y autoriser la venue des \nfemmes que j\u2019introduis.\n              La com\u00e9die s\u2019ouvre par deux marquis qui se rencontrent.",
+                                        "1": "Souvenez-vous bien, vous, de venir, \ncomme je vous ai dit, l\u00e0, avec cet air qu\u2019on nomme le bel air, peignant \nvotre perruque, et grondant une petite chanson entre vos dents.\n              La, la, la, la, la, la.",
+                                        "2": "Rangez-vous donc, vous autres, car il\n faut du terrain \u00e0 deux marquis\u00a0; et ils ne sont pas gens \u00e0 tenir \nleur personne dans un petit espace.",
+                                        "3": "Allons, parlez."
+                                    }
+                                },
+                                "I03-2": {
+                                    "personnage": "La Grange",
+                                    "vers": {
+                                        "0": "\"Bonjour, Marquis.\""
+                                    }
+                                },
+                                "I03-3": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Mon Dieu, ce n\u2019est point l\u00e0 le ton \nd\u2019un marquis\u00a0; il faut le prendre un peu plus haut\u00a0; et la \nplupart de ces messieurs affectent une mani\u00e8re de parler particuli\u00e8re, \npour se distinguer du commun\u00a0: \"Bonjour, marquis.\"\n              Recommencez donc."
+                                    }
+                                },
+                                "I03-4": {
+                                    "personnage": "La Grange",
+                                    "vers": {
+                                        "0": "\"Bonjour, Marquis.\""
+                                    }
+                                },
+                                "I03-5": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Ah\u00a0!\n              Marquis, ton serviteur."
+                                    }
+                                },
+                                "I03-6": {
+                                    "personnage": "La Grange",
+                                    "vers": {
+                                        "0": "Que fais-tu l\u00e0\u00a0?"
+                                    }
+                                },
+                                "I03-7": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Parbleu\u00a0!\n              Tu vois\u00a0: j\u2019attends que tous ces messieurs aient d\u00e9bouch\u00e9 la porte, pour pr\u00e9senter l\u00e0 mon visage."
+                                    }
+                                },
+                                "I03-8": {
+                                    "personnage": "La Grange",
+                                    "vers": {
+                                        "0": "T\u00eatebleu\u00a0!\n              Quelle foule\u00a0!\n              Je n\u2019ai garde de m\u2019y aller frotter, et j\u2019aime mieux entrer des derniers."
+                                    }
+                                },
+                                "I03-9": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Il y a l\u00e0 vingt gens qui sont fort \nassur\u00e9s de n\u2019entrer point, et qui ne laissent pas de se presser, et \nd\u2019occuper toutes les avenues de la porte."
+                                    }
+                                },
+                                "I03-10": {
+                                    "personnage": "La Grange",
+                                    "vers": {
+                                        "0": "Crions nos deux noms \u00e0 l\u2019huissier, afin qu\u2019il nous appelle."
+                                    }
+                                },
+                                "I03-11": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Cela est bon pour toi\u00a0; mais pour moi, je ne veux pas \u00eatre jou\u00e9 par Moli\u00e8re."
+                                    }
+                                },
+                                "I03-12": {
+                                    "personnage": "La Grange",
+                                    "vers": {
+                                        "0": "Je pense pourtant, marquis, que c\u2019est toi qu\u2019il joue dans la critique."
+                                    }
+                                },
+                                "I03-13": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Moi\u00a0?\n              Je suis ton valet\u00a0: c\u2019est toi-m\u00eame en propre personne."
+                                    }
+                                },
+                                "I03-14": {
+                                    "personnage": "La Grange",
+                                    "vers": {
+                                        "0": "Ah\u00a0!\n              Ma foi, tu es bon de m\u2019appliquer ton personnage."
+                                    }
+                                },
+                                "I03-15": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Parbleu\u00a0!\n              Je te trouve plaisant de me donner ce qui t\u2019appartient."
+                                    }
+                                },
+                                "I03-16": {
+                                    "personnage": "La Grange riant",
+                                    "vers": {
+                                        "0": "Ha, ha, ha, cela est dr\u00f4le."
+                                    }
+                                },
+                                "I03-17": {
+                                    "personnage": "Moli\u00e8re riant",
+                                    "vers": {
+                                        "0": "Ha, ha, ha, cela est bouffon."
+                                    }
+                                },
+                                "I03-18": {
+                                    "personnage": "La Grange",
+                                    "vers": {
+                                        "0": "Quoi\u00a0!\n              Tu veux soutenir que ce n\u2019est pas toi qu\u2019on joue dans le marquis de la critique\u00a0?"
+                                    }
+                                },
+                                "I03-19": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Il est vrai, c\u2019est moi.\n              D\u00e9testable, morbleu\u00a0!\n              D\u00e9testable\u00a0!\n              Tarte \u00e0 la cr\u00e8me\u00a0!\n              C\u2019est moi, c\u2019est moi, assur\u00e9ment, c\u2019est moi."
+                                    }
+                                },
+                                "I03-20": {
+                                    "personnage": "La Grange",
+                                    "vers": {
+                                        "0": "Oui parbleu\u00a0!\n              C\u2019est toi\u00a0; tu n\u2019as que faire de railler\u00a0; et si\n tu veux, nous gagerons, et verrons qui a raison des deux."
+                                    }
+                                },
+                                "I03-21": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Et que veux-tu gager encore\u00a0?"
+                                    }
+                                },
+                                "I03-22": {
+                                    "personnage": "La Grange",
+                                    "vers": {
+                                        "0": "Je gage cent pistoles que c\u2019est toi."
+                                    }
+                                },
+                                "I03-23": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Et moi, cent pistoles que c\u2019est toi."
+                                    }
+                                },
+                                "I03-24": {
+                                    "personnage": "La Grange",
+                                    "vers": {
+                                        "0": "Cent pistoles comptant\u00a0?"
+                                    }
+                                },
+                                "I03-25": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Comptant\u00a0: quatre-vingt-dix pistoles sur Amyntas, et dix pistoles comptant."
+                                    }
+                                },
+                                "I03-26": {
+                                    "personnage": "La Grange",
+                                    "vers": {
+                                        "0": "Je le veux."
+                                    }
+                                },
+                                "I03-27": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Cela est fait."
+                                    }
+                                },
+                                "I03-28": {
+                                    "personnage": "La Grange",
+                                    "vers": {
+                                        "0": "Ton argent court grand risque."
+                                    }
+                                },
+                                "I03-29": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Le tien est bien aventur\u00e9."
+                                    }
+                                },
+                                "I03-30": {
+                                    "personnage": "La Grange",
+                                    "vers": {
+                                        "0": "\u00c0 qui nous en rapporter\u00a0?"
+                                    }
+                                }
+                            }
+                        },
+                        "I04": {
+                            "title": "Sc\u00e8ne IV",
+                            "repliques": {
+                                "I04-1": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Voici un homme qui nous jugera.\n              Chevalier\u00a0!"
+                                    }
+                                },
+                                "I04-2": {
+                                    "personnage": "Br\u00e9court",
+                                    "vers": {
+                                        "0": "Quoi\u00a0?"
+                                    }
+                                },
+                                "I04-3": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Bon.\n              Voil\u00e0 l\u2019autre qui prend le ton de marquis\u00a0!\n              Vouai-je pas dit que vous faites un r\u00f4le o\u00f9 l\u2019on doit parler naturellement\u00a0?"
+                                    }
+                                },
+                                "I04-4": {
+                                    "personnage": "Br\u00e9court",
+                                    "vers": {
+                                        "0": "Il est vrai."
+                                    }
+                                },
+                                "I04-5": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Allons donc.\n              Chevalier\u00a0!"
+                                    }
+                                },
+                                "I04-6": {
+                                    "personnage": "Br\u00e9court",
+                                    "vers": {
+                                        "0": "Quoi\u00a0?"
+                                    }
+                                },
+                                "I04-7": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Juge-nous un peu sur une gageure que nous avons faite."
+                                    }
+                                },
+                                "I04-8": {
+                                    "personnage": "Br\u00e9court",
+                                    "vers": {
+                                        "0": "Et quelle\u00a0?"
+                                    }
+                                },
+                                "I04-9": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Nous disputons qui est le marquis de la critique de Moli\u00e8re\u00a0: il gage que c\u2019est moi, et moi je gage que c\u2019est lui."
+                                    }
+                                },
+                                "I04-10": {
+                                    "personnage": "Br\u00e9court",
+                                    "vers": {
+                                        "0": "Et moi, je juge que ce n\u2019est ni l\u2019un \nni l\u2019autre.\n              Vous \u00eates fous tous deux, de vouloir vous appliquer ces \nsortes de choses\u00a0; et voil\u00e0 de quoi j\u2019ou\u00efs l\u2019autre jour se plaindre\n Moli\u00e8re, parlant \u00e0 des personnes qui le chargeaient de m\u00eame chose que \nvous.\n              Il disait que rien ne lui donnait du d\u00e9plaisir comme \nd\u2019\u00eatre accus\u00e9 de regarder quelqu\u2019un dans les portraits qu\u2019il fait\u00a0;\n que son dessein est de peindre les m\u0153urs sans vouloir toucher aux \npersonnes, et que tous les personnages qu\u2019il repr\u00e9sente sont des \npersonnages en l\u2019air, et des fant\u00f4mes proprement, qu\u2019il habille \u00e0 sa \nfantaisie, pour r\u00e9jouir les spectateurs\u00a0; qu\u2019il serait bien f\u00e2ch\u00e9 \nd\u2019y avoir jamais marqu\u00e9 qui que ce soit\u00a0; et que si quelque chose \n\u00e9tait capable de le d\u00e9go\u00fbter de faire des com\u00e9dies, c\u2019\u00e9tait les \nressemblances qu\u2019on y voulait toujours trouver, et dont ses ennemis \nt\u00e2chaient malicieusement d\u2019appuyer la pens\u00e9e, pour lui rendre de mauvais\n offices aupr\u00e8s de certaines personnes \u00e0 qui il n\u2019a jamais pens\u00e9.\n              Et en effet je trouve qu\u2019il a raison\u00a0; car pourquoi \nvouloir, je vous prie, appliquer tous ses gestes et toutes ses paroles, \net chercher \u00e0 lui faire des affaires en disant hautement\u00a0: \"Il joue\n un tel, \" lorsque ce sont des choses qui peuvent convenir \u00e0 cent \npersonnes\u00a0?\n              Comme l\u2019affaire de la com\u00e9die est de repr\u00e9senter en \ng\u00e9n\u00e9ral tous les d\u00e9fauts des hommes, et principalement des hommes de \nnotre si\u00e8cle, il est impossible \u00e0 Moli\u00e8re de faire aucun caract\u00e8re qui \nne rencontre quelqu\u2019un dans le monde\u00a0; et s\u2019il faut qu\u2019on l\u2019accuse \nd\u2019avoir song\u00e9 toutes les personnes ou l\u2019on peut trouver les d\u00e9fauts \nqu\u2019il peint, il faut sans doute qu\u2019il ne fasse plus de com\u00e9dies."
+                                    }
+                                },
+                                "I04-11": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Ma foi, chevalier, tu veux justifier Moli\u00e8re, et \u00e9pargner notre ami que voil\u00e0."
+                                    }
+                                },
+                                "I04-12": {
+                                    "personnage": "La Grange",
+                                    "vers": {
+                                        "0": "Point du tout.\n              C\u2019est toi qu\u2019il \u00e9pargne, et nous trouverons d\u2019autres juges."
+                                    }
+                                },
+                                "I04-13": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Soit.\n              Mais, dis-moi, chevalier, crois-tu pas que ton Moli\u00e8re est\n \u00e9puis\u00e9 maintenant, et qu\u2019il ne trouvera plus de mati\u00e8re pour\u00a0?..."
+                                    }
+                                },
+                                "I04-14": {
+                                    "personnage": "Br\u00e9court",
+                                    "vers": {
+                                        "0": "Plus de mati\u00e8re\u00a0?\n              Eh\u00a0!\n              Mon pauvre marquis, nous lui en fournirons toujours assez,\n et nous ne prenons gu\u00e8re le chemin de nous rendre sages pour tout ce \nqu\u2019il fait et tout ce qu\u2019il dit.\""
+                                    }
+                                },
+                                "I04-15": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Attendez, il faut marquer davantage tout cet endroit.\n              \u00c9coutez-le-moi dire un peu.",
+                                        "1": "\"Et qu\u2019il ne trouvera plus de mati\u00e8re\n pour...\n              Plus de mati\u00e8re\u00a0?\n              H\u00e9\u00a0!\n              Mon pauvre marquis, nous lui en fournirons toujours assez,\n et nous ne prenons gu\u00e8re le chemin de nous rendre sages pour tout ce \nqu\u2019il fait et tout ce qu\u2019il dit.\n              Crois-tu qu\u2019il ait \u00e9puis\u00e9 dans ses com\u00e9dies tout le \nridicule des hommes\u00a0?\n              Et, sans sortir de la cour, n\u2019a-t-il pas encore vingt \ncaract\u00e8res de gens o\u00f9 il n\u2019a point touch\u00e9\u00a0?\n              N\u2019a-t-il pas, par exemple, ceux qui se font les plus \ngrandes amiti\u00e9s du monde, et qui, le dos tourn\u00e9, font galanterie de se \nd\u00e9chirer l\u2019un l\u2019autre\u00a0?\n              N\u2019a-t-il pas ces adulateurs \u00e0 outrance, ces flatteurs \ninsipides, qui n\u2019assaisonnent d\u2019aucun sel les louanges qu\u2019ils donnent, \net dont toutes les flatteries ont une douceur fade qui fait mal au c\u0153ur \u00e0\n ceux qui les \u00e9coutent\u00a0?\n              N\u2019a-t-il pas ces l\u00e2ches courtisans de la faveur, ces \nperfides adorateurs de la fortune, qui vous encensent dans la prosp\u00e9rit\u00e9\n et vous accablent dans la disgr\u00e2ce\u00a0?\n              N\u2019a-t-il pas ceux qui sont toujours m\u00e9contents de la cour,\n ces suivants inutiles, ces incommodes assidus, ces gens, dis-je, qui \npour services ne peuvent compter que des importunit\u00e9s, et qui veulent \nque l\u2019on les r\u00e9compense d\u2019avoir obs\u00e9d\u00e9 le prince dix ans durant\u00a0?\n              N\u2019a-t-il pas ceux qui caressent \u00e9galement tout le monde, \nqui prom\u00e8nent leurs civilit\u00e9s \u00e0 droit et \u00e0 gauche, et courent \u00e0 tous \nceux qu\u2019ils voient avec les m\u00eames embrassades et les m\u00eames protestations\n d\u2019amiti\u00e9\u00a0?\n              Monsieur, votre tr\u00e8s humble serviteur.\n              Monsieur, je suis tout \u00e0 votre service.\n              Tenez-moi des v\u00f4tres, mon cher.\n              Faites \u00e9tat de moi, Monsieur, comme du plus chaud de vos \namis.\n              Monsieur, je suis ravi de vous embrasser.\n              Ah\u00a0! Monsieur, je ne vous voyais pas\u00a0!\n              Faites-moi la gr\u00e2ce de m\u2019employer.\n              Soyez persuad\u00e9 que je suis enti\u00e8rement \u00e0 vous.\n              Vous \u00eates l\u2019homme du monde que je r\u00e9v\u00e8re le plus.\n              Il n\u2019y a personne que j\u2019honore \u00e0 l\u2019\u00e9gal de vous.\n              Je vous conjure de le croire.\n              Je vous supplie de n\u2019en point douter.\n              Serviteur.\n              Tr\u00e8s humble valet.\n              Va, va, marquis, Moli\u00e8re aura toujours plus de sujets \nqu\u2019il n\u2019en voudra\u00a0; et tout ce qu\u2019il a touch\u00e9 jusqu\u2019ici n\u2019est rien \nque bagatelle au prix de ce qui reste.\"\n              Voil\u00e0 \u00e0 peu pr\u00e8s comme cela doit \u00eatre jou\u00e9."
+                                    }
+                                },
+                                "I04-16": {
+                                    "personnage": "Br\u00e9court",
+                                    "vers": {
+                                        "0": "C\u2019est assez."
+                                    }
+                                },
+                                "I04-17": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Poursuivez."
+                                    }
+                                },
+                                "I04-18": {
+                                    "personnage": "Br\u00e9court",
+                                    "vers": {
+                                        "0": "\"Voici Clim\u00e8ne et \u00c9lise.\""
+                                    }
+                                },
+                                "I04-19": {
+                                    "personnage": "Moli\u00e8re \u00e0 mesdemoiselles du parc et moli\u00e8re",
+                                    "vers": {
+                                        "0": "L\u00e0-dessus vous arrivez toutes deux.",
+                                        "1": "Prenez bien garde, vous, \u00e0 vous d\u00e9hancher comme il faut, et \u00e0 faire bien des fa\u00e7ons.\n              Cela vous contraindra un peu\u00a0; mais qu\u2019y faire\u00a0?\n              Il faut parfois se faire violence."
+                                    }
+                                },
+                                "I04-20": {
+                                    "personnage": "Mademoiselle Moli\u00e8re",
+                                    "vers": {
+                                        "0": "\"Certes, Madame, je vous ai reconnue de loin, et j\u2019ai bien vu \u00e0 votre air que ce ne pouvait \u00eatre une autre que vous."
+                                    }
+                                },
+                                "I04-21": {
+                                    "personnage": "Mademoiselle Du Parc",
+                                    "vers": {
+                                        "0": "Vous voyez\u00a0: je viens attendre ici la sortie d\u2019un homme avec qui j\u2019ai une affaire \u00e0 d\u00e9m\u00ealer."
+                                    }
+                                },
+                                "I04-22": {
+                                    "personnage": "Mademoiselle Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Et moi de m\u00eame.\""
+                                    }
+                                },
+                                "I04-23": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Mesdames, voil\u00e0 des coffres qui vous serviront de fauteuils."
+                                    }
+                                },
+                                "I04-24": {
+                                    "personnage": "Mademoiselle Du Parc",
+                                    "vers": {
+                                        "0": "\"Allons, Madame, prenez place, s\u2019il vous pla\u00eet."
+                                    }
+                                },
+                                "I04-25": {
+                                    "personnage": "Mademoiselle Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Apr\u00e8s vous, Madame.\""
+                                    }
+                                },
+                                "I04-26": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Bon.\n              Apr\u00e8s ces petites c\u00e9r\u00e9monies muettes, chacun prendra \nplace, et parlera assis, hors les marquis, qui tant\u00f4t se l\u00e8veront, et \ntant\u00f4t s\u2019assoiront, suivant leur inqui\u00e9tude naturelle.\n              \"Parbleu\u00a0! Chevalier, tu devrais faire prendre \nm\u00e9decine \u00e0 tes canons."
+                                    }
+                                },
+                                "I04-27": {
+                                    "personnage": "Br\u00e9court",
+                                    "vers": {
+                                        "0": "Comment\u00a0?"
+                                    }
+                                },
+                                "I04-28": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Ils se portent fort mal."
+                                    }
+                                },
+                                "I04-29": {
+                                    "personnage": "Br\u00e9court",
+                                    "vers": {
+                                        "0": "Serviteur \u00e0 la turlupinade\u00a0!"
+                                    }
+                                },
+                                "I04-30": {
+                                    "personnage": "Mademoiselle Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Mon Dieu\u00a0!\n              Madame, que je vous trouve le teint d\u2019une blancheur \n\u00e9blouissante, et les l\u00e8vres d\u2019un couleur de feu surprenant\u00a0!"
+                                    }
+                                },
+                                "I04-31": {
+                                    "personnage": "Mademoiselle Du Parc",
+                                    "vers": {
+                                        "0": "Ah\u00a0!\n              Que dites-vous l\u00e0, Madame\u00a0?\n              Ne me regardez point, je suis du dernier laid aujourd\u2019hui."
+                                    }
+                                },
+                                "I04-32": {
+                                    "personnage": "Mademoiselle Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Eh, Madame, levez un peu votre coiffe."
+                                    }
+                                },
+                                "I04-33": {
+                                    "personnage": "Mademoiselle Du Parc",
+                                    "vers": {
+                                        "0": "Fi\u00a0!\n              Je suis \u00e9pouvantable, vous dis-je, et je me fais peur \u00e0 moi-m\u00eame."
+                                    }
+                                },
+                                "I04-34": {
+                                    "personnage": "Mademoiselle Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Vous \u00eates si belle\u00a0!"
+                                    }
+                                },
+                                "I04-35": {
+                                    "personnage": "Mademoiselle Du Parc",
+                                    "vers": {
+                                        "0": "Point, point."
+                                    }
+                                },
+                                "I04-36": {
+                                    "personnage": "Mademoiselle Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Montrez-vous."
+                                    }
+                                },
+                                "I04-37": {
+                                    "personnage": "Mademoiselle Du Parc",
+                                    "vers": {
+                                        "0": "Ah\u00a0!\n              Fi donc, je vous prie\u00a0!"
+                                    }
+                                },
+                                "I04-38": {
+                                    "personnage": "Mademoiselle Moli\u00e8re",
+                                    "vers": {
+                                        "0": "De gr\u00e2ce."
+                                    }
+                                },
+                                "I04-39": {
+                                    "personnage": "Mademoiselle Du Parc",
+                                    "vers": {
+                                        "0": "Mon Dieu, non."
+                                    }
+                                },
+                                "I04-40": {
+                                    "personnage": "Mademoiselle Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Si fait."
+                                    }
+                                },
+                                "I04-41": {
+                                    "personnage": "Mademoiselle Du Parc",
+                                    "vers": {
+                                        "0": "Vous me d\u00e9sesp\u00e9rez."
+                                    }
+                                },
+                                "I04-42": {
+                                    "personnage": "Mademoiselle Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Un moment."
+                                    }
+                                },
+                                "I04-43": {
+                                    "personnage": "Mademoiselle Du Parc",
+                                    "vers": {
+                                        "0": "Ahy."
+                                    }
+                                },
+                                "I04-44": {
+                                    "personnage": "Mademoiselle Moli\u00e8re",
+                                    "vers": {
+                                        "0": "R\u00e9solument, vous vous montrerez.\n              On ne peut point se passer de vous voir."
+                                    }
+                                },
+                                "I04-45": {
+                                    "personnage": "Mademoiselle Du Parc",
+                                    "vers": {
+                                        "0": "Mon Dieu, que vous \u00eates une \u00e9trange personne\u00a0!\n              Vous voulez furieusement ce que vous voulez."
+                                    }
+                                },
+                                "I04-46": {
+                                    "personnage": "Mademoiselle Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Ah\u00a0! Madame, vous n\u2019avez aucun d\u00e9savantage \u00e0 para\u00eetre au grand jour, je vous jure.\n              Les m\u00e9chantes gens qui assuraient que vous mettiez quelque chose\u00a0!\n              Vraiment, je les d\u00e9mentirai bien maintenant."
+                                    }
+                                },
+                                "I04-47": {
+                                    "personnage": "Mademoiselle Du Parc",
+                                    "vers": {
+                                        "0": "H\u00e9las\u00a0!\n              Je ne sais pas seulement ce qu\u2019on appelle mettre quelque chose. Mais o\u00f9 vont ces dames\u00a0?"
+                                    }
+                                }
+                            }
+                        },
+                        "I05": {
+                            "title": "Sc\u00e8ne V",
+                            "repliques": {
+                                "I05-1": {
+                                    "personnage": "Mademoiselle de Brie",
+                                    "vers": {
+                                        "0": "Vous voulez bien, mesdames, que nous \nvous donnions, en passant, la plus agr\u00e9able nouvelle du monde.\n              Voil\u00e0 Monsieur Lysidas, qui vient de nous avertir qu\u2019on a \nfait une pi\u00e8ce contre Moli\u00e8re, que les grands com\u00e9diens vont jouer."
+                                    }
+                                },
+                                "I05-2": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Il est vrai, on me l\u2019a voulu lire\u00a0; et c\u2019est un nomm\u00e9 br... Brou... Brossaut qui l\u2019a faite."
+                                    }
+                                },
+                                "I05-3": {
+                                    "personnage": "Du Croisy",
+                                    "vers": {
+                                        "0": "Monsieur, elle est affich\u00e9e sous le \nnom de Boursaut\u00a0; mais, \u00e0 vous dire le secret, bien des gens ont \nmis la main \u00e0 cet ouvrage, et l\u2019on en doit concevoir une assez haute \nattente.\n              Comme tous les auteurs et tous les com\u00e9diens regardent \nMoli\u00e8re comme leur plus grand ennemi, nous nous sommes tous unis pour le\n desservir.\n              Chacun de nous a donn\u00e9 un coup de pinceau \u00e0 son \nportrait\u00a0; mais nous nous sommes bien gard\u00e9s d\u2019y mettre nos \nnoms\u00a0: il lui aurait \u00e9t\u00e9 trop glorieux de succomber, aux yeux du \nmonde, sous les efforts de tout le Parnasse\u00a0; et pour rendre sa \nd\u00e9faite plus ignominieuse, nous avons voulu choisir tout expr\u00e8s un \nauteur sans r\u00e9putation."
+                                    }
+                                },
+                                "I05-4": {
+                                    "personnage": "Mademoiselle Du Parc",
+                                    "vers": {
+                                        "0": "Pour moi, je vous avoue que j\u2019en ai toutes les joies imaginables."
+                                    }
+                                },
+                                "I05-5": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Et moi aussi.\n              Par la sambleu\u00a0!\n              Le railleur sera raill\u00e9\u00a0; il aura sur les doigts, ma foi\u00a0!"
+                                    }
+                                },
+                                "I05-6": {
+                                    "personnage": "Mademoiselle Du Parc",
+                                    "vers": {
+                                        "0": "Cela lui apprendra \u00e0 vouloir satiriser tout.\n              Comment\u00a0?\n              Cet impertinent ne veut pas que les femmes aient de l\u2019esprit\u00a0?\n              Il condamne toutes nos expressions \u00e9lev\u00e9es, et pr\u00e9tend que nous parlions toujours terre \u00e0 terre\u00a0!"
+                                    }
+                                },
+                                "I05-7": {
+                                    "personnage": "Mademoiselle de Brie",
+                                    "vers": {
+                                        "0": "Le langage n\u2019est rien\u00a0; mais il \ncensure tous nos attachements, quelque innocents qu\u2019ils puissent \n\u00eatre\u00a0; et de la fa\u00e7on qu\u2019il en parle, c\u2019est \u00eatre criminelle que \nd\u2019avoir du m\u00e9rite."
+                                    }
+                                },
+                                "I05-8": {
+                                    "personnage": "Mademoiselle Du Croisy",
+                                    "vers": {
+                                        "0": "Cela est insupportable.\n              Il n\u2019y a pas une femme qui puisse plus rien faire.\n              Que ne laisse-t-il en repos nos maris, sans leur ouvrir \nles yeux et leur faire prendre garde \u00e0 des choses dont ils ne s\u2019avisent \npas\u00a0?"
+                                    }
+                                },
+                                "I05-9": {
+                                    "personnage": "Mademoiselle b\u00e9jart",
+                                    "vers": {
+                                        "0": "Passe pour tout cela\u00a0; mais il \nsatirise m\u00eame les femmes de bien, et ce m\u00e9chant plaisant leur donne le \ntitre d\u2019honn\u00eates diablesses.\n              5"
+                                    }
+                                },
+                                "I05-10": {
+                                    "personnage": "Mademoiselle Moli\u00e8re",
+                                    "vers": {
+                                        "0": "C\u2019est un impertinent.\n              Il faut qu\u2019il en ait tout le so\u00fbl."
+                                    }
+                                },
+                                "I05-11": {
+                                    "personnage": "Du Croisy",
+                                    "vers": {
+                                        "0": "La repr\u00e9sentation de cette com\u00e9die, Madame, aura besoin d\u2019\u00eatre appuy\u00e9e, et les com\u00e9diens de l\u2019H\u00f4tel..."
+                                    }
+                                },
+                                "I05-12": {
+                                    "personnage": "Mademoiselle Du Parc",
+                                    "vers": {
+                                        "0": "Mon Dieu, qu\u2019ils n\u2019appr\u00e9hendent rien.\n              Je leur garantis le succ\u00e8s de leur pi\u00e8ce, corps pour corps."
+                                    }
+                                },
+                                "I05-13": {
+                                    "personnage": "Mademoiselle Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Vous avez raison, Madame.\n              Trop de gens sont int\u00e9ress\u00e9s \u00e0 la trouver belle.\n              Je vous laisse \u00e0 penser si tous ceux qui se croient \nsatiris\u00e9s par Moli\u00e8re, ne prendront pas l\u2019occasion de se venger de lui \nen applaudissant \u00e0 cette com\u00e9die."
+                                    }
+                                },
+                                "I05-14": {
+                                    "personnage": "Br\u00e9court ironiquement",
+                                    "vers": {
+                                        "0": "Sans doute\u00a0; et pour moi je \nr\u00e9ponds de douze marquis, de six pr\u00e9cieuses, de vingt coquettes, et de \ntrente cocus, qui ne manqueront pas d\u2019y battre des mains."
+                                    }
+                                },
+                                "I05-15": {
+                                    "personnage": "Mademoiselle Moli\u00e8re",
+                                    "vers": {
+                                        "0": "En effet.\n              Pourquoi aller offenser toutes ces personnes-l\u00e0, et \nparticuli\u00e8rement les cocus, qui sont les meilleurs gens du monde\u00a0?"
+                                    }
+                                },
+                                "I05-16": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Par la sambleu\u00a0!\n              On m\u2019a dit qu\u2019on le va dauber, lui et toutes ses com\u00e9dies,\n de la belle mani\u00e8re, et que les com\u00e9diens et les auteurs, depuis le \nc\u00e8dre jusqu\u2019\u00e0 l\u2019hysope, sont diablement anim\u00e9s contre lui."
+                                    }
+                                },
+                                "I05-17": {
+                                    "personnage": "Mademoiselle Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Cela lui sied fort bien.\n              Pourquoi fait-il de m\u00e9chantes pi\u00e8ces que tout Paris va \nvoir, et o\u00f9 il peint si bien les gens, que chacun s\u2019y conna\u00eet\u00a0?\n              Que ne fait-il des com\u00e9dies comme celles de Monsieur \nLysidas\u00a0?\n              Il n\u2019aurait personne contre lui et tous les auteurs en \ndiraient du bien.\n              Il est vrai que de semblables com\u00e9dies n\u2019ont pas ce grand \nconcours de monde\u00a0; mais, en revanche, elles sont toujours bien \n\u00e9crites, personne n\u2019\u00e9crit contre elles, et tous ceux qui les voient \nmeurent d\u2019envie de les trouver belles."
+                                    }
+                                },
+                                "I05-18": {
+                                    "personnage": "Du Croisy",
+                                    "vers": {
+                                        "0": "Il est vrai que j\u2019ai l\u2019avantage de ne point faire d\u2019ennemis, et que tous mes ouvrages ont l\u2019approbation des savants."
+                                    }
+                                },
+                                "I05-19": {
+                                    "personnage": "Mademoiselle Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Vous faites bien d\u2019\u00eatre content de \nvous.\n              Cela vaut mieux que tous les applaudissements du public, \net que tout l\u2019argent qu\u2019on saurait gagner aux pi\u00e8ces de Moli\u00e8re.\n              Que vous importe qu\u2019il vienne du monde \u00e0 vos com\u00e9dies, \npourvu qu\u2019elles soient approuv\u00e9es par messieurs vos confr\u00e8res\u00a0?\n              Mais quand jouera-t-on le portrait du peintre\u00a0?"
+                                    }
+                                },
+                                "I05-20": {
+                                    "personnage": "Du Croisy",
+                                    "vers": {
+                                        "0": "Je ne sais\u00a0; mais je me pr\u00e9pare fort \u00e0 para\u00eetre des premiers sur les rangs, pour crier\u00a0: \"Voil\u00e0 qui est beau\u00a0!\""
+                                    }
+                                },
+                                "I05-21": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Et moi de m\u00eame, parbleu\u00a0!"
+                                    }
+                                },
+                                "I05-22": {
+                                    "personnage": "La Grange",
+                                    "vers": {
+                                        "0": "Et moi aussi, Dieu me sauve\u00a0!"
+                                    }
+                                },
+                                "I05-23": {
+                                    "personnage": "Mademoiselle Du Parc",
+                                    "vers": {
+                                        "0": "Pour moi, j\u2019y payerai de ma personne \ncomme il faut\u00a0; et je r\u00e9ponds d\u2019une bravoure d\u2019approbation, qui \nmettra en d\u00e9route tous les jugements ennemis.\n              C\u2019est bien la moindre chose que nous devions faire, que \nd\u2019\u00e9pauler de nos louanges le vengeur de nos int\u00e9r\u00eats."
+                                    }
+                                },
+                                "I05-24": {
+                                    "personnage": "Mademoiselle Moli\u00e8re",
+                                    "vers": {
+                                        "0": "C\u2019est fort bien dit."
+                                    }
+                                },
+                                "I05-25": {
+                                    "personnage": "Mademoiselle de Brie",
+                                    "vers": {
+                                        "0": "Et ce qu\u2019il nous faut faire toutes."
+                                    }
+                                },
+                                "I05-26": {
+                                    "personnage": "Mademoiselle b\u00e9jart",
+                                    "vers": {
+                                        "0": "Assur\u00e9ment."
+                                    }
+                                },
+                                "I05-27": {
+                                    "personnage": "Mademoiselle Du Croisy",
+                                    "vers": {
+                                        "0": "Sans doute."
+                                    }
+                                },
+                                "I05-28": {
+                                    "personnage": "Mademoiselle herv\u00e9",
+                                    "vers": {
+                                        "0": "Point de quartier \u00e0 ce contrefaiseur de gens."
+                                    }
+                                },
+                                "I05-29": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Ma foi, chevalier, mon ami, il faudra que ton Moli\u00e8re se cache."
+                                    }
+                                },
+                                "I05-30": {
+                                    "personnage": "Br\u00e9court",
+                                    "vers": {
+                                        "0": "Qui, lui\u00a0?\n              Je te promets, marquis, qu\u2019il fait dessein d\u2019aller, sur le\n th\u00e9\u00e2tre, rire avec tous les autres du portrait qu\u2019on a fait de lui."
+                                    }
+                                },
+                                "I05-31": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Parbleu\u00a0!\n              Ce sera donc du bout des dents qu\u2019il y rira."
+                                    }
+                                },
+                                "I05-32": {
+                                    "personnage": "Br\u00e9court",
+                                    "vers": {
+                                        "0": "Va, va, peut-\u00eatre qu\u2019il y trouvera \nplus de sujets de rire que tu ne penses.\n              On m\u2019a montr\u00e9 la pi\u00e8ce\u00a0; et comme tout ce qu\u2019il y a \nd\u2019agr\u00e9able sont effectivement les id\u00e9es qui ont \u00e9t\u00e9 prises de Moli\u00e8re, \nla joie que cela pourra donner n\u2019aura pas lieu de lui d\u00e9plaire, sans \ndoute\u00a0; car, pour l\u2019endroit o\u00f9 on s\u2019efforce de le noircir, je suis \nle plus tromp\u00e9 du monde, si cela est approuv\u00e9 de personne\u00a0; et \nquant \u00e0 tous les gens qu\u2019ils ont t\u00e2ch\u00e9 d\u2019animer contre lui, sur ce qu\u2019il\n fait, dit-on, des portraits trop ressemblants, outre que cela est de \nfort mauvaise gr\u00e2ce, je ne vois rien de plus ridicule et de plus mal \nrepris\u00a0; et je n\u2019avais pas cru jusqu\u2019ici que ce f\u00fbt un sujet de \nbl\u00e2me pour un com\u00e9dien, que de peindre trop bien les hommes."
+                                    }
+                                },
+                                "I05-33": {
+                                    "personnage": "La Grange",
+                                    "vers": {
+                                        "0": "Les com\u00e9diens m\u2019ont dit qu\u2019ils l\u2019attendaient sur la r\u00e9ponse, et que..."
+                                    }
+                                },
+                                "I05-34": {
+                                    "personnage": "Br\u00e9court",
+                                    "vers": {
+                                        "0": "Sur la r\u00e9ponse\u00a0?\n              Ma foi, je le trouverais un grand fou, s\u2019il se mettait en \npeine de r\u00e9pondre \u00e0 leurs invectives.\n              Tout le monde sait assez de quel motif elles peuvent \npartir\u00a0; et la meilleure r\u00e9ponse qu\u2019il leur puisse faire, c\u2019est une\n com\u00e9die qui r\u00e9ussisse comme toutes ses autres.\n              Voil\u00e0 le vrai moyen de se venger d\u2019eux comme il \nfaut\u00a0; et de l\u2019humeur dont je les connais, je suis fort assur\u00e9 \nqu\u2019une pi\u00e8ce nouvelle qui leur enl\u00e8vera le monde, les f\u00e2chera bien plus \nque toutes les satires qu\u2019on pourrait faire de leurs personnes."
+                                    }
+                                },
+                                "I05-35": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Mais, chevalier..."
+                                    }
+                                },
+                                "I05-36": {
+                                    "personnage": "Mademoiselle b\u00e9jart",
+                                    "vers": {
+                                        "0": "Souffrez que j\u2019interrompe pour un peu\n la r\u00e9p\u00e9tition.\n              Voulez-vous que je vous dise\u00a0?\n              Si j\u2019avais \u00e9t\u00e9 en votre place, j\u2019aurais pouss\u00e9 les choses \nautrement. Tout le monde attend de vous une r\u00e9ponse vigoureuse\u00a0; et\n apr\u00e8s la mani\u00e8re dont on m\u2019a dit que vous \u00e9tiez trait\u00e9 dans cette \ncom\u00e9die, vous \u00e9tiez en droit de tout dire contre les com\u00e9diens, et vous \ndeviez n\u2019en \u00e9pargner aucun."
+                                    }
+                                },
+                                "I05-37": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "J\u2019enrage de vous ou\u00efr parler de la \nsorte\u00a0; et voil\u00e0 votre manie, \u00e0 vous autres femmes.\n              Vous voudriez que je prisse feu d\u2019abord contre eux, et \nqu\u2019\u00e0 leur exemple j\u2019allasse \u00e9clater promptement en invectives et en \ninjures.\n              Le bel honneur que j\u2019en pourrais tirer, et le grand d\u00e9pit \nque je leur ferais\u00a0!\n              Ne se sont-ils pas pr\u00e9par\u00e9s de bonne volont\u00e9 \u00e0 ces sortes \nde choses\u00a0?\n              Et lorsqu\u2019ils ont d\u00e9lib\u00e9r\u00e9 s\u2019ils joueraient le portrait du\n peintre, sur la crainte d\u2019une riposte, quelques-uns d\u2019entre eux \nn\u2019ont-ils pas r\u00e9pondu\u00a0: \"Qu\u2019il nous rende toutes les injures qu\u2019il \nvoudra, pourvu que nous gagnions de l\u2019argent\u00a0?\"\n              N\u2019est-ce pas l\u00e0 la marque d\u2019une \u00e2me fort sensible \u00e0 la \nhonte\u00a0?\n              Et ne me vengerais-je pas bien d\u2019eux en leur donnant ce \nqu\u2019ils veulent bien recevoir\u00a0?"
+                                    }
+                                },
+                                "I05-38": {
+                                    "personnage": "Mademoiselle de Brie",
+                                    "vers": {
+                                        "0": "Ils se sont fort plaints, toutefois, de trois ou quatre mots que vous avez dits d\u2019eux dans la critique et dans vos pr\u00e9cieuses."
+                                    }
+                                },
+                                "I05-39": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Il est vrai, ces trois ou quatre mots\n sont fort offensants, et ils ont grande raison de les citer.\n              Allez, allez, ce n\u2019est pas cela.\n              Le plus grand mal que je leur aie fait, c\u2019est que j\u2019ai eu \nle bonheur de plaire un peu plus qu\u2019ils n\u2019auraient voulu\u00a0; et tout \nleur proc\u00e9d\u00e9, depuis que nous sommes venus \u00e0 Paris, a trop marqu\u00e9 ce qui\n les touche.\n              Mais laissons-les faire tant qu\u2019ils voudront\u00a0; toutes\n leurs entreprises ne doivent point m\u2019inqui\u00e9ter.\n              Ils critiquent mes pi\u00e8ces\u00a0: tant mieux\u00a0; et Dieu\n me garde d\u2019en faire jamais qui leur plaise\u00a0!\n              Ce serait une mauvaise affaire pour moi."
+                                    }
+                                },
+                                "I05-40": {
+                                    "personnage": "Mademoiselle de Brie",
+                                    "vers": {
+                                        "0": "Il n\u2019y a pas grand plaisir pourtant \u00e0 voir d\u00e9chirer ses ouvrages."
+                                    }
+                                },
+                                "I05-41": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Et qu\u2019est-ce que cela me fait\u00a0?\n              N\u2019ai-je pas obtenu de ma com\u00e9die tout ce que j\u2019en voulais \nobtenir, puisqu\u2019elle a eu le bonheur d\u2019agr\u00e9er aux augustes personnes \u00e0 \nqui particuli\u00e8rement je m\u2019efforce de plaire\u00a0?\n              N\u2019ai-je pas lieu d\u2019\u00eatre satisfait de sa destin\u00e9e, et \ntoutes leurs censures ne viennent-elles pas trop tard\u00a0?\n              Est-ce moi, je vous prie, que cela regarde \nmaintenant\u00a0?\n              Et lorsqu\u2019on attaque une pi\u00e8ce qui a eu du succ\u00e8s, \nn\u2019est-ce pas attaquer plut\u00f4t le jugement de ceux qui l\u2019ont approuv\u00e9e, \nque l\u2019art de celui qui l\u2019a faite\u00a0?"
+                                    }
+                                },
+                                "I05-42": {
+                                    "personnage": "Mademoiselle de Brie",
+                                    "vers": {
+                                        "0": "Ma foi, j\u2019aurais jou\u00e9 ce petit Monsieur l\u2019auteur, qui se m\u00eale d\u2019\u00e9crire contre des gens qui ne songent pas \u00e0 lui."
+                                    }
+                                },
+                                "I05-43": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Vous \u00eates folle.\n              Le beau sujet \u00e0 divertir la cour que Monsieur \nBoursaut\u00a0!\n              Je voudrais bien savoir de quelle fa\u00e7on on pourrait \nl\u2019ajuster pour le rendre plaisant, et si, quand on le bernerait sur un \nth\u00e9\u00e2tre, il serait assez heureux pour faire rire le monde.\n              Ce lui serait trop d\u2019honneur que d\u2019\u00eatre jou\u00e9 devant une \nauguste assembl\u00e9e\u00a0: il ne demanderait pas mieux\u00a0: et il \nm\u2019attaque de gaiet\u00e9 de c\u0153ur, pour se faire conna\u00eetre de quelque fa\u00e7on \nque ce soit.\n              C\u2019est un homme qui n\u2019a rien \u00e0 perdre, et les com\u00e9diens ne \nme l\u2019ont d\u00e9cha\u00een\u00e9 que pour m\u2019engager \u00e0 une sotte guerre, et me \nd\u00e9tourner, par cet artifice, des autres ouvrages que j\u2019ai \u00e0 faire\u00a0;\n et cependant, vous \u00eates assez simples pour donner toutes dans ce \npanneau.\n              Mais enfin j\u2019en ferai ma d\u00e9claration publiquement.\n              Je ne pr\u00e9tends faire aucune r\u00e9ponse \u00e0 toutes leurs \ncritiques et leurs contre-critiques.\n              Qu\u2019ils disent tous les maux du monde de mes pi\u00e8ces, j\u2019en \nsuis d\u2019accord.\n              Qu\u2019ils s\u2019en saisissent apr\u00e8s nous, qu\u2019ils les retournent \ncomme un habit pour les mettre sur leur th\u00e9\u00e2tre, et t\u00e2chent \u00e0 profiter \nde quelque agr\u00e9ment qu\u2019on y trouve, et d\u2019un peu de bonheur que j\u2019ai, j\u2019y\n consens\u00a0: ils en ont besoin, et je serai bien aise de contribuer \u00e0\n les faire subsister, pourvu qu\u2019ils se contentent de ce que je puis leur\n accorder avec biens\u00e9ance.\n              La courtoisie doit avoir des bornes\u00a0; et il y a des \nchoses qui ne font rire ni les spectateurs, ni celui dont on parle.\n              Je leur abandonne de bon c\u0153ur mes ouvrages, ma figure, mes\n gestes, mes paroles, mon ton de voix, et ma fa\u00e7on de r\u00e9citer, pour en \nfaire et dire tout ce qu\u2019il leur plaira, s\u2019ils en peuvent tirer quelque \navantage\u00a0: je ne m\u2019oppose point \u00e0 toutes ces choses, et je serai \nravi que cela puisse r\u00e9jouir le monde.\n              Mais en leur abandonnant tout cela, ils me doivent faire \nla gr\u00e2ce de me laisser le reste et de ne point toucher \u00e0 des mati\u00e8res de\n la nature de celles sur lesquelles on m\u2019a dit qu\u2019ils m\u2019attaquaient dans\n leurs com\u00e9dies.\n              C\u2019est de quoi je prierai civilement cet honn\u00eate Monsieur \nqui se m\u00eale d\u2019\u00e9crire pour eux, et voil\u00e0 toute la r\u00e9ponse qu\u2019ils auront \nde moi."
+                                    }
+                                },
+                                "I05-44": {
+                                    "personnage": "Mademoiselle b\u00e9jart",
+                                    "vers": {
+                                        "0": "Mais enfin..."
+                                    }
+                                },
+                                "I05-45": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Mais enfin, vous me feriez devenir \nfou.\n              Ne parlons point de cela davantage\u00a0; nous nous \namusons \u00e0 faire des discours, au lieu de r\u00e9p\u00e9ter notre com\u00e9die.\n              O\u00f9 en \u00e9tions-nous\u00a0?\n              Je ne m\u2019en souviens plus."
+                                    }
+                                },
+                                "I05-46": {
+                                    "personnage": "Mademoiselle de Brie",
+                                    "vers": {
+                                        "0": "Vous en \u00e9tiez \u00e0 l\u2019endroit..."
+                                    }
+                                },
+                                "I05-47": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Mon Dieu\u00a0!\n              J\u2019entends du bruit\u00a0: c\u2019est le roi qui arrive \nassur\u00e9ment\u00a0; et je vois bien que nous n\u2019aurons pas le temps de \npasser outre.\n              Voil\u00e0 ce que c\u2019est de s\u2019amuser.\n              Oh bien\u00a0!\n              Faites donc pour le reste du mieux qu\u2019il vous sera \npossible."
+                                    }
+                                },
+                                "I05-48": {
+                                    "personnage": "Mademoiselle b\u00e9jart",
+                                    "vers": {
+                                        "0": "Par ma foi, la frayeur me prend, et je ne saurais aller jouer mon r\u00f4le, si je ne le r\u00e9p\u00e8te tout entier."
+                                    }
+                                },
+                                "I05-49": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Comment, vous ne sauriez aller jouer votre r\u00f4le\u00a0?"
+                                    }
+                                },
+                                "I05-50": {
+                                    "personnage": "Mademoiselle b\u00e9jart",
+                                    "vers": {
+                                        "0": "Non."
+                                    }
+                                },
+                                "I05-51": {
+                                    "personnage": "Mademoiselle Du Parc",
+                                    "vers": {
+                                        "0": "Ni moi le mien."
+                                    }
+                                },
+                                "I05-52": {
+                                    "personnage": "Mademoiselle de Brie",
+                                    "vers": {
+                                        "0": "Ni moi non plus."
+                                    }
+                                },
+                                "I05-53": {
+                                    "personnage": "Mademoiselle Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Ni moi."
+                                    }
+                                },
+                                "I05-54": {
+                                    "personnage": "Mademoiselle herv\u00e9",
+                                    "vers": {
+                                        "0": "Ni moi."
+                                    }
+                                },
+                                "I05-55": {
+                                    "personnage": "Mademoiselle Du Croisy",
+                                    "vers": {
+                                        "0": "Ni moi."
+                                    }
+                                },
+                                "I05-56": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Que pensez-vous donc faire\u00a0?\n              Vous moquez-vous toutes de moi\u00a0?"
+                                    }
+                                }
+                            }
+                        },
+                        "I06": {
+                            "title": "Sc\u00e8ne VI",
+                            "repliques": {
+                                "I06-1": {
+                                    "personnage": "B\u00e9jart",
+                                    "vers": {
+                                        "0": "Messieurs, je viens vous avertir que le roi est venu, et qu\u2019il attend que vous commenciez."
+                                    }
+                                },
+                                "I06-2": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Ah\u00a0!\n              Monsieur, vous me voyez dans la plus grande peine du \nmonde, je suis d\u00e9sesp\u00e9r\u00e9 \u00e0 l\u2019heure que je vous parle\u00a0!\n              Voici des femmes qui s\u2019effrayent et qui disent qu\u2019il leur \nfaut r\u00e9p\u00e9ter leurs r\u00f4les avant que d\u2019aller commencer Nous demandons, de \ngr\u00e2ce, encore un moment.\n              Le roi a de la bont\u00e9, et il sait bien que la chose a \u00e9t\u00e9 \npr\u00e9cipit\u00e9e."
+                                    }
+                                }
+                            }
+                        },
+                        "I07": {
+                            "title": "Sc\u00e8ne VII",
+                            "repliques": {
+                                "I07-1": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Eh\u00a0!\n              De gr\u00e2ce, t\u00e2chez de vous remettre, prenez courage, je vous prie."
+                                    }
+                                },
+                                "I07-2": {
+                                    "personnage": "Mademoiselle Du Parc",
+                                    "vers": {
+                                        "0": "Vous devez vous aller excuser."
+                                    }
+                                },
+                                "I07-3": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Comment m\u2019excuser\u00a0?..."
+                                    }
+                                }
+                            }
+                        },
+                        "I08": {
+                            "title": "Sc\u00e8ne VIII",
+                            "repliques": {
+                                "I08-1": {
+                                    "personnage": "Un n\u00e9cessaire",
+                                    "vers": {
+                                        "0": "Messieurs, commencez donc."
+                                    }
+                                },
+                                "I08-2": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Tout \u00e0 l\u2019heure, Monsieur.\n              Je crois que je perdrai l\u2019esprit de cette affaire-ci, et..."
+                                    }
+                                }
+                            }
+                        },
+                        "I09": {
+                            "title": "Sc\u00e8ne IX",
+                            "repliques": {
+                                "I09-1": {
+                                    "personnage": "Autre n\u00e9cessaire",
+                                    "vers": {
+                                        "0": "Messieurs, commencez donc."
+                                    }
+                                },
+                                "I09-2": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Dans un moment, Monsieur.",
+                                        "1": "Et quoi donc\u00a0?\n              Voulez-vous que j\u2019aie l\u2019affront\u00a0?..."
+                                    }
+                                }
+                            }
+                        },
+                        "I10": {
+                            "title": "Sc\u00e8ne X",
+                            "repliques": {
+                                "I10-1": {
+                                    "personnage": "Autre N\u00e9cessaire",
+                                    "vers": {
+                                        "0": "Messieurs, commencez donc."
+                                    }
+                                },
+                                "I10-2": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Oui, Monsieur, nous y allons.\n              Eh\u00a0!\n              Que de gens se font de f\u00eate, et viennent dire\u00a0: \"Commencez donc, \u00e0 qui le roi ne l\u2019a pas command\u00e9\u00a0!\""
+                                    }
+                                }
+                            }
+                        },
+                        "I11": {
+                            "title": "Sc\u00e8ne XI",
+                            "repliques": {
+                                "I11-1": {
+                                    "personnage": "Autre N\u00e9cessaire",
+                                    "vers": {
+                                        "0": "Messieurs, commencez donc."
+                                    }
+                                },
+                                "I11-2": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Voil\u00e0 qui est fait, Monsieur.",
+                                        "1": "Quoi donc\u00a0? Recevrai-je la confusion\u00a0?..."
+                                    }
+                                }
+                            }
+                        },
+                        "I12": {
+                            "title": "Sc\u00e8ne XII",
+                            "repliques": {
+                                "I12-1": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Monsieur, vous venez pour nous dire de commencer, mais..."
+                                    }
+                                },
+                                "I12-2": {
+                                    "personnage": "B\u00e9jart",
+                                    "vers": {
+                                        "0": "Non, messieurs, je viens pour vous \ndire qu\u2019on a dit au roi l\u2019embarras o\u00f9 vous vous trouviez, et que, par \nune bont\u00e9 toute particuli\u00e8re, il remet votre nouvelle com\u00e9die \u00e0 une \nautre fois, et se contente, pour aujourd\u2019hui, de la premi\u00e8re que vous \npourrez donner."
+                                    }
+                                },
+                                "I12-3": {
+                                    "personnage": "Moli\u00e8re",
+                                    "vers": {
+                                        "0": "Ah\u00a0!\n              Monsieur, vous me redonnez la vie\u00a0!\n              Le roi nous fait la plus grande gr\u00e2ce du monde de nous \ndonner du temps pour ce qu\u2019il avait souhait\u00e9\u00a0; et nous allons tous \nle remercier des extr\u00eames bont\u00e9s qu\u2019il nous fait para\u00eetre."
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

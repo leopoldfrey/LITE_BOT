@@ -1,0 +1,2228 @@
+{
+    "pieces": [
+        {
+            "title": "LA CRITIQUE DE L'\u00c9COLE DES FEMMES,",
+            "actes": {
+                "I": {
+                    "title": "La Critique de l'\u00c9cole des Femmes, Com\u00e9die",
+                    "scenes": {
+                        "I01": {
+                            "title": "Sc\u00e8ne Premi\u00e8re",
+                            "repliques": {
+                                "I01-1": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Quoi, Cousine, personne ne t\u2019est venu rendre visite\u00a0?"
+                                    }
+                                },
+                                "I01-2": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Personne du monde."
+                                    }
+                                },
+                                "I01-3": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Vraiment voil\u00e0 qui m\u2019\u00e9tonne, que nous ayons \u00e9t\u00e9 seules, l\u2019une et l\u2019autre, tout aujourd\u2019hui."
+                                    }
+                                },
+                                "I01-4": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Cela m\u2019\u00e9tonne aussi\u00a0; car ce \nn\u2019est gu\u00e8re notre coutume, et votre maison, Dieu merci, est le refuge \nordinaire de tous les Fain\u00e9ants de la Cour."
+                                    }
+                                },
+                                "I01-5": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "L\u2019apr\u00e8s-d\u00een\u00e9e, \u00e0 dire vrai, m\u2019a sembl\u00e9 fort longue."
+                                    }
+                                },
+                                "I01-6": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Et moi je l\u2019ai trouv\u00e9e fort courte."
+                                    }
+                                },
+                                "I01-7": {
+                                    "personnage": "Uranie ",
+                                    "vers": {
+                                        "0": "C\u2019est que les beaux esprits, Cousine, aiment la solitude."
+                                    }
+                                },
+                                "I01-8": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Ah\u00a0! tr\u00e8s humble servante au bel esprit, vous savez que ce n\u2019est pas l\u00e0 que je vise."
+                                    }
+                                },
+                                "I01-9": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Pour moi j\u2019aime la compagnie, je l\u2019avoue."
+                                    }
+                                },
+                                "I01-10": {
+                                    "personnage": "\u00c9lise ",
+                                    "vers": {
+                                        "0": "Je l\u2019aime aussi\u00a0; mais je l\u2019aime\n choisie, et la quantit\u00e9 des sottes visites qu\u2019il vous faut essuyer \nparmi les autres, est cause bien souvent que je prends plaisir d\u2019\u00eatre \nseule."
+                                    }
+                                },
+                                "I01-11": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "La d\u00e9licatesse est trop grande, de ne pouvoir souffrir que des gens tri\u00e9s."
+                                    }
+                                },
+                                "I01-12": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Et la complaisance est trop g\u00e9n\u00e9rale, de souffrir indiff\u00e9remment toutes sortes de personnes."
+                                    }
+                                },
+                                "I01-13": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Je go\u00fbte ceux qui sont raisonnables, et me divertis des extravagants."
+                                    }
+                                },
+                                "I01-14": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Ma foi, les extravagants ne vont \ngu\u00e8re loin sans vous ennuyer, et la plupart de ces gens-l\u00e0 ne sont plus \nplaisants d\u00e8s la seconde visite. Mais \u00e0 propos d\u2019extravagants, ne \nvoulez-vous pas me d\u00e9faire de votre Marquis incommode\u00a0? pensez-vous\n me le laisser toujours sur les bras, et que je puisse durer \u00e0 ses \nturlupinades perp\u00e9tuelles\u00a0?"
+                                    }
+                                },
+                                "I01-15": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Ce langage est \u00e0 la mode, et l\u2019on le tourne en plaisanterie \u00e0 la Cour."
+                                    }
+                                },
+                                "I01-16": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Tant pis pour ceux qui le font, et \nqui se tuent tout le jour \u00e0 parler ce jargon obscur. La belle chose de \nfaire entrer aux conversations du Louvre de vieilles \u00e9quivoques \nramass\u00e9es parmi les boues des Halles et de la place Maubert\u00a0! La \njolie fa\u00e7on de plaisanter pour des Courtisans\u00a0! et qu\u2019un homme \nmontre d\u2019esprit lorsqu\u2019il vient vous dire\u00a0; Madame, vous \u00eates dans la place Royale, et tout le monde vous voit de trois lieues de Paris, car chacun vous voit de bon \u0153il,\n \u00e0 cause que Boneuil est un village \u00e0 trois lieues d\u2019ici. Cela n\u2019est-il \npas bien galant et bien spirituel\u00a0; et ceux qui trouvent ces belles\n rencontres, n\u2019ont-ils pas lieu de s\u2019en glorifier\u00a0?"
+                                    }
+                                },
+                                "I01-17": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "On ne dit pas cela aussi, comme une \nchose spirituelle, et la plupart de ceux qui affectent ce langage, \nsavent bien eux-m\u00eames qu\u2019il est ridicule."
+                                    }
+                                },
+                                "I01-18": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Tant pis encore, de prendre peine \u00e0 \ndire des sottises, et d\u2019\u00eatre mauvais plaisants de dessein form\u00e9. Je les \nen tiens moins excusables\u00a0; et, si j\u2019en \u00e9tais juge, je sais bien \u00e0 \nquoi je condamnerais tous ces Messieurs les Turlupins."
+                                    }
+                                },
+                                "I01-19": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Laissons cette mati\u00e8re, qui \nt\u2019\u00e9chauffe un peu trop, et disons que Dorante vient bien tard, \u00e0 mon \navis, pour le souper que nous devons faire ensemble."
+                                    }
+                                },
+                                "I01-20": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Peut-\u00eatre l\u2019a-t-il oubli\u00e9, et que\u2026"
+                                    }
+                                }
+                            }
+                        },
+                        "I02": {
+                            "title": "Sc\u00e8ne II",
+                            "repliques": {
+                                "I02-1": {
+                                    "personnage": "Galopin",
+                                    "vers": {
+                                        "0": "Voil\u00e0 Clim\u00e8ne, Madame, qui vient ici pour vous voir."
+                                    }
+                                },
+                                "I02-2": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Eh mon Dieu\u00a0! quelle visite\u00a0!"
+                                    }
+                                },
+                                "I02-3": {
+                                    "personnage": "\u00c9lise ",
+                                    "vers": {
+                                        "0": "Vous vous plaigniez d\u2019\u00eatre seule, aussi\u00a0: le Ciel vous en punit."
+                                    }
+                                },
+                                "I02-4": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Vite, qu\u2019on aille dire que je n\u2019y suis pas."
+                                    }
+                                },
+                                "I02-5": {
+                                    "personnage": "Galopin",
+                                    "vers": {
+                                        "0": "On a d\u00e9j\u00e0 dit que vous y \u00e9tiez."
+                                    }
+                                },
+                                "I02-6": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Et qui est le sot, qui l\u2019a dit\u00a0?"
+                                    }
+                                },
+                                "I02-7": {
+                                    "personnage": "Galopin",
+                                    "vers": {
+                                        "0": "Moi, Madame."
+                                    }
+                                },
+                                "I02-8": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Diantre soit le petit vilain. Je vous apprendrai bien \u00e0 faire vos r\u00e9ponses de vous-m\u00eame."
+                                    }
+                                },
+                                "I02-9": {
+                                    "personnage": "Galopin ",
+                                    "vers": {
+                                        "0": "Je vais lui dire, Madame, que vous voulez \u00eatre sortie."
+                                    }
+                                },
+                                "I02-10": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Arr\u00eatez animal, et la laissez monter, puisque la sottise est faite."
+                                    }
+                                },
+                                "I02-11": {
+                                    "personnage": "Galopin",
+                                    "vers": {
+                                        "0": "Elle parle encore \u00e0 un homme dans la rue."
+                                    }
+                                },
+                                "I02-12": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Ah\u00a0! Cousine, que cette visite m\u2019embarrasse \u00e0 l\u2019heure qu\u2019il est."
+                                    }
+                                },
+                                "I02-13": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Il est vrai que la Dame est un peu \nembarrassante de son naturel\u00a0: j\u2019ai toujours eu pour elle une \nfurieuse aversion\u00a0; et, n\u2019en d\u00e9plaise \u00e0 sa qualit\u00e9, c\u2019est la plus \nsotte b\u00eate qui se soit jamais m\u00eal\u00e9e de raisonner."
+                                    }
+                                },
+                                "I02-14": {
+                                    "personnage": "Uranie ",
+                                    "vers": {
+                                        "0": "L\u2019\u00e9pith\u00e8te est un peu forte."
+                                    }
+                                },
+                                "I02-15": {
+                                    "personnage": "\u00c9lise ",
+                                    "vers": {
+                                        "0": "Allez, allez, elle m\u00e9rite bien cela, \net quelque chose de plus, si on lui faisait justice. Est-ce qu\u2019il y a \nune personne qui soit plus v\u00e9ritablement qu\u2019elle, ce qu\u2019on appelle \nPr\u00e9cieuse, \u00e0 prendre le mot dans sa plus mauvaise signification\u00a0?"
+                                    }
+                                },
+                                "I02-16": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Elle se d\u00e9fend bien de ce nom, pourtant."
+                                    }
+                                },
+                                "I02-17": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Il est vrai, elle se d\u00e9fend du \nnom\u00a0; mais non pas de la chose\u00a0: car enfin elle l\u2019est depuis \nles pieds jusqu\u2019\u00e0 la t\u00eate, et la plus grande fa\u00e7onni\u00e8re du monde. Il \nsemble que tout son corps soit d\u00e9mont\u00e9, et que les mouvements de ses \nhanches, de ses \u00e9paules, et de sa t\u00eate, n\u2019aillent que par ressorts. Elle\n affecte toujours un ton de voix languissant, et niais\u00a0; fait la \nmoue, pour montrer une petite bouche, et roule les yeux, pour les faire \npara\u00eetre grands."
+                                    }
+                                },
+                                "I02-18": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Doucement donc, si elle venait \u00e0 entendre\u2026"
+                                    }
+                                },
+                                "I02-19": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Point, point, elle ne monte pas \nencore. Je me souviens toujours du soir qu\u2019elle eut envie de voir Damon,\n sur la r\u00e9putation qu\u2019on lui donne, et les choses que le public a vues \nde lui. Vous connaissez l\u2019homme, et sa naturelle paresse \u00e0 soutenir la \nconversation. Elle l\u2019avait invit\u00e9 \u00e0 souper, comme bel esprit, et jamais \nil ne parut si sot, parmi une demi-douzaine de gens, \u00e0 qui elle avait \nfait f\u00eate de lui, et qui le regardaient avec de grands yeux, comme une \npersonne qui ne devait pas \u00eatre faite comme les autres. Ils pensaient \ntous qu\u2019il \u00e9tait l\u00e0 pour d\u00e9frayer la Compagnie de bons mots\u00a0; que \nchaque parole qui sortait de sa bouche devait \u00eatre extraordinaire\u00a0;\n qu\u2019il devait faire des Impromptus sur tout ce qu\u2019on \ndisait, et ne demander \u00e0 boire qu\u2019avec une pointe. Mais il les trompa \nfort par son silence\u00a0; et la Dame fut aussi mal satisfaite de lui, \nque je le fus d\u2019elle."
+                                    }
+                                },
+                                "I02-20": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Tais-toi, je vais la recevoir \u00e0 la porte de la chambre."
+                                    }
+                                },
+                                "I02-21": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Encore un mot. Je voudrais bien la \nvoir mari\u00e9e avec le Marquis, dont nous avons parl\u00e9. Le bel assemblage \nque ce serait d\u2019une Pr\u00e9cieuse, et d\u2019un Turlupin\u00a0!"
+                                    }
+                                },
+                                "I02-22": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Veux-tu te taire\u00a0; la voici."
+                                    }
+                                }
+                            }
+                        },
+                        "I03": {
+                            "title": "Sc\u00e8ne III",
+                            "repliques": {
+                                "I03-1": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Vraiment, c\u2019est bien tard que\u2026"
+                                    }
+                                },
+                                "I03-2": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Eh de gr\u00e2ce, ma ch\u00e8re, faites-moi vite donner un si\u00e8ge."
+                                    }
+                                },
+                                "I03-3": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Un fauteuil, promptement."
+                                    }
+                                },
+                                "I03-4": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Ah mon Dieu\u00a0!"
+                                    }
+                                },
+                                "I03-5": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Qu\u2019est-ce donc\u00a0?"
+                                    }
+                                },
+                                "I03-6": {
+                                    "personnage": "Clim\u00e8ne ",
+                                    "vers": {
+                                        "0": "Je n\u2019en puis plus."
+                                    }
+                                },
+                                "I03-7": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Qu\u2019avez-vous\u00a0?"
+                                    }
+                                },
+                                "I03-8": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Le c\u0153ur me manque."
+                                    }
+                                },
+                                "I03-9": {
+                                    "personnage": "Uranie ",
+                                    "vers": {
+                                        "0": "Sont-ce vapeurs, qui vous ont prise\u00a0?"
+                                    }
+                                },
+                                "I03-10": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Non."
+                                    }
+                                },
+                                "I03-11": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Voulez-vous, que l\u2019on vous d\u00e9lasse\u00a0?"
+                                    }
+                                },
+                                "I03-12": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Mon Dieu non. Ah\u00a0!"
+                                    }
+                                },
+                                "I03-13": {
+                                    "personnage": "Uranie ",
+                                    "vers": {
+                                        "0": "Quel est donc votre mal\u00a0? et depuis quand vous a-t-il pris\u00a0?"
+                                    }
+                                },
+                                "I03-14": {
+                                    "personnage": "Clim\u00e8ne ",
+                                    "vers": {
+                                        "0": "Il y a plus de trois heures, et je l\u2019ai rapport\u00e9 du Palais-Royal."
+                                    }
+                                },
+                                "I03-15": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Comment\u00a0?"
+                                    }
+                                },
+                                "I03-16": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Je viens de voir, pour mes p\u00e9ch\u00e9s, cette m\u00e9chante Rapsodie de L\u2019\u00c9cole des Femmes. Je suis encore en d\u00e9faillance du mal de c\u0153ur, que cela m\u2019a donn\u00e9, et je pense que je n\u2019en reviendrai de plus de quinze jours."
+                                    }
+                                },
+                                "I03-17": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Voyez un peu, comme les maladies arrivent sans qu\u2019on y songe."
+                                    }
+                                },
+                                "I03-18": {
+                                    "personnage": "Uranie ",
+                                    "vers": {
+                                        "0": "Je ne sais pas de quel temp\u00e9rament \nnous sommes ma cousine et moi\u00a0; mais nous f\u00fbmes avant-hier \u00e0 la \nm\u00eame Pi\u00e8ce, et nous en rev\u00eenmes toutes deux saines et gaillardes."
+                                    }
+                                },
+                                "I03-19": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Quoi, vous l\u2019avez vue\u00a0?"
+                                    }
+                                },
+                                "I03-20": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Oui\u00a0; et \u00e9cout\u00e9e d\u2019un bout \u00e0 l\u2019autre."
+                                    }
+                                },
+                                "I03-21": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Et vous n\u2019en avez pas \u00e9t\u00e9 jusques aux convulsions, ma ch\u00e8re\u00a0?"
+                                    }
+                                },
+                                "I03-22": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Je ne suis pas si d\u00e9licate, Dieu \nmerci\u00a0; et je trouve pour moi, que cette Com\u00e9die serait plut\u00f4t \ncapable de gu\u00e9rir les gens, que de les rendre malades."
+                                    }
+                                },
+                                "I03-23": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Ah mon Dieu, que dites-vous l\u00e0\u00a0!\n Cette proposition peut-elle \u00eatre avanc\u00e9e par une personne, qui ait du \nrevenu en sens commun\u00a0? Peut-on, impun\u00e9ment comme vous faites, \nrompre en visi\u00e8re \u00e0 la raison\u00a0? Et dans le vrai de la chose, est-il\n un esprit si affam\u00e9 de plaisanterie, qu\u2019il puisse t\u00e2ter des fadaises \ndont cette Com\u00e9die est assaisonn\u00e9e\u00a0? Pour moi, je vous avoue, que \nje n\u2019ai pas trouv\u00e9 le moindre grain de sel dans tout cela. Les enfants \npar l\u2019oreille m\u2019ont paru d\u2019un go\u00fbt d\u00e9testable\u00a0; la tarte \u00e0 la cr\u00e8me\n m\u2019a affadi le c\u0153ur\u00a0; et j\u2019ai pens\u00e9 vomir au potage."
+                                    }
+                                },
+                                "I03-24": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Mon Dieu\u00a0! que tout cela est dit\n \u00e9l\u00e9gamment. J\u2019aurais cru que cette Pi\u00e8ce \u00e9tait bonne\u00a0; mais Madame\n a une \u00e9loquence si persuasive, elle tourne les choses d\u2019une mani\u00e8re si \nagr\u00e9able, qu\u2019il faut \u00eatre de son sentiment, malgr\u00e9 qu\u2019on en ait."
+                                    }
+                                },
+                                "I03-25": {
+                                    "personnage": "Uranie ",
+                                    "vers": {
+                                        "0": "Pour moi je n\u2019ai pas tant de \ncomplaisance, et pour dire ma pens\u00e9e, je tiens cette Com\u00e9die une des \nplus plaisantes que l\u2019Auteur ait produites."
+                                    }
+                                },
+                                "I03-26": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Ah\u00a0! vous me faites piti\u00e9, de \nparler ainsi\u00a0; et je ne saurais vous souffrir cette obscurit\u00e9 de \ndiscernement. Peut-on, ayant de la vertu, trouver de l\u2019agr\u00e9ment dans une\n Pi\u00e8ce, qui tient sans cesse la pudeur en alarme, et salit \u00e0 tous \nmoments l\u2019imagination\u00a0?"
+                                    }
+                                },
+                                "I03-27": {
+                                    "personnage": "\u00c9lise ",
+                                    "vers": {
+                                        "0": "Les jolies fa\u00e7ons de parler, que \nvoil\u00e0\u00a0! Que vous \u00eates, Madame, une rude joueuse en Critique\u00a0; \net que je plains le pauvre Moli\u00e8re de vous avoir pour ennemie."
+                                    }
+                                },
+                                "I03-28": {
+                                    "personnage": "Clim\u00e8ne ",
+                                    "vers": {
+                                        "0": "Croyez-moi ma ch\u00e8re, corrigez de \nbonne foi votre jugement, et pour votre honneur, n\u2019allez point dire par \nle monde que cette Com\u00e9die vous ait plu."
+                                    }
+                                },
+                                "I03-29": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Moi, je ne sais pas ce que vous y avez trouv\u00e9 qui blesse la pudeur."
+                                    }
+                                },
+                                "I03-30": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "H\u00e9las tout\u00a0; et je mets en fait,\n qu\u2019une honn\u00eate femme ne la saurait voir, sans confusion\u00a0; tant j\u2019y\n ai d\u00e9couvert d\u2019ordures, et de salet\u00e9s."
+                                    }
+                                },
+                                "I03-31": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Il faut donc que pour les ordures, vous ayez des lumi\u00e8res, que les autres n\u2019ont pas\u00a0: car pour moi je n\u2019y en ai point vu."
+                                    }
+                                },
+                                "I03-32": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "C'est que vous ne voulez pas y en \navoir vu, assur\u00e9ment\u00a0: car enfin toutes ces ordures, Dieu merci, y \nsont \u00e0 visage d\u00e9couvert. Elles n\u2019ont pas la moindre enveloppe qui les \ncouvre\u00a0; et les yeux les plus hardis sont effray\u00e9s de leur nudit\u00e9."
+                                    }
+                                },
+                                "I03-33": {
+                                    "personnage": "\u00c9lise ",
+                                    "vers": {
+                                        "0": "Ah\u00a0!"
+                                    }
+                                },
+                                "I03-34": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Hay, hay, hay."
+                                    }
+                                },
+                                "I03-35": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Mais encore, s\u2019il vous pla\u00eet, marquez-moi une de ces ordures que vous dites."
+                                    }
+                                },
+                                "I03-36": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "H\u00e9las\u00a0! est-il n\u00e9cessaire de vous les marquer\u00a0?"
+                                    }
+                                },
+                                "I03-37": {
+                                    "personnage": "Uranie ",
+                                    "vers": {
+                                        "0": "Oui\u00a0: je vous demande seulement un endroit, qui vous ait fort choqu\u00e9e."
+                                    }
+                                },
+                                "I03-38": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "En faut-il d\u2019autre que la sc\u00e8ne de cette Agn\u00e8s, lorsqu\u2019elle dit ce que l\u2019on lui a pris\u00a0?"
+                                    }
+                                },
+                                "I03-39": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Eh bien, que trouvez-vous l\u00e0 de sale\u00a0?"
+                                    }
+                                },
+                                "I03-40": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Ah\u00a0!"
+                                    }
+                                },
+                                "I03-41": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "De gr\u00e2ce\u00a0?"
+                                    }
+                                },
+                                "I03-42": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Fi."
+                                    }
+                                },
+                                "I03-43": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Mais encore\u00a0?"
+                                    }
+                                },
+                                "I03-44": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Je n\u2019ai rien \u00e0 vous dire."
+                                    }
+                                },
+                                "I03-45": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Pour moi, je n\u2019y entends point de mal."
+                                    }
+                                },
+                                "I03-46": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Tant pis pour vous."
+                                    }
+                                },
+                                "I03-47": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Tant mieux plut\u00f4t, ce me semble. Je \nregarde les choses du c\u00f4t\u00e9 qu\u2019on me les montre\u00a0; et ne les tourne \npoint, pour y chercher ce qu\u2019il ne faut pas voir."
+                                    }
+                                },
+                                "I03-48": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "L\u2019honn\u00eatet\u00e9 d\u2019une femme\u2026"
+                                    }
+                                },
+                                "I03-49": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "L\u2019honn\u00eatet\u00e9 d\u2019une femme n\u2019est pas \ndans les grimaces. Il sied mal de vouloir \u00eatre plus sage, que celles qui\n sont sages. L\u2019affectation en cette mati\u00e8re est pire qu\u2019en toute \nautre\u00a0; et je ne vois rien de si ridicule, que cette d\u00e9licatesse \nd\u2019honneur, qui prend tout en mauvaise part\u00a0; donne un sens criminel\n aux plus innocentes paroles\u00a0; et s\u2019offense de l\u2019ombre des choses. \nCroyez-moi, celles qui font tant de fa\u00e7ons, n\u2019en sont pas estim\u00e9es plus \nfemmes de bien. Au contraire, leur s\u00e9v\u00e9rit\u00e9 myst\u00e9rieuse, et leurs \ngrimaces affect\u00e9es irritent la censure de tout le monde, contre les \nactions de leur vie. On est ravi de d\u00e9couvrir ce qu\u2019il y peut avoir \u00e0 \nredire\u00a0; et pour tomber dans l\u2019exemple, il y avait l\u2019autre jour des\n Femmes \u00e0 cette Com\u00e9die, vis-\u00e0-vis de la Loge o\u00f9 nous \u00e9tions, qui par \nles mines qu\u2019elles affect\u00e8rent durant toute la Pi\u00e8ce\u00a0; leurs \nd\u00e9tournements de t\u00eate\u00a0; et leurs cachements de visage, firent dire \nde tous c\u00f4t\u00e9s cent sottises de leur conduite, que l\u2019on n\u2019aurait pas \ndites sans cela\u00a0; et quelqu\u2019un m\u00eame des Laquais cria tout haut, \nqu\u2019elles \u00e9taient plus chastes des oreilles que de tout le reste du \ncorps."
+                                    }
+                                },
+                                "I03-50": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Enfin il faut \u00eatre aveugle dans cette Pi\u00e8ce, et ne pas faire semblant d\u2019y voir les choses."
+                                    }
+                                },
+                                "I03-51": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Il ne faut pas y vouloir voir ce qui n\u2019y est pas."
+                                    }
+                                },
+                                "I03-52": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Ah\u00a0! je soutiens, encore un coup, que les salet\u00e9s y cr\u00e8vent les yeux."
+                                    }
+                                },
+                                "I03-53": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Et moi, je ne demeure pas d\u2019accord de cela."
+                                    }
+                                },
+                                "I03-54": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Quoi la pudeur n\u2019est pas visiblement bless\u00e9e par ce que dit Agn\u00e8s dans l\u2019endroit dont nous parlons\u00a0?"
+                                    }
+                                },
+                                "I03-55": {
+                                    "personnage": "Uranie ",
+                                    "vers": {
+                                        "0": "Non vraiment. Elle ne dit pas un mot,\n qui de soi ne soit fort honn\u00eate\u00a0; et si vous voulez entendre \ndessous quelque autre chose, c\u2019est vous qui faites l\u2019ordure, et non pas \nelle\u00a0; puisqu\u2019elle parle seulement d\u2019un ruban qu\u2019on lui a pris."
+                                    }
+                                },
+                                "I03-56": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Ah\u00a0! ruban, tant qu\u2019il vous plaira\u00a0; mais ce le o\u00f9 elle s\u2019arr\u00eate, n\u2019est pas mis pour des prunes. Il vient sur ce le d\u2019\u00e9tranges pens\u00e9es. Ce le scandalise furieusement\u00a0; et quoi que vous puissiez dire, vous ne sauriez d\u00e9fendre l\u2019insolence de ce le."
+                                    }
+                                },
+                                "I03-57": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Il est vrai, ma cousine\u00a0; je suis pour Madame contre ce le. Ce le est insolent au dernier point. Et vous avez tort de d\u00e9fendre ce le."
+                                    }
+                                },
+                                "I03-58": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Il a une obsc\u00e9nit\u00e9 qui n\u2019est pas supportable."
+                                    }
+                                },
+                                "I03-59": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Comment dites-vous ce mot-l\u00e0, Madame\u00a0?"
+                                    }
+                                },
+                                "I03-60": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Obsc\u00e9nit\u00e9, Madame."
+                                    }
+                                },
+                                "I03-61": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Ah\u00a0! mon Dieu\u00a0! obsc\u00e9nit\u00e9. Je ne sais ce que ce mot veut dire\u00a0; mais je le trouve le plus joli du monde."
+                                    }
+                                },
+                                "I03-62": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Enfin vous voyez, comme votre sang prend mon parti."
+                                    }
+                                },
+                                "I03-63": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Eh\u00a0! mon Dieu\u00a0; c\u2019est une \ncauseuse, qui ne dit pas ce qu\u2019elle pense. Ne vous y fiez pas beaucoup, \nsi vous m\u2019en voulez croire."
+                                    }
+                                },
+                                "I03-64": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Ah\u00a0! que vous \u00eates m\u00e9chante, de \nme vouloir rendre suspecte \u00e0 Madame. Voyez un peu o\u00f9 j\u2019en serais, si \nelle allait croire ce que vous dites. Serais-je si malheureuse, Madame, \nque vous eussiez de moi cette pens\u00e9e\u00a0?"
+                                    }
+                                },
+                                "I03-65": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Non, non, je ne m\u2019arr\u00eate pas \u00e0 ses paroles, et je vous crois plus sinc\u00e8re, qu\u2019elle ne dit."
+                                    }
+                                },
+                                "I03-66": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Ah\u00a0! que vous avez bien raison, \nMadame\u00a0; et que vous me rendrez justice, quand vous croirez que je \nvous trouve la plus engageante personne du monde\u00a0; que j\u2019entre dans\n tous vos sentiments, et suis charm\u00e9e de toutes les expressions, qui \nsortent de votre bouche."
+                                    }
+                                },
+                                "I03-67": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "H\u00e9las\u00a0! je parle sans affectation."
+                                    }
+                                },
+                                "I03-68": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "On le voit bien, Madame, et que tout \nest naturel en vous. Vos paroles, le ton de votre voix, vos regards, vos\n pas, votre action, et votre ajustement ont je ne sais quel air de \nqualit\u00e9, qui enchante les gens. Je vous \u00e9tudie des yeux et des \noreilles\u00a0; et je suis si remplie de vous, que je t\u00e2che d\u2019\u00eatre votre\n singe, et de vous contrefaire en tout."
+                                    }
+                                },
+                                "I03-69": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Vous vous moquez de moi, Madame."
+                                    }
+                                },
+                                "I03-70": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Pardonnez-moi, Madame. Qui voudrait se moquer de vous\u00a0?"
+                                    }
+                                },
+                                "I03-71": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Je ne suis pas un bon mod\u00e8le, Madame."
+                                    }
+                                },
+                                "I03-72": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Oh que si, Madame."
+                                    }
+                                },
+                                "I03-73": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Vous me flattez, Madame."
+                                    }
+                                },
+                                "I03-74": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Point du tout, Madame."
+                                    }
+                                },
+                                "I03-75": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "\u00c9pargnez-moi, s\u2019il vous pla\u00eet, Madame."
+                                    }
+                                },
+                                "I03-76": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Je vous \u00e9pargne aussi, Madame\u00a0; et je ne dis pas la moiti\u00e9 de ce que je pense, Madame."
+                                    }
+                                },
+                                "I03-77": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Ah mon Dieu\u00a0! brisons l\u00e0, de gr\u00e2ce\u00a0: vous me jetteriez dans une confusion \u00e9pouvantable.",
+                                        "1": "Enfin nous voil\u00e0 deux contre vous, et l\u2019opini\u00e2tret\u00e9 sied si mal aux personnes spirituelles\u2026"
+                                    }
+                                }
+                            }
+                        },
+                        "I04": {
+                            "title": "Sc\u00e8ne IV",
+                            "repliques": {
+                                "I04-1": {
+                                    "personnage": "Galopin",
+                                    "vers": {
+                                        "0": "Arr\u00eatez, s\u2019il vous pla\u00eet, Monsieur."
+                                    }
+                                },
+                                "I04-2": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Tu ne me connais pas, sans doute."
+                                    }
+                                },
+                                "I04-3": {
+                                    "personnage": "Galopin",
+                                    "vers": {
+                                        "0": "Si fait, je vous connais\u00a0; mais vous n\u2019entrerez pas."
+                                    }
+                                },
+                                "I04-4": {
+                                    "personnage": "Le Marquis ",
+                                    "vers": {
+                                        "0": "Ah que de bruit, petit laquais\u00a0!"
+                                    }
+                                },
+                                "I04-5": {
+                                    "personnage": "Galopin",
+                                    "vers": {
+                                        "0": "Cela n\u2019est pas bien de vouloir entrer malgr\u00e9 les gens."
+                                    }
+                                },
+                                "I04-6": {
+                                    "personnage": "Le Marquis ",
+                                    "vers": {
+                                        "0": "Je veux voir ta Ma\u00eetresse."
+                                    }
+                                },
+                                "I04-7": {
+                                    "personnage": "Galopin",
+                                    "vers": {
+                                        "0": "Elle n\u2019y est pas, vous dis-je."
+                                    }
+                                },
+                                "I04-8": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "La voil\u00e0 dans la chambre."
+                                    }
+                                },
+                                "I04-9": {
+                                    "personnage": "Galopin",
+                                    "vers": {
+                                        "0": "Il est vrai, la voil\u00e0\u00a0; mais elle n\u2019y est pas."
+                                    }
+                                },
+                                "I04-10": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Qu\u2019est-ce donc qu\u2019il y a l\u00e0\u00a0?"
+                                    }
+                                },
+                                "I04-11": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "C\u2019est votre laquais, Madame, qui fait le sot."
+                                    }
+                                },
+                                "I04-12": {
+                                    "personnage": "Galopin",
+                                    "vers": {
+                                        "0": "Je lui dis que vous n\u2019y \u00eates pas, Madame, et il ne veut pas laisser d\u2019entrer."
+                                    }
+                                },
+                                "I04-13": {
+                                    "personnage": "Uranie ",
+                                    "vers": {
+                                        "0": "Et pourquoi dire \u00e0 Monsieur que je n\u2019y suis pas\u00a0?"
+                                    }
+                                },
+                                "I04-14": {
+                                    "personnage": "Galopin",
+                                    "vers": {
+                                        "0": "Vous me grond\u00e2tes l\u2019autre jour, de lui avoir dit que vous y \u00e9tiez."
+                                    }
+                                },
+                                "I04-15": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Voyez cet insolent\u00a0! Je vous \nprie, Monsieur, de ne pas croire ce qu\u2019il dit\u00a0: c\u2019est un petit \n\u00e9cervel\u00e9, qui vous a pris pour un autre."
+                                    }
+                                },
+                                "I04-16": {
+                                    "personnage": "Le Marquis ",
+                                    "vers": {
+                                        "0": "Je l\u2019ai bien vu, Madame\u00a0; et sans votre respect, je lui aurais appris \u00e0 conna\u00eetre les gens de qualit\u00e9."
+                                    }
+                                },
+                                "I04-17": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Ma cousine vous est fort oblig\u00e9e de cette d\u00e9f\u00e9rence."
+                                    }
+                                },
+                                "I04-18": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Un si\u00e8ge donc, impertinent."
+                                    }
+                                },
+                                "I04-19": {
+                                    "personnage": "Galopin",
+                                    "vers": {
+                                        "0": "N\u2019en voil\u00e0-t-il pas un\u00a0?"
+                                    }
+                                },
+                                "I04-20": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Approchez-le."
+                                    }
+                                },
+                                "I04-21": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Votre petit laquais, Madame, a du m\u00e9pris pour ma personne."
+                                    }
+                                },
+                                "I04-22": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Il aurait tort, sans doute."
+                                    }
+                                },
+                                "I04-23": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "C\u2019est peut-\u00eatre que je paie l\u2019int\u00e9r\u00eat de ma mauvaise mine\u00a0: hay, hay, hay, hay."
+                                    }
+                                },
+                                "I04-24": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "L\u2019\u00e2ge le rendra plus \u00e9clair\u00e9 en honn\u00eates gens."
+                                    }
+                                },
+                                "I04-25": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Sur quoi en \u00e9tiez-vous, Mesdames, lorsque je vous ai interrompues\u00a0?"
+                                    }
+                                },
+                                "I04-26": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Sur la Com\u00e9die de L\u2019\u00c9cole des Femmes."
+                                    }
+                                },
+                                "I04-27": {
+                                    "personnage": "Le Marquis ",
+                                    "vers": {
+                                        "0": "Je ne fais que d\u2019en sortir."
+                                    }
+                                },
+                                "I04-28": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Eh bien, Monsieur, comment la trouvez-vous, s\u2019il vous pla\u00eet\u00a0?"
+                                    }
+                                },
+                                "I04-29": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Tout \u00e0 fait impertinente."
+                                    }
+                                },
+                                "I04-30": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Ah que j\u2019en suis ravie\u00a0!"
+                                    }
+                                },
+                                "I04-31": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "C\u2019est la plus m\u00e9chante chose du \nmonde. Comment, diable\u00a0! \u00e0 peine ai-je pu trouver place. J\u2019ai pens\u00e9\n \u00eatre \u00e9touff\u00e9 \u00e0 la porte\u00a0; et jamais on ne m\u2019a tant march\u00e9 sur les \npieds. Voyez comme mes canons, et mes rubans en sont ajust\u00e9s, de gr\u00e2ce."
+                                    }
+                                },
+                                "I04-32": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Il est vrai que cela crie vengeance contre L\u2019\u00c9cole des Femmes, et que vous la condamnez avec justice."
+                                    }
+                                },
+                                "I04-33": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Il ne s\u2019est jamais fait, je pense, une si m\u00e9chante com\u00e9die."
+                                    }
+                                },
+                                "I04-34": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Ah\u00a0! voici Dorante que nous attendions."
+                                    }
+                                }
+                            }
+                        },
+                        "I05": {
+                            "title": "Sc\u00e8ne V",
+                            "repliques": {
+                                "I05-1": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Ne bougez, de gr\u00e2ce, et n\u2019interrompez\n point votre discours. Vous \u00eates l\u00e0 sur une mati\u00e8re, qui depuis quatre \njours fait presque l\u2019entretien de toutes les maisons de Paris\u00a0; et \njamais on n\u2019a rien vu de si plaisant, que la diversit\u00e9 des jugements, \nqui se font l\u00e0-dessus. Car enfin, j\u2019ai ou\u00ef condamner cette Com\u00e9die \u00e0 \ncertaines gens, par les m\u00eames choses, que j\u2019ai vu d\u2019autres estimer le \nplus."
+                                    }
+                                },
+                                "I05-2": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Voil\u00e0 Monsieur le Marquis, qui en dit force mal."
+                                    }
+                                },
+                                "I05-3": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Il est vrai, je la trouve d\u00e9testable\u00a0; morbleu d\u00e9testable du dernier d\u00e9testable\u00a0; ce qu\u2019on appelle d\u00e9testable."
+                                    }
+                                },
+                                "I05-4": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Et moi, mon cher Marquis, je trouve le jugement d\u00e9testable."
+                                    }
+                                },
+                                "I05-5": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Quoi Chevalier, est-ce que tu pr\u00e9tends soutenir cette Pi\u00e8ce\u00a0?"
+                                    }
+                                },
+                                "I05-6": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Oui je pr\u00e9tends la soutenir."
+                                    }
+                                },
+                                "I05-7": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Parbleu, je la garantis d\u00e9testable."
+                                    }
+                                },
+                                "I05-8": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "La caution n\u2019est pas Bourgeoise. Mais, Marquis, par quelle raison, de gr\u00e2ce, cette Com\u00e9die est-elle ce que tu dis\u00a0?"
+                                    }
+                                },
+                                "I05-9": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Pourquoi elle est d\u00e9testable\u00a0?"
+                                    }
+                                },
+                                "I05-10": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Oui."
+                                    }
+                                },
+                                "I05-11": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Elle est d\u00e9testable, parce qu\u2019elle est d\u00e9testable."
+                                    }
+                                },
+                                "I05-12": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Apr\u00e8s cela, il n\u2019y a plus rien \u00e0 \ndire\u00a0: voil\u00e0 son proc\u00e8s fait. Mais encore instruis-nous, et nous \ndis les d\u00e9fauts qui y sont."
+                                    }
+                                },
+                                "I05-13": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Que sais-je moi\u00a0? je ne me suis \npas seulement donn\u00e9 la peine de l\u2019\u00e9couter. Mais enfin je sais bien que \nje n\u2019ai jamais rien vu de si m\u00e9chant, Dieu me damne\u00a0; et Dorilas, \ncontre qui j\u2019\u00e9tais a \u00e9t\u00e9 de mon avis."
+                                    }
+                                },
+                                "I05-14": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "L\u2019autorit\u00e9 est belle, et te voil\u00e0 bien appuy\u00e9."
+                                    }
+                                },
+                                "I05-15": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Il ne faut que voir les continuels \n\u00e9clats de rire que le Parterre y fait\u00a0: je ne veux point d\u2019autre \nchose, pour t\u00e9moigner qu\u2019elle ne vaut rien."
+                                    }
+                                },
+                                "I05-16": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Tu es donc, Marquis, de ces Messieurs\n du bel air, qui ne veulent pas que le Parterre ait du sens commun, et \nqui seraient f\u00e2ch\u00e9s d\u2019avoir ri avec lui, f\u00fbt-ce de la meilleure chose du\n monde\u00a0? Je vis l\u2019autre jour sur le Th\u00e9\u00e2tre un de nos amis qui se \nrendit ridicule par l\u00e0. Il \u00e9couta toute la Pi\u00e8ce avec un s\u00e9rieux le plus\n sombre du monde\u00a0: et tout ce qui \u00e9gayait les autres ridait son \nfront. \u00c0 tous les \u00e9clats de ris\u00e9e, il haussait les \u00e9paules, et regardait\n le Parterre en piti\u00e9\u00a0; et quelquefois aussi le regardant avec \nd\u00e9pit, il lui disait tout haut, Ris donc, Parterre, ris donc.\n Ce fut une seconde Com\u00e9die, que le chagrin de notre ami\u00a0; il la \ndonna en galant homme \u00e0 toute l\u2019assembl\u00e9e\u00a0; et chacun demeura \nd\u2019accord qu\u2019on ne pouvait pas mieux jouer, qu\u2019il fit. Apprends, Marquis,\n je te prie, et les autres aussi, que le bon sens n\u2019a point de place \nd\u00e9termin\u00e9e \u00e0 la Com\u00e9die\u00a0; que la diff\u00e9rence du demi-Louis d\u2019or, et \nde la pi\u00e8ce de quinze sols, ne fait rien du tout au bon go\u00fbt\u00a0; que \ndebout et assis on peut donner un mauvais jugement\u00a0; et qu\u2019enfin, \u00e0\n le prendre en g\u00e9n\u00e9ral, je me fierais assez \u00e0 l\u2019approbation du Parterre,\n par la raison qu\u2019entre ceux qui le composent, il y en a plusieurs qui \nsont capables de juger d\u2019une pi\u00e8ce selon les r\u00e8gles, et que les autres \nen jugent par la bonne fa\u00e7on d\u2019en juger, qui est de se laisser prendre \naux choses, et de n\u2019avoir ni pr\u00e9vention aveugle, ni complaisance \naffect\u00e9e, ni d\u00e9licatesse ridicule."
+                                    }
+                                },
+                                "I05-17": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Te voil\u00e0 donc, Chevalier, le \nd\u00e9fenseur du Parterre\u00a0? Parbleu, je m\u2019en r\u00e9jouis, et je ne \nmanquerai pas de l\u2019avertir, que tu es de ses amis. Hay, hay, hay, hay, \nhay, hay."
+                                    }
+                                },
+                                "I05-18": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Ris tant que tu voudras\u00a0; je \nsuis pour le bon sens, et ne saurais souffrir les \u00e9bullitions de cerveau\n de nos marquis de Mascarille. J\u2019enrage de voir de ces gens qui se \ntraduisent en ridicules, malgr\u00e9 leur qualit\u00e9\u00a0; de ces gens qui \nd\u00e9cident toujours, et parlent hardiment de toutes choses, sans s\u2019y \nconna\u00eetre\u00a0; qui dans une Com\u00e9die se r\u00e9crieront aux m\u00e9chants \nendroits, et ne branleront pas \u00e0 ceux qui sont bons\u00a0; qui voyant un\n tableau, ou \u00e9coutant un concert de musique, bl\u00e2ment de m\u00eame, et louent \ntout \u00e0 contre-sens, prennent par o\u00f9 ils peuvent les termes de l\u2019Art \nqu\u2019ils attrapent, et ne manquent jamais de les estropier, et de les \nmettre hors de place. Eh\u00a0! Morbleu, Messieurs, taisez-vous, quand \nDieu ne vous a pas donn\u00e9 la connaissance d\u2019une chose\u00a0; n\u2019appr\u00eatez \npoint \u00e0 rire \u00e0 ceux qui vous entendent parler\u00a0; et songez qu\u2019en ne \ndisant mot, on croira, peut-\u00eatre, que vous \u00eates d\u2019habiles gens."
+                                    }
+                                },
+                                "I05-19": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Parbleu, Chevalier, tu le prends l\u00e0\u2026"
+                                    }
+                                },
+                                "I05-20": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Mon Dieu Marquis ce n\u2019est pas \u00e0 toi \nque je parle. C\u2019est \u00e0 une douzaine de messieurs qui d\u00e9shonorent les gens\n de Cour par leurs mani\u00e8res extravagantes, et font croire parmi le \npeuple que nous nous ressemblons tous. Pour moi je m\u2019en veux justifier, \nle plus qu\u2019il me sera possible\u00a0; et je les dauberai tant, en toutes\n rencontres, qu\u2019\u00e0 la fin ils se rendront sages."
+                                    }
+                                },
+                                "I05-21": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Dis-moi, un peu, Chevalier, crois-tu que Lysandre ait de l\u2019esprit\u00a0?"
+                                    }
+                                },
+                                "I05-22": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Oui, sans doute, et beaucoup."
+                                    }
+                                },
+                                "I05-23": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "C\u2019est une chose qu\u2019on ne peut pas nier."
+                                    }
+                                },
+                                "I05-24": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Demandez-lui ce qui lui semble de L\u2019\u00c9cole des Femmes\u00a0: vous verrez qu\u2019il vous dira, qu\u2019elle ne lui pla\u00eet pas."
+                                    }
+                                },
+                                "I05-25": {
+                                    "personnage": "Dorante ",
+                                    "vers": {
+                                        "0": "Eh mon Dieu\u00a0! il y en a beaucoup\n que le trop d\u2019esprit g\u00e2te\u00a0; qui voient mal les choses \u00e0 force de \nlumi\u00e8re\u00a0; et m\u00eame qui seraient bien f\u00e2ch\u00e9s d\u2019\u00eatre de l\u2019avis des \nautres, pour avoir la gloire de d\u00e9cider."
+                                    }
+                                },
+                                "I05-26": {
+                                    "personnage": "Uranie ",
+                                    "vers": {
+                                        "0": "Il est vrai\u00a0; notre ami est de \nces gens-l\u00e0, sans doute. Il veut \u00eatre le premier de son opinion, et \nqu\u2019on attende par respect son jugement. Toute approbation qui marche \navant la sienne est un attentat sur ses lumi\u00e8res, dont il se venge \nhautement en prenant le contraire parti. Il veut qu\u2019on le consulte sur \ntoutes les affaires d\u2019esprit\u00a0; et je suis s\u00fbre que si l\u2019Auteur lui \ne\u00fbt montr\u00e9 sa Com\u00e9die, avant que de la faire voir au public, il l\u2019e\u00fbt \ntrouv\u00e9e la plus belle du monde."
+                                    }
+                                },
+                                "I05-27": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Et que direz-vous de la Marquise \nAraminte, qui la publie partout pour \u00e9pouvantable, et dit qu\u2019elle n\u2019a pu\n jamais souffrir les ordures dont elle est pleine\u00a0?"
+                                    }
+                                },
+                                "I05-28": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Je dirai que cela est digne du \nCaract\u00e8re qu\u2019elle a pris\u00a0; et qu\u2019il y a des personnes, qui se \nrendent ridicules, pour vouloir avoir trop d\u2019honneur. Bien qu\u2019elle ait \nde l\u2019esprit, elle a suivi le mauvais exemple de celles, qui \u00e9tant sur le\n retour de l\u2019\u00e2ge, veulent remplacer de quelque chose ce qu\u2019elles voient \nqu\u2019elles perdent\u00a0; et pr\u00e9tendent que les grimaces d\u2019une pruderie \nscrupuleuse, leur tiendront lieu de jeunesse et de beaut\u00e9. Celle-ci \npousse l\u2019affaire plus avant qu\u2019aucune, et l\u2019habilet\u00e9 de son scrupule \nd\u00e9couvre des salet\u00e9s, o\u00f9 jamais personne n\u2019en avait vu. On tient qu\u2019il \nva, ce scrupule, jusques \u00e0 d\u00e9figurer notre langue, et qu\u2019il n\u2019y a point \npresque de mots, dont la s\u00e9v\u00e9rit\u00e9 de cette Dame ne veuille retrancher ou\n la t\u00eate, ou la queue, pour les syllabes d\u00e9shonn\u00eates qu\u2019elle y trouve."
+                                    }
+                                },
+                                "I05-29": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Vous \u00eates bien fou, Chevalier."
+                                    }
+                                },
+                                "I05-30": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Enfin, Chevalier, tu crois d\u00e9fendre ta Com\u00e9die, en faisant la satire de ceux qui la condamnent."
+                                    }
+                                },
+                                "I05-31": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Non pas\u00a0; mais je tiens que cette Dame se scandalise \u00e0 tort\u2026"
+                                    }
+                                },
+                                "I05-32": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Tout beau, Monsieur le Chevalier\u00a0: il pourrait y en avoir d\u2019autres qu\u2019elle, qui seraient dans les m\u00eames sentiments."
+                                    }
+                                },
+                                "I05-33": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Je sais bien que ce n\u2019est pas vous, au moins\u00a0; et que lorsque vous avez vu cette repr\u00e9sentation\u2026"
+                                    }
+                                },
+                                "I05-34": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Il est vrai, mais j\u2019ai chang\u00e9 d\u2019avis,\n et Madame sait appuyer le sien, par des raisons si convaincantes, \nqu\u2019elle m\u2019a entra\u00een\u00e9e de son c\u00f4t\u00e9."
+                                    }
+                                },
+                                "I05-35": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Ah\u00a0! Madame, je vous demande \npardon\u00a0; et si vous le voulez, je me d\u00e9dirai, pour l\u2019amour de vous,\n de tout ce que j\u2019ai dit."
+                                    }
+                                },
+                                "I05-36": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Je ne veux pas que ce soit pour \nl\u2019amour de moi\u00a0; mais pour l\u2019amour de la raison\u00a0: car enfin \ncette pi\u00e8ce, \u00e0 le bien prendre, est tout \u00e0 fait ind\u00e9fendable\u00a0; et \nje ne con\u00e7ois pas\u2026"
+                                    }
+                                },
+                                "I05-37": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Ah\u00a0! voici l\u2019auteur, Monsieur \nLysidas\u00a0: il vient tout \u00e0 propos, pour cette mati\u00e8re. Monsieur \nLysidas\u00a0; prenez un si\u00e8ge vous-m\u00eame, et vous mettez l\u00e0."
+                                    }
+                                }
+                            }
+                        },
+                        "I06": {
+                            "title": "Sc\u00e8ne VI",
+                            "repliques": {
+                                "I06-1": {
+                                    "personnage": "Lysidas",
+                                    "vers": {
+                                        "0": "Madame\u00a0; je viens un peu \ntard\u00a0; mais il m\u2019a fallu lire ma Pi\u00e8ce chez Madame la Marquise, \ndont je vous avais parl\u00e9\u00a0; et les louanges, qui lui ont \u00e9t\u00e9 \ndonn\u00e9es, m\u2019ont retenu une heure, plus que je ne croyais."
+                                    }
+                                },
+                                "I06-2": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "C\u2019est un grand charme que les louanges pour arr\u00eater un Auteur."
+                                    }
+                                },
+                                "I06-3": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Asseyez-vous donc, Monsieur Lysidas\u00a0; nous lirons votre Pi\u00e8ce apr\u00e8s souper."
+                                    }
+                                },
+                                "I06-4": {
+                                    "personnage": "Lysidas",
+                                    "vers": {
+                                        "0": "Tous ceux qui \u00e9taient l\u00e0, doivent venir \u00e0 sa premi\u00e8re repr\u00e9sentation, et m\u2019ont promis de faire leur devoir comme il faut."
+                                    }
+                                },
+                                "I06-5": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Je le crois\u00a0: mais, encore une \nfois asseyez-vous, s\u2019il vous pla\u00eet\u00a0: Nous sommes ici sur une \nmati\u00e8re que je serai bien aise que nous poussions."
+                                    }
+                                },
+                                "I06-6": {
+                                    "personnage": "Lysidas",
+                                    "vers": {
+                                        "0": "Je pense Madame, que vous retiendrez aussi une loge pour ce jour-l\u00e0."
+                                    }
+                                },
+                                "I06-7": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Nous verrons. Poursuivons de gr\u00e2ce notre discours."
+                                    }
+                                },
+                                "I06-8": {
+                                    "personnage": "Lysidas",
+                                    "vers": {
+                                        "0": "Je vous donne avis, Madame, qu\u2019elles sont presque toutes retenues."
+                                    }
+                                },
+                                "I06-9": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Voil\u00e0 qui est bien. Enfin j\u2019avais besoin de vous, lorsque vous \u00eates venu, et tout le monde \u00e9tait ici contre moi."
+                                    }
+                                },
+                                "I06-10": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Il s\u2019est mis d\u2019abord de votre c\u00f4t\u00e9, \nmais maintenant qu\u2019il sait que Madame est \u00e0 la t\u00eate du parti contraire, \nje pense que vous n\u2019avez qu\u2019\u00e0 chercher un autre secours."
+                                    }
+                                },
+                                "I06-11": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Non, non, je ne voudrais pas qu\u2019il \nf\u00eet mal sa Cour aupr\u00e8s de Madame votre cousine, et je permets \u00e0 son \nesprit d\u2019\u00eatre du parti de son c\u0153ur."
+                                    }
+                                },
+                                "I06-12": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Avec cette permission, Madame, je prendrai la hardiesse de me d\u00e9fendre."
+                                    }
+                                },
+                                "I06-13": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Mais auparavant sachons un peu les sentiments de Monsieur Lysidas."
+                                    }
+                                },
+                                "I06-14": {
+                                    "personnage": "Lysidas",
+                                    "vers": {
+                                        "0": "Sur quoi, Madame\u00a0?"
+                                    }
+                                },
+                                "I06-15": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Sur le sujet de L\u2019\u00c9cole des Femmes."
+                                    }
+                                },
+                                "I06-16": {
+                                    "personnage": "Lysidas",
+                                    "vers": {
+                                        "0": "Ha, ha."
+                                    }
+                                },
+                                "I06-17": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Que vous en semble."
+                                    }
+                                },
+                                "I06-18": {
+                                    "personnage": "Lysidas",
+                                    "vers": {
+                                        "0": "Je n\u2019ai rien \u00e0 dire l\u00e0-dessus\u00a0; \net vous savez qu\u2019entre nous autres Auteurs, nous devons parler des \nOuvrages les uns des autres, avec beaucoup de circonspection."
+                                    }
+                                },
+                                "I06-19": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Mais encore, entre nous, que pensez-vous de cette Com\u00e9die\u00a0?"
+                                    }
+                                },
+                                "I06-20": {
+                                    "personnage": "Lysidas ",
+                                    "vers": {
+                                        "0": "Moi, Monsieur\u00a0?"
+                                    }
+                                },
+                                "I06-21": {
+                                    "personnage": "Uranie ",
+                                    "vers": {
+                                        "0": "De bonne foi, dites-nous votre avis."
+                                    }
+                                },
+                                "I06-22": {
+                                    "personnage": "Lysidas",
+                                    "vers": {
+                                        "0": "Je la trouve fort belle."
+                                    }
+                                },
+                                "I06-23": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Assur\u00e9ment\u00a0?"
+                                    }
+                                },
+                                "I06-24": {
+                                    "personnage": "Lysidas",
+                                    "vers": {
+                                        "0": "Assur\u00e9ment\u00a0; pourquoi non\u00a0? N\u2019est-elle pas en effet la plus belle du monde\u00a0?"
+                                    }
+                                },
+                                "I06-25": {
+                                    "personnage": "Dorante ",
+                                    "vers": {
+                                        "0": "Hom, hom, vous \u00eates un m\u00e9chant diable, Monsieur Lysidas\u00a0; vous ne dites pas ce que vous pensez."
+                                    }
+                                },
+                                "I06-26": {
+                                    "personnage": "Lysidas",
+                                    "vers": {
+                                        "0": "Pardonnez-moi."
+                                    }
+                                },
+                                "I06-27": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Mon Dieu, je vous connais\u00a0; ne dissimulons point."
+                                    }
+                                },
+                                "I06-28": {
+                                    "personnage": "Lysidas",
+                                    "vers": {
+                                        "0": "Moi Monsieur\u00a0?"
+                                    }
+                                },
+                                "I06-29": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Je vois bien que le bien que vous \ndites de cette Pi\u00e8ce n\u2019est que par honn\u00eatet\u00e9\u00a0; et que dans le fond \ndu c\u0153ur, vous \u00eates de l\u2019avis de beaucoup de gens, qui la trouvent \nmauvaise."
+                                    }
+                                },
+                                "I06-30": {
+                                    "personnage": "Lysidas",
+                                    "vers": {
+                                        "0": "Hay, hay, hay."
+                                    }
+                                },
+                                "I06-31": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Avouez, ma foi, que c\u2019est une m\u00e9chante chose que cette Com\u00e9die."
+                                    }
+                                },
+                                "I06-32": {
+                                    "personnage": "Lysidas",
+                                    "vers": {
+                                        "0": "Il est vrai qu\u2019elle n\u2019est pas approuv\u00e9e par les Connaisseurs."
+                                    }
+                                },
+                                "I06-33": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Ma foi, Chevalier, tu en tiens, et te voil\u00e0 pay\u00e9 de ta raillerie, ah, ah, ah, ah, ah."
+                                    }
+                                },
+                                "I06-34": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Pousse, mon cher Marquis, pousse."
+                                    }
+                                },
+                                "I06-35": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Tu vois que nous avons les Savants de notre c\u00f4t\u00e9."
+                                    }
+                                },
+                                "I06-36": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Il est vrai, le jugement de Monsieur \nLysidas est quelque chose de consid\u00e9rable\u00a0; mais Monsieur Lysidas \nveut bien que je ne me rende pas pour cela. Et puisque j\u2019ai bien \nl\u2019audace de me d\u00e9fendre contre les sentiments de Madame, il ne trouvera \npas mauvais que je combatte les siens."
+                                    }
+                                },
+                                "I06-37": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Quoi vous voyez contre vous Madame, \nMonsieur le Marquis, et Monsieur Lysidas, et vous osez r\u00e9sister \nencore\u00a0? Fi que cela est de mauvaise gr\u00e2ce."
+                                    }
+                                },
+                                "I06-38": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Voil\u00e0 qui me confond, pour moi, que \ndes personnes raisonnables se puissent mettre en t\u00eate de donner \nprotection aux sottises de cette Pi\u00e8ce\u00a0!"
+                                    }
+                                },
+                                "I06-39": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Dieu me damne, Madame, elle est mis\u00e9rable depuis le commencement jusqu\u2019\u00e0 la fin."
+                                    }
+                                },
+                                "I06-40": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Cela est bient\u00f4t dit, Marquis\u00a0; \nil n\u2019est rien plus ais\u00e9 que de trancher ainsi, et je ne vois aucune \nchose, qui puisse \u00eatre \u00e0 couvert de la souverainet\u00e9 de tes d\u00e9cisions."
+                                    }
+                                },
+                                "I06-41": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Parbleu, tous les autres Com\u00e9diens qui \u00e9taient l\u00e0 pour la voir, en ont dit tous les maux du monde."
+                                    }
+                                },
+                                "I06-42": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Ah\u00a0! je ne dis plus mot, tu as \nraison, Marquis\u00a0; puisque les autres Com\u00e9diens en disent du mal, il\n faut les en croire assur\u00e9ment. Ce sont tous gens \u00e9clair\u00e9s, et qui \nparlent sans int\u00e9r\u00eat, il n\u2019y a plus rien \u00e0 dire, je me rends."
+                                    }
+                                },
+                                "I06-43": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Rendez-vous, ou ne vous rendez pas, \nje sais fort bien que vous ne me persuaderez point de souffrir les \nimmodesties de cette Pi\u00e8ce\u00a0; non plus que les satires \nd\u00e9sobligeantes qu\u2019on y voit contre les Femmes."
+                                    }
+                                },
+                                "I06-44": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Pour moi, je me garderai bien de m\u2019en\n offenser, et de prendre rien sur mon compte de tout ce qui s\u2019y dit. Ces\n sortes de satires tombent directement sur les m\u0153urs, et ne frappent les\n personnes que par r\u00e9flexion. N\u2019allons point nous appliquer nous-m\u00eames \nles traits d\u2019une censure g\u00e9n\u00e9rale\u00a0; et profitons de la le\u00e7on, si \nnous pouvons, sans faire semblant qu\u2019on parle \u00e0 nous. Toutes les \npeintures ridicules qu\u2019on expose sur les Th\u00e9\u00e2tres doivent \u00eatre regard\u00e9es\n sans chagrin de tout le monde. Ce sont miroirs publics o\u00f9 il ne faut \njamais t\u00e9moigner qu\u2019on se voie\u00a0; et c\u2019est se taxer hautement d\u2019un \nd\u00e9faut, que se scandaliser qu\u2019on le reprenne."
+                                    }
+                                },
+                                "I06-45": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Pour moi je ne parle pas de ces \nchoses, par la part que j\u2019y puisse avoir\u00a0; et je pense que je vis \nd\u2019un air dans le monde, \u00e0 ne pas craindre d\u2019\u00eatre cherch\u00e9e dans les \npeintures qu\u2019on fait l\u00e0 des femmes qui se gouvernent mal."
+                                    }
+                                },
+                                "I06-46": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Assur\u00e9ment, Madame, on ne vous y \ncherchera point\u00a0; votre conduite est assez connue\u00a0; et ce sont\n de ces sortes de choses qui ne sont contest\u00e9es de personne."
+                                    }
+                                },
+                                "I06-47": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Aussi, Madame, n\u2019ai-je rien dit qui \naille \u00e0 vous\u00a0; et mes paroles, comme les Satires de la Com\u00e9die, \ndemeurent dans la th\u00e8se g\u00e9n\u00e9rale."
+                                    }
+                                },
+                                "I06-48": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Je n\u2019en doute pas, Madame. Mais enfin\n passons sur ce chapitre. Je ne sais pas de quelle fa\u00e7on vous recevez \nles injures qu\u2019on dit \u00e0 notre sexe dans un certain endroit de la \npi\u00e8ce\u00a0; et pour moi je vous avoue que je suis dans une col\u00e8re \n\u00e9pouvantable, de voir que cet auteur impertinent nous appelle des animaux."
+                                    }
+                                },
+                                "I06-49": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Ne voyez-vous pas que c\u2019est un ridicule qu\u2019il fait parler\u00a0?"
+                                    }
+                                },
+                                "I06-50": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Et puis, Madame, ne savez-vous pas \nque les injures des Amants n\u2019offensent jamais\u00a0? qu\u2019il est des \namours emport\u00e9s aussi bien que des doucereux\u00a0? et qu\u2019en de \npareilles occasions les paroles les plus \u00e9tranges, et quelque chose de \npis encore, se prennent bien souvent pour des marques d\u2019affection par \ncelles m\u00eames qui les re\u00e7oivent\u00a0?"
+                                    }
+                                },
+                                "I06-51": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Dites tout ce que vous voudrez, je ne saurais dig\u00e9rer cela, non plus que le potage, et la tarte \u00e0 la cr\u00e8me, dont Madame a parl\u00e9 tant\u00f4t."
+                                    }
+                                },
+                                "I06-52": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Ah\u00a0! ma foi oui, tarte \u00e0 la cr\u00e8me. Voil\u00e0 ce que j\u2019avais remarqu\u00e9 tant\u00f4t\u00a0; tarte \u00e0 la cr\u00e8me. Que je vous suis oblig\u00e9, Madame, de m\u2019avoir fait souvenir de tarte \u00e0 la cr\u00e8me. Y a-t-il assez de pommes en Normandie pour tarte \u00e0 la cr\u00e8me\u00a0? Tarte \u00e0 la cr\u00e8me, morbleu, Tarte \u00e0 la cr\u00e8me\u00a0!"
+                                    }
+                                },
+                                "I06-53": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Eh bien que veux-tu dire, tarte \u00e0 la cr\u00e8me\u00a0?"
+                                    }
+                                },
+                                "I06-54": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Parbleu, tarte \u00e0 la cr\u00e8me, Chevalier."
+                                    }
+                                },
+                                "I06-55": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Mais encore\u00a0?"
+                                    }
+                                },
+                                "I06-56": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Tarte \u00e0 la cr\u00e8me."
+                                    }
+                                },
+                                "I06-57": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Dis-nous un peu tes raisons."
+                                    }
+                                },
+                                "I06-58": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Tarte \u00e0 la cr\u00e8me."
+                                    }
+                                },
+                                "I06-59": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Mais il faut expliquer sa pens\u00e9e, ce me semble."
+                                    }
+                                },
+                                "I06-60": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Tarte \u00e0 la cr\u00e8me, Madame."
+                                    }
+                                },
+                                "I06-61": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Que trouvez-vous l\u00e0 \u00e0 redire\u00a0?"
+                                    }
+                                },
+                                "I06-62": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Moi, rien\u00a0; tarte \u00e0 la cr\u00e8me."
+                                    }
+                                },
+                                "I06-63": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Ah\u00a0! je le quitte."
+                                    }
+                                },
+                                "I06-64": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Monsieur le Marquis s\u2019y prend bien, \net vous bourre de la belle mani\u00e8re. Mais je voudrais bien que Monsieur \nLysidas voul\u00fbt les achever, et leur donner quelques petits coups de sa \nfa\u00e7on."
+                                    }
+                                },
+                                "I06-65": {
+                                    "personnage": "Lysidas",
+                                    "vers": {
+                                        "0": "Ce n\u2019est pas ma coutume de rien \nbl\u00e2mer, et je suis assez indulgent pour les ouvrages des autres. Mais \nenfin, sans choquer l\u2019amiti\u00e9 que Monsieur le Chevalier t\u00e9moigne pour \nl\u2019Auteur, on m\u2019avouera que ces sortes de Com\u00e9dies ne sont pas proprement\n des Com\u00e9dies, et qu\u2019il y a une grande diff\u00e9rence de toutes ces \nbagatelles, \u00e0 la beaut\u00e9 des pi\u00e8ces s\u00e9rieuses. Cependant tout le monde \ndonne l\u00e0 dedans aujourd\u2019hui\u00a0; on ne court plus qu\u2019\u00e0 cela\u00a0; et \nl\u2019on voit une solitude effroyable aux grands ouvrages, lorsque des \nsottises ont tout Paris. Je vous avoue que le c\u0153ur m\u2019en saigne \nquelquefois, et cela est honteux pour la France."
+                                    }
+                                },
+                                "I06-66": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Il est vrai que le go\u00fbt des gens est \u00e9trangement g\u00e2t\u00e9 l\u00e0-dessus, et que le si\u00e8cle s\u2019encanaille furieusement."
+                                    }
+                                },
+                                "I06-67": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Celui-l\u00e0 est joli encore, s\u2019encanaille. Est-ce vous qui l\u2019avez invent\u00e9, Madame\u00a0?"
+                                    }
+                                },
+                                "I06-68": {
+                                    "personnage": "Clim\u00e8ne ",
+                                    "vers": {
+                                        "0": "H\u00e9\u00a0!"
+                                    }
+                                },
+                                "I06-69": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Je m\u2019en suis bien dout\u00e9e."
+                                    }
+                                },
+                                "I06-70": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Vous croyez donc, Monsieur Lysidas, \nque tout l\u2019esprit et toute la beaut\u00e9 sont dans les Po\u00e8mes s\u00e9rieux, et \nque les Pi\u00e8ces Comiques sont des niaiseries qui ne m\u00e9ritent aucune \nlouange\u00a0?"
+                                    }
+                                },
+                                "I06-71": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Ce n\u2019est pas mon sentiment, pour moi.\n La Trag\u00e9die, sans doute, est quelque chose de beau quand elle est bien \ntouch\u00e9e\u00a0; mais la Com\u00e9die a ses charmes, et je tiens que l\u2019une \nn\u2019est pas moins difficile \u00e0 faire que l\u2019autre."
+                                    }
+                                },
+                                "I06-72": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Assur\u00e9ment, Madame, et quand pour la \ndifficult\u00e9 vous mettriez un plus du c\u00f4t\u00e9 de la Com\u00e9die, peut-\u00eatre que \nvous ne vous abuseriez pas. Car enfin, je trouve qu\u2019il est bien plus \nais\u00e9 de se guinder sur de grands sentiments, de braver en Vers la \nFortune, accuser les Destins, et dire des injures aux Dieux, que \nd\u2019entrer comme il faut dans le ridicule des hommes, et de rendre \nagr\u00e9ablement sur le Th\u00e9\u00e2tre les d\u00e9fauts de tout le monde. Lorsque vous \npeignez des H\u00e9ros, vous faites ce que vous voulez\u00a0; ce sont des \nportraits \u00e0 plaisir, o\u00f9 l\u2019on ne cherche point de ressemblance\u00a0; et \nvous n\u2019avez qu\u2019\u00e0 suivre les traits d\u2019une imagination qui se donne \nl\u2019essor, et qui souvent laisse le vrai pour attraper le merveilleux. \nMais lorsque vous peignez les hommes, il faut peindre d\u2019apr\u00e8s \nNature\u00a0; on veut que ces portraits ressemblent\u00a0; et vous \nn\u2019avez rien fait si vous n\u2019y faites reconna\u00eetre les gens de votre \nsi\u00e8cle. En un mot, dans les pi\u00e8ces s\u00e9rieuses, il suffit, pour n\u2019\u00eatre \npoint bl\u00e2m\u00e9, de dire des choses qui soient de bon sens, et bien \n\u00e9crites\u00a0: Mais ce n\u2019est pas assez dans les autres\u00a0; il y faut \nplaisanter\u00a0; et c\u2019est une \u00e9trange entreprise que celle de faire \nrire les honn\u00eates gens."
+                                    }
+                                },
+                                "I06-73": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Je crois \u00eatre du nombre des honn\u00eates gens, et cependant je n\u2019ai pas trouv\u00e9 le mot pour rire dans tout ce que j\u2019ai vu."
+                                    }
+                                },
+                                "I06-74": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Ma foi, ni moi non plus."
+                                    }
+                                },
+                                "I06-75": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Pour toi, Marquis, je ne m\u2019en \u00e9tonne pas\u00a0; c\u2019est que tu n\u2019y as point trouv\u00e9 de Turlupinades."
+                                    }
+                                },
+                                "I06-76": {
+                                    "personnage": "Lysidas",
+                                    "vers": {
+                                        "0": "Ma foi, Monsieur, ce qu\u2019on y rencontre ne vaut gu\u00e8re mieux, et toutes les plaisanteries y sont assez froides, \u00e0 mon avis."
+                                    }
+                                },
+                                "I06-77": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "La Cour n\u2019a pas trouv\u00e9 cela."
+                                    }
+                                },
+                                "I06-78": {
+                                    "personnage": "Lysidas",
+                                    "vers": {
+                                        "0": "Ah\u00a0! Monsieur, la Cour."
+                                    }
+                                },
+                                "I06-79": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Achevez, Monsieur Lysidas. Je vois \nbien que vous voulez dire que la Cour ne se conna\u00eet pas \u00e0 ces \nchoses\u00a0; et c\u2019est le refuge ordinaire de vous autres Messieurs les \nAuteurs, dans le mauvais succ\u00e8s de vos ouvrages, que d\u2019accuser \nl\u2019injustice du si\u00e8cle, et le peu de lumi\u00e8re des Courtisans. Sachez, s\u2019il\n vous pla\u00eet, Monsieur Lysidas, que les Courtisans ont d\u2019aussi bons yeux \nque d\u2019autres\u00a0; qu\u2019on peut \u00eatre habile avec un point de Venise, et \ndes plumes, aussi bien qu\u2019avec une perruque courte, et un petit rabat \nuni\u00a0: que la grande \u00e9preuve de toutes vos Com\u00e9dies, c\u2019est le \njugement de la Cour\u00a0; que c\u2019est son go\u00fbt qu\u2019il faut \u00e9tudier pour \ntrouver l\u2019art de r\u00e9ussir\u00a0; qu\u2019il n\u2019y a point de lieu o\u00f9 les \nd\u00e9cisions soient si justes\u00a0; et sans mettre en ligne de compte tous\n les gens savants qui y sont, que du simple bon sens naturel et du \ncommerce de tout le beau monde, on s\u2019y fait une mani\u00e8re d\u2019esprit, qui, \nsans comparaison, juge plus finement des choses, que tout le savoir \nenrouill\u00e9 des P\u00e9dants."
+                                    }
+                                },
+                                "I06-80": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Il est vrai que pour peu qu\u2019on y \ndemeure, il vous passe l\u00e0 tous les jours assez de choses devant les \nyeux, pour acqu\u00e9rir quelque habitude de les conna\u00eetre, et surtout pour \nce qui est de la bonne et mauvaise plaisanterie."
+                                    }
+                                },
+                                "I06-81": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "La Cour a quelques ridicules, j\u2019en \ndemeure d\u2019accord, et je suis, comme on voit, le premier \u00e0 les fronder. \nMais, ma foi, il y en a un grand nombre parmi les beaux Esprits de \nprofession\u00a0; et si l\u2019on joue quelques Marquis, je trouve qu\u2019il y a \nbien plus de quoi jouer les Auteurs, et que ce serait une chose \nplaisante \u00e0 mettre sur le Th\u00e9\u00e2tre, que leurs grimaces savantes, et leurs\n raffinements ridicules\u00a0; leur vicieuse coutume d\u2019assassiner les \ngens de leurs ouvrages\u00a0; leur friandise de louanges\u00a0; leurs \nm\u00e9nagements de pens\u00e9es\u00a0; leur trafic de r\u00e9putation\u00a0; et leurs \nligues offensives et d\u00e9fensives\u00a0; aussi bien que leurs guerres \nd\u2019esprit, et leurs combats de Prose, et de Vers."
+                                    }
+                                },
+                                "I06-82": {
+                                    "personnage": "Lysidas",
+                                    "vers": {
+                                        "0": "Moli\u00e8re est bien heureux, Monsieur, \nd\u2019avoir un protecteur aussi chaud que vous. Mais enfin, pour venir au \nfait, il est question de savoir si sa pi\u00e8ce est bonne, et je m\u2019offre d\u2019y\n montrer partout cent d\u00e9fauts visibles."
+                                    }
+                                },
+                                "I06-83": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "C'est une \u00e9trange chose de vous \nautres Messieurs les Po\u00e8tes, que vous condamniez toujours les Pi\u00e8ces o\u00f9 \ntout le monde court, et ne disiez jamais du bien que de celles o\u00f9 \npersonne ne va. Vous montrez pour les unes une haine invincible, et pour\n les autres une tendresse qui n\u2019est pas concevable."
+                                    }
+                                },
+                                "I06-84": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "C\u2019est qu\u2019il est g\u00e9n\u00e9reux de se ranger du c\u00f4t\u00e9 des afflig\u00e9s."
+                                    }
+                                },
+                                "I06-85": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Mais de gr\u00e2ce, Monsieur Lysidas, faites-nous voir ces d\u00e9fauts, dont je ne me suis point aper\u00e7ue."
+                                    }
+                                },
+                                "I06-86": {
+                                    "personnage": "Lysidas",
+                                    "vers": {
+                                        "0": "Ceux qui poss\u00e8dent Aristote et Horace voient d\u2019abord, Madame, que cette com\u00e9die p\u00e8che contre toutes les r\u00e8gles de l\u2019art."
+                                    }
+                                },
+                                "I06-87": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Je vous avoue que je n\u2019ai aucune habitude avec ces Messieurs-l\u00e0, et que je ne sais point les r\u00e8gles de l\u2019art."
+                                    }
+                                },
+                                "I06-88": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Vous \u00eates de plaisantes gens avec vos\n r\u00e8gles dont vous embarrassez les ignorants, et nous \u00e9tourdissez tous \nles jours. Il semble, \u00e0 vous ou\u00efr parler, que ces r\u00e8gles de l\u2019art soient\n les plus grands Myst\u00e8res du monde, et cependant ce ne sont que quelques\n observations ais\u00e9es que le bon sens a faites sur ce qui peut \u00f4ter le \nplaisir que l\u2019on prend \u00e0 ces sortes de Po\u00e8mes\u00a0; et le m\u00eame bon sens\n qui a fait autrefois ces observations, les fait ais\u00e9ment tous les \njours, sans le secours d\u2019Horace et d\u2019Aristote. Je voudrais bien savoir \nsi la grande r\u00e8gle de toutes les r\u00e8gles n\u2019est pas de plaire\u00a0; et si\n une pi\u00e8ce de Th\u00e9\u00e2tre qui a attrap\u00e9 son but n\u2019a pas suivi un bon chemin.\n Veut-on que tout un public s\u2019abuse sur ces sortes de choses, et que \nchacun n\u2019y soit pas juge du plaisir qu\u2019il y prend\u00a0?"
+                                    }
+                                },
+                                "I06-89": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "J\u2019ai remarqu\u00e9 une chose de ces \nMessieurs-l\u00e0\u00a0; c\u2019est que ceux qui parlent le plus des r\u00e8gles, et \nqui les savent mieux que les autres, font des Com\u00e9dies que personne ne \ntrouve belles."
+                                    }
+                                },
+                                "I06-90": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Et c\u2019est ce qui marque, Madame, comme\n on doit s\u2019arr\u00eater peu \u00e0 leurs disputes embarrass\u00e9es. Car enfin, si les \npi\u00e8ces qui sont selon les r\u00e8gles ne plaisent pas, et que celles qui \nplaisent ne soient pas selon les r\u00e8gles, il faudrait de n\u00e9cessit\u00e9 que \nles r\u00e8gles eussent \u00e9t\u00e9 mal faites. Moquons-nous donc de cette chicane o\u00f9\n ils veulent assujettir le go\u00fbt du public, et ne consultons dans une \nCom\u00e9die que l\u2019effet qu\u2019elle fait sur nous. Laissons-nous aller de bonne \nfoi aux choses qui nous prennent par les entrailles, et ne cherchons \npoint de raisonnements pour nous emp\u00eacher d\u2019avoir du plaisir."
+                                    }
+                                },
+                                "I06-91": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Pour moi, quand je vois une Com\u00e9die, \nje regarde seulement si les choses me touchent, et lorsque je m\u2019y suis \nbien divertie, je ne vais point demander si j\u2019ai eu tort, et si les \nr\u00e8gles d\u2019Aristote me d\u00e9fendaient de rire."
+                                    }
+                                },
+                                "I06-92": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "C\u2019est justement comme un homme qui \naurait trouv\u00e9 une sauce, excellente, et qui voudrait examiner si elle \nest bonne, sur les pr\u00e9ceptes du Cuisinier fran\u00e7ais."
+                                    }
+                                },
+                                "I06-93": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Il est vrai\u00a0; et j\u2019admire les raffinements de certaines gens sur des choses que nous devons sentir par nous-m\u00eames."
+                                    }
+                                },
+                                "I06-94": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Vous avez raison Madame, de les \ntrouver \u00e9tranges tous ces raffinements myst\u00e9rieux. Car enfin, s\u2019ils ont \nlieu, nous voil\u00e0 r\u00e9duits \u00e0 ne nous plus croire\u00a0; nos propres sens \nseront esclaves en toutes choses\u00a0; et jusques au manger et au \nboire, nous n\u2019oserons plus trouver rien de bon, sans le cong\u00e9 de \nmessieurs les experts."
+                                    }
+                                },
+                                "I06-95": {
+                                    "personnage": "Lysidas",
+                                    "vers": {
+                                        "0": "Enfin, Monsieur, toute votre raison, c\u2019est que L\u2019\u00c9cole des Femmes a plu\u00a0; et vous ne vous souciez point qu\u2019elle soit dans les r\u00e8gles pourvu\u2026"
+                                    }
+                                },
+                                "I06-96": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Tout beau, Monsieur Lysidas, je ne \nvous accorde pas cela. Je dis bien que le grand art est de plaire, et \nque cette Com\u00e9die ayant plu \u00e0 ceux pour qui elle est faite, je trouve \nque c\u2019est assez pour elle, et qu\u2019elle doit peu se soucier du reste. Mais\n avec cela, je soutiens qu\u2019elle ne p\u00e8che contre aucune des r\u00e8gles dont \nvous parlez. Je les ai lues, Dieu merci, autant qu\u2019un autre, et je \nferais voir ais\u00e9ment que peut-\u00eatre, n\u2019avons-nous point de pi\u00e8ce au \nTh\u00e9\u00e2tre plus r\u00e9guli\u00e8re que celle-l\u00e0."
+                                    }
+                                },
+                                "I06-97": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Courage, Monsieur Lysidas, nous sommes perdus si vous reculez."
+                                    }
+                                },
+                                "I06-98": {
+                                    "personnage": "Lysidas",
+                                    "vers": {
+                                        "0": "Quoi, Monsieur, la Protase, l\u2019\u00c9pitase, et la P\u00e9rip\u00e9tie\u00a0?\u2026"
+                                    }
+                                },
+                                "I06-99": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Ah\u00a0! Monsieur Lysidas, vous nous\n assommez avec vos grands mots. Ne paraissez point si savant, de \ngr\u00e2ce\u00a0; humanisez votre discours, et parlez pour \u00eatre entendu. \nPensez-vous qu\u2019un nom grec donne plus de poids \u00e0 vos raisons\u00a0? Et \nne trouveriez-vous pas qu\u2019il f\u00fbt aussi beau de dire, l\u2019exposition du \nsujet, que la Protase\u00a0; le n\u0153ud, que l\u2019\u00c9pitase\u00a0; et le \nd\u00e9nouement, que la P\u00e9rip\u00e9tie\u00a0?"
+                                    }
+                                },
+                                "I06-100": {
+                                    "personnage": "Lysidas",
+                                    "vers": {
+                                        "0": "Ce sont termes de l\u2019art dont il est \npermis de se servir. Mais puisque ces mots blessent vos oreilles, je \nm\u2019expliquerai d\u2019une autre fa\u00e7on, et je vous prie de r\u00e9pondre \npositivement \u00e0 trois ou quatre choses que je vais dire. Peut-on souffrir\n une pi\u00e8ce qui p\u00e8che contre le nom propre des pi\u00e8ces de Th\u00e9\u00e2tre\u00a0? \nCar enfin le nom de po\u00e8me Dramatique vient d\u2019un mot grec, qui signifie \nagir, pour montrer que la nature de ce po\u00e8me consiste dans \nl\u2019action\u00a0; et dans cette com\u00e9die-ci il ne se passe point d\u2019actions,\n et tout consiste en des r\u00e9cits que vient faire ou Agn\u00e8s ou Horace."
+                                    }
+                                },
+                                "I06-101": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Ah, ah, Chevalier."
+                                    }
+                                },
+                                "I06-102": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Voil\u00e0 qui est spirituellement remarqu\u00e9, et c\u2019est prendre le fin des choses."
+                                    }
+                                },
+                                "I06-103": {
+                                    "personnage": "Lysidas",
+                                    "vers": {
+                                        "0": "Est-il rien de si peu spirituel, ou, \npour mieux dire, rien de si bas, que quelques mots o\u00f9 tout le monde rit,\n et surtout celui des enfants par l\u2019oreille\u00a0?"
+                                    }
+                                },
+                                "I06-104": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Fort bien."
+                                    }
+                                },
+                                "I06-105": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Ah\u00a0!"
+                                    }
+                                },
+                                "I06-106": {
+                                    "personnage": "Lysidas",
+                                    "vers": {
+                                        "0": "La Sc\u00e8ne du valet et de la servante \nau dedans de la maison, n\u2019est-elle pas d\u2019une longueur ennuyeuse, et tout\n \u00e0 fait impertinente\u00a0?"
+                                    }
+                                },
+                                "I06-107": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Cela est vrai."
+                                    }
+                                },
+                                "I06-108": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Assur\u00e9ment."
+                                    }
+                                },
+                                "I06-109": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Il a raison."
+                                    }
+                                },
+                                "I06-110": {
+                                    "personnage": "Lysidas",
+                                    "vers": {
+                                        "0": "Arnolphe ne donne-t-il pas trop \nlibrement son argent \u00e0 Horace\u00a0; et puisque c\u2019est le personnage \nridicule de la pi\u00e8ce, fallait-il lui faire faire l\u2019action d\u2019un honn\u00eate \nhomme\u00a0?"
+                                    }
+                                },
+                                "I06-111": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Bon, la remarque est encore bonne."
+                                    }
+                                },
+                                "I06-112": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Admirable."
+                                    }
+                                },
+                                "I06-113": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Merveilleuse."
+                                    }
+                                },
+                                "I06-114": {
+                                    "personnage": "Lysidas",
+                                    "vers": {
+                                        "0": "Le sermon, et les Maximes ne \nsont-elles pas des choses ridicules, et qui choquent, m\u00eame, le respect \nque l\u2019on doit \u00e0 nos myst\u00e8res\u00a0?"
+                                    }
+                                },
+                                "I06-115": {
+                                    "personnage": "Le Marquis ",
+                                    "vers": {
+                                        "0": "C\u2019est bien dit."
+                                    }
+                                },
+                                "I06-116": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Voil\u00e0 parl\u00e9 comme il faut."
+                                    }
+                                },
+                                "I06-117": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Il ne se peut rien de mieux."
+                                    }
+                                },
+                                "I06-118": {
+                                    "personnage": "Lysidas",
+                                    "vers": {
+                                        "0": "Et ce Monsieur de la Souche, enfin, \nqu\u2019on nous fait un homme d\u2019esprit, et qui para\u00eet si s\u00e9rieux en tant \nd\u2019endroits, ne descend-il point dans quelque chose de trop Comique, et \nde trop outr\u00e9 au cinqui\u00e8me Acte, lorsqu\u2019il explique \u00e0 Agn\u00e8s la violence \nde son amour avec ces roulements d\u2019yeux extravagants, ces soupirs \nridicules, et ces larmes niaises qui font rire tout le monde\u00a0?"
+                                    }
+                                },
+                                "I06-119": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Morbleu, merveille\u00a0!"
+                                    }
+                                },
+                                "I06-120": {
+                                    "personnage": "Clim\u00e8ne ",
+                                    "vers": {
+                                        "0": "Miracle\u00a0!"
+                                    }
+                                },
+                                "I06-121": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Vivat, Monsieur Lysidas."
+                                    }
+                                },
+                                "I06-122": {
+                                    "personnage": "Lysidas",
+                                    "vers": {
+                                        "0": "Je laisse cent mille autres choses de peur d\u2019\u00eatre ennuyeux."
+                                    }
+                                },
+                                "I06-123": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Parbleu, Chevalier, te voil\u00e0 mal ajust\u00e9."
+                                    }
+                                },
+                                "I06-124": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Il faut voir."
+                                    }
+                                },
+                                "I06-125": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Tu as trouv\u00e9 ton homme, ma foi."
+                                    }
+                                },
+                                "I06-126": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Peut-\u00eatre."
+                                    }
+                                },
+                                "I06-127": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "R\u00e9ponds, r\u00e9ponds, r\u00e9ponds, r\u00e9ponds."
+                                    }
+                                },
+                                "I06-128": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Volontiers. Il\u2026"
+                                    }
+                                },
+                                "I06-129": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "R\u00e9ponds donc, je te prie."
+                                    }
+                                },
+                                "I06-130": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Laisse-moi donc faire. Si\u2026"
+                                    }
+                                },
+                                "I06-131": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Parbleu, je te d\u00e9fie de r\u00e9pondre."
+                                    }
+                                },
+                                "I06-132": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Oui, si tu parles toujours."
+                                    }
+                                },
+                                "I06-133": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "De gr\u00e2ce \u00e9coutons ses raisons."
+                                    }
+                                },
+                                "I06-134": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Premi\u00e8rement, il n\u2019est pas vrai de \ndire que toute la pi\u00e8ce n\u2019est qu\u2019en r\u00e9cits. On y voit beaucoup d\u2019actions\n qui se passent sur la Sc\u00e8ne\u00a0; et les r\u00e9cits eux-m\u00eames y sont des \nactions suivant la constitution du sujet, d\u2019autant qu\u2019ils sont tous \nfaits innocemment, ces r\u00e9cits, \u00e0 la personne int\u00e9ress\u00e9e, qui par l\u00e0 \nentre \u00e0 tous coups dans une confusion \u00e0 r\u00e9jouir les spectateurs, et \nprend \u00e0 chaque nouvelle toutes les mesures qu\u2019il peut pour se parer du \nmalheur qu\u2019il craint."
+                                    }
+                                },
+                                "I06-135": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Pour moi, je trouve que la beaut\u00e9 du sujet de L\u2019\u00c9cole des Femmes\n consiste dans cette confidence perp\u00e9tuelle\u00a0; et ce qui me para\u00eet \nassez plaisant, c\u2019est qu\u2019un homme qui a de l\u2019Esprit et qui est averti de\n tout par une innocente qui est sa ma\u00eetresse et par un \u00e9tourdi qui est \nson rival, ne puisse avec cela \u00e9viter ce qui lui arrive."
+                                    }
+                                },
+                                "I06-136": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Bagatelle, bagatelle."
+                                    }
+                                },
+                                "I06-137": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Faible r\u00e9ponse."
+                                    }
+                                },
+                                "I06-138": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Mauvaises raisons."
+                                    }
+                                },
+                                "I06-139": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Pour ce qui est des enfants par \nl\u2019oreille, ils ne sont plaisants que par r\u00e9flexion \u00e0 Arnolphe\u00a0; et \nl\u2019Auteur n\u2019a pas mis cela pour \u00eatre de soi un bon mot\u00a0: mais \nseulement pour une chose qui caract\u00e9rise l\u2019homme, et peint d\u2019autant \nmieux son extravagance, puisqu\u2019il rapporte une sottise triviale qu\u2019a \ndite Agn\u00e8s, comme la chose la plus belle du monde et qui lui donne une \njoie inconcevable."
+                                    }
+                                },
+                                "I06-140": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "C\u2019est mal r\u00e9pondre."
+                                    }
+                                },
+                                "I06-141": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Cela ne satisfait point."
+                                    }
+                                },
+                                "I06-142": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "C\u2019est ne rien dire."
+                                    }
+                                },
+                                "I06-143": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Quant \u00e0 l\u2019argent qu\u2019il donne \nlibrement, outre que la lettre de son meilleur ami lui est une caution \nsuffisante, il n\u2019est pas incompatible qu\u2019une personne soit ridicule en \nde certaines choses, et honn\u00eate homme en d\u2019autres. Et pour la Sc\u00e8ne \nd\u2019Alain et de Georgette dans le logis, que quelques-uns ont trouv\u00e9e \nlongue et froide, il est certain qu\u2019elle n\u2019est pas sans raison\u00a0; et\n de m\u00eame qu\u2019Arnolphe se trouve attrap\u00e9 pendant son voyage, par la pure \ninnocence de sa ma\u00eetresse, il demeure au retour longtemps \u00e0 sa porte par\n l\u2019innocence de ses valets, afin qu\u2019il soit partout puni par les choses \nqu\u2019il a cru faire la s\u00fbret\u00e9 de ses pr\u00e9cautions."
+                                    }
+                                },
+                                "I06-144": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Voil\u00e0 des raisons qui ne valent rien."
+                                    }
+                                },
+                                "I06-145": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Tout cela ne fait que blanchir."
+                                    }
+                                },
+                                "I06-146": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Cela fait piti\u00e9."
+                                    }
+                                },
+                                "I06-147": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Pour le discours moral que vous \nappelez un sermon, il est certain que de vrais d\u00e9vots qui l\u2019ont ou\u00ef \nn\u2019ont pas trouv\u00e9 qu\u2019il choqu\u00e2t ce que vous dites\u00a0; et sans doute \nque ces paroles d\u2019enfer et de chaudi\u00e8res bouillantes sont assez \njustifi\u00e9es par l\u2019extravagance d\u2019Arnolphe et par l\u2019innocence de celle \u00e0 \nqui il parle. Et quant au transport amoureux du cinqui\u00e8me acte qu\u2019on \naccuse d\u2019\u00eatre trop outr\u00e9 et trop comique, je voudrais bien savoir si ce \nn\u2019est pas faire la satire des amants, et si les honn\u00eates gens m\u00eame, et \nles plus s\u00e9rieux, en de pareilles occasions, ne font pas des \nchoses\u00a0?\u2026"
+                                    }
+                                },
+                                "I06-148": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Ma foi, Chevalier, tu ferais mieux de te taire."
+                                    }
+                                },
+                                "I06-149": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Fort bien. Mais enfin si nous nous regardions nous-m\u00eames, quand nous sommes bien amoureux\u00a0?\u2026"
+                                    }
+                                },
+                                "I06-150": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Je ne veux pas seulement t\u2019\u00e9couter."
+                                    }
+                                },
+                                "I06-151": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "\u00c9coute-moi si tu veux. Est-ce que dans la violence de la passion\u00a0?\u2026"
+                                    }
+                                },
+                                "I06-152": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "La, la, la, la, lare, la, la, la, la, la, la."
+                                    }
+                                },
+                                "I06-153": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Quoi\u00a0?\u2026"
+                                    }
+                                },
+                                "I06-154": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "La, la, la, la, lare, la, la, la, la, la, la."
+                                    }
+                                },
+                                "I06-155": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Je ne sais pas si\u00a0?\u2026"
+                                    }
+                                },
+                                "I06-156": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "La, la, la, la, lare, la, la, la, la, la, la, la."
+                                    }
+                                },
+                                "I06-157": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Il me semble que\u2026"
+                                    }
+                                },
+                                "I06-158": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "La, la, la, lare, la, la, la, la, la, la, la, la, la, la."
+                                    }
+                                },
+                                "I06-159": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Il se passe des choses assez \nplaisantes dans notre dispute. Je trouve qu\u2019on en pourrait bien faire \nune petite Com\u00e9die, et que cela ne serait pas trop mal \u00e0 la queue de L\u2019\u00c9cole des Femmes."
+                                    }
+                                },
+                                "I06-160": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Vous avez raison."
+                                    }
+                                },
+                                "I06-161": {
+                                    "personnage": "Le Marquis",
+                                    "vers": {
+                                        "0": "Parbleu, Chevalier, tu jouerais l\u00e0-dedans un r\u00f4le qui ne te serait pas avantageux."
+                                    }
+                                },
+                                "I06-162": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Il est vrai, Marquis."
+                                    }
+                                },
+                                "I06-163": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Pour moi, je souhaiterais que cela se f\u00eet, pourvu qu\u2019on trait\u00e2t l\u2019affaire comme elle s\u2019est pass\u00e9e."
+                                    }
+                                },
+                                "I06-164": {
+                                    "personnage": "\u00c9lise",
+                                    "vers": {
+                                        "0": "Et moi je fournirais de bon c\u0153ur mon personnage."
+                                    }
+                                },
+                                "I06-165": {
+                                    "personnage": "Lysidas",
+                                    "vers": {
+                                        "0": "Je ne refuserais pas le mien, que je pense."
+                                    }
+                                },
+                                "I06-166": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Puisque chacun en serait content, \nChevalier, faites un m\u00e9moire de tout, et le donnez \u00e0 Moli\u00e8re que vous \nconnaissez, pour le mettre en Com\u00e9die."
+                                    }
+                                },
+                                "I06-167": {
+                                    "personnage": "Clim\u00e8ne",
+                                    "vers": {
+                                        "0": "Il n\u2019aurait garde, sans doute, et ce ne serait pas des vers \u00e0 sa louange."
+                                    }
+                                },
+                                "I06-168": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Point, point\u00a0; je connais son humeur\u00a0; il ne se soucie pas qu\u2019on fronde ses pi\u00e8ces, pourvu qu\u2019il y vienne du monde."
+                                    }
+                                },
+                                "I06-169": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Oui\u00a0; mais quel d\u00e9nouement \npourrait-il trouver \u00e0 ceci\u00a0? Car il ne saurait y avoir ni mariage, \nni reconnaissance\u00a0; et je ne sais point par o\u00f9 l\u2019on pourrait faire \nfinir la dispute."
+                                    }
+                                },
+                                "I06-170": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "Il faudrait r\u00eaver quelque incident pour cela."
+                                    }
+                                }
+                            }
+                        },
+                        "I07": {
+                            "title": "Sc\u00e8ne VII et Derni\u00e8re",
+                            "repliques": {
+                                "I07-1": {
+                                    "personnage": "Galopin",
+                                    "vers": {
+                                        "0": "Madame, on a servi sur table."
+                                    }
+                                },
+                                "I07-2": {
+                                    "personnage": "Dorante",
+                                    "vers": {
+                                        "0": "Ah\u00a0! voil\u00e0 justement ce qu\u2019il \nfaut pour le d\u00e9nouement que nous cherchions, et l\u2019on ne peut rien \ntrouver de plus naturel. On disputera fort et ferme de part et d\u2019autre, \ncomme nous avons fait, sans que personne se rende\u00a0; un petit \nlaquais viendra dire qu\u2019on a servi\u00a0; on se l\u00e8vera, et chacun ira \nsouper."
+                                    }
+                                },
+                                "I07-3": {
+                                    "personnage": "Uranie",
+                                    "vers": {
+                                        "0": "La Com\u00e9die ne peut pas mieux finir, et nous ferons bien d\u2019en demeurer l\u00e0."
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

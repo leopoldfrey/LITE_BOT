@@ -1,0 +1,2621 @@
+{
+    "pieces": [
+        {
+            "title": "LA PRINCESSE D'\u00c9LIDE",
+            "actes": {
+                "-": {
+                    "title": "",
+                    "scenes": {
+                        "a01": {
+                            "title": "Sc\u00e8ne Premi\u00e8re",
+                            "repliques": {
+                                "a01-1": {
+                                    "personnage": "R\u00e9cit de ",
+                                    "vers": {
+                                        "0": "Jeunes beaut\u00e9s laissez-vous enflammer.",
+                                        "1": "Moquez-vous d\u2019affecter cet orgueil indomptable,",
+                                        "2": "Dont on vous dit qu\u2019il est beau de s\u2019armer\u00a0:",
+                                        "3": "Dans l\u2019\u00e2ge o\u00f9 l\u2019on est aimable",
+                                        "4": "Rien n\u2019est si beau que d\u2019aimer.",
+                                        "5": "Soupirez librement pour un amant fid\u00e8le,",
+                                        "6": "Et bravez ceux qui voudraient vous bl\u00e2mer\u00a0;",
+                                        "7": "Un c\u0153ur tendre est aimable, et le nom de cruelle",
+                                        "8": "N\u2019est pas un nom \u00e0 se faire estimer\u00a0:",
+                                        "9": "Dans le temps o\u00f9 l\u2019on est belle,",
+                                        "10": "Rien n\u2019est si beau que d\u2019aimer."
+                                    }
+                                }
+                            }
+                        },
+                        "a02": {
+                            "title": "Sc\u00e8ne Deuxi\u00e8me",
+                            "repliques": {
+                                "a02-1": {
+                                    "vers": {
+                                        "2": "Hol\u00e0\u00a0? ho debout, vite debout."
+                                    }
+                                },
+                                "a02-2": {
+                                    "personnage": "Premier",
+                                    "vers": {
+                                        "0": "Jusqu\u2019aux plus sombres lieux le jour se communique,"
+                                    }
+                                },
+                                "a02-3": {
+                                    "personnage": "deuxi\u00e8me",
+                                    "vers": {
+                                        "0": "L\u2019air sur les fleurs en perles se r\u00e9sout."
+                                    }
+                                },
+                                "a02-4": {
+                                    "personnage": "troisi\u00e8me",
+                                    "vers": {
+                                        "0": "Les Rossignols commencent leur Musique,",
+                                        "1": "Et leurs petits concerts retentissent partout."
+                                    }
+                                },
+                                "a02-5": {
+                                    "personnage": "tous ensemble",
+                                    "vers": {
+                                        "0": "Sus, sus debout, vite debout\u00a0!",
+                                        "1": "Qu\u2019est-ce ci, Lyciscas\u00a0? quoi\u00a0? tu ronfles encore,",
+                                        "2": "Toi qui promettais tant de devancer l\u2019Aurore\u00a0?",
+                                        "3": "Allons debout, vite debout,",
+                                        "4": "Pour la Chasse ordonn\u00e9e il faut pr\u00e9parer tout,",
+                                        "5": "Debout, vite debout, d\u00e9p\u00eachons, debout."
+                                    }
+                                },
+                                "a02-6": {
+                                    "personnage": "Lyciscas ",
+                                    "vers": {
+                                        "0": "Par la morbleu vous \u00eates de grands braillards vous autres,"
+                                    }
+                                },
+                                "a02-7": {
+                                    "personnage": "Musiciens",
+                                    "vers": {
+                                        "0": "Ne vois-tu pas le jour qui se r\u00e9pand partout\u00a0?",
+                                        "1": "Allons debout, Lyciscas debout."
+                                    }
+                                },
+                                "a02-8": {
+                                    "personnage": "Lyciscas",
+                                    "vers": {
+                                        "0": "H\u00e9\u00a0! laissez-moi dormir encore un peu je vous conjure\u00a0!"
+                                    }
+                                },
+                                "a02-9": {
+                                    "personnage": "Musiciens",
+                                    "vers": {
+                                        "0": "Non, non debout, Lyciscas debout."
+                                    }
+                                },
+                                "a02-10": {
+                                    "personnage": "Lyciscas",
+                                    "vers": {
+                                        "0": "Je ne vous demande plus qu\u2019un petit quart d\u2019heure\u00a0!"
+                                    }
+                                },
+                                "a02-11": {
+                                    "personnage": "Musiciens",
+                                    "vers": {
+                                        "0": "Point, point debout, vite debout."
+                                    }
+                                },
+                                "a02-12": {
+                                    "personnage": "Lyciscas",
+                                    "vers": {
+                                        "0": "H\u00e9\u00a0! je vous prie\u00a0!"
+                                    }
+                                },
+                                "a02-13": {
+                                    "personnage": "Musiciens",
+                                    "vers": {
+                                        "0": "Debout."
+                                    }
+                                },
+                                "a02-14": {
+                                    "personnage": "Lyciscas",
+                                    "vers": {
+                                        "0": "Un moment."
+                                    }
+                                },
+                                "a02-15": {
+                                    "personnage": "Musiciens",
+                                    "vers": {
+                                        "0": "Debout."
+                                    }
+                                },
+                                "a02-16": {
+                                    "personnage": "Lyciscas",
+                                    "vers": {
+                                        "0": "De gr\u00e2ce."
+                                    }
+                                },
+                                "a02-17": {
+                                    "personnage": "Musiciens",
+                                    "vers": {
+                                        "0": "Debout."
+                                    }
+                                },
+                                "a02-18": {
+                                    "personnage": "Lyciscas",
+                                    "vers": {
+                                        "0": "Eh."
+                                    }
+                                },
+                                "a02-19": {
+                                    "personnage": "Musiciens",
+                                    "vers": {
+                                        "0": "Debout."
+                                    }
+                                },
+                                "a02-20": {
+                                    "personnage": "Lyciscas",
+                                    "vers": {
+                                        "0": "Je\u2026"
+                                    }
+                                },
+                                "a02-21": {
+                                    "personnage": "Musiciens",
+                                    "vers": {
+                                        "0": "Debout."
+                                    }
+                                },
+                                "a02-22": {
+                                    "personnage": "Lyciscas",
+                                    "vers": {
+                                        "0": "J\u2019aurai fait incontinent."
+                                    }
+                                },
+                                "a02-23": {
+                                    "personnage": "Musiciens",
+                                    "vers": {
+                                        "0": "Non, non debout, Lyciscas debout\u00a0:",
+                                        "1": "Pour la Chasse ordonn\u00e9e il faut pr\u00e9parer tout\u00a0;",
+                                        "2": "Vite debout, d\u00e9p\u00eachons, debout."
+                                    }
+                                },
+                                "a02-24": {
+                                    "personnage": "Lyciscas",
+                                    "vers": {
+                                        "0": "Eh bien laissez-moi, je vais me\nlever\u00a0: Vous \u00eates d\u2019\u00e9tranges gens de me tourmenter comme\ncela\u00a0: vous serez cause que je ne me porterai pas bien de toute la\njourn\u00e9e\u00a0; car, voyez-vous, le sommeil est n\u00e9cessaire \u00e0 l\u2019homme, et\nlorsqu\u2019on ne dort pas sa r\u00e9fection, il arrive\u2026 que\u2026 on est\u2026"
+                                    }
+                                },
+                                "a02-25": {
+                                    "personnage": "Premier",
+                                    "vers": {
+                                        "0": "Lyciscas."
+                                    }
+                                },
+                                "a02-26": {
+                                    "personnage": "deuxi\u00e8me",
+                                    "vers": {
+                                        "0": "Lyciscas."
+                                    }
+                                },
+                                "a02-27": {
+                                    "personnage": "troisi\u00e8me",
+                                    "vers": {
+                                        "0": "Lyciscas."
+                                    }
+                                },
+                                "a02-28": {
+                                    "personnage": "tous ensemble",
+                                    "vers": {
+                                        "0": "Lyciscas."
+                                    }
+                                },
+                                "a02-29": {
+                                    "personnage": "Lyciscas",
+                                    "vers": {
+                                        "0": "Diable soit les brailleurs, je voudrais que vous eussiez la gueule pleine de bouillie bien chaude."
+                                    }
+                                },
+                                "a02-30": {
+                                    "personnage": "Musiciens",
+                                    "vers": {
+                                        "0": "Debout, debout vite debout, d\u00e9p\u00eachons debout."
+                                    }
+                                },
+                                "a02-31": {
+                                    "personnage": "Lyciscas",
+                                    "vers": {
+                                        "0": "Ah\u00a0! quelle fatigue, de ne pas dormir son so\u00fbl."
+                                    }
+                                },
+                                "a02-32": {
+                                    "personnage": "Premier",
+                                    "vers": {
+                                        "0": "Hol\u00e0\u00a0?  oh."
+                                    }
+                                },
+                                "a02-33": {
+                                    "personnage": "deuxi\u00e8me",
+                                    "vers": {
+                                        "0": "Hol\u00e0\u00a0? oh."
+                                    }
+                                },
+                                "a02-34": {
+                                    "personnage": "troisi\u00e8me",
+                                    "vers": {
+                                        "0": "Hol\u00e0\u00a0? oh."
+                                    }
+                                },
+                                "a02-35": {
+                                    "personnage": "tous ensemble",
+                                    "vers": {
+                                        "0": "Oh\u00a0! oh\u00a0! oh\u00a0! oh\u00a0! oh\u00a0!"
+                                    }
+                                },
+                                "a02-36": {
+                                    "personnage": "Lyciscas",
+                                    "vers": {
+                                        "0": "Oh\u00a0! oh\u00a0! oh\u00a0! oh. La\npeste soit des gens avec leurs chiens de hurlements, je me donne au\nDiable si je ne vous assomme\u00a0: Mais voyez un peu quel diable\nd\u2019enthousiasme il leur prend, de me venir chanter aux oreilles comme\ncela, je\u2026"
+                                    }
+                                },
+                                "a02-37": {
+                                    "personnage": "Musiciens",
+                                    "vers": {
+                                        "0": "Debout."
+                                    }
+                                },
+                                "a02-38": {
+                                    "personnage": "Lyciscas",
+                                    "vers": {
+                                        "0": "Encore."
+                                    }
+                                },
+                                "a02-39": {
+                                    "personnage": "Musiciens",
+                                    "vers": {
+                                        "0": "Debout."
+                                    }
+                                },
+                                "a02-40": {
+                                    "personnage": "Lyciscas",
+                                    "vers": {
+                                        "0": "Le diable vous emporte."
+                                    }
+                                },
+                                "a02-41": {
+                                    "personnage": "Musiciens",
+                                    "vers": {
+                                        "0": "Debout."
+                                    }
+                                },
+                                "a02-42": {
+                                    "personnage": "Lyciscas ",
+                                    "vers": {
+                                        "0": "Quoi toujours\u00a0? a-t-on jamais vu\n une pareille furie de chanter\u00a0? par le sang bleu j\u2019enrage, puisque\n me voil\u00e0 \u00e9veill\u00e9 il faut que j\u2019\u00e9veille les autres, et que je les\ntourmente comme on m\u2019a fait. Allons ho\u00a0? Messieurs, debout, debout,\n vite c\u2019est trop dormir. Je vais faire un bruit de Diable partout,\ndebout, debout, debout\u00a0; Allons vite, ho, ho, ho\u00a0! Debout,\ndebout, pour la Chasse ordonn\u00e9e il faut pr\u00e9parer tout, debout, debout,\nLyciscas debout\u00a0! Ho\u00a0! ho\u00a0! ho\u00a0! ho\u00a0! ho.",
+                                        "1": "Lyciscas s\u2019\u00e9tant lev\u00e9 avec toutes les\n peines du monde, et s\u2019\u00e9tant mis \u00e0 crier de toute sa force, plusieurs\nCors et Trompes de Chasse se firent entendre, et concert\u00e9es avec les\nViolons commenc\u00e8rent l\u2019air d\u2019une entr\u00e9e, sur laquelle six Valets de\nChiens dans\u00e8rent avec beaucoup de justesse et disposition\u00a0;\nreprenant \u00e0 certaines cadences le son de leurs Cors et Trompes\u00a0:\nC\u2019\u00e9taient les Sieurs , , , , , et ."
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "I": {
+                    "title": "Acte Premier",
+                    "scenes": {
+                        "I01": {
+                            "title": "Sc\u00e8ne Premi\u00e8re",
+                            "repliques": {
+                                "I01-1": {
+                                    "personnage": "arbate",
+                                    "vers": {
+                                        "0": "Ce silence r\u00eaveur dont la sombre habitude",
+                                        "1": "Vous fait \u00e0 tous moments chercher la solitude,",
+                                        "2": "Ces longs soupirs que laisse \u00e9chapper votre c\u0153ur,",
+                                        "3": "Et ces fixes regards si charg\u00e9s de langueur,",
+                                        "4": "Disent beaucoup sans doute \u00e0 des gens de mon \u00e2ge\u00a0;",
+                                        "5": "Et je pense, Seigneur, entendre ce langage\u00a0:",
+                                        "6": "Mais sans votre cong\u00e9 de peur de trop risquer,",
+                                        "7": "Je n\u2019ose m\u2019enhardir jusques \u00e0 l\u2019expliquer."
+                                    }
+                                },
+                                "I01-2": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "Explique, explique Arbate, avec toute licence",
+                                        "1": "Ces soupirs, ces regards, et ce morne silence\u00a0:",
+                                        "2": "Je te permets ici de dire que l\u2019Amour",
+                                        "3": "M\u2019a rang\u00e9 sous ses lois, et me brave \u00e0 son tour\u00a0:",
+                                        "4": "Et je consens encor que tu me fasses honte",
+                                        "5": "Des faiblesses d\u2019un c\u0153ur qui souffre qu\u2019on le dompte."
+                                    }
+                                },
+                                "I01-3": {
+                                    "personnage": "arbate",
+                                    "vers": {
+                                        "0": "Moi vous bl\u00e2mer, Seigneur, des tendres mouvements,",
+                                        "1": "O\u00f9 je vois qu\u2019aujourd\u2019hui penchent vos sentiments\u00a0;",
+                                        "2": "Le chagrin des vieux jours ne peut aigrir mon \u00e2me",
+                                        "3": "Contre les doux transports de l\u2019amoureuse flamme,",
+                                        "4": "Et bien que mon sort touche \u00e0 ses derniers Soleils,",
+                                        "5": "Je dirai que l\u2019Amour sied bien \u00e0 vos pareils\u00a0:",
+                                        "6": "Que ce tribut qu\u2019on rend aux traits d\u2019un beau visage",
+                                        "7": "De la beaut\u00e9 d\u2019une \u00e2me est un clair t\u00e9moignage,",
+                                        "8": "Et qu\u2019il est malais\u00e9 que sans \u00eatre amoureux",
+                                        "9": "Un jeune Prince soit et grand et g\u00e9n\u00e9reux\u00a0:",
+                                        "10": "C\u2019est une qualit\u00e9 que j\u2019aime en un Monarque,",
+                                        "11": "La tendresse de c\u0153ur est une grande marque,",
+                                        "12": "Et je crois que d\u2019un Prince on peut tout pr\u00e9sumer",
+                                        "13": "D\u00e8s qu\u2019on voit que son \u00e2me est capable d\u2019aimer.",
+                                        "14": "Oui cette passion de toutes la plus belle",
+                                        "15": "Tra\u00eene dans un esprit cent vertus apr\u00e8s elle,",
+                                        "16": "Aux nobles actions elle pousse les c\u0153urs,",
+                                        "17": "Et tous les grands H\u00e9ros ont senti ses ardeurs\u00a0;",
+                                        "18": "Devant mes yeux, Seigneur, a pass\u00e9 votre enfance,",
+                                        "19": "Et j\u2019ai de vos vertus vu fleurir l\u2019esp\u00e9rance\u00a0;",
+                                        "20": "Mes regards observaient en vous des qualit\u00e9s",
+                                        "21": "O\u00f9 je reconnaissais le sang dont vous sortez\u00a0;",
+                                        "22": "J\u2019y d\u00e9couvrais un fonds d\u2019esprit et de lumi\u00e8re,",
+                                        "23": "Je vous trouvais bien fait, l\u2019air grand, et l\u2019\u00e2me fi\u00e8re\u00a0;",
+                                        "24": "Votre c\u0153ur, votre adresse \u00e9clataient chaque jour\u00a0:",
+                                        "25": "Mais je m\u2019inqui\u00e9tais de ne voir point d\u2019amour,",
+                                        "26": "Et puisque les langueurs d\u2019une plaie invincible",
+                                        "27": "Nous montrent que votre \u00e2me \u00e0 ses traits est sensible,",
+                                        "28": "Je triomphe, et mon c\u0153ur d\u2019all\u00e9gresse rempli",
+                                        "29": "Vous regarde \u00e0 pr\u00e9sent comme un Prince accompli."
+                                    }
+                                },
+                                "I01-4": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "Si de l\u2019Amour un temps j\u2019ai brav\u00e9 la puissance,",
+                                        "1": "H\u00e9las\u00a0! mon cher Arbate, il en prend bien vengeance\u00a0!",
+                                        "2": "Et sachant dans quels maux mon c\u0153ur s\u2019est ab\u00eem\u00e9,",
+                                        "3": "Toi-m\u00eame, tu voudrais qu\u2019il n\u2019e\u00fbt jamais aim\u00e9\u00a0:",
+                                        "4": "Car enfin vois le sort o\u00f9 mon Astre me guide,",
+                                        "5": "J\u2019aime, j\u2019aime ardemment la Princesse d\u2019\u00c9lide,",
+                                        "6": "Et tu sais quel orgueil sous des traits si charmants",
+                                        "7": "Arme contre l\u2019Amour ses jeunes sentiments\u00a0;",
+                                        "8": "Et comment elle fuit en cette illustre F\u00eate",
+                                        "9": "Cette foule d\u2019amants qui briguent sa conqu\u00eate.",
+                                        "10": "Ah\u00a0! Qu\u2019il est bien peu vrai que ce qu\u2019on doit aimer",
+                                        "11": "Aussit\u00f4t qu\u2019on le voit prend droit de nous charmer,",
+                                        "12": "Et qu\u2019un premier coup d\u2019\u0153il allume en nous les flammes",
+                                        "13": "O\u00f9 le Ciel en naissant a destin\u00e9 nos \u00e2mes.",
+                                        "14": "\u00c0 mon retour d\u2019Argos je passai dans ces lieux,",
+                                        "15": "Et ce passage offrit la Princesse \u00e0 mes yeux\u00a0;",
+                                        "16": "Je vis tous les appas dont elle est rev\u00eatue",
+                                        "17": "Mais de l\u2019\u0153il dont on voit une belle Statue\u00a0:",
+                                        "18": "Leur brillante jeunesse observ\u00e9e \u00e0 loisir",
+                                        "19": "Ne porta dans mon \u00e2me aucun secret d\u00e9sir,",
+                                        "20": "Et d\u2019Ithaque en repos je revis le rivage",
+                                        "21": "Sans m\u2019en \u00eatre en deux ans rappel\u00e9 nulle Image\u00a0:",
+                                        "22": "Un bruit vient cependant \u00e0 r\u00e9pandre \u00e0 ma Cour",
+                                        "23": "Le c\u00e9l\u00e8bre m\u00e9pris qu\u2019elle fait de l\u2019Amour\u00a0;",
+                                        "24": "On publie en tous lieux que son \u00e2me hautaine",
+                                        "25": "Garde pour l\u2019Hym\u00e9n\u00e9e une invincible haine,",
+                                        "26": "Et qu\u2019un Arc \u00e0 la main, sur l\u2019\u00e9paule un Carquois,",
+                                        "27": "Comme une autre Diane elle hante les bois,",
+                                        "28": "N\u2019aime rien que la Chasse, et de toute la Gr\u00e8ce",
+                                        "29": "Fait soupirer en vain l\u2019h\u00e9ro\u00efque jeunesse.",
+                                        "30": "Admire nos esprits, et la fatalit\u00e9,",
+                                        "31": "Ce que n\u2019avait point fait sa vue et sa beaut\u00e9,",
+                                        "32": "Le bruit de ses fiert\u00e9s en mon \u00e2me fit na\u00eetre",
+                                        "33": "Un transport inconnu, dont je ne fus point ma\u00eetre\u00a0;",
+                                        "34": "Ce d\u00e9dain si fameux eut des charmes secrets",
+                                        "35": "\u00c0 me faire avec soin rappeler tous ses traits,",
+                                        "36": "Et mon esprit jetant de nouveaux yeux sur elle",
+                                        "37": "M\u2019en refit une image et si noble, et si belle\u00a0;",
+                                        "38": "Me peignit tant de gloire, et de telles douceurs",
+                                        "39": "\u00c0 pouvoir triompher de toutes ses froideurs,",
+                                        "40": "Que mon c\u0153ur aux brillants d\u2019une telle victoire",
+                                        "41": "Vit de sa libert\u00e9 s\u2019\u00e9vanouir la gloire\u00a0;",
+                                        "42": "Contre une telle amorce il eut beau s\u2019indigner,",
+                                        "43": "Sa douceur sur mes sens prit tel droit de r\u00e9gner,",
+                                        "44": "Qu\u2019entra\u00een\u00e9 par l\u2019effort d\u2019une occulte puissance",
+                                        "45": "J\u2019ai d\u2019Ithaque en ces lieux fait voile en diligence,",
+                                        "46": "Et je couvre un effet de mes v\u0153ux enflamm\u00e9s",
+                                        "47": "Du d\u00e9sir de para\u00eetre \u00e0 ses Jeux renomm\u00e9s,",
+                                        "48": "O\u00f9 l\u2019illustre Iphitas, P\u00e8re de la Princesse,",
+                                        "49": "Assemble la plupart des Princes de la Gr\u00e8ce."
+                                    }
+                                },
+                                "I01-5": {
+                                    "personnage": "arbate",
+                                    "vers": {
+                                        "0": "Mais \u00e0 quoi bon, Seigneur, les soins que vous prenez\u00a0?",
+                                        "1": "Et pourquoi ce secret o\u00f9 vous vous obstinez\u00a0?",
+                                        "2": "Vous aimez, dites-vous, cette illustre Princesse,",
+                                        "3": "Et venez \u00e0 ses yeux signaler votre adresse,",
+                                        "4": "Et nuls empressements, paroles, ni soupirs",
+                                        "5": "Ne l\u2019ont instruite encor de vos br\u00fblants d\u00e9sirs.",
+                                        "6": "Pour moi je n\u2019entends rien \u00e0 cette politique",
+                                        "7": "Qui ne veut point souffrir que votre c\u0153ur s\u2019explique,",
+                                        "8": "Et je ne sais quel fruit peut pr\u00e9tendre un amour",
+                                        "9": "Qui fuit tous les moyens de se produire au jour."
+                                    }
+                                },
+                                "I01-6": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "Et que ferai-je, Arbate, en d\u00e9clarant ma peine,",
+                                        "1": "Qu\u2019attirer les d\u00e9dains de cette \u00e2me hautaine\u00a0?",
+                                        "2": "Et me jeter au rang de ces Princes soumis",
+                                        "3": "Que le titre d\u2019amants lui peint en ennemis\u00a0?",
+                                        "4": "Tu vois les Souverains de Mess\u00e8ne et de Pyle",
+                                        "5": "Lui faire de leurs c\u0153urs un hommage inutile,",
+                                        "6": "Et de l\u2019\u00e9clat pompeux des plus hautes vertus",
+                                        "7": "En appuyer en vain les respects assidus\u00a0:",
+                                        "8": "Ce rebut de leurs soins, sous un triste silence,",
+                                        "9": "Retient de mon amour toute la violence\u00a0;",
+                                        "10": "Je me tiens condamn\u00e9 dans ces Rivaux fameux,",
+                                        "11": "Et je lis mon arr\u00eat au m\u00e9pris qu\u2019on fait d\u2019eux."
+                                    }
+                                },
+                                "I01-7": {
+                                    "personnage": "arbate",
+                                    "vers": {
+                                        "0": "Et c\u2019est dans ce m\u00e9pris, et dans cette humeur fi\u00e8re",
+                                        "1": "Que votre \u00e2me \u00e0 ses v\u0153ux doit voir plus de lumi\u00e8re,",
+                                        "2": "Puisque le sort vous donne \u00e0 conqu\u00e9rir un c\u0153ur",
+                                        "3": "Que d\u00e9fend seulement une jeune froideur,",
+                                        "4": "Et qui n\u2019impose point \u00e0 l\u2019ardeur qui vous presse",
+                                        "5": "De quelque attachement l\u2019invincible tendresse\u00a0:",
+                                        "6": "Un c\u0153ur pr\u00e9occup\u00e9 r\u00e9siste puissamment\u00a0;",
+                                        "7": "Mais quand une \u00e2me est libre, on la force ais\u00e9ment,",
+                                        "8": "Et toute la fiert\u00e9 de son indiff\u00e9rence",
+                                        "9": "N\u2019a rien dont ne triomphe un peu de patience.",
+                                        "10": "Ne lui cachez donc plus le pouvoir de ses yeux,",
+                                        "11": "Faites de votre flamme un \u00e9clat glorieux,",
+                                        "12": "Et bien loin de trembler de l\u2019exemple des autres,",
+                                        "13": "Du rebut de leurs v\u0153ux enflez l\u2019espoir des v\u00f4tres\u00a0:",
+                                        "14": "Peut-\u00eatre pour toucher ses s\u00e9v\u00e8res appas,",
+                                        "15": "Aurez-vous des secrets que ces Princes n\u2019ont pas\u00a0;",
+                                        "16": "Et si de ses fiert\u00e9s l\u2019imp\u00e9rieux caprice",
+                                        "17": "Ne vous fait \u00e9prouver un destin plus propice,",
+                                        "18": "Au moins est-ce un bonheur en ces extr\u00e9mit\u00e9s",
+                                        "19": "Que de voir avec soi ses Rivaux rebut\u00e9s."
+                                    }
+                                },
+                                "I01-8": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "J\u2019aime \u00e0 te voir presser cet aveu de ma flamme,",
+                                        "1": "Combattant mes raisons tu chatouilles mon \u00e2me,",
+                                        "2": "Et par ce que j\u2019ai dit je voulais pressentir",
+                                        "3": "Si de ce que j\u2019ai fait tu pourrais m\u2019applaudir\u00a0:",
+                                        "4": "Car, enfin, puisqu\u2019il faut t\u2019en faire confidence,",
+                                        "5": "On doit \u00e0 la Princesse expliquer mon silence,",
+                                        "6": "Et peut-\u00eatre au moment que je t\u2019en parle ici",
+                                        "7": "Le secret de mon c\u0153ur, Arbate, est \u00e9clairci.",
+                                        "8": "Cette Chasse, o\u00f9 pour fuir la foule qui l\u2019adore,",
+                                        "9": "Tu sais qu\u2019elle est all\u00e9e au lever de l\u2019Aurore,",
+                                        "10": "Est le temps que Moron pour d\u00e9clarer mon feu,",
+                                        "11": "A pris\u2026"
+                                    }
+                                },
+                                "I01-9": {
+                                    "personnage": "arbate",
+                                    "vers": {
+                                        "0": "Moron, Seigneur."
+                                    }
+                                },
+                                "I01-10": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "Ce choix t\u2019\u00e9tonne un peu\u00a0;",
+                                        "1": "Par son titre de fou tu crois le bien conna\u00eetre,",
+                                        "2": "Mais sache qu\u2019il l\u2019est moins qu\u2019il ne le veut para\u00eetre,",
+                                        "3": "Et que malgr\u00e9 l\u2019emploi qu\u2019il exerce aujourd\u2019hui",
+                                        "4": "Il a plus de bon sens que tel qui rit de lui\u00a0:",
+                                        "5": "La Princesse se pla\u00eet \u00e0 ses bouffonneries,",
+                                        "6": "Il s\u2019en est fait aimer par cent plaisanteries,",
+                                        "7": "Et peut dans cet acc\u00e8s dire et persuader",
+                                        "8": "Ce que d\u2019autres que lui n\u2019oseraient hasarder\u00a0;",
+                                        "9": "Je le vois propre, enfin, \u00e0 ce que j\u2019en souhaite,",
+                                        "10": "Il a pour moi, dit-il, une amiti\u00e9 parfaite,",
+                                        "11": "Et veut (dans mes \u00c9tats ayant re\u00e7u le jour)",
+                                        "12": "Contre tous mes Rivaux appuyer mon amour\u00a0:",
+                                        "13": "Quelque argent mis en main pour soutenir ce z\u00e8le\u2026"
+                                    }
+                                }
+                            }
+                        },
+                        "I02": {
+                            "title": "Sc\u00e8ne Deuxi\u00e8me",
+                            "repliques": {
+                                "I02-1": {
+                                    "personnage": "Moron ",
+                                    "vers": {
+                                        "0": " Au secours\u00a0! sauvez-moi de la b\u00eate cruelle\u00a0!"
+                                    }
+                                },
+                                "I02-2": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": " Je pense ou\u00efr sa voix\u00a0?"
+                                    }
+                                },
+                                "I02-3": {
+                                    "personnage": "Moron ",
+                                    "vers": {
+                                        "0": " \u00c0 moi, de gr\u00e2ce, \u00e0 moi\u00a0!"
+                                    }
+                                },
+                                "I02-4": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "C\u2019est lui-m\u00eame, o\u00f9 court-il avec un tel effroi\u00a0?"
+                                    }
+                                },
+                                "I02-5": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "O\u00f9 pourrai-je \u00e9viter ce Sanglier redoutable\u00a0?",
+                                        "1": "Grands Dieux\u00a0! pr\u00e9servez-moi de sa dent effroyable\u00a0!",
+                                        "2": "Je vous promets, pourvu qu\u2019il ne m\u2019attrape pas,",
+                                        "3": "Quatre livres d\u2019encens, et deux veaux des plus gras.",
+                                        "4": "Ha\u00a0! je suis mort\u00a0!"
+                                    }
+                                },
+                                "I02-6": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "Qu\u2019as-tu\u00a0?"
+                                    }
+                                },
+                                "I02-7": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Je vous croyais la b\u00eate",
+                                        "1": "Dont \u00e0 me diffamer j\u2019ai vu la gueule pr\u00eate,",
+                                        "2": "Seigneur, et je ne puis revenir de ma peur."
+                                    }
+                                },
+                                "I02-8": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "Qu\u2019est-ce\u00a0?"
+                                    }
+                                },
+                                "I02-9": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "\u00d4\u00a0! que la Princesse est d\u2019une \u00e9trange humeur\u00a0!",
+                                        "1": "Et qu\u2019\u00e0 suivre la Chasse et ses extravagances",
+                                        "2": "Il nous faut essuyer de sottes complaisances\u00a0!",
+                                        "3": "Quel Diable de plaisir trouvent tous les Chasseurs",
+                                        "4": "De se voir expos\u00e9s \u00e0 mille et mille peurs,",
+                                        "5": "Encore si c\u2019\u00e9tait qu\u2019on ne f\u00fbt qu\u2019\u00e0 la Chasse",
+                                        "6": "Des Li\u00e8vres, des Lapins, et des jeunes Daims, passe\u00a0;",
+                                        "7": "Ce sont des animaux d\u2019un naturel fort doux,",
+                                        "8": "Et qui prennent toujours la fuite devant nous\u00a0:",
+                                        "9": "Mais aller attaquer de ces b\u00eates vilaines",
+                                        "10": "Qui n\u2019ont aucun respect pour les faces humaines,",
+                                        "11": "Et qui courent les gens qui les veulent courir,",
+                                        "12": "C\u2019est un sot passe-temps que je ne puis souffrir."
+                                    }
+                                },
+                                "I02-10": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "Dis-nous donc ce que c\u2019est\u00a0?"
+                                    }
+                                },
+                                "I02-11": {
+                                    "personnage": "Moron ",
+                                    "vers": {
+                                        "0": "Le p\u00e9nible exercice",
+                                        "1": "O\u00f9 de notre Princesse a vol\u00e9 le caprice\u00a0!\u2026",
+                                        "2": "J\u2019en aurais bien jur\u00e9 qu\u2019elle aurait fait le tour,",
+                                        "3": "Et la Course des Chars se faisant en ce jour,",
+                                        "4": "Il fallait affecter ce contretemps de Chasse",
+                                        "5": "Pour m\u00e9priser ses jeux avec meilleure gr\u00e2ce,",
+                                        "6": "Et faire voir\u2026 Mais chut, achevons mon r\u00e9cit,",
+                                        "7": "Et reprenons le fil de ce que j\u2019avais dit.",
+                                        "8": "Qu\u2019ai-je dit\u00a0?"
+                                    }
+                                },
+                                "I02-12": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "Tu parlais d\u2019exercice p\u00e9nible."
+                                    }
+                                },
+                                "I02-13": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Ah\u00a0! oui, succombant donc \u00e0 ce travail horrible\u00a0;",
+                                        "1": "Car en Chasseur fameux j\u2019\u00e9tais enharnach\u00e9,",
+                                        "2": "Et d\u00e8s le point du jour je m\u2019\u00e9tais d\u00e9couch\u00e9\u00a0:",
+                                        "3": "Je me suis \u00e9cart\u00e9 de tous en galant homme",
+                                        "4": "Et trouvant un lieu propre \u00e0 dormir d\u2019un bon somme",
+                                        "5": "J\u2019essayais ma posture, et m\u2019ajustant bient\u00f4t,",
+                                        "6": "Prenais d\u00e9j\u00e0 mon ton pour ronfler comme il faut",
+                                        "7": "Lorsqu\u2019un murmure affreux m\u2019a fait lever la vue,",
+                                        "8": "Et j\u2019ai d\u2019un vieux buisson de la for\u00eat touffue",
+                                        "9": "Vu sortir un Sanglier d\u2019une \u00e9norme grandeur",
+                                        "10": "Pour\u2026"
+                                    }
+                                },
+                                "I02-14": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "Qu\u2019est-ce\u00a0?"
+                                    }
+                                },
+                                "I02-15": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Ce n\u2019est rien, n\u2019ayez point de frayeur\u00a0!",
+                                        "1": "Mais laissez-moi passer entre vous deux pour cause,",
+                                        "2": "Je serai mieux en main pour vous conter la chose\u00a0:",
+                                        "3": "J\u2019ai donc vu ce Sanglier, qui par nos gens chass\u00e9",
+                                        "4": "Avait d\u2019un air affreux tout son poil h\u00e9riss\u00e9\u00a0;",
+                                        "5": "Ces deux yeux flamboyants ne lan\u00e7aient que menace,",
+                                        "6": "Et sa gueule faisait une laide grimace,",
+                                        "7": "Qui parmi de l\u2019\u00e9cume \u00e0 qui l\u2019osait presser",
+                                        "8": "Montrait de certains crocs\u2026 Je vous laisse \u00e0 penser\u00a0!",
+                                        "9": "\u00c0 ce terrible aspect j\u2019ai ramass\u00e9 mes armes\u00a0;",
+                                        "10": "Mais le faux animal sans en prendre d\u2019alarmes",
+                                        "11": "Est venu droit \u00e0 moi, qui ne lui disais mot."
+                                    }
+                                },
+                                "I02-16": {
+                                    "personnage": "arbate",
+                                    "vers": {
+                                        "0": "Et tu l\u2019as de pied ferme attendu\u00a0?"
+                                    }
+                                },
+                                "I02-17": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Quelque sot,",
+                                        "1": "J\u2019ai jet\u00e9 tout par terre, et couru comme quatre."
+                                    }
+                                },
+                                "I02-18": {
+                                    "personnage": "arbate",
+                                    "vers": {
+                                        "0": "Fuir devant un Sanglier ayant de quoi l\u2019abattre,",
+                                        "1": "Ce trait, Moron, n\u2019est pas g\u00e9n\u00e9reux\u2026"
+                                    }
+                                },
+                                "I02-19": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "J\u2019y consens,",
+                                        "1": "Il n\u2019est pas g\u00e9n\u00e9reux, mais il est de bon sens."
+                                    }
+                                },
+                                "I02-20": {
+                                    "personnage": "arbate",
+                                    "vers": {
+                                        "0": "Mais par quelques exploits, si l\u2019on ne s\u2019\u00e9ternise\u2026"
+                                    }
+                                },
+                                "I02-21": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Je suis votre valet, et j\u2019aime mieux qu\u2019on dise,",
+                                        "1": "C\u2019est ici qu\u2019en fuyant sans se faire prier",
+                                        "2": "Moron sauva ses jours des fureurs d\u2019un Sanglier,",
+                                        "3": "Que si l\u2019on y disait, voil\u00e0 l\u2019illustre place",
+                                        "4": "O\u00f9 le brave Moron, d\u2019une h\u00e9ro\u00efque audace,",
+                                        "5": "Affrontant d\u2019un Sanglier l\u2019imp\u00e9tueux effort,",
+                                        "6": "Par un coup de ses dents vit terminer son sort."
+                                    }
+                                },
+                                "I02-22": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": " Fort bien\u2026"
+                                    }
+                                },
+                                "I02-23": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Oui, j\u2019aime mieux, n\u2019en d\u00e9plaise \u00e0 la gloire,",
+                                        "1": "Vivre au monde deux jours que mille ans dans l\u2019histoire."
+                                    }
+                                },
+                                "I02-24": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "En effet ton tr\u00e9pas f\u00e2cherait tes amis\u00a0;",
+                                        "1": "Mais si de ta frayeur ton esprit est remis",
+                                        "2": "Puis-je te demander si du feu qui me br\u00fble\u2026"
+                                    }
+                                },
+                                "I02-25": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Il ne faut point, Seigneur, que je vous dissimule,",
+                                        "1": "Je n\u2019ai rien fait encore, et n\u2019ai point rencontr\u00e9",
+                                        "2": "De temps pour lui parler qui f\u00fbt selon mon gr\u00e9\u00a0:",
+                                        "3": "L\u2019office de bouffon a des pr\u00e9rogatives\u00a0;",
+                                        "4": "Mais souvent on rabat nos libres tentatives\u00a0:",
+                                        "5": "Le discours de vos feux est un peu d\u00e9licat,",
+                                        "6": "Et c\u2019est chez la Princesse une affaire d\u2019\u00c9tat\u00a0;",
+                                        "7": "Vous savez de quel titre elle se glorifie,",
+                                        "8": "Et qu\u2019elle a dans la t\u00eate une Philosophie",
+                                        "9": "Qui d\u00e9clare la guerre au conjugal lien,",
+                                        "10": "Et vous traite l\u2019Amour de d\u00e9it\u00e9 de rien\u00a0:",
+                                        "11": "Pour n\u2019effaroucher point son humeur de tigresse",
+                                        "12": "Il me faut manier la chose avec adresse\u00a0;",
+                                        "13": "Car on doit regarder comme l\u2019on parle aux grands,",
+                                        "14": "Et vous \u00eates parfois d\u2019assez f\u00e2cheuses gens.",
+                                        "15": "Laissez-moi doucement conduire cette trame,",
+                                        "16": "Je me sens l\u00e0 pour vous un z\u00e8le tout de flamme,",
+                                        "17": "Vous \u00eates n\u00e9 mon Prince, et quelques autres n\u0153uds",
+                                        "18": "Pourraient contribuer au bien que je vous veux\u00a0:",
+                                        "19": "Ma m\u00e8re dans son temps passait pour assez belle,",
+                                        "20": "Et naturellement n\u2019\u00e9tait pas fort cruelle\u00a0;",
+                                        "21": "Feu votre P\u00e8re alors, ce Prince g\u00e9n\u00e9reux,",
+                                        "22": "Sur la galanterie \u00e9tait fort dangereux,",
+                                        "23": "Et je sais qu\u2019Elpenor, qu\u2019on appelait mon P\u00e8re,",
+                                        "24": "\u00c0 cause qu\u2019il \u00e9tait le mari de ma M\u00e8re,",
+                                        "25": "Contait pour grand honneur aux Pasteurs d\u2019aujourd\u2019hui",
+                                        "26": "Que le Prince autrefois \u00e9tait venu chez lui,",
+                                        "27": "Et que durant ce temps il avait l\u2019avantage",
+                                        "28": "De se voir salu\u00e9 de tous ceux du village\u00a0:",
+                                        "29": "Baste, quoi qu\u2019il en soit je veux par mes travaux\u2026",
+                                        "30": "Mais voici la Princesse, et deux de vos Rivaux."
+                                    }
+                                }
+                            }
+                        },
+                        "I03": {
+                            "title": "Sc\u00e8ne Troisi\u00e8me",
+                            "repliques": {
+                                "I03-1": {
+                                    "personnage": "aristom\u00e8ne",
+                                    "vers": {
+                                        "0": "Reprochez-vous, Madame, \u00e0 nos justes alarmes,",
+                                        "1": "Ce p\u00e9ril dont tous deux avons sauv\u00e9 vos charmes,",
+                                        "2": "J\u2019aurais pens\u00e9 pour moi qu\u2019abattre sous nos coups",
+                                        "3": "Ce Sanglier qui portait sa fureur jusqu\u2019\u00e0 vous,",
+                                        "4": "\u00c9tait une aventure (ignorant votre Chasse)",
+                                        "5": "Dont \u00e0 nos bons destins nous dussions rendre gr\u00e2ce\u00a0:",
+                                        "6": "Mais \u00e0 cette froideur je connais clairement",
+                                        "7": "Que je dois concevoir un autre sentiment,",
+                                        "8": "Et quereller du sort la fatale puissance",
+                                        "9": "Qui me fait avoir part \u00e0 ce qui vous offense."
+                                    }
+                                },
+                                "I03-2": {
+                                    "personnage": "th\u00e9ocle",
+                                    "vers": {
+                                        "0": "Pour moi je tiens, Madame, \u00e0 sensible bonheur",
+                                        "1": "L\u2019action o\u00f9 pour vous a vol\u00e9 tout mon c\u0153ur,",
+                                        "2": "Et ne puis consentir, malgr\u00e9 votre murmure,",
+                                        "3": "\u00c0 quereller le sort d\u2019une telle aventure\u00a0:",
+                                        "4": "D\u2019un objet odieux je sais que tout d\u00e9pla\u00eet\u00a0;",
+                                        "5": "Mais d\u00fbt votre courroux \u00eatre plus grand qu\u2019il n\u2019est,",
+                                        "6": "C\u2019est extr\u00eame plaisir, quand l\u2019amour est extr\u00eame,",
+                                        "7": "De pouvoir d\u2019un p\u00e9ril affranchir ce qu\u2019on aime."
+                                    }
+                                },
+                                "I03-3": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Et pensez-vous, Seigneur, puisqu\u2019il me faut parler,",
+                                        "1": "Qu\u2019il e\u00fbt en ce p\u00e9ril de quoi tant m\u2019\u00e9branler\u00a0?",
+                                        "2": "Que l\u2019Arc, et que le Dard, pour moi si pleins de charmes,",
+                                        "3": "Ne soient entre mes mains que d\u2019inutiles armes\u00a0?",
+                                        "4": "Et que je fasse, enfin, mes plus fr\u00e9quents emplois",
+                                        "5": "De parcourir nos monts, nos plaines et nos bois,",
+                                        "6": "Pour n\u2019oser en chassant concevoir l\u2019esp\u00e9rance",
+                                        "7": "De suffire moi seule \u00e0 ma propre d\u00e9fense\u00a0?",
+                                        "8": "Certes avec le temps j\u2019aurais bien profit\u00e9",
+                                        "9": "De ces soins assidus dont je fais vanit\u00e9",
+                                        "10": "S\u2019il fallait que mon bras, dans une telle qu\u00eate,",
+                                        "11": "Ne p\u00fbt pas triompher d\u2019une ch\u00e9tive b\u00eate\u00a0;",
+                                        "12": "Du moins si pour pr\u00e9tendre \u00e0 de sensibles coups",
+                                        "13": "Le commun de mon sexe est trop mal avec vous,",
+                                        "14": "D\u2019un \u00e9tage plus haut accordez-moi la gloire,",
+                                        "15": "Et me faites tous deux cette gr\u00e2ce de croire,",
+                                        "16": "Seigneurs, que quel que f\u00fbt le Sanglier d\u2019aujourd\u2019hui,",
+                                        "17": "J\u2019en ai mis bas, sans vous, de plus m\u00e9chants que lui."
+                                    }
+                                },
+                                "I03-4": {
+                                    "personnage": "th\u00e9ocle",
+                                    "vers": {
+                                        "0": "Mais, Madame\u2026"
+                                    }
+                                },
+                                "I03-5": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "H\u00e9 bien, soit, je vois que votre envie",
+                                        "1": "Est de persuader que je vous dois la vie\u00a0;",
+                                        "2": "J\u2019y consens ; oui sans vous c\u2019\u00e9tait fait de mes jours,",
+                                        "3": "Je rends de tout mon c\u0153ur gr\u00e2ce \u00e0 ce grand secours,",
+                                        "4": "Et je vais de ce pas au Prince pour lui dire",
+                                        "5": "Les bont\u00e9s que pour moi votre amour vous inspire."
+                                    }
+                                }
+                            }
+                        },
+                        "I04": {
+                            "title": "Sc\u00e8ne Quatri\u00e8me",
+                            "repliques": {
+                                "I04-1": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Heu\u00a0! a-t-on jamais vu de plus farouche esprit\u00a0?",
+                                        "1": "De ce vilain Sanglier l\u2019heureux tr\u00e9pas l\u2019aigrit\u00a0:",
+                                        "2": "\u00d4 comme volontiers j\u2019aurais d\u2019un beau salaire",
+                                        "3": "R\u00e9compens\u00e9 tant\u00f4t qui m\u2019en e\u00fbt su d\u00e9faire\u00a0!"
+                                    }
+                                },
+                                "I04-2": {
+                                    "personnage": "arbate",
+                                    "vers": {
+                                        "0": "Je vous vois tout pensif, Seigneur, de ses d\u00e9dains\u00a0;",
+                                        "1": "Mais ils n\u2019ont rien qui doive emp\u00eacher vos desseins,",
+                                        "2": "Son heure doit venir, et c\u2019est \u00e0 vous possible",
+                                        "3": "Qu\u2019est r\u00e9serv\u00e9 l\u2019honneur de la rendre sensible."
+                                    }
+                                },
+                                "I04-3": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Il faut qu\u2019avant la course elle apprenne vos feux",
+                                        "1": "Et je\u2026"
+                                    }
+                                },
+                                "I04-4": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "Non, ce n\u2019est plus, Moron, ce que je veux\u00a0;",
+                                        "1": "Garde-toi de rien dire, et me laisse un peu faire,",
+                                        "2": "J\u2019ai r\u00e9solu de prendre un chemin tout contraire\u00a0;",
+                                        "3": "Je vois trop que son c\u0153ur s\u2019obstine \u00e0 d\u00e9daigner",
+                                        "4": "Tous ces profonds respects qui pensent la gagner,",
+                                        "5": "Et le Dieu qui m\u2019engage \u00e0 soupirer pour elle",
+                                        "6": "M\u2019inspire pour la vaincre une adresse nouvelle\u00a0:",
+                                        "7": "Oui, c\u2019est lui d\u2019o\u00f9 me vient ce soudain mouvement,",
+                                        "8": "Et j\u2019en attends de lui l\u2019heureux \u00e9v\u00e9nement."
+                                    }
+                                },
+                                "I04-5": {
+                                    "personnage": "arbate",
+                                    "vers": {
+                                        "0": "Peut-on savoir, Seigneur, par o\u00f9 votre esp\u00e9rance\u2026\u00a0?"
+                                    }
+                                },
+                                "I04-6": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "Tu le vas voir, allons, et garde le silence."
+                                    }
+                                }
+                            }
+                        },
+                        "Ib01": {
+                            "title": "Sc\u00e8ne Premi\u00e8re",
+                            "repliques": {
+                                "Ib01-1": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Jusqu\u2019au revoir\u00a0; pour moi je reste ici, et j\u2019ai une petite conversation \u00e0 faire avec ces arbres et ces rochers.",
+                                        "1": "Bois, pr\u00e9s, fontaines, fleurs qui voyez mon teint bl\u00eame,",
+                                        "2": "Si vous ne le savez, je vous apprends que j\u2019aime\u00a0;",
+                                        "3": "Philis est l\u2019objet charmant",
+                                        "4": "Qui tient mon c\u0153ur \u00e0 l\u2019attache,",
+                                        "5": "Et je devins son amant",
+                                        "6": "La voyant traire une Vache.",
+                                        "7": "Ses doigts tout pleins de lait, et plus blancs mille fois",
+                                        "8": "Pressaient les bouts du pis d\u2019une gr\u00e2ce admirable\u00a0;",
+                                        "9": "Ouf\u00a0! Cette id\u00e9e est capable",
+                                        "10": "De me r\u00e9duire aux abois.",
+                                        "11": "Ah\u00a0! Philis, Philis, Philis.",
+                                        "12": "Ah\u00a0! hem, ah ah ah\u00a0! hi hi hi hi. Oh oh oh oh.",
+                                        "13": "Voil\u00e0 un \u00c9cho qui est bouffon\u00a0! Hom hom hom,",
+                                        "14": "ha ha ha ha ha.",
+                                        "15": "Uh uh uh. Voil\u00e0 un \u00c9cho qui est Bouffon\u00a0!"
+                                    }
+                                }
+                            }
+                        },
+                        "Ib02": {
+                            "title": "Sc\u00e8ne Deuxi\u00e8me",
+                            "repliques": {
+                                "Ib02-1": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Ah\u00a0! monsieur l\u2019Ours,  je suis\nvotre serviteur de tout mon c\u0153ur\u00a0: de gr\u00e2ce \u00e9pargnez-moi\u00a0! je\nvous assure que je ne vaux rien du tout \u00e0 manger, je n\u2019ai que la peau et\n les os, et je vois de certaines gens l\u00e0-bas qui seraient bien mieux\nvotre affaire. Eh\u00a0! eh\u00a0! eh\u00a0! monseigneur, tout doux s\u2019il\n vous pla\u00eet. L\u00e0, l\u00e0, l\u00e0, l\u00e0, ah\u00a0! monseigneur que votre altesse est\n jolie et bien faite\u00a0; elle a tout \u00e0 fait l\u2019air galant et la taille\n la plus mignonne du monde. Ah beau poil\u00a0! belle t\u00eate\u00a0! beaux\nyeux brillants et bien fendus\u00a0! ah beau petit nez\u00a0! belle\npetite bouche\u00a0! petites quenottes jolies\u00a0! ah belle\ngorge\u00a0! belles petites menottes\u00a0! petits ongles bien faits. \u00c0\nl\u2019aide, au secours, je suis mort, mis\u00e9ricorde, pauvre Moron, ah, mon\nDieu\u00a0! et vite, \u00e0 moi, je suis perdu\u00a0!",
+                                        "1": "Eh, messieurs ayez piti\u00e9 de\nmoi\u00a0! bons messieurs tuez-moi ce vilain animal-l\u00e0\u00a0! \u00d4\nCiel\u00a0! daigne les assister. Bon, le voil\u00e0 qui fuit, le voil\u00e0 qui\ns\u2019arr\u00eate et qui se jette sur eux. Bon en voil\u00e0 un qui vient de lui\ndonner un coup dans la gueule. Les voil\u00e0 tous \u00e0 l\u2019entour de lui.\nCourage, ferme, allons mes amis. Bon, poussez fort, encore, ah\u00a0! le\n voil\u00e0 qui est \u00e0 terre, c\u2019en est fait il est mort, descendons maintenant\n pour lui donner cent coups. Serviteur, Messieurs, je vous rends gr\u00e2ce\nde m\u2019avoir d\u00e9livr\u00e9 de cette b\u00eate, maintenant que vous l\u2019avez tu\u00e9e je\nm\u2019en vais l\u2019achever, et en triompher avec vous."
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "II": {
+                    "title": "Acte Deuxi\u00e8me",
+                    "scenes": {
+                        "II01": {
+                            "title": "Sc\u00e8ne Premi\u00e8re",
+                            "repliques": {
+                                "II01-1": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Oui j\u2019aime \u00e0 demeurer dans ces paisibles lieux,",
+                                        "1": "On n\u2019y d\u00e9couvre rien qui n\u2019enchante les yeux,",
+                                        "2": "Et de tous nos Palais la savante structure",
+                                        "3": "C\u00e8de aux simples beaut\u00e9s qu\u2019y forme la nature\u00a0:",
+                                        "4": "Ces Arbres, ces Rochers, cette Eau, ces Gazons frais",
+                                        "5": "Ont pour moi des appas \u00e0 ne lasser jamais."
+                                    }
+                                },
+                                "II01-2": {
+                                    "personnage": "aglante",
+                                    "vers": {
+                                        "0": "Je ch\u00e9ris comme vous ces retraites tranquilles",
+                                        "1": "O\u00f9 l\u2019on se vient sauver de l\u2019embarras des Villes\u00a0;",
+                                        "2": "De mille objets charmants ces lieux sont embellis\u00a0;",
+                                        "3": "Et ce qui doit surprendre, est qu\u2019aux portes d\u2019\u00c9lis",
+                                        "4": "La douce passion de fuir la multitude",
+                                        "5": "Rencontre une si belle, et vaste solitude\u00a0:",
+                                        "6": "Mais \u00e0 vous dire vrai dans ces jours \u00e9clatants",
+                                        "7": "Vos retraites ici me semblent hors de temps,",
+                                        "8": "Et c\u2019est fort maltraiter l\u2019appareil magnifique",
+                                        "9": "Que chaque Prince a fait pour la F\u00eate publique\u00a0:",
+                                        "10": "Ce spectacle pompeux de la Course des Chars",
+                                        "11": "Devrait bien m\u00e9riter l\u2019honneur de vos regards."
+                                    }
+                                },
+                                "II01-3": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Quel droit ont-ils chacun d\u2019y vouloir ma pr\u00e9sence\u00a0?",
+                                        "1": "Et que dois-je apr\u00e8s tout \u00e0 leur magnificence\u00a0?",
+                                        "2": "Ce sont soins que produit l\u2019ardeur de m\u2019acqu\u00e9rir,",
+                                        "3": "Et mon c\u0153ur est le prix qu\u2019ils veulent tous courir\u00a0:",
+                                        "4": "Mais quelque espoir qui flatte un projet de la sorte,",
+                                        "5": "Je me tromperai fort si pas un d\u2019eux l\u2019emporte."
+                                    }
+                                },
+                                "II01-4": {
+                                    "personnage": "Cynthie",
+                                    "vers": {
+                                        "0": "Jusques \u00e0 quand ce c\u0153ur veut-il s\u2019effaroucher",
+                                        "1": "Des innocents desseins qu\u2019on a de le toucher\u00a0?",
+                                        "2": "Et regarde les soins que pour vous on se donne,",
+                                        "3": "Comme autant d\u2019attentats contre votre personne\u00a0?",
+                                        "4": "Je sais qu\u2019en d\u00e9fendant le parti de l\u2019Amour",
+                                        "5": "On s\u2019expose chez vous \u00e0 faire mal sa cour\u00a0:",
+                                        "6": "Mais ce que par le sang j\u2019ai l\u2019honneur de vous \u00eatre",
+                                        "7": "S\u2019oppose aux duret\u00e9s que vous faites para\u00eetre,",
+                                        "8": "Et je ne puis nourrir d\u2019un flatteur entretien",
+                                        "9": "Vos r\u00e9solutions de n\u2019aimer jamais rien.",
+                                        "10": "Est-il rien de plus beau que l\u2019innocente flamme",
+                                        "11": "Qu\u2019un m\u00e9rite \u00e9clatant allume dans une \u00e2me\u00a0?",
+                                        "12": "Et serait-ce un bonheur de respirer le jour",
+                                        "13": "Si d\u2019entre les mortels on bannissait l\u2019Amour\u00a0?",
+                                        "14": "Non, non, tous les plaisirs se go\u00fbtent \u00e0 le suivre,",
+                                        "15": "Et vivre sans aimer n\u2019est pas proprement vivre."
+                                    }
+                                },
+                                "II01-5": {
+                                    "personnage": "aglante",
+                                    "vers": {
+                                        "0": "Pour moi je tiens que cette passion\nest la plus agr\u00e9able affaire de la vie, qu\u2019il est n\u00e9cessaire d\u2019aimer\npour vivre heureusement, et que tous les plaisirs sont fades s\u2019il ne s\u2019y\n m\u00eale un peu d\u2019amour."
+                                    }
+                                },
+                                "II01-6": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Pouvez-vous bien toutes deux, \u00e9tant\nce que vous \u00eates, prononcer ces paroles\u00a0; et ne devez-vous pas\nrougir d\u2019appuyer une passion qui n\u2019est qu\u2019erreur, que faiblesse et\nqu\u2019emportement, et dont tous les d\u00e9sordres ont tant de r\u00e9pugnance avec\nla gloire de notre sexe. J\u2019en pr\u00e9tends soutenir l\u2019honneur jusqu\u2019au\ndernier moment de ma vie\u00a0: Et ne veux point du tout me commettre \u00e0\nces gens qui sont les esclaves aupr\u00e8s de nous, pour devenir un jour nos\nTyrans\u00a0: Toutes ces larmes, tous ces soupirs, tous ces hommages,\ntous ces respects sont des emb\u00fbches qu\u2019on tend \u00e0 notre c\u0153ur, et qui\nsouvent l\u2019engagent \u00e0 commettre des l\u00e2chet\u00e9s. Pour moi quand je regarde\ncertains exemples, et les bassesses \u00e9pouvantables o\u00f9 cette passion\nravale les personnes sur qui elle \u00e9tend sa puissance\u00a0: Je sens tout\n mon c\u0153ur qui s\u2019\u00e9meut\u00a0: et je ne puis souffrir qu\u2019une \u00e2me qui fait\nprofession d\u2019un peu de fiert\u00e9, ne trouve pas une honte horrible \u00e0 de\ntelles faiblesses."
+                                    }
+                                },
+                                "II01-7": {
+                                    "personnage": "Cynthie",
+                                    "vers": {
+                                        "0": "Eh\u00a0! Madame, il est de certaines\n faiblesses qui ne sont point honteuses, et qu\u2019il est beau m\u00eame d\u2019avoir\ndans les plus hauts degr\u00e9s de gloire. J\u2019esp\u00e8re que vous changerez un\njour de pens\u00e9e, et s\u2019il pla\u00eet au Ciel nous verrons votre c\u0153ur avant\nqu\u2019il soit peu\u2026"
+                                    }
+                                },
+                                "II01-8": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Arr\u00eatez, n\u2019achevez pas ce souhait\n\u00e9trange, j\u2019ai une horreur trop invincible pour ces sortes\nd\u2019abaissements, et si jamais j\u2019\u00e9tais capable d\u2019y descendre, je serais\npersonne sans doute \u00e0 ne me le point pardonner."
+                                    }
+                                },
+                                "II01-9": {
+                                    "personnage": "aglante",
+                                    "vers": {
+                                        "0": "Prenez garde\u00a0; Madame, l\u2019Amour sait se venger des m\u00e9pris que l\u2019on fait de lui, et peut-\u00eatre\u2026"
+                                    }
+                                },
+                                "II01-10": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Non, non je brave tous ses traits, et\n le grand pouvoir qu\u2019on lui donne n\u2019est rien qu\u2019une chim\u00e8re, qu\u2019une\nexcuse des faibles c\u0153urs qui le font invincible pour autoriser leur\nfaiblesse."
+                                    }
+                                },
+                                "II01-11": {
+                                    "personnage": "Cynthie",
+                                    "vers": {
+                                        "0": "Mais enfin toute la terre reconna\u00eet\nsa puissance, et vous voyez que les Dieux m\u00eame sont assujettis \u00e0 son\nempire\u00a0: On nous fait voir que Jupiter n\u2019a pas aim\u00e9 pour une\nfois\u00a0; et que Diane m\u00eame dont vous affectez tant l\u2019exemple n\u2019a pas\nrougi de pousser des soupirs d\u2019amour."
+                                    }
+                                },
+                                "II01-12": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Les croyances publiques sont toujours\n m\u00eal\u00e9es d\u2019erreur\u00a0: Les Dieux ne sont point faits comme se les fait\nle vulgaire, et c\u2019est leur manquer de respect que de leur attribuer les\nfaiblesses des hommes."
+                                    }
+                                }
+                            }
+                        },
+                        "II02": {
+                            "title": "Sc\u00e8ne Deuxi\u00e8me",
+                            "repliques": {
+                                "II02-1": {
+                                    "personnage": "aglante",
+                                    "vers": {
+                                        "0": "Viens, approche Moron, viens nous aider \u00e0 d\u00e9fendre l\u2019Amour contre les sentiments de la Princesse."
+                                    }
+                                },
+                                "II02-2": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Voil\u00e0 votre parti fortifi\u00e9 d\u2019un grand d\u00e9fenseur."
+                                    }
+                                },
+                                "II02-3": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Ma foi, Madame, je crois qu\u2019apr\u00e8s mon\n exemple il n\u2019y a plus rien \u00e0 dire, et qu\u2019il ne faut plus mettre en\ndoute le pouvoir de l\u2019Amour. J\u2019ai brav\u00e9 ses armes assez longtemps, et\nfait de mon dr\u00f4le comme un autre\u00a0; mais enfin ma fiert\u00e9 a baiss\u00e9\nl\u2019oreille, et vous avez une tra\u00eetresse qui m\u2019a rendu plus doux qu\u2019un\nAgneau\u00a0: Apr\u00e8s cela, on ne doit plus faire aucun scrupule d\u2019aimer,\net puisque j\u2019ai bien pass\u00e9 par l\u00e0, il peut bien y en passer d\u2019autres."
+                                    }
+                                },
+                                "II02-4": {
+                                    "personnage": "Cynthie",
+                                    "vers": {
+                                        "0": "Quoi\u00a0? Moron se m\u00eale d\u2019aimer\u00a0?"
+                                    }
+                                },
+                                "II02-5": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Fort bien."
+                                    }
+                                },
+                                "II02-6": {
+                                    "personnage": "Cynthie",
+                                    "vers": {
+                                        "0": "Et de vouloir \u00eatre aim\u00e9\u00a0?"
+                                    }
+                                },
+                                "II02-7": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Et pourquoi non\u00a0? Est-ce qu\u2019on\nn\u2019est pas assez bien fait pour cela\u00a0? Je pense que ce visage est\nassez passable, et que pour le bel air, Dieu merci, nous ne le c\u00e9dons \u00e0\npersonne."
+                                    }
+                                },
+                                "II02-8": {
+                                    "personnage": "Cynthie",
+                                    "vers": {
+                                        "0": "Sans doute, on aurait tort\u2026"
+                                    }
+                                }
+                            }
+                        },
+                        "II03": {
+                            "title": "Sc\u00e8ne Troisi\u00e8me",
+                            "repliques": {
+                                "II03-1": {
+                                    "personnage": "Lycas",
+                                    "vers": {
+                                        "0": "Madame, le Prince votre P\u00e8re vient vous trouver ici, et conduit avec lui les Princes de Pyle, et d\u2019Ithaque, et celui de Mess\u00e8ne."
+                                    }
+                                },
+                                "II03-2": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "\u00d4 Ciel\u00a0! que pr\u00e9tend-il faire en\n me les amenant\u00a0? Aurait-il r\u00e9solu ma perte, et voudrait-il bien me\n forcer au choix de quelqu\u2019un d\u2019eux\u00a0?"
+                                    }
+                                }
+                            }
+                        },
+                        "II04": {
+                            "title": "Sc\u00e8ne Quatri\u00e8me",
+                            "repliques": {
+                                "II04-1": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Seigneur, je vous demande la licence\nde pr\u00e9venir par deux paroles, la d\u00e9claration des pens\u00e9es que vous pouvez\n avoir. Il y a deux v\u00e9rit\u00e9s, Seigneur, aussi constantes l\u2019une que\nl\u2019autre, et dont je puis vous assurer \u00e9galement\u00a0: l\u2019Une que vous\navez un absolu pouvoir sur moi, et que vous ne sauriez m\u2019ordonner rien\no\u00f9 je ne r\u00e9ponde aussit\u00f4t par une ob\u00e9issance aveugle. L\u2019autre que je\nregarde l\u2019Hym\u00e9n\u00e9e ainsi que le tr\u00e9pas, et qu\u2019il m\u2019est impossible de\nforcer cette aversion naturelle\u00a0: Me donner un Mari, et me donner\nla mort c\u2019est une m\u00eame chose\u00a0; mais votre volont\u00e9 va la premi\u00e8re,\net mon ob\u00e9issance m\u2019est bien plus ch\u00e8re que ma vie\u00a0: Apr\u00e8s cela\nparlez, Seigneur, prononcez librement ce que vous voulez."
+                                    }
+                                },
+                                "II04-2": {
+                                    "personnage": "Le Prince",
+                                    "vers": {
+                                        "0": "Ma Fille tu as tort de prendre de\ntelles alarmes, et je me plains de toi, qui peux mettre dans ta pens\u00e9e\nque je sois assez mauvais P\u00e8re pour vouloir faire violence \u00e0 tes\nsentiments, et me servir tyranniquement de la puissance que le Ciel me\ndonne sur toi. Je souhaite \u00e0 la v\u00e9rit\u00e9 que ton c\u0153ur puisse aimer\nquelqu\u2019un\u00a0: Tous mes v\u0153ux seraient satisfaits si cela pouvait\narriver, et je n\u2019ai propos\u00e9 les F\u00eates et les Jeux que je fais c\u00e9l\u00e9brer\nici\u00a0; qu\u2019afin d\u2019y pouvoir attirer tout ce que la Gr\u00e8ce a\nd\u2019illustre\u00a0; et que parmi cette noble jeunesse tu puisses enfin\nrencontrer o\u00f9 arr\u00eater tes yeux et d\u00e9terminer tes pens\u00e9es. Je ne demande\ndis-je, au Ciel autre bonheur que celui de te voir un \u00c9poux. J\u2019ai pour\nobtenir cette gr\u00e2ce fait encore ce matin un sacrifice \u00e0 V\u00e9nus\u00a0; et\nsi je sais bien expliquer le langage des Dieux, elle m\u2019a promis un\nmiracle\u00a0; mais quoi qu\u2019il en soit je veux en user avec toi en P\u00e8re\nqui ch\u00e9rit sa Fille\u00a0: Si tu trouves o\u00f9 attacher tes v\u0153ux, ton choix\n sera le mien, et je ne consid\u00e9rerai ni int\u00e9r\u00eats d\u2019\u00c9tat, ni avantage\nd\u2019Alliance. Si ton c\u0153ur demeure insensible, je n\u2019entreprendrai point de\nle forcer\u00a0: Mais au moins sois complaisante aux civilit\u00e9s qu\u2019on te\nrend, et ne m\u2019oblige point \u00e0 faire les excuses de ta froideur\u00a0:\nTraite ces Princes avec l\u2019estime que tu leur dois, re\u00e7ois avec\nreconnaissance les t\u00e9moignages de leur z\u00e8le, et viens voir cette Course\no\u00f9 leur adresse va para\u00eetre."
+                                    }
+                                },
+                                "II04-3": {
+                                    "personnage": "th\u00e9ocle",
+                                    "vers": {
+                                        "0": "Tout le monde va faire des efforts\npour emporter le prix de cette Course\u00a0; mais \u00e0 vous dire vrai j\u2019ai\npeu d\u2019ardeur pour la victoire, puisque ce n\u2019est pas votre c\u0153ur qu\u2019on y\ndoit disputer."
+                                    }
+                                },
+                                "II04-4": {
+                                    "personnage": "aristom\u00e8ne",
+                                    "vers": {
+                                        "0": "Pour moi, Madame, vous \u00eates le seul\nprix que je me propose partout\u00a0: C\u2019est vous que je crois disputer\ndans ces combats d\u2019adresse, et je n\u2019aspire maintenant \u00e0 remporter\nl\u2019honneur de cette Course, que pour obtenir un degr\u00e9 de gloire qui\nm\u2019approche de votre c\u0153ur."
+                                    }
+                                },
+                                "II04-5": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "Pour moi, Madame, je n\u2019y vais point\ndu tout avec cette pens\u00e9e\u00a0: Comme j\u2019ai fait toute ma vie profession\n de ne rien aimer, tous les soins que je prends ne vont point o\u00f9 tendent\n les autres\u00a0: Je n\u2019ai aucune pr\u00e9tention sur votre c\u0153ur, et le seul\nhonneur de la Course est tout l\u2019avantage o\u00f9 j\u2019aspire."
+                                    }
+                                },
+                                "II04-6": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "D\u2019o\u00f9 sort cette fiert\u00e9 o\u00f9 l\u2019on ne\ns\u2019attendait point\u00a0? Princesses, que dites-vous de ce jeune\nPrince\u00a0? Avez-vous remarqu\u00e9 de quel ton il l\u2019a pris\u00a0?"
+                                    }
+                                },
+                                "II04-7": {
+                                    "personnage": "aglante",
+                                    "vers": {
+                                        "0": "Il est vrai que cela est un peu fier."
+                                    }
+                                },
+                                "II04-8": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Ah\u00a0! quelle brave botte il vient l\u00e0 de lui porter\u00a0!"
+                                    }
+                                },
+                                "II04-9": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Ne trouvez-vous pas qu\u2019il y aurait\nplaisir d\u2019abaisser son orgueil, et de soumettre un peu ce c\u0153ur qui\ntranche tant du brave\u00a0?"
+                                    }
+                                },
+                                "II04-10": {
+                                    "personnage": "Cynthie",
+                                    "vers": {
+                                        "0": "Comme vous \u00eates accoutum\u00e9e \u00e0 ne\njamais recevoir que des hommages et des adorations de tout le monde, un\ncompliment pareil au sien doit vous surprendre \u00e0 la v\u00e9rit\u00e9."
+                                    }
+                                },
+                                "II04-11": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Je vous avoue que cela m\u2019a donn\u00e9 de\nl\u2019\u00e9motion, et que je souhaiterais fort de trouver les moyens de ch\u00e2tier\ncette hauteur. Je n\u2019avais pas beaucoup d\u2019envie de me trouver \u00e0 cette\nCourse\u00a0; mais j\u2019y veux aller expr\u00e8s, et employer toute chose pour\nlui donner de l\u2019amour."
+                                    }
+                                },
+                                "II04-12": {
+                                    "personnage": "Cynthie",
+                                    "vers": {
+                                        "0": "Prenez garde, Madame, l\u2019entreprise est p\u00e9rilleuse, et lorsqu\u2019on veut donner de l\u2019amour, on court risque d\u2019en recevoir."
+                                    }
+                                },
+                                "II04-13": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Ah\u00a0! n\u2019appr\u00e9hendez rien, je vous prie, allons, je vous r\u00e9ponds de moi."
+                                    }
+                                }
+                            }
+                        },
+                        "IIb01": {
+                            "title": "Sc\u00e8ne Premi\u00e8re",
+                            "repliques": {
+                                "IIb01-1": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Philis demeure ici\u00a0?"
+                                    }
+                                },
+                                "IIb01-2": {
+                                    "personnage": "Philis",
+                                    "vers": {
+                                        "0": "Non laisse-moi suivre les autres."
+                                    }
+                                },
+                                "IIb01-3": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Ah\u00a0! cruelle si c\u2019\u00e9tait Tircis qui t\u2019en pri\u00e2t, tu demeurerais bien vite."
+                                    }
+                                },
+                                "IIb01-4": {
+                                    "personnage": "Philis",
+                                    "vers": {
+                                        "0": "Cela se pourrait faire, et je demeure\n d\u2019accord que je trouve bien mieux mon compte avec l\u2019un qu\u2019avec\nl\u2019autre\u00a0; car il me divertit avec sa voix, et toi tu m\u2019\u00e9tourdis de\nton caquet. Lorsque tu chanteras aussi bien que lui, je te promets de\nt\u2019\u00e9couter."
+                                    }
+                                },
+                                "IIb01-5": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Eh\u00a0! demeure un peu\u00a0!"
+                                    }
+                                },
+                                "IIb01-6": {
+                                    "personnage": "Philis",
+                                    "vers": {
+                                        "0": "Je ne saurais."
+                                    }
+                                },
+                                "IIb01-7": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "De gr\u00e2ce\u00a0!"
+                                    }
+                                },
+                                "IIb01-8": {
+                                    "personnage": "Philis",
+                                    "vers": {
+                                        "0": "Point te dis-je."
+                                    }
+                                },
+                                "IIb01-9": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Je ne te laisserai point aller."
+                                    }
+                                },
+                                "IIb01-10": {
+                                    "personnage": "Philis",
+                                    "vers": {
+                                        "0": "Ah\u00a0! que de fa\u00e7ons."
+                                    }
+                                },
+                                "IIb01-11": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Je ne te demande qu\u2019un moment \u00e0 \u00eatre avec toi\u00a0!"
+                                    }
+                                },
+                                "IIb01-12": {
+                                    "personnage": "Philis",
+                                    "vers": {
+                                        "0": "Eh bien\u00a0! oui, j\u2019y demeurerai, pourvu que tu me promettes une chose\u00a0!"
+                                    }
+                                },
+                                "IIb01-13": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Et quelle\u00a0?"
+                                    }
+                                },
+                                "IIb01-14": {
+                                    "personnage": "Philis",
+                                    "vers": {
+                                        "0": "De ne me point parler du tout."
+                                    }
+                                },
+                                "IIb01-15": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Eh\u00a0! Philis\u00a0!"
+                                    }
+                                },
+                                "IIb01-16": {
+                                    "personnage": "Philis",
+                                    "vers": {
+                                        "0": "\u00c0 moins que de cela je ne demeurerai point avec toi."
+                                    }
+                                },
+                                "IIb01-17": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Veux-tu me\u2026"
+                                    }
+                                },
+                                "IIb01-18": {
+                                    "personnage": "Philis",
+                                    "vers": {
+                                        "0": "Laisse-moi aller\u00a0!"
+                                    }
+                                },
+                                "IIb01-19": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Eh bien, oui, demeure\u00a0: je ne dirai mot."
+                                    }
+                                },
+                                "IIb01-20": {
+                                    "personnage": "Philis",
+                                    "vers": {
+                                        "0": "Prends-y bien garde au moins\u00a0; car \u00e0 la moindre parole je prends la fuite."
+                                    }
+                                },
+                                "IIb01-21": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Soit. Ah\u00a0! Philis\u2026 Eh\u2026 Elle\ns\u2019enfuit, et je ne saurais l\u2019attraper. Voil\u00e0 ce que c\u2019est, si je savais\nchanter j\u2019en ferais bien mieux mes affaires. La plupart des Femmes\naujourd\u2019hui se laissent prendre par les oreilles\u00a0: Elles sont cause\n que tout le monde se m\u00eale de Musique, et l\u2019on ne r\u00e9ussit aupr\u00e8s\nd\u2019elles, que par les petites chansons, et les petits vers qu\u2019on leur\nfait entendre. Il faut que j\u2019apprenne \u00e0 chanter pour faire comme les\nautres, bon, voici justement mon homme."
+                                    }
+                                }
+                            }
+                        },
+                        "IIb02": {
+                            "title": "Sc\u00e8ne Deuxi\u00e8me",
+                            "repliques": {
+                                "IIb02-1": {
+                                    "personnage": "satyre",
+                                    "vers": {
+                                        "0": "La, la, la."
+                                    }
+                                },
+                                "IIb02-2": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Ah\u00a0! Satyre mon ami, tu sais bien ce que tu m\u2019as promis il y a longtemps, apprends-moi \u00e0 chanter, je te prie."
+                                    }
+                                },
+                                "IIb02-3": {
+                                    "personnage": "satyre",
+                                    "vers": {
+                                        "0": "Je le veux\u00a0; mais auparavant \u00e9coute une chanson que je viens de faire."
+                                    }
+                                },
+                                "IIb02-4": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Il est si accoutum\u00e9 \u00e0 chanter qu\u2019il ne saurait parler d\u2019autre fa\u00e7on. Allons chante, j\u2019\u00e9coute."
+                                    }
+                                },
+                                "IIb02-5": {
+                                    "personnage": "satyre",
+                                    "vers": {
+                                        "0": "Je portais\u2026"
+                                    }
+                                },
+                                "IIb02-6": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Une chanson, dis-tu\u00a0?"
+                                    }
+                                },
+                                "IIb02-7": {
+                                    "personnage": "satyre",
+                                    "vers": {
+                                        "0": "Je port\u2026"
+                                    }
+                                },
+                                "IIb02-8": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Une chanson \u00e0 chanter\u00a0?"
+                                    }
+                                },
+                                "IIb02-9": {
+                                    "personnage": "satyre",
+                                    "vers": {
+                                        "0": "Je port\u2026"
+                                    }
+                                },
+                                "IIb02-10": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Chanson amoureuse, peste."
+                                    }
+                                },
+                                "IIb02-11": {
+                                    "personnage": "satyre",
+                                    "vers": {
+                                        "0": "Je portais dans une cage",
+                                        "1": "Deux moineaux que j\u2019avais pris,",
+                                        "2": "Lorsque la jeune Cloris",
+                                        "3": "Fit dans un sombre bocage",
+                                        "4": "Briller, \u00e0 mes yeux surpris,",
+                                        "5": "Les fleurs de son beau visage\u00a0:",
+                                        "6": "H\u00e9las\u00a0! dis-je aux moineaux, en recevant les coups",
+                                        "7": "De ses yeux si savants \u00e0 faire des conqu\u00eates,",
+                                        "8": "Consolez-vous, pauvres petites b\u00eates,",
+                                        "9": "Celui qui vous a pris est bien plus pris que vous.",
+                                        "10": "Dans vos chants si doux,",
+                                        "11": "Chantez \u00e0 ma belle,",
+                                        "12": "Oiseaux, chantez tous",
+                                        "13": "Ma peine mortelle\u00a0:",
+                                        "14": "Mais si la cruelle",
+                                        "15": "Se met en courroux",
+                                        "16": "Au r\u00e9cit fid\u00e8le",
+                                        "17": "Des maux que je sens pour elle\u00a0;",
+                                        "18": "Oiseaux, taisez-vous.",
+                                        "19": "Oiseaux, taisez-vous."
+                                    }
+                                },
+                                "IIb02-12": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Ah qu\u2019elle est belle, apprends-la-moi\u00a0!"
+                                    }
+                                },
+                                "IIb02-13": {
+                                    "personnage": "satyre",
+                                    "vers": {
+                                        "0": "La, la, la, la."
+                                    }
+                                },
+                                "IIb02-14": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "La, la, la, la."
+                                    }
+                                },
+                                "IIb02-15": {
+                                    "personnage": "satyre",
+                                    "vers": {
+                                        "0": "Fa, fa, fa, fa."
+                                    }
+                                },
+                                "IIb02-16": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Fa toi-m\u00eame."
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "III": {
+                    "title": "Acte Troisi\u00e8me",
+                    "scenes": {
+                        "III01": {
+                            "title": "Sc\u00e8ne Premi\u00e8re",
+                            "repliques": {
+                                "III01-1": {
+                                    "personnage": "Cynthie",
+                                    "vers": {
+                                        "0": "Il est vrai, Madame, que ce jeune\nPrince a fait voir une adresse non commune, et que l\u2019air dont il a paru a\n \u00e9t\u00e9 quelque chose de surprenant. Il sort vainqueur de cette Course,\nmais je doute fort qu\u2019il en sorte avec le m\u00eame c\u0153ur qu\u2019il y a\nport\u00e9\u00a0: Car enfin, vous lui avez tir\u00e9 des traits dont il est\ndifficile de se d\u00e9fendre, et sans parler de tout le reste, la gr\u00e2ce de\nvotre danse, et la douceur de votre voix ont eu des charmes aujourd\u2019hui \u00e0\n toucher les plus insensibles."
+                                    }
+                                },
+                                "III01-2": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Le voici qui s\u2019entretient avec\nMoron\u00a0; nous saurons un peu de quoi il lui parle\u00a0: Ne rompons\npoint encore leur entretien, et prenons cette route pour revenir \u00e0 leur\nrencontre."
+                                    }
+                                }
+                            }
+                        },
+                        "III02": {
+                            "title": "Sc\u00e8ne Deuxi\u00e8me",
+                            "repliques": {
+                                "III02-1": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "Ah\u00a0! Moron, je te l\u2019avoue, j\u2019ai\n\u00e9t\u00e9 enchant\u00e9, et jamais tant de charmes n\u2019ont frapp\u00e9 tout ensemble mes\nyeux et mes oreilles. Elle est adorable en tout temps, il est\nvrai\u00a0: mais ce moment l\u2019a emport\u00e9 sur tous les autres, et des\ngr\u00e2ces nouvelles ont redoubl\u00e9 l\u2019\u00e9clat de ses beaut\u00e9s. Jamais son visage\nne s\u2019est par\u00e9 de plus vives couleurs, ni ses yeux ne se sont arm\u00e9s de\ntraits plus vifs et plus per\u00e7ants. La douceur de sa voix a voulu se\nfaire para\u00eetre dans un air tout charmant qu\u2019elle a daign\u00e9 chanter, et\nles sons merveilleux qu\u2019elle formait passaient jusqu\u2019au fond de mon \u00e2me,\n et tenaient tous mes sens dans un ravissement \u00e0 ne pouvoir en revenir.\nElle a fait \u00e9clater ensuite une disposition toute divine, et ses pieds\namoureux sur l\u2019\u00e9mail d\u2019un tendre gazon tra\u00e7aient d\u2019aimables caract\u00e8res\nqui m\u2019enlevaient hors de moi-m\u00eame, et m\u2019attachaient par des n\u0153uds\ninvincibles aux doux et justes mouvements dont tout son corps suivait\nles mouvements de l\u2019harmonie. Enfin jamais \u00e2me n\u2019a eu de plus puissantes\n \u00e9motions que la mienne, et j\u2019ai pens\u00e9 plus de vingt fois oublier ma\nr\u00e9solution pour me jeter \u00e0 ses pieds, et lui faire un aveu sinc\u00e8re de\nl\u2019ardeur que je sens pour elle."
+                                    }
+                                },
+                                "III02-2": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Donnez-vous-en bien de garde,\nSeigneur, si vous m\u2019en voulez croire\u00a0: Vous avez trouv\u00e9 la\nmeilleure invention du monde, et je me trompe fort si elle ne vous\nr\u00e9ussit. Les femmes sont des animaux d\u2019un naturel bizarre, nous les\ng\u00e2tons par nos douceurs, et je crois toutdebon que nous les verrions\nnous courir, sans tous ces respects, et ces soumissions o\u00f9 les hommes\nles acoquinent."
+                                    }
+                                },
+                                "III02-3": {
+                                    "personnage": "arbate",
+                                    "vers": {
+                                        "0": "Seigneur, voici la Princesse qui s\u2019est un peu \u00e9loign\u00e9e de sa suite."
+                                    }
+                                },
+                                "III02-4": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Demeurez ferme, au moins, dans le\nchemin que vous avez pris\u00a0: Je m\u2019en vais voir ce qu\u2019elle me\ndira\u00a0: cependant promenez-vous ici dans ces petites routes sans\nfaire aucun semblant d\u2019avoir envie de la joindre, et si vous l\u2019abordez,\ndemeurez avec elle le moins qu\u2019il vous sera possible."
+                                    }
+                                }
+                            }
+                        },
+                        "III03": {
+                            "title": "Sc\u00e8ne Troisi\u00e8me",
+                            "repliques": {
+                                "III03-1": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Tu as donc familiarit\u00e9, Moron, avec le Prince d\u2019Ithaque\u00a0?"
+                                    }
+                                },
+                                "III03-2": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Ah\u00a0! Madame il y a longtemps que nous nous connaissons."
+                                    }
+                                },
+                                "III03-3": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "D\u2019o\u00f9 vient qu\u2019il n\u2019est pas venu jusqu\u2019ici, et qu\u2019il a pris cette autre route quand il m\u2019a vue\u00a0?"
+                                    }
+                                },
+                                "III03-4": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "C\u2019est un homme bizarre qui ne se pla\u00eet qu\u2019\u00e0 entretenir ses pens\u00e9es."
+                                    }
+                                },
+                                "III03-5": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "\u00c9tais-tu tant\u00f4t au compliment qu\u2019il m\u2019a fait\u00a0?"
+                                    }
+                                },
+                                "III03-6": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Oui, Madame, j\u2019y \u00e9tais, et je l\u2019ai trouv\u00e9 un peu impertinent, n\u2019en d\u00e9plaise \u00e0 Sa Principaut\u00e9."
+                                    }
+                                },
+                                "III03-7": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Pour moi je le confesse, Moron, cette\n fuite m\u2019a choqu\u00e9e, et j\u2019ai toutes les envies du monde de l\u2019engager pour\n rabattre un peu son orgueil."
+                                    }
+                                },
+                                "III03-8": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Ma foi, Madame, vous ne feriez pas\nmal, il le m\u00e9riterait bien\u00a0: mais \u00e0 vous dire vrai, je doute fort\nque vous y puissiez r\u00e9ussir."
+                                    }
+                                },
+                                "III03-9": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Comment\u00a0?"
+                                    }
+                                },
+                                "III03-10": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Comment\u00a0! c\u2019est le plus\norgueilleux petit vilain que vous ayez jamais vu. Il lui semble qu\u2019il\nn\u2019y a personne au monde qui le m\u00e9rite, et que la terre n\u2019est pas digne\nde le porter."
+                                    }
+                                },
+                                "III03-11": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Mais encore, ne t\u2019a-t-il point parl\u00e9 de moi\u00a0?"
+                                    }
+                                },
+                                "III03-12": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Lui\u00a0? non."
+                                    }
+                                },
+                                "III03-13": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Il ne t\u2019a rien dit de ma voix, et de ma danse\u00a0?"
+                                    }
+                                },
+                                "III03-14": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Pas le moindre mot."
+                                    }
+                                },
+                                "III03-15": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Certes ce m\u00e9pris est choquant, et je ne puis souffrir cette hauteur \u00e9trange de ne rien estimer."
+                                    }
+                                },
+                                "III03-16": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Il n\u2019estime et n\u2019aime que lui."
+                                    }
+                                },
+                                "III03-17": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Il n\u2019y a rien que je ne fasse, pour le soumettre comme il faut."
+                                    }
+                                },
+                                "III03-18": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Nous n\u2019avons point de marbre dans nos montagnes qui soit plus dur, et plus insensible que lui."
+                                    }
+                                },
+                                "III03-19": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Le voil\u00e0."
+                                    }
+                                },
+                                "III03-20": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Voyez-vous comme il passe, sans prendre garde \u00e0 vous\u00a0?"
+                                    }
+                                },
+                                "III03-21": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "De gr\u00e2ce, Moron, va le faire aviser que je suis ici, et l\u2019oblige \u00e0 me venir aborder."
+                                    }
+                                }
+                            }
+                        },
+                        "III04": {
+                            "title": "Sc\u00e8ne Quatri\u00e8me",
+                            "repliques": {
+                                "III04-1": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Seigneur, je vous donne avis que tout\n va bien\u00a0: la Princesse souhaite que vous l\u2019abordiez\u00a0: mais\nsongez bien \u00e0 continuer votre r\u00f4le, et de peur de l\u2019oublier ne soyez pas\n longtemps avec elle."
+                                    }
+                                },
+                                "III04-2": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Vous \u00eates bien solitaire, Seigneur,\net c\u2019est une humeur bien extraordinaire que la v\u00f4tre, de renoncer ainsi \u00e0\n notre sexe, et de fuir \u00e0 votre \u00e2ge cette galanterie, dont se piquent\ntous vos pareils."
+                                    }
+                                },
+                                "III04-3": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "Cette humeur, Madame, n\u2019est pas si\nextraordinaire qu\u2019on n\u2019en trouv\u00e2t des exemples sans aller loin d\u2019ici, et\n vous ne sauriez condamner la r\u00e9solution que j\u2019ai prise de n\u2019aimer\njamais rien, sans condamner aussi vos sentiments."
+                                    }
+                                },
+                                "III04-4": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Il y a grande diff\u00e9rence, et ce qui\nsied bien \u00e0 un sexe, ne sied pas bien \u00e0 l\u2019autre. Il est beau qu\u2019une\nfemme soit insensible, et conserve son c\u0153ur exempt des flammes de\nl\u2019amour\u00a0; mais ce qui est vertu en elle, devient un crime dans un\nhomme. Et comme la beaut\u00e9 est le partage de notre sexe, vous ne sauriez\nne nous point aimer, sans nous d\u00e9rober les hommages qui nous sont dus,\net commettre une offense dont nous devons toutes nous ressentir."
+                                    }
+                                },
+                                "III04-5": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "Je ne vois pas, Madame, que celles qui ne veulent point aimer, doivent prendre aucun int\u00e9r\u00eat \u00e0 ces sortes d\u2019offenses."
+                                    }
+                                },
+                                "III04-6": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Ce n\u2019est pas une raison, Seigneur, et sans vouloir aimer, on est toujours bien aise d\u2019\u00eatre aim\u00e9e."
+                                    }
+                                },
+                                "III04-7": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "Pour moi je ne suis pas de m\u00eame, et dans le dessein o\u00f9 je suis, de ne rien aimer, je serais f\u00e2ch\u00e9 d\u2019\u00eatre aim\u00e9."
+                                    }
+                                },
+                                "III04-8": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Et la raison\u00a0?"
+                                    }
+                                },
+                                "III04-9": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "C\u2019est qu\u2019on a obligation \u00e0 ceux qui nous aiment, et que je serais f\u00e2ch\u00e9 d\u2019\u00eatre ingrat."
+                                    }
+                                },
+                                "III04-10": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Si bien donc, que pour fuir l\u2019ingratitude, vous aimeriez qui vous aimerait\u00a0?"
+                                    }
+                                },
+                                "III04-11": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "Moi\u00a0? Madame, point du tout. Je\ndis bien que je serais f\u00e2ch\u00e9 d\u2019\u00eatre ingrat\u00a0: mais je me r\u00e9soudrais\nplut\u00f4t de l\u2019\u00eatre, que d\u2019aimer."
+                                    }
+                                },
+                                "III04-12": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Telle personne vous aimerait, peut-\u00eatre que votre c\u0153ur\u2026"
+                                    }
+                                },
+                                "III04-13": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "Non\u00a0! Madame, rien n\u2019est capable\n de toucher mon c\u0153ur, ma libert\u00e9 est la seule ma\u00eetresse \u00e0 qui je\nconsacre mes v\u0153ux, et quand le Ciel emploierait ses soins \u00e0 composer une\n beaut\u00e9 parfaite, quand il emploierait en elle tous les dons les plus\nmerveilleux, et du corps et de l\u2019\u00e2me. Enfin quand il exposerait \u00e0 mes\nyeux un miracle d\u2019esprit, d\u2019adresse, et de beaut\u00e9, et que cette personne\n m\u2019aimerait avec toutes les tendresses imaginables, je vous l\u2019avoue\nfranchement, je ne l\u2019aimerais pas."
+                                    }
+                                },
+                                "III04-14": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "A-t-on jamais rien vu de tel\u00a0!"
+                                    }
+                                },
+                                "III04-15": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Peste soit du petit brutal, j\u2019aurais bien envie de lui bailler un coup de poing."
+                                    }
+                                },
+                                "III04-16": {
+                                    "personnage": "La Princesse ",
+                                    "vers": {
+                                        "0": "Cet orgueil me confond, et j\u2019ai un tel d\u00e9pit, que je ne me sens pas."
+                                    }
+                                },
+                                "III04-17": {
+                                    "personnage": "Moron ",
+                                    "vers": {
+                                        "0": "Bon courage, Seigneur, voil\u00e0 qui va le mieux du monde."
+                                    }
+                                },
+                                "III04-18": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "Ah\u00a0! Moron, je n\u2019en puis plus, et je me suis fait des efforts \u00e9tranges."
+                                    }
+                                },
+                                "III04-19": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "C\u2019est avoir une insensibilit\u00e9 bien grande, que de parler comme vous faites."
+                                    }
+                                },
+                                "III04-20": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "Le Ciel ne m\u2019a pas fait d\u2019une autre\nhumeur\u00a0: mais, Madame, j\u2019interromps votre promenade, et mon respect\n doit m\u2019avertir que vous aimez la solitude."
+                                    }
+                                }
+                            }
+                        },
+                        "III05": {
+                            "title": "Sc\u00e8ne Cinqui\u00e8me",
+                            "repliques": {
+                                "III05-1": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Il ne vous en doit rien, Madame, en duret\u00e9 de c\u0153ur."
+                                    }
+                                },
+                                "III05-2": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Je donnerais volontiers tout ce que j\u2019ai au monde, pour avoir l\u2019avantage d\u2019en triompher."
+                                    }
+                                },
+                                "III05-3": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Je le crois\u00a0!"
+                                    }
+                                },
+                                "III05-4": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Ne pourrais-tu, Moron, me servir dans un tel dessein\u00a0?"
+                                    }
+                                },
+                                "III05-5": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Vous savez bien, Madame, que je suis tout \u00e0 votre service."
+                                    }
+                                },
+                                "III05-6": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Parle-lui de moi dans tes entretiens,\n vante-lui adroitement ma personne, et les avantages de ma naissance, et\n t\u00e2che d\u2019\u00e9branler ses sentiments, par la douceur de quelque espoir. Je\nte permets de dire tout ce que tu voudras, pour t\u00e2cher \u00e0 me l\u2019engager."
+                                    }
+                                },
+                                "III05-7": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Laissez-moi faire."
+                                    }
+                                },
+                                "III05-8": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "C\u2019est une chose qui me tient au c\u0153ur, je souhaite ardemment qu\u2019il m\u2019aime."
+                                    }
+                                },
+                                "III05-9": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Il est bien fait\u00a0? oui, ce petit\n pendard-l\u00e0\u00a0; Il a bon air, bonne physionomie, et je crois qu\u2019il\nserait assez le fait d\u2019une jeune Princesse."
+                                    }
+                                },
+                                "III05-10": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Enfin tu peux tout esp\u00e9rer de moi, si tu trouves moyen d\u2019enflammer pour moi son c\u0153ur."
+                                    }
+                                },
+                                "III05-11": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Il n\u2019y a rien qui ne se puisse faire\u00a0; mais, Madame s\u2019il venait \u00e0 vous aimer, que feriez-vous s\u2019il vous pla\u00eet\u00a0?"
+                                    }
+                                },
+                                "III05-12": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Ah\u00a0! ce serait lors que je\nprendrais plaisir \u00e0 triompher pleinement de sa vanit\u00e9, \u00e0 punir son\nm\u00e9pris par mes froideurs, et exercer sur lui toutes les cruaut\u00e9s que je\npourrais imaginer."
+                                    }
+                                },
+                                "III05-13": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Il ne se rendra jamais."
+                                    }
+                                },
+                                "III05-14": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Ah\u00a0! Moron, il faut faire en sorte qu\u2019il se rende."
+                                    }
+                                },
+                                "III05-15": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Non, il n\u2019en fera rien, je le connais, ma peine serait inutile."
+                                    }
+                                },
+                                "III05-16": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Si faut-il pourtant tenter toute\nchose, et \u00e9prouver si son \u00e2me est enti\u00e8rement insensible. Allons, je\nveux lui parler, et suivre une pens\u00e9e qui vient de me venir."
+                                    }
+                                }
+                            }
+                        },
+                        "IIIb01": {
+                            "title": "Sc\u00e8ne Premi\u00e8re",
+                            "repliques": {
+                                "IIIb01-1": {
+                                    "personnage": "Philis",
+                                    "vers": {
+                                        "0": "Viens, Tircis, laissons-les aller, et\n me dis un peu ton martyre de la fa\u00e7on que tu sais faire\u00a0? Il y a\nlongtemps que tes yeux me parlent\u00a0; mais je suis plus aise d\u2019ou\u00efr\nta voix."
+                                    }
+                                },
+                                "IIIb01-2": {
+                                    "personnage": "tircis ",
+                                    "vers": {
+                                        "0": "Tu m\u2019\u00e9coutes, h\u00e9las\u00a0! dans ma triste langueur\u00a0;",
+                                        "1": "Mais je n\u2019en suis pas mieux, \u00f4 ! beaut\u00e9 sans pareille\u00a0!",
+                                        "2": "Et je touche ton oreille,",
+                                        "3": "Sans que je touche ton c\u0153ur."
+                                    }
+                                },
+                                "IIIb01-3": {
+                                    "personnage": "Philis",
+                                    "vers": {
+                                        "0": "Va, va, c\u2019est d\u00e9j\u00e0 quelque chose que\nde toucher l\u2019oreille, et le temps am\u00e8ne tout. Chante-moi cependant\nquelque plainte nouvelle que tu aies compos\u00e9e pour moi."
+                                    }
+                                }
+                            }
+                        },
+                        "IIIb02": {
+                            "title": "Sc\u00e8ne Deuxi\u00e8me",
+                            "repliques": {
+                                "IIIb02-1": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Ah\u00a0! ah\u00a0! je vous y prends, cruelle, vous vous \u00e9cartez des autres pour ou\u00efr mon rival\u00a0?"
+                                    }
+                                },
+                                "IIIb02-2": {
+                                    "personnage": "Philis",
+                                    "vers": {
+                                        "0": "Oui, je m\u2019\u00e9carte pour cela, je te le\ndis encore\u00a0: Je me plais avec lui, et l\u2019on \u00e9coute volontiers les\namants lorsqu\u2019ils se plaignent aussi agr\u00e9ablement qu\u2019il fait. Que ne\nchantes-tu comme lui\u00a0? Je prendrais plaisir \u00e0 t\u2019\u00e9couter."
+                                    }
+                                },
+                                "IIIb02-3": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Si je ne sais chanter, je sais faire autre chose, et quand\u2026"
+                                    }
+                                },
+                                "IIIb02-4": {
+                                    "personnage": "Philis",
+                                    "vers": {
+                                        "0": "Tais-toi\u00a0! je veux l\u2019entendre. Dis, Tircis, ce que tu voudras."
+                                    }
+                                },
+                                "IIIb02-5": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Ah\u00a0! cruelle\u2026"
+                                    }
+                                },
+                                "IIIb02-6": {
+                                    "personnage": "Philis",
+                                    "vers": {
+                                        "0": "Silence, dis-je, ou je me mettrai en col\u00e8re."
+                                    }
+                                },
+                                "IIIb02-7": {
+                                    "personnage": "tircis ",
+                                    "vers": {
+                                        "0": "Arbres \u00e9pais, et vous pr\u00e9s \u00e9maill\u00e9s,",
+                                        "1": "La beaut\u00e9 dont l\u2019Hiver vous avait d\u00e9pouill\u00e9s",
+                                        "2": "Par le Printemps vous est rendue\u00a0:",
+                                        "3": "Vous reprenez tous vos appas\u00a0;",
+                                        "4": "Mais mon \u00e2me ne reprend pas",
+                                        "5": "La joie, h\u00e9las\u00a0! que j\u2019ai perdue."
+                                    }
+                                },
+                                "IIIb02-8": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Morbleu que n\u2019ai-je de la voix\u00a0?\n Ah\u00a0! nature mar\u00e2tre\u00a0! pourquoi ne m\u2019as-tu pas donn\u00e9 de quoi\nchanter comme \u00e0 un autre\u00a0?"
+                                    }
+                                },
+                                "IIIb02-9": {
+                                    "personnage": "Philis",
+                                    "vers": {
+                                        "0": "En v\u00e9rit\u00e9, Tircis, il ne se peut rien de plus agr\u00e9able, et tu l\u2019emportes sur tous les Rivaux que tu as."
+                                    }
+                                },
+                                "IIIb02-10": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Mais pourquoi est-ce que je ne puis\npas chanter\u00a0? N\u2019ai-je pas un estomac, un gosier, et une langue\ncomme un autre\u00a0? Oui, oui, allons, je veux chanter aussi, et te\nmontrer que l\u2019Amour fait faire toutes choses. Voici une chanson que j\u2019ai\n faite pour toi."
+                                    }
+                                },
+                                "IIIb02-11": {
+                                    "personnage": "Philis",
+                                    "vers": {
+                                        "0": "Oui, dis\u00a0? je veux bien t\u2019\u00e9couter pour la raret\u00e9 du fait."
+                                    }
+                                },
+                                "IIIb02-12": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Courage, Moron, il n\u2019y a qu\u2019\u00e0 avoir de la hardiesse.",
+                                        "1": "Ton extr\u00eame rigueur",
+                                        "2": "S\u2019acharne sur mon c\u0153ur,",
+                                        "3": "Ah\u00a0! Philis je tr\u00e9passe\u00a0!",
+                                        "4": "Daigne me secourir\u00a0:",
+                                        "5": "En seras-tu plus grasse",
+                                        "6": "De m\u2019avoir fait mourir\u00a0?",
+                                        "7": "Vivat, Moron."
+                                    }
+                                },
+                                "IIIb02-13": {
+                                    "personnage": "Philis",
+                                    "vers": {
+                                        "0": "Voil\u00e0 qui est le mieux du\nmonde\u00a0: mais, Moron, je souhaiterais bien d\u2019avoir la gloire, que\nquelque Amant f\u00fbt mort pour moi\u00a0; c\u2019est un avantage dont je n\u2019ai\npoint encore joui, et je trouve que j\u2019aimerais de tout mon c\u0153ur une\npersonne qui m\u2019aimerait assez pour se donner la mort."
+                                    }
+                                },
+                                "IIIb02-14": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Tu aimerais une personne qui se tuerait pour toi\u00a0?"
+                                    }
+                                },
+                                "IIIb02-15": {
+                                    "personnage": "Philis",
+                                    "vers": {
+                                        "0": "Oui."
+                                    }
+                                },
+                                "IIIb02-16": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Il ne faut que cela pour te plaire\u00a0?"
+                                    }
+                                },
+                                "IIIb02-17": {
+                                    "personnage": "Philis",
+                                    "vers": {
+                                        "0": "Non."
+                                    }
+                                },
+                                "IIIb02-18": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Voil\u00e0 qui est fait, je te veux montrer que je me sais tuer quand je veux."
+                                    }
+                                },
+                                "IIIb02-19": {
+                                    "personnage": "tircis ",
+                                    "vers": {
+                                        "0": "Ah\u00a0! quelle douceur extr\u00eame,",
+                                        "1": "De mourir pour ce qu\u2019on aime. bis."
+                                    }
+                                },
+                                "IIIb02-20": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "C\u2019est un plaisir que vous aurez quand vous voudrez."
+                                    }
+                                },
+                                "IIIb02-21": {
+                                    "personnage": "tircis ",
+                                    "vers": {
+                                        "0": "Courage Moron\u00a0! meurs promptement",
+                                        "1": "En g\u00e9n\u00e9reux Amant."
+                                    }
+                                },
+                                "IIIb02-22": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Je vous prie de vous m\u00ealer de vos\naffaires, et de me laisser tuer \u00e0 ma fantaisie. Allons je vais faire\nhonte \u00e0 tous les Amants\u00a0; Tiens\u00a0? je ne suis pas homme \u00e0 faire\n tant de fa\u00e7ons, vois ce poignard\u00a0! prends bien garde comme je vais\n me percer le c\u0153ur\u00a0! Je suis votre serviteur, quelque niais."
+                                    }
+                                },
+                                "IIIb02-23": {
+                                    "personnage": "Philis",
+                                    "vers": {
+                                        "0": "Allons, Tircis. Viens-t\u2019en me redire \u00e0 l\u2019\u00e9cho, ce que tu m\u2019as chant\u00e9."
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "IV": {
+                    "title": "Acte Quatri\u00e8me",
+                    "scenes": {
+                        "IV01": {
+                            "title": "Sc\u00e8ne Premi\u00e8re",
+                            "repliques": {
+                                "IV01-1": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Prince, comme jusques ici nous avons\nfait para\u00eetre une conformit\u00e9 de sentiments, et que le Ciel a sembl\u00e9\nmettre en nous m\u00eames attachements pour notre libert\u00e9, et m\u00eame aversion\npour l\u2019Amour\u00a0; je suis bien aise de vous ouvrir mon c\u0153ur, et de\nvous faire confidence d\u2019un changement dont vous serez surpris. J\u2019ai\ntoujours regard\u00e9 l\u2019Hymen comme une chose affreuse, et j\u2019avais fait\nserment d\u2019abandonner plut\u00f4t la vie, que de me r\u00e9soudre jamais \u00e0 perdre\ncette libert\u00e9 pour qui j\u2019avais des tendresses si grandes\u00a0: mais,\nenfin, un moment a dissip\u00e9 toutes ces r\u00e9solutions, le m\u00e9rite d\u2019un Prince\n m\u2019a frapp\u00e9 aujourd\u2019hui les yeux, et mon \u00e2me tout d\u2019un coup (comme par\nun miracle) est devenue sensible aux traits de cette passion que j\u2019avais\n toujours m\u00e9pris\u00e9e. J\u2019ai trouv\u00e9 d\u2019abord des raisons pour autoriser ce\nchangement, et je puis l\u2019appuyer de la volont\u00e9 de r\u00e9pondre aux ardentes\nsollicitations d\u2019un P\u00e8re, et aux v\u0153ux de tout un \u00c9tat\u00a0; mais, \u00e0\nvous dire vrai, je suis en peine du jugement que vous ferez de moi, et\nje voudrais savoir si vous condamnerez ou non le dessein que j\u2019ai de me\ndonner un \u00c9poux."
+                                    }
+                                },
+                                "IV01-2": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "Vous pourriez faire un tel choix, Madame, que je l\u2019approuverais sans doute."
+                                    }
+                                },
+                                "IV01-3": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Qui croyez-vous, \u00e0 votre avis, que je veuille choisir\u00a0?"
+                                    }
+                                },
+                                "IV01-4": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "Si j\u2019\u00e9tais dans votre c\u0153ur je pourrais vous le dire\u00a0: mais comme je n\u2019y suis pas, je n\u2019ai garde de vous r\u00e9pondre."
+                                    }
+                                },
+                                "IV01-5": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Devinez pour voir, et nommez quelqu\u2019un\u00a0?"
+                                    }
+                                },
+                                "IV01-6": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "J\u2019aurais trop peur de me tromper."
+                                    }
+                                },
+                                "IV01-7": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Mais, encore, pour qui souhaiteriez-vous que je me d\u00e9clarasse\u00a0?"
+                                    }
+                                },
+                                "IV01-8": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "Je sais bien \u00e0 vous dire vrai, pour qui je le souhaiterais\u00a0: mais avant que de m\u2019expliquer, je dois savoir votre pens\u00e9e."
+                                    }
+                                },
+                                "IV01-9": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Eh bien Prince, je veux bien vous la\nd\u00e9couvrir\u00a0: je suis s\u00fbre que vous allez approuver mon choix, et\npour ne vous point tenir en suspens davantage, le Prince de Mess\u00e8ne est\ncelui de qui le m\u00e9rite s\u2019est attir\u00e9 mes v\u0153ux."
+                                    }
+                                },
+                                "IV01-10": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "\u00d4 Ciel\u00a0!"
+                                    }
+                                },
+                                "IV01-11": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Mon invention a r\u00e9ussi, Moron, le voil\u00e0 qui se trouble."
+                                    }
+                                },
+                                "IV01-12": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Bon, Madame.",
+                                        "1": "Courage, Seigneur.",
+                                        "2": "Il en tient.",
+                                        "3": "Ne vous d\u00e9faites pas."
+                                    }
+                                },
+                                "IV01-13": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Ne trouvez-vous pas que j\u2019ai raison, et que ce Prince a tout le m\u00e9rite qu\u2019on peut avoir\u00a0?"
+                                    }
+                                },
+                                "IV01-14": {
+                                    "personnage": "Moron ",
+                                    "vers": {
+                                        "0": "Remettez-vous, et songez \u00e0 r\u00e9pondre."
+                                    }
+                                },
+                                "IV01-15": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "D\u2019o\u00f9 vient, Prince, que vous ne dites mot, et semblez interdit\u00a0?"
+                                    }
+                                },
+                                "IV01-16": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "Je le suis, \u00e0 la v\u00e9rit\u00e9, et j\u2019admire,\n Madame, comme le Ciel a pu former deux \u00e2mes aussi semblables en tout\nque les n\u00f4tres\u00a0: deux \u00e2mes en qui l\u2019on ait vu une plus grande\nconformit\u00e9 de sentiments, qui aient fait \u00e9clater dans le m\u00eame temps une\nr\u00e9solution \u00e0 braver les traits de l\u2019Amour, et qui dans le m\u00eame moment\naient fait para\u00eetre une \u00e9gale facilit\u00e9 \u00e0 perdre le nom\nd\u2019insensibles\u00a0: Car enfin, Madame, puisque votre exemple\nm\u2019autorise, je ne feindrai point de vous dire, que l\u2019Amour aujourd\u2019hui\ns\u2019est rendu ma\u00eetre de mon c\u0153ur, et qu\u2019une des Princesses, vos Cousines,\nl\u2019aimable et belle Aglante, a renvers\u00e9 d\u2019un coup d\u2019\u0153il tous les projets\nde ma fiert\u00e9. Je suis ravi, Madame, que, par cette \u00e9galit\u00e9 de d\u00e9faite,\nnous n\u2019ayons rien \u00e0 nous reprocher l\u2019un et l\u2019autre\u00a0;\u00a0et je ne\ndoute point, que comme je vous loue infiniment de votre choix, vous\nn\u2019approuviez aussi le mien. Il faut que ce miracle \u00e9clate aux yeux de\ntout le monde, et nous ne devons point diff\u00e9rer \u00e0 nous rendre tous deux\ncontents. Pour moi, Madame, je vous sollicite de vos suffrages, pour\nobtenir celle que je souhaite, et vous trouverez bon que j\u2019aille de ce\npas en faire la demande au Prince votre P\u00e8re."
+                                    }
+                                },
+                                "IV01-17": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Ah digne\u00a0! ah brave c\u0153ur\u00a0!"
+                                    }
+                                }
+                            }
+                        },
+                        "IV02": {
+                            "title": "Sc\u00e8ne Deuxi\u00e8me",
+                            "repliques": {
+                                "IV02-1": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Ah\u00a0! Moron, je n\u2019en puis plus, et ce coup que je n\u2019attendais pas, triomphe absolument de toute ma fermet\u00e9."
+                                    }
+                                },
+                                "IV02-2": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Il est vrai que le coup est surprenant, et j\u2019avais cru d\u2019abord, que votre stratag\u00e8me avait fait son effet."
+                                    }
+                                },
+                                "IV02-3": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Ah\u00a0! ce m\u2019est un d\u00e9pit \u00e0 me d\u00e9sesp\u00e9rer, qu\u2019une autre ait l\u2019avantage de soumettre ce c\u0153ur que je voulais soumettre."
+                                    }
+                                }
+                            }
+                        },
+                        "IV03": {
+                            "title": "Sc\u00e8ne Troisi\u00e8me",
+                            "repliques": {
+                                "IV03-1": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Princesse, j\u2019ai \u00e0 vous prier d\u2019une\nchose qu\u2019il faut absolument que vous m\u2019accordiez\u00a0: Le Prince\nd\u2019Ithaque vous aime, et veut vous demander au prince mon P\u00e8re."
+                                    }
+                                },
+                                "IV03-2": {
+                                    "personnage": "aglante",
+                                    "vers": {
+                                        "0": "Le Prince d\u2019Ithaque, Madame\u00a0?"
+                                    }
+                                },
+                                "IV03-3": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Oui. Il vient de m\u2019en assurer\nlui-m\u00eame, et m\u2019a demand\u00e9 mon suffrage pour vous obtenir, mais je vous\nconjure de rejeter cette proposition, et de ne point pr\u00eater l\u2019oreille \u00e0\ntout ce qu\u2019il pourra vous dire."
+                                    }
+                                },
+                                "IV03-4": {
+                                    "personnage": "aglante",
+                                    "vers": {
+                                        "0": "Mais, Madame, s\u2019il \u00e9tait vrai que ce\nPrince m\u2019aim\u00e2t effectivement, pourquoi n\u2019ayant aucun dessein de vous\nengager, ne voudriez-vous pas souffrir\u2026"
+                                    }
+                                },
+                                "IV03-5": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Non, Aglante, je vous le demande,\nfaites-moi ce plaisir, je vous prie, et trouvez bon que n\u2019ayant pu avoir\n l\u2019avantage de le soumettre, je lui d\u00e9robe la joie de vous obtenir."
+                                    }
+                                },
+                                "IV03-6": {
+                                    "personnage": "aglante",
+                                    "vers": {
+                                        "0": "Madame, il faut vous ob\u00e9ir, mais je croirais que la conqu\u00eate d\u2019un tel c\u0153ur ne serait pas une victoire \u00e0 d\u00e9daigner."
+                                    }
+                                },
+                                "IV03-7": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Non, non, il n\u2019aura pas la joie de me braver enti\u00e8rement."
+                                    }
+                                }
+                            }
+                        },
+                        "IV04": {
+                            "title": "Sc\u00e8ne Quatri\u00e8me",
+                            "repliques": {
+                                "IV04-1": {
+                                    "personnage": "aristom\u00e8ne",
+                                    "vers": {
+                                        "0": "Madame, je viens \u00e0 vos pieds rendre\ngr\u00e2ce \u00e0 l\u2019Amour de mes heureux destins, et vous t\u00e9moigner avec mes\ntransports, le ressentiment o\u00f9 je suis, des bont\u00e9s surprenantes dont\nvous daignez favoriser le plus soumis de vos captifs."
+                                    }
+                                },
+                                "IV04-2": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Comment\u00a0?"
+                                    }
+                                },
+                                "IV04-3": {
+                                    "personnage": "aristom\u00e8ne",
+                                    "vers": {
+                                        "0": "Le Prince d\u2019Ithaque, Madame, vient de\n m\u2019assurer tout \u00e0 l\u2019heure, que votre c\u0153ur avait eu la bont\u00e9 de\ns\u2019expliquer en ma faveur, sur ce c\u00e9l\u00e8bre choix qu\u2019attend toute la Gr\u00e8ce."
+                                    }
+                                },
+                                "IV04-4": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Il vous a dit qu\u2019il tenait cela de ma bouche\u00a0?"
+                                    }
+                                },
+                                "IV04-5": {
+                                    "personnage": "aristom\u00e8ne",
+                                    "vers": {
+                                        "0": "Oui, Madame."
+                                    }
+                                },
+                                "IV04-6": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "C\u2019est un \u00e9tourdi, et vous \u00eates un peu\n trop cr\u00e9dule, Prince, d\u2019ajouter foi si promptement \u00e0 ce qu\u2019il vous a\ndit\u00a0; une pareille nouvelle m\u00e9riterait bien, ce me semble, qu\u2019on en\n dout\u00e2t un peu de temps, et c\u2019est tout ce que vous pourriez faire de la\ncroire, si je vous l\u2019avais dite moi-m\u00eame."
+                                    }
+                                },
+                                "IV04-7": {
+                                    "personnage": "aristom\u00e8ne",
+                                    "vers": {
+                                        "0": "Madame, si j\u2019ai \u00e9t\u00e9 trop prompt \u00e0 me persuader\u2026"
+                                    }
+                                },
+                                "IV04-8": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "De gr\u00e2ce, Prince, brisons-l\u00e0 ce discours, et si vous voulez m\u2019obliger, souffrez que je puisse jouir de deux moments de solitude."
+                                    }
+                                }
+                            }
+                        },
+                        "IV05": {
+                            "title": "Sc\u00e8ne Cinqui\u00e8me",
+                            "repliques": {
+                                "IV05-1": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Ah\u00a0! qu\u2019en cette aventure, le\nCiel me traite avec une rigueur \u00e9trange\u00a0! Au moins, Princesse,\nsouvenez-vous de la pri\u00e8re que je vous ai faite\u00a0?"
+                                    }
+                                },
+                                "IV05-2": {
+                                    "personnage": "aglante",
+                                    "vers": {
+                                        "0": "Je vous l\u2019ai dit d\u00e9j\u00e0, Madame, il faut vous ob\u00e9ir."
+                                    }
+                                },
+                                "IV05-3": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Mais, Madame, s\u2019il vous aimait vous\nn\u2019en voudriez point, et cependant vous ne voulez pas qu\u2019il soit \u00e0 une\nautre\u00a0: C\u2019est faire justement comme le chien du Jardinier."
+                                    }
+                                },
+                                "IV05-4": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Non, je ne puis souffrir qu\u2019il soit heureux avec une autre, et si la chose \u00e9tait, je crois que j\u2019en mourrais de d\u00e9plaisir."
+                                    }
+                                },
+                                "IV05-5": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Ma foi, Madame, avouons la dette,\nvous voudriez qu\u2019il f\u00fbt \u00e0 vous, et dans toutes vos actions il est ais\u00e9\nde voir que vous aimez un peu ce jeune Prince."
+                                    }
+                                },
+                                "IV05-6": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Moi, je l\u2019aime\u00a0? \u00d4 Ciel\u00a0!\nje l\u2019aime\u00a0? Avez-vous l\u2019insolence de prononcer ces paroles, sortez\nde ma vue, impudent, et ne vous pr\u00e9sentez jamais devant moi."
+                                    }
+                                },
+                                "IV05-7": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Madame\u2026"
+                                    }
+                                },
+                                "IV05-8": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Retirez-vous d\u2019ici, vous dis-je, ou je vous en ferai retirer d\u2019une autre mani\u00e8re."
+                                    }
+                                },
+                                "IV05-9": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Ma foi son c\u0153ur en a sa provision, et\u2026"
+                                    }
+                                }
+                            }
+                        },
+                        "IV06": {
+                            "title": "Sc\u00e8ne Six\u00e8me",
+                            "repliques": {
+                                "IV06-1": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "De quelle \u00e9motion inconnue sens-je\nmon c\u0153ur atteint\u00a0! et quelle inqui\u00e9tude secr\u00e8te est venue troubler\ntout d\u2019un coup la tranquillit\u00e9 de mon \u00e2me\u00a0? Ne serait-ce point\naussi, ce qu\u2019on vient de me dire, et sans en rien savoir, n\u2019aimerais-je\npoint ce jeune Prince\u00a0? Ah\u00a0! si cela \u00e9tait je serais personne \u00e0\n me d\u00e9sesp\u00e9rer\u00a0: mais il est impossible que cela soit, et je vois\nbien que je ne puis pas l\u2019aimer. Quoi\u00a0? je serais capable de cette\nl\u00e2chet\u00e9. J\u2019ai vu toute la Terre \u00e0 mes pieds, avec la plus grande\ninsensibilit\u00e9 du monde. Les respects, les hommages et les soumissions\nn\u2019ont jamais pu toucher mon \u00e2me, et la fiert\u00e9 et le d\u00e9dain en auraient\ntriomph\u00e9. J\u2019ai m\u00e9pris\u00e9 tous ceux qui m\u2019ont aim\u00e9e, et j\u2019aimerais le seul\nqui me m\u00e9prise\u00a0? Non, non, je sais bien que je ne l\u2019aime pas. Il\nn\u2019y a pas de raison \u00e0 cela\u00a0: Mais si ce n\u2019est pas de l\u2019amour que ce\n que je sens maintenant, qu\u2019est-ce donc que ce peut \u00eatre\u00a0? et d\u2019o\u00f9\nvient ce poison qui me court par toutes les veines, et ne me laisse\npoint en repos avec moi-m\u00eame\u00a0? Sors de mon c\u0153ur, qui que tu sois,\nennemi qui te caches, attaque-moi visiblement, et deviens \u00e0 mes yeux la\nplus affreuse b\u00eate de tous nos bois, afin que mon dard et mes fl\u00e8ches me\n puissent d\u00e9faire de toi. \u00d4 vous, admirables personnes, qui par la\ndouceur de vos chants avez l\u2019art d\u2019adoucir les plus f\u00e2cheuses\ninqui\u00e9tudes, approchez-vous d\u2019ici de gr\u00e2ce, et t\u00e2chez de charmer avec\nvotre Musique le chagrin o\u00f9 je suis."
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "V": {
+                    "title": "Acte Cinqui\u00e8me",
+                    "scenes": {
+                        "V01": {
+                            "title": "Sc\u00e8ne Premi\u00e8re",
+                            "repliques": {
+                                "V01-1": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Oui, Seigneur, ce n\u2019est point\nraillerie, j\u2019en suis ce qu\u2019on appelle disgraci\u00e9. Il m\u2019a fallu tirer mes\nchausses au plus vite, et jamais vous n\u2019avez vu un emportement plus\nbrusque que le sien."
+                                    }
+                                },
+                                "V01-2": {
+                                    "personnage": "Le Prince",
+                                    "vers": {
+                                        "0": "Ah\u00a0! Prince, que je devrai de gr\u00e2ces \u00e0 ce stratag\u00e8me amoureux, s\u2019il faut qu\u2019il ait trouv\u00e9 le secret de toucher son c\u0153ur."
+                                    }
+                                },
+                                "V01-3": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "Quelque chose, Seigneur, que l\u2019on\nvienne de vous en dire, je n\u2019ose encore, pour moi, me flatter de ce doux\n espoir\u00a0: mais enfin si ce n\u2019est pas \u00e0 moi trop de t\u00e9m\u00e9rit\u00e9, que\nd\u2019oser aspirer \u00e0 l\u2019honneur de votre alliance, si ma personne, et mes\n\u00c9tats\u2026"
+                                    }
+                                },
+                                "V01-4": {
+                                    "personnage": "Le Prince",
+                                    "vers": {
+                                        "0": "Prince, n\u2019entrons point dans ces\ncompliments, je trouve en vous de quoi remplir tous les souhaits d\u2019un\nP\u00e8re, et si vous avez le c\u0153ur de ma fille, il ne vous manque rien."
+                                    }
+                                }
+                            }
+                        },
+                        "V02": {
+                            "title": "Sc\u00e8ne Deuxi\u00e8me",
+                            "repliques": {
+                                "V02-1": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "\u00d4 Ciel\u00a0! que vois-je ici\u00a0?"
+                                    }
+                                },
+                                "V02-2": {
+                                    "personnage": "Le Prince",
+                                    "vers": {
+                                        "0": "Oui, l\u2019honneur de votre alliance\nm\u2019est d\u2019un prix tr\u00e8s consid\u00e9rable, et je souscris ais\u00e9ment de tous mes\nsuffrages \u00e0 la demande que vous me faites."
+                                    }
+                                },
+                                "V02-3": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Seigneur, je me jette \u00e0 vos pieds\npour vous demander une gr\u00e2ce. Vous m\u2019avez toujours t\u00e9moign\u00e9 une\ntendresse extr\u00eame, et je crois vous devoir bien plus par les bont\u00e9s que\nvous m\u2019avez fait voir, que par le jour que vous m\u2019avez donn\u00e9\u00a0: Mais\n si jamais pour moi vous avez eu de l\u2019amiti\u00e9, je vous en demande\naujourd\u2019hui la plus sensible preuve que vous me puissiez accorder\u00a0;\n c\u2019est de n\u2019\u00e9couter point, Seigneur, la demande de ce Prince, et ne pas\nsouffrir que la Princesse Aglante soit unie avec lui."
+                                    }
+                                },
+                                "V02-4": {
+                                    "personnage": "Le Prince",
+                                    "vers": {
+                                        "0": "Et par quelle raison, ma Fille, voudrais-tu t\u2019opposer \u00e0 cette union\u00a0?"
+                                    }
+                                },
+                                "V02-5": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Par la raison, que je hais ce Prince, et que je veux, si je puis, traverser ses desseins."
+                                    }
+                                },
+                                "V02-6": {
+                                    "personnage": "Le Prince",
+                                    "vers": {
+                                        "0": "Tu le hais, ma Fille\u00a0?"
+                                    }
+                                },
+                                "V02-7": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Oui, et de tout mon c\u0153ur, je vous l\u2019avoue."
+                                    }
+                                },
+                                "V02-8": {
+                                    "personnage": "Le Prince",
+                                    "vers": {
+                                        "0": "Et que t\u2019a-t-il fait\u00a0?"
+                                    }
+                                },
+                                "V02-9": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Il m\u2019a m\u00e9pris\u00e9e."
+                                    }
+                                },
+                                "V02-10": {
+                                    "personnage": "Le Prince",
+                                    "vers": {
+                                        "0": "Et comment\u00a0?"
+                                    }
+                                },
+                                "V02-11": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Il ne m\u2019a pas trouv\u00e9e assez bien faite pour m\u2019adresser ses v\u0153ux."
+                                    }
+                                },
+                                "V02-12": {
+                                    "personnage": "Le Prince",
+                                    "vers": {
+                                        "0": "Et quelle offense te fait cela\u00a0? Tu ne veux accepter personne\u00a0!"
+                                    }
+                                },
+                                "V02-13": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "N\u2019importe. Il me devait aimer comme\nles autres, et me laisser, au moins, la gloire de le refuser\u00a0: Sa\nd\u00e9claration me fait un affront, et ce m\u2019est une honte sensible, qu\u2019\u00e0 mes\n yeux, et au milieu de votre Cour il a recherch\u00e9 une autre que moi."
+                                    }
+                                },
+                                "V02-14": {
+                                    "personnage": "Le Prince",
+                                    "vers": {
+                                        "0": "Mais quel int\u00e9r\u00eat dois-tu prendre \u00e0 lui\u00a0?"
+                                    }
+                                },
+                                "V02-15": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "J\u2019en prends, Seigneur, \u00e0 me venger de\n son m\u00e9pris, et comme je sais bien qu\u2019il aime Aglante avec beaucoup\nd\u2019ardeur, je veux emp\u00eacher, s\u2019il vous pla\u00eet, qu\u2019il ne soit heureux avec\nelle."
+                                    }
+                                },
+                                "V02-16": {
+                                    "personnage": "Le Prince",
+                                    "vers": {
+                                        "0": "Cela te tient donc bien au c\u0153ur\u00a0?"
+                                    }
+                                },
+                                "V02-17": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Oui, Seigneur, sans doute, et s\u2019il obtient ce qu\u2019il demande, vous me verrez expirer \u00e0 vos yeux."
+                                    }
+                                },
+                                "V02-18": {
+                                    "personnage": "Le Prince",
+                                    "vers": {
+                                        "0": "Va, va ma Fille, avoue franchement la\n chose. Le m\u00e9rite de ce Prince t\u2019a fait ouvrir les yeux, et tu l\u2019aimes,\nenfin, quoi que tu puisses dire."
+                                    }
+                                },
+                                "V02-19": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Moi, Seigneur\u00a0?"
+                                    }
+                                },
+                                "V02-20": {
+                                    "personnage": "Le Prince",
+                                    "vers": {
+                                        "0": "Oui, tu l\u2019aimes."
+                                    }
+                                },
+                                "V02-21": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Je l\u2019aime, dites-vous\u00a0? et vous\nm\u2019imputez cette l\u00e2chet\u00e9. \u00d4 Ciel\u00a0! quelle est mon infortune\u00a0!\nPuis-je bien sans mourir, entendre ces paroles, et faut-il que je sois\nsi malheureuse qu\u2019on me soup\u00e7onne de l\u2019aimer. Ah\u00a0! si c\u2019\u00e9tait un\nautre que vous, Seigneur, qui me t\u00eent ce discours, je ne sais pas ce que\n je ne ferais point."
+                                    }
+                                },
+                                "V02-22": {
+                                    "personnage": "Le Prince",
+                                    "vers": {
+                                        "0": "Eh bien\u00a0? oui, tu ne l\u2019aimes\npas. Tu le hais, j\u2019y consens, et je veux bien pour te contenter qu\u2019il\nn\u2019\u00e9pouse pas la Princesse Aglante."
+                                    }
+                                },
+                                "V02-23": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Ah\u00a0! Seigneur, vous me donnez la vie."
+                                    }
+                                },
+                                "V02-24": {
+                                    "personnage": "Le Prince",
+                                    "vers": {
+                                        "0": "Mais afin d\u2019emp\u00eacher qu\u2019il ne puisse \u00eatre jamais \u00e0 Elle, il faut que tu le prennes pour toi."
+                                    }
+                                },
+                                "V02-25": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Vous vous moquez, Seigneur, et ce n\u2019est pas ce qu\u2019il demande."
+                                    }
+                                },
+                                "V02-26": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "Pardonnez-moi, Madame, si je suis\nassez t\u00e9m\u00e9raire pour cela, et je prends \u00e0 t\u00e9moin le Prince votre P\u00e8re si\n ce n\u2019est pas vous que j\u2019ai demand\u00e9e. C\u2019est trop vous tenir dans\nl\u2019erreur, il faut lever le masque, et dussiez-vous vous en pr\u00e9valoir\ncontre moi, d\u00e9couvrir \u00e0 vos yeux les v\u00e9ritables sentiments de mon c\u0153ur.\nJe n\u2019ai jamais aim\u00e9 que vous, et jamais je n\u2019aimerai que vous. C\u2019est\nvous, Madame, qui m\u2019avez enlev\u00e9 cette qualit\u00e9 d\u2019insensible que j\u2019avais\ntoujours affect\u00e9e, et tout ce que j\u2019ai pu vous dire, n\u2019a \u00e9t\u00e9 qu\u2019une\nfeinte qu\u2019un mouvement secret m\u2019a inspir\u00e9e, et que je n\u2019ai suivie\nqu\u2019avec toutes les violences imaginables. Il fallait qu\u2019elle cess\u00e2t\nbient\u00f4t, sans doute, et je m\u2019\u00e9tonne seulement qu\u2019elle ait pu durer la\nmoiti\u00e9 d\u2019un jour\u00a0; car enfin je mourais, je br\u00fblais dans l\u2019\u00e2me\nquand je vous d\u00e9guisais mes sentiments, et jamais c\u0153ur n\u2019a souffert une\ncontrainte \u00e9gale \u00e0 la mienne. Que si cette feinte, Madame, a quelque\nchose qui vous offense, je suis tout pr\u00eat de mourir pour vous en\nvenger\u00a0: Vous n\u2019avez qu\u2019\u00e0 parler, et ma main sur-le-champ fera\ngloire d\u2019ex\u00e9cuter l\u2019Arr\u00eat que vous prononcerez."
+                                    }
+                                },
+                                "V02-27": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Non, non, Prince, je ne vous sais pas\n mauvais gr\u00e9 de m\u2019avoir abus\u00e9e, et tout ce que vous m\u2019avez dit, je\nl\u2019aime bien mieux une feinte, que non pas une v\u00e9rit\u00e9."
+                                    }
+                                },
+                                "V02-28": {
+                                    "personnage": "Le Prince",
+                                    "vers": {
+                                        "0": "Si bien donc, ma Fille, que tu veux bien accepter ce Prince pour \u00c9poux\u00a0?"
+                                    }
+                                },
+                                "V02-29": {
+                                    "personnage": "La Princesse",
+                                    "vers": {
+                                        "0": "Seigneur, je ne sais pas encore ce\nque je veux\u00a0: donnez-moi le temps d\u2019y songer, je vous prie, et\nm\u2019\u00e9pargnez un peu la confusion o\u00f9 je suis."
+                                    }
+                                },
+                                "V02-30": {
+                                    "personnage": "Le Prince",
+                                    "vers": {
+                                        "0": "Vous jugez, Prince, ce que cela veut dire, et vous vous pouvez fonder l\u00e0-dessus."
+                                    }
+                                },
+                                "V02-31": {
+                                    "personnage": "Euryale",
+                                    "vers": {
+                                        "0": "Je l\u2019attendrai tant qu\u2019il vous\nplaira, Madame, cet Arr\u00eat de ma destin\u00e9e, et s\u2019il me condamne \u00e0 la mort,\n je le suivrai sans murmure."
+                                    }
+                                },
+                                "V02-32": {
+                                    "personnage": "Le Prince",
+                                    "vers": {
+                                        "0": "Viens, Moron, c\u2019est ici un jour de paix, et je te remets en gr\u00e2ce avec la Princesse."
+                                    }
+                                },
+                                "V02-33": {
+                                    "personnage": "Moron",
+                                    "vers": {
+                                        "0": "Seigneur, je serai meilleur Courtisan une autre fois, et je me garderai bien de dire ce que je pense."
+                                    }
+                                }
+                            }
+                        },
+                        "V03": {
+                            "title": "Sc\u00e8ne Troisi\u00e8me",
+                            "repliques": {
+                                "V03-1": {
+                                    "personnage": "Le Prince",
+                                    "vers": {
+                                        "0": "Je crains bien, Princes, que le choix\n de ma Fille ne soit pas en votre faveur\u00a0; mais voil\u00e0 deux\nPrincesses qui peuvent bien vous consoler de ce petit malheur."
+                                    }
+                                },
+                                "V03-2": {
+                                    "personnage": "aristom\u00e8ne",
+                                    "vers": {
+                                        "0": "Seigneur, nous savons prendre notre\nparti, et si ces aimables Princesses n\u2019ont point trop de m\u00e9pris pour les\n c\u0153urs qu\u2019on a rebut\u00e9s\u00a0; nous pouvons revenir par elles, \u00e0\nl\u2019honneur de votre alliance."
+                                    }
+                                }
+                            }
+                        },
+                        "V04": {
+                            "title": "Sc\u00e8ne Quatri\u00e8me",
+                            "repliques": {
+                                "V04-1": {
+                                    "personnage": "Philis",
+                                    "vers": {
+                                        "0": "Seigneur, la D\u00e9esse V\u00e9nus vient\nd\u2019annoncer partout le changement du c\u0153ur de la Princesse\u00a0: Tous les\n Pasteurs et toutes les Berg\u00e8res en t\u00e9moignent leur joie par des danses\net des chansons, et si ce n\u2019est point un spectacle que vous m\u00e9prisiez,\nvous allez voir l\u2019all\u00e9gresse publique se r\u00e9pandre jusques ici."
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

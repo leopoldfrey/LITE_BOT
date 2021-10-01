@@ -1,0 +1,2251 @@
+{
+    "pieces": [
+        {
+            "title": "Le Mariage forc\u00e9 Com\u00e9die",
+            "actes": {
+                "I": {
+                    "title": "[Pi\u00e8ce en un acte]",
+                    "scenes": {
+                        "I01": {
+                            "title": "Sc\u00e8ne I",
+                            "repliques": {
+                                "I01-1": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Je suis de retour dans un moment. Que\n l\u2019on ait bien soin du Logis\u00a0; et que tout aille comme il faut. Si \nl\u2019on m\u2019apporte de l\u2019argent, que l\u2019on me vienne qu\u00e9rir vite chez le \nSeigneur G\u00e9ronimo\u00a0; et si l\u2019on vient m\u2019en demander, qu\u2019on dise que \nje suis sorti, et que je ne dois revenir de toute la journ\u00e9e."
+                                    }
+                                },
+                                "I01-2": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Voil\u00e0 un Ordre fort prudent."
+                                    }
+                                },
+                                "I01-3": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Ah\u00a0! Seigneur G\u00e9ronimo, je vous trouve \u00e0 propos\u00a0; et j\u2019allais chez vous vous chercher."
+                                    }
+                                },
+                                "I01-4": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Et pour quel sujet, s\u2019il vous pla\u00eet\u00a0?"
+                                    }
+                                },
+                                "I01-5": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Pour vous communiquer une Affaire, que j\u2019ai en t\u00eate\u00a0; et vous prier de m\u2019en dire votre avis."
+                                    }
+                                },
+                                "I01-6": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Tr\u00e8s volontiers. Je suis bien aise de cette rencontre\u00a0; et nous pouvons parler ici en toute libert\u00e9."
+                                    }
+                                },
+                                "I01-7": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Mettez donc dessus, s\u2019il vous pla\u00eet. \nIl s\u2019agit d\u2019une chose de cons\u00e9quence, que l\u2019on m\u2019a propos\u00e9e\u00a0; et il\n est bon de ne rien faire, sans le conseil de ses Amis."
+                                    }
+                                },
+                                "I01-8": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Je vous suis oblig\u00e9, de m\u2019avoir choisi pour cela. Vous n\u2019avez qu\u2019\u00e0 me dire ce que c\u2019est."
+                                    }
+                                },
+                                "I01-9": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Mais auparavant, je vous conjure de ne me point flatter du tout\u00a0; et de me dire nettement votre pens\u00e9e."
+                                    }
+                                },
+                                "I01-10": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Je le ferai, puisque vous le voulez."
+                                    }
+                                },
+                                "I01-11": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Je ne vois rien de plus condamnable qu\u2019un Ami, qui ne nous parle pas franchement."
+                                    }
+                                },
+                                "I01-12": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Vous avez raison."
+                                    }
+                                },
+                                "I01-13": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Et dans ce Si\u00e8cle, on trouve peu d\u2019Amis sinc\u00e8res."
+                                    }
+                                },
+                                "I01-14": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Cela est vrai."
+                                    }
+                                },
+                                "I01-15": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Promettez-moi donc, Seigneur G\u00e9ronimo, de me parler avec toute sorte de franchise."
+                                    }
+                                },
+                                "I01-16": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Je vous le promets."
+                                    }
+                                },
+                                "I01-17": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Jurez-en votre foi."
+                                    }
+                                },
+                                "I01-18": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Oui, foi d\u2019Ami. Dites-moi seulement votre Affaire."
+                                    }
+                                },
+                                "I01-19": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "C\u2019est que je veux savoir de vous, si je ferai bien de me marier."
+                                    }
+                                },
+                                "I01-20": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Qui, vous\u00a0?"
+                                    }
+                                },
+                                "I01-21": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Oui, moi-m\u00eame en propre Personne. Quel est votre avis l\u00e0-dessus\u00a0?"
+                                    }
+                                },
+                                "I01-22": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Je vous prie auparavant, de me dire une chose."
+                                    }
+                                },
+                                "I01-23": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Et quoi\u00a0?"
+                                    }
+                                },
+                                "I01-24": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Quel \u00e2ge pouvez-vous bien avoir maintenant\u00a0?"
+                                    }
+                                },
+                                "I01-25": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Moi\u00a0?"
+                                    }
+                                },
+                                "I01-26": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Oui."
+                                    }
+                                },
+                                "I01-27": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Ma foi, je ne sais\u00a0; mais je me porte bien."
+                                    }
+                                },
+                                "I01-28": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Quoi\u00a0! Vous ne savez pas \u00e0 peu pr\u00e8s, votre \u00e2ge\u00a0?"
+                                    }
+                                },
+                                "I01-29": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Non. Est-ce qu\u2019on songe \u00e0 cela\u00a0?"
+                                    }
+                                },
+                                "I01-30": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "H\u00e9, dites-moi un peu, s\u2019il vous pla\u00eet\u00a0: Combien aviez-vous d\u2019ann\u00e9es, lorsque nous f\u00eemes connaissance\u00a0?"
+                                    }
+                                },
+                                "I01-31": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Ma foi, je n\u2019avais que vingt ans alors."
+                                    }
+                                },
+                                "I01-32": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Combien f\u00fbmes-nous ensemble \u00e0 Rome\u00a0?"
+                                    }
+                                },
+                                "I01-33": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Huit ans."
+                                    }
+                                },
+                                "I01-34": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Quel temps avez-vous demeur\u00e9 en Angleterre\u00a0?"
+                                    }
+                                },
+                                "I01-35": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Sept ans."
+                                    }
+                                },
+                                "I01-36": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Et en Hollande, o\u00f9 vous f\u00fbtes ensuite\u00a0?"
+                                    }
+                                },
+                                "I01-37": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Cinq ans, et demi."
+                                    }
+                                },
+                                "I01-38": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Combien y a-t-il, que vous \u00eates revenu ici\u00a0?"
+                                    }
+                                },
+                                "I01-39": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Je revins en cinquante-six."
+                                    }
+                                },
+                                "I01-40": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "De cinquante-six, \u00e0 soixante-huit, il\n y a douze ans, ce me semble. Cinq ans en Hollande, font dix-sept. Sept \nans en Angleterre, font vingt-quatre. Huit dans notre s\u00e9jour \u00e0 Rome, \nfont trente-deux\u00a0: Et vingt que vous aviez lorsque nous nous \nconn\u00fbmes, cela fait justement cinquante-deux. Si bien, Seigneur \nSganarelle, que sur votre propre confession, vous \u00eates, environ, \u00e0 votre\n cinquante-deuxi\u00e8me, ou cinquante-troisi\u00e8me ann\u00e9e."
+                                    }
+                                },
+                                "I01-41": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Qui, moi\u00a0? Cela ne se peut pas."
+                                    }
+                                },
+                                "I01-42": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Mon Dieu, le calcul est juste. Et \nl\u00e0-dessus je vous dirai franchement, et en Ami, comme vous m\u2019avez fait \npromettre de vous parler, que le Mariage n\u2019est gu\u00e8re votre fait. C\u2019est \nune chose \u00e0 laquelle il faut que les jeunes Gens pensent bien m\u00fbrement \navant que de la faire\u00a0: mais les Gens de votre \u00e2ge n\u2019y doivent \npoint penser du tout. Et si l\u2019on dit, que la plus grande de toutes les \nfolies, est celle de se marier, je ne vois rien de plus mal \u00e0 propos, \nque de la faire, cette folie, dans la Saison o\u00f9 nous devons \u00eatre plus \nsages. Enfin je vous en dis nettement ma pens\u00e9e. Je ne vous conseille \npoint de songer au Mariage\u00a0; et je vous trouverais le plus ridicule\n du Monde, si ayant \u00e9t\u00e9 libre jusqu\u2019\u00e0 cette heure, vous alliez vous \ncharger maintenant de la plus pesante des cha\u00eenes."
+                                    }
+                                },
+                                "I01-43": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Et moi, je vous dis que je suis \nr\u00e9solu de me marier\u00a0; et que je ne serai point ridicule en \u00e9pousant\n la Fille, que je recherche."
+                                    }
+                                },
+                                "I01-44": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Ah\u00a0! c\u2019est une autre chose. Vous ne m\u2019aviez pas dit cela."
+                                    }
+                                },
+                                "I01-45": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "C\u2019est une Fille, qui me pla\u00eet\u00a0; et que j\u2019aime de tout mon c\u0153ur."
+                                    }
+                                },
+                                "I01-46": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Vous l\u2019aimez de tout votre c\u0153ur\u00a0?"
+                                    }
+                                },
+                                "I01-47": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Sans doute\u00a0; et je l\u2019ai demand\u00e9e \u00e0 son P\u00e8re."
+                                    }
+                                },
+                                "I01-48": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Vous l\u2019avez demand\u00e9e\u00a0?"
+                                    }
+                                },
+                                "I01-49": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Oui, c\u2019est un Mariage, qui se doit conclure ce soir\u00a0; et j\u2019ai donn\u00e9 parole."
+                                    }
+                                },
+                                "I01-50": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Oh\u00a0! mariez-vous donc. Je ne dis plus mot."
+                                    }
+                                },
+                                "I01-51": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Je quitterais le dessein que j\u2019ai \nfait\u00a0? Vous semble-t-il, Seigneur G\u00e9ronimo, que je ne sois plus \npropre \u00e0 songer \u00e0 une Femme\u00a0? Ne parlons point de l\u2019\u00e2ge que je puis\n avoir\u00a0; mais regardons seulement les choses. Y a-t-il Homme de \ntrente ans, qui paraisse plus frais, et plus vigoureux, que vous me \nvoyez\u00a0? N\u2019ai-je pas tous les mouvements de mon Corps aussi bons que\n jamais\u00a0? Et voit-on que j\u2019aie besoin de Carrosse, ou de Chaise, \npour cheminer\u00a0? N\u2019ai-je pas encore toutes mes dents les meilleures \ndu monde\u00a0? Ne fais-je pas vigoureusement mes quatre Repas par \njour\u00a0? Et peut-on voir un Estomac qui ait plus de force que le \nmien\u00a0? Hem, hem, hem. Eh\u00a0? Qu\u2019en dites-vous\u00a0?"
+                                    }
+                                },
+                                "I01-52": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Vous avez raison\u00a0: je m\u2019\u00e9tais tromp\u00e9. Vous ferez bien de vous marier."
+                                    }
+                                },
+                                "I01-53": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "J\u2019y ai r\u00e9pugn\u00e9 autrefois\u00a0: mais \nj\u2019ai maintenant de puissantes raisons pour cela. Outre la joie que \nj\u2019aurai de poss\u00e9der une belle Femme, qui me fera mille caresses\u00a0; \nqui me dorlotera, et me viendra frotter, lorsque je serai las\u00a0: \noutre cette joie, dis-je, je consid\u00e8re, qu\u2019en demeurant comme je suis, \nje laisse p\u00e9rir dans le Monde la race des Sganarelles\u00a0; et qu\u2019en me\n mariant, je pourrai me voir revivre en d\u2019autres moi-m\u00eames\u00a0; que \nj\u2019aurai le plaisir de voir des Cr\u00e9atures, qui seront sorties de \nmoi\u00a0; de petites Figures qui me ressembleront comme deux gouttes \nd\u2019eau\u00a0; qui se joueront continuellement dans la Maison\u00a0; qui \nm\u2019appelleront leur Papa, quand je reviendrai de la Ville, et me diront \nde petites folies les plus agr\u00e9ables du Monde. Tenez, il me semble d\u00e9j\u00e0 \nque j\u2019y suis, et que j\u2019en vois une demi-douzaine autour de moi."
+                                    }
+                                },
+                                "I01-54": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Il n\u2019y a rien de plus agr\u00e9able que cela\u00a0; et je vous conseille de vous marier, le plus vite que vous pourrez."
+                                    }
+                                },
+                                "I01-55": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Tout de bon\u00a0; vous me le conseillez\u00a0?"
+                                    }
+                                },
+                                "I01-56": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Assur\u00e9ment. Vous ne sauriez mieux faire."
+                                    }
+                                },
+                                "I01-57": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Vraiment, je suis ravi que vous me donniez ce conseil en v\u00e9ritable Ami."
+                                    }
+                                },
+                                "I01-58": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "H\u00e9\u00a0! quelle est la Personne, s\u2019il vous pla\u00eet, avec qui vous vous allez marier\u00a0?"
+                                    }
+                                },
+                                "I01-59": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Dorim\u00e8ne."
+                                    }
+                                },
+                                "I01-60": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Cette jeune Dorim\u00e8ne, si galante, et si bien par\u00e9e\u00a0?"
+                                    }
+                                },
+                                "I01-61": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Oui."
+                                    }
+                                },
+                                "I01-62": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Fille du Seigneur Alcantor\u00a0?"
+                                    }
+                                },
+                                "I01-63": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Justement."
+                                    }
+                                },
+                                "I01-64": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Et S\u0153ur d\u2019un certain Alcidas, qui se m\u00eale de porter l\u2019\u00c9p\u00e9e\u00a0?"
+                                    }
+                                },
+                                "I01-65": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "C\u2019est cela."
+                                    }
+                                },
+                                "I01-66": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Vertu de ma vie\u00a0!"
+                                    }
+                                },
+                                "I01-67": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Qu\u2019en dites-vous\u00a0?"
+                                    }
+                                },
+                                "I01-68": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Bon Parti\u00a0! Mariez-vous promptement."
+                                    }
+                                },
+                                "I01-69": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "N\u2019ai-je pas raison, d\u2019avoir fait ce choix\u00a0?"
+                                    }
+                                },
+                                "I01-70": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Sans doute. Ah\u00a0! que vous serez bien mari\u00e9\u00a0! D\u00e9p\u00eachez-vous de l\u2019\u00eatre."
+                                    }
+                                },
+                                "I01-71": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Vous me comblez de joie, de me dire cela. Je vous remercie de votre conseil\u00a0; et je vous invite ce soir \u00e0 mes Noces."
+                                    }
+                                },
+                                "I01-72": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Je n\u2019y manquerai pas\u00a0; et je veux y aller en Masque, afin de les mieux honorer."
+                                    }
+                                },
+                                "I01-73": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Serviteur."
+                                    }
+                                },
+                                "I01-74": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "La jeune Dorim\u00e8ne, Fille du Seigneur \nAlcantor, avec le Seigneur Sganarelle, qui n\u2019a que cinquante-trois \nans\u00a0? \u00f4 le beau Mariage\u00a0! \u00f4 le beau Mariage\u00a0!"
+                                    }
+                                },
+                                "I01-75": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Ce Mariage doit \u00eatre heureux\u00a0; \ncar il donne de la joie \u00e0 tout le monde\u00a0; et je fais rire tous ceux\n \u00e0 qui j\u2019en parle. Me voil\u00e0 maintenant le plus content des Hommes."
+                                    }
+                                }
+                            }
+                        },
+                        "I02": {
+                            "title": "Sc\u00e8ne II",
+                            "repliques": {
+                                "I02-1": {
+                                    "personnage": "Dorim\u00e8ne",
+                                    "vers": {
+                                        "0": "Allons, petit Gar\u00e7on, qu\u2019on tienne bien ma Queue\u00a0: et qu\u2019on ne s\u2019amuse pas \u00e0 badiner."
+                                    }
+                                },
+                                "I02-2": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Voici ma Ma\u00eetresse, qui vient. \nAh\u00a0! qu\u2019elle est agr\u00e9able\u00a0! quel air\u00a0! et quelle \ntaille\u00a0! Peut-il y avoir un Homme, qui n\u2019ait, en la voyant, des \nd\u00e9mangeaisons, de se marier\u00a0? O\u00f9 allez-vous, belle Mignonne, ch\u00e8re \n\u00c9pouse future de votre \u00c9poux futur\u00a0?"
+                                    }
+                                },
+                                "I02-3": {
+                                    "personnage": "Dorim\u00e8ne",
+                                    "vers": {
+                                        "0": "Je vais faire quelques Emplettes."
+                                    }
+                                },
+                                "I02-4": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "H\u00e9 bien, ma Belle, c\u2019est maintenant \nque nous allons \u00eatre heureux l\u2019un, et l\u2019autre. Vous ne serez plus en \ndroit de me rien refuser\u00a0; et je pourrai faire avec vous tout ce \nqu\u2019il me plaira, sans que personne s\u2019en scandalise. Vous allez \u00eatre \u00e0 \nmoi depuis la t\u00eate jusqu\u2019aux pieds\u00a0; et je serai Ma\u00eetre de \ntout\u00a0: De vos petits yeux \u00e9veill\u00e9s\u00a0; de votre petit nez \nfripon\u00a0; de vos l\u00e8vres app\u00e9tissantes\u00a0; de vos oreilles \namoureuses\u00a0; de votre petit menton joli\u00a0; de vos petits t\u00e9tons\n rondelets ; de votre... Enfin toute votre Personne sera \u00e0 ma \ndiscr\u00e9tion\u00a0; et je serai \u00e0 m\u00eame, pour vous caresser, comme je \nvoudrai. N\u2019\u00eates-vous pas bien aise de ce Mariage, mon aimable \nPouponne\u00a0?"
+                                    }
+                                },
+                                "I02-5": {
+                                    "personnage": "Dorim\u00e8ne",
+                                    "vers": {
+                                        "0": "Tout \u00e0 fait aise, je vous jure\u00a0:\n car enfin la s\u00e9v\u00e9rit\u00e9 de mon p\u00e8re m\u2019a tenue jusques ici dans une \nsuj\u00e9tion la plus f\u00e2cheuse du Monde. Il y a je ne sais combien que \nj\u2019enrage du peu de libert\u00e9, qu\u2019il me donne\u00a0; et j\u2019ai cent fois \nsouhait\u00e9 qu\u2019il me mari\u00e2t, pour sortir promptement de la contrainte, o\u00f9 \nj\u2019\u00e9tais avec lui, et me voir en \u00e9tat de faire ce que je voudrai. Dieu \nmerci, vous \u00eates venu heureusement pour cela, et je me pr\u00e9pare d\u00e9sormais\n \u00e0 me donner du divertissement, et \u00e0 r\u00e9parer comme il faut le temps que \nj\u2019ai perdu. Comme vous \u00eates un fort galant Homme, et que vous savez \ncomme il faut vivre\u00a0; je crois que nous ferons le meilleur m\u00e9nage \ndu Monde ensemble, et que vous ne serez point de ces Maris incommodes, \nqui veulent que leurs Femmes vivent comme des Loups-garous. Je vous \navoue que je ne m\u2019accommoderais pas de cela\u00a0; et que la Solitude me\n d\u00e9sesp\u00e8re. J\u2019aime le Jeu\u00a0; les Visites\u00a0; les \nAssembl\u00e9es\u00a0; les Cadeaux, et les Promenades\u00a0; en un mot toutes\n les choses de plaisir\u00a0; et vous devez \u00eatre ravi, d\u2019avoir une femme\n de mon humeur. Nous n\u2019aurons jamais aucun d\u00e9m\u00eal\u00e9 ensemble\u00a0; et je \nne vous contraindrai point dans vos actions\u00a0; comme j\u2019esp\u00e8re que de\n votre c\u00f4t\u00e9 vous ne me contraindrez point dans les miennes\u00a0: car \npour moi, je tiens qu\u2019il faut avoir une complaisance mutuelle\u00a0; et \nqu\u2019on ne se doit point marier, pour se faire enrager l\u2019un l\u2019autre. Enfin\n nous vivrons, \u00e9tant mari\u00e9s, comme deux Personnes qui savent leur monde.\n Aucun soup\u00e7on jaloux ne nous troublera la cervelle\u00a0; et c\u2019est \nassez que vous serez assur\u00e9 de ma fid\u00e9lit\u00e9, comme je serai persuad\u00e9e de \nla v\u00f4tre. Mais qu\u2019avez-vous\u00a0? Je vous vois tout chang\u00e9 de visage."
+                                    }
+                                },
+                                "I02-6": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Ce sont quelques vapeurs, qui me viennent de monter \u00e0 la t\u00eate."
+                                    }
+                                },
+                                "I02-7": {
+                                    "personnage": "Dorim\u00e8ne",
+                                    "vers": {
+                                        "0": "C\u2019est un mal aujourd\u2019hui qui attaque \nbeaucoup de Gens\u00a0: mais notre Mariage vous dissipera tout cela. \nAdieu, il me tarde d\u00e9j\u00e0 que je n\u2019aie des Habits raisonnables, pour \nquitter vite ces guenilles. Je m\u2019en vais de ce pas achever d\u2019acheter \ntoutes les choses qu\u2019il me faut\u00a0; et je vous enverrai les \nmarchands."
+                                    }
+                                }
+                            }
+                        },
+                        "I03": {
+                            "title": "Sc\u00e8ne III",
+                            "repliques": {
+                                "I03-1": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Ah\u00a0! Seigneur Sganarelle, je \nsuis ravi de vous trouver encore ici\u00a0; et j\u2019ai rencontr\u00e9 un \nOrf\u00e8vre, qui sur le bruit que vous cherchez quelque beau Diamant en \nBague, pour faire un Pr\u00e9sent \u00e0 votre \u00c9pouse, m\u2019a fort pri\u00e9 de vous venir\n parler pour lui\u00a0; et de vous dire qu\u2019il en a un \u00e0 vendre, le plus \nparfait du Monde."
+                                    }
+                                },
+                                "I03-2": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Mon Dieu, cela n\u2019est pas press\u00e9."
+                                    }
+                                },
+                                "I03-3": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Comment\u00a0! que veut dire cela\u00a0? o\u00f9 est l\u2019ardeur que vous montriez tout \u00e0 l\u2019heure\u00a0?"
+                                    }
+                                },
+                                "I03-4": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Il m\u2019est venu, depuis un moment, de \npetits scrupules sur le mariage. Avant que de passer plus avant, je \nvoudrais bien agiter \u00e0 fond cette mati\u00e8re\u00a0; et que l\u2019on m\u2019expliqu\u00e2t\n un Songe que j\u2019ai fait cette Nuit, et qui vient tout \u00e0 l\u2019heure de me \nrevenir dans l\u2019esprit. Vous savez que les Songes sont comme des Miroirs,\n o\u00f9 l\u2019on d\u00e9couvre quelquefois tout ce qui nous doit arriver. Il me \nsemblait que j\u2019\u00e9tais dans un Vaisseau, sur une Mer bien agit\u00e9e\u00a0; et\n que..."
+                                    }
+                                },
+                                "I03-5": {
+                                    "personnage": "G\u00e9ronimo",
+                                    "vers": {
+                                        "0": "Seigneur Sganarelle, j\u2019ai maintenant \nquelque petite affaire, qui m\u2019emp\u00eache de vous ou\u00efr. Je n\u2019entends rien du\n tout aux Songes\u00a0; et quant au raisonnement du mariage, vous avez \ndeux Savants\u00a0; deux Philosophes vos voisins, qui sont Gens \u00e0 vous \nd\u00e9biter tout ce qu\u2019on peut dire sur ce sujet. Comme ils sont de Sectes \ndiff\u00e9rentes, vous pouvez examiner leurs diverses opinions l\u00e0-dessus. \nPour moi, je me contente de ce que je vous ai dit tant\u00f4t, et demeure \nvotre Serviteur."
+                                    }
+                                },
+                                "I03-6": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Il a raison. Il faut que je consulte un peu ces Gens-l\u00e0 sur l\u2019incertitude o\u00f9 je suis."
+                                    }
+                                }
+                            }
+                        },
+                        "I04": {
+                            "title": "Sc\u00e8ne IV",
+                            "repliques": {
+                                "I04-1": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Allez, vous \u00eates un impertinent, mon Ami\u00a0; un Homme bannissable de la R\u00e9publique des Lettres."
+                                    }
+                                },
+                                "I04-2": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Ah\u00a0! bon, en voici un fort \u00e0 propos."
+                                    }
+                                },
+                                "I04-3": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Oui, je te soutiendrai par vives \nraisons, que tu es un ignorant, ignorantissime, ignorantifiant, et \nignorantifi\u00e9 par tous les cas, et modes imaginables."
+                                    }
+                                },
+                                "I04-4": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Il a pris querelle contre quelqu\u2019un. Seigneur..."
+                                    }
+                                },
+                                "I04-5": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Tu veux te m\u00ealer de raisonner, et tu ne sais pas seulement les \u00c9l\u00e9ments de la Raison."
+                                    }
+                                },
+                                "I04-6": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "La col\u00e8re l\u2019emp\u00eache de me voir. Seigneur..."
+                                    }
+                                },
+                                "I04-7": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "C\u2019est une Proposition condamnable dans toutes les Terres de la Philosophie."
+                                    }
+                                },
+                                "I04-8": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Il faut qu\u2019on l\u2019ait fort irrit\u00e9. Je..."
+                                    }
+                                },
+                                "I04-9": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Toto C\u0153lo, tota via aberras."
+                                    }
+                                },
+                                "I04-10": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Je baise les mains \u00e0 Monsieur le Docteur."
+                                    }
+                                },
+                                "I04-11": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Serviteur."
+                                    }
+                                },
+                                "I04-12": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Peut-on..."
+                                    }
+                                },
+                                "I04-13": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Sais-tu bien ce que tu as fait\u00a0? un Syllogisme in balordo."
+                                    }
+                                },
+                                "I04-14": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Je vous..."
+                                    }
+                                },
+                                "I04-15": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "La Majeure en est inepte, la Mineure impertinente, et la Conclusion ridicule."
+                                    }
+                                },
+                                "I04-16": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Je..."
+                                    }
+                                },
+                                "I04-17": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Je cr\u00e8verais plut\u00f4t que d\u2019avouer ce que tu dis\u00a0; et je soutiendrai mon opinion jusqu\u2019\u00e0 la derni\u00e8re goutte de mon Encre."
+                                    }
+                                },
+                                "I04-18": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Puis-je..."
+                                    }
+                                },
+                                "I04-19": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Oui, je d\u00e9fendrai cette Proposition, pugnis et calcibus, unguibus et rostro."
+                                    }
+                                },
+                                "I04-20": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Seigneur Aristote, peut-on savoir ce qui vous met si fort en col\u00e8re\u00a0?"
+                                    }
+                                },
+                                "I04-21": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Un sujet le plus juste du Monde."
+                                    }
+                                },
+                                "I04-22": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Et quoi encore\u00a0?"
+                                    }
+                                },
+                                "I04-23": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Un Ignorant m\u2019a voulu soutenir une Proposition erron\u00e9e\u00a0; une Proposition \u00e9pouvantable, effroyable, ex\u00e9crable."
+                                    }
+                                },
+                                "I04-24": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Puis-je demander ce que c\u2019est\u00a0?"
+                                    }
+                                },
+                                "I04-25": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Ah\u00a0! Seigneur Sganarelle, tout \nest renvers\u00e9 aujourd\u2019hui\u00a0; et le Monde est tomb\u00e9 dans une \ncorruption g\u00e9n\u00e9rale. Une licence \u00e9pouvantable r\u00e8gne partout\u00a0; et \nles Magistrats, qui sont \u00e9tablis, pour maintenir l\u2019ordre dans cet \u00c9tat, \ndevraient rougir de honte, en souffrant un scandale aussi intol\u00e9rable, \nque celui dont je veux parler."
+                                    }
+                                },
+                                "I04-26": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Quoi donc\u00a0?"
+                                    }
+                                },
+                                "I04-27": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "N\u2019est-ce pas une chose \nhorrible\u00a0; une chose qui crie vengeance au Ciel, que d\u2019endurer \nqu\u2019on dise publiquement la forme d\u2019un Chapeau\u00a0!"
+                                    }
+                                },
+                                "I04-28": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Comment\u00a0?"
+                                    }
+                                },
+                                "I04-29": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Je soutiens qu\u2019il faut dire la Figure\n d\u2019un Chapeau, et non pas la Forme. D\u2019autant qu\u2019il y a cette diff\u00e9rence \nentre la Forme, et la Figure\u00a0; que la Forme est la disposition \next\u00e9rieure des corps qui sont anim\u00e9s\u00a0; et la Figure, la disposition\n ext\u00e9rieure des corps qui sont inanim\u00e9s\u00a0: et puisque le Chapeau est\n un Corps inanim\u00e9, il faut dire la Figure d\u2019un Chapeau, et non pas la \nForme. Oui, Ignorant que vous \u00eates, c\u2019est comme il faut parler\u00a0; et\n ce sont les termes expr\u00e8s d\u2019Aristote dans le Chapitre De la Qualit\u00e9."
+                                    }
+                                },
+                                "I04-30": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Je pensais que tout f\u00fbt perdu. Seigneur Docteur, ne songez plus \u00e0 tout cela. Je..."
+                                    }
+                                },
+                                "I04-31": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Je suis dans une col\u00e8re, que je ne me sens pas."
+                                    }
+                                },
+                                "I04-32": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Laissez la Forme, et le Chapeau en paix\u00a0; j\u2019ai quelque chose \u00e0 vous communiquer. Je..."
+                                    }
+                                },
+                                "I04-33": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Impertinent fieff\u00e9."
+                                    }
+                                },
+                                "I04-34": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "De gr\u00e2ce, remettez-vous. Je..."
+                                    }
+                                },
+                                "I04-35": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Ignorant."
+                                    }
+                                },
+                                "I04-36": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Eh\u00a0! mon Dieu. Je..."
+                                    }
+                                },
+                                "I04-37": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Me vouloir soutenir une Proposition de la sorte\u00a0?"
+                                    }
+                                },
+                                "I04-38": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Il a tort. Je..."
+                                    }
+                                },
+                                "I04-39": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Une Proposition condamn\u00e9e par Aristote\u00a0?"
+                                    }
+                                },
+                                "I04-40": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Cela est vrai. Je..."
+                                    }
+                                },
+                                "I04-41": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "En termes expr\u00e8s\u00a0?"
+                                    }
+                                },
+                                "I04-42": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Vous avez raison. Oui, vous \u00eates un \nSot, et un Impudent, de vouloir disputer contre un Docteur, qui sait \nlire, et \u00e9crire. Voil\u00e0 qui est fait, je vous prie de m\u2019\u00e9couter. Je viens\n vous consulter sur une Affaire qui m\u2019embarrasse. J\u2019ai dessein de \nprendre une Femme, pour me tenir compagnie dans mon M\u00e9nage. La Personne \nest belle, et bien faite\u00a0: elle me pla\u00eet beaucoup, et est ravie de \nm\u2019\u00e9pouser. Son P\u00e8re me l\u2019a accord\u00e9e\u00a0; mais je crains un peu ce que \nvous savez, la disgr\u00e2ce dont on ne plaint Personne\u00a0; et je voudrais\n bien vous prier, comme Philosophe, de me dire votre sentiment. \nEh\u00a0! quel est votre avis l\u00e0-dessus\u00a0?"
+                                    }
+                                },
+                                "I04-43": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Plut\u00f4t que d\u2019accorder qu\u2019il faille dire la Forme d\u2019un Chapeau, j\u2019accorderais que datur vacuum in rerum natura, et que je ne suis qu\u2019une b\u00eate."
+                                    }
+                                },
+                                "I04-44": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "La peste soit de l\u2019Homme. Eh\u00a0! \nMonsieur le Docteur, \u00e9coutez un peu les Gens. On vous parle une heure \ndurant\u00a0; et vous ne r\u00e9pondez point \u00e0 ce qu\u2019on vous dit."
+                                    }
+                                },
+                                "I04-45": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Je vous demande pardon. Une juste col\u00e8re m\u2019occupe l\u2019esprit."
+                                    }
+                                },
+                                "I04-46": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Eh\u00a0! laissez tout cela\u00a0; et prenez la peine de m\u2019\u00e9couter."
+                                    }
+                                },
+                                "I04-47": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Soit. Que voulez-vous me dire\u00a0?"
+                                    }
+                                },
+                                "I04-48": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Je veux vous parler de quelque chose."
+                                    }
+                                },
+                                "I04-49": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Et de quelle Langue voulez-vous vous servir avec moi\u00a0?"
+                                    }
+                                },
+                                "I04-50": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "De quelle langue\u00a0?"
+                                    }
+                                },
+                                "I04-51": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Oui."
+                                    }
+                                },
+                                "I04-52": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Parbleu, de la langue que j\u2019ai dans la bouche\u00a0; je crois que je n\u2019irai pas emprunter celle de mon Voisin."
+                                    }
+                                },
+                                "I04-53": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Je vous dis de quel Idiome\u00a0; de quel Langage."
+                                    }
+                                },
+                                "I04-54": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Ah\u00a0! c\u2019est une autre affaire."
+                                    }
+                                },
+                                "I04-55": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Voulez-vous me parler Italien\u00a0?"
+                                    }
+                                },
+                                "I04-56": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Non."
+                                    }
+                                },
+                                "I04-57": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Espagnol\u00a0?"
+                                    }
+                                },
+                                "I04-58": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Non."
+                                    }
+                                },
+                                "I04-59": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Allemand\u00a0?"
+                                    }
+                                },
+                                "I04-60": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Non."
+                                    }
+                                },
+                                "I04-61": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Anglais\u00a0?"
+                                    }
+                                },
+                                "I04-62": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Non."
+                                    }
+                                },
+                                "I04-63": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Latin\u00a0?"
+                                    }
+                                },
+                                "I04-64": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Non."
+                                    }
+                                },
+                                "I04-65": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Grec\u00a0?"
+                                    }
+                                },
+                                "I04-66": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Non."
+                                    }
+                                },
+                                "I04-67": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "H\u00e9breu\u00a0?"
+                                    }
+                                },
+                                "I04-68": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Non."
+                                    }
+                                },
+                                "I04-69": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Syriaque\u00a0?"
+                                    }
+                                },
+                                "I04-70": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Non."
+                                    }
+                                },
+                                "I04-71": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Turc\u00a0?"
+                                    }
+                                },
+                                "I04-72": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Non."
+                                    }
+                                },
+                                "I04-73": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Arabe\u00a0?"
+                                    }
+                                },
+                                "I04-74": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Non, non, Fran\u00e7ais."
+                                    }
+                                },
+                                "I04-75": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Ah Fran\u00e7ais\u00a0!"
+                                    }
+                                },
+                                "I04-76": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Fort bien."
+                                    }
+                                },
+                                "I04-77": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Passez donc de l\u2019autre c\u00f4t\u00e9\u00a0: \ncar cette oreille-ci est destin\u00e9e pour les Langues scientifiques, et \n\u00e9trang\u00e8res, et l\u2019autre est pour la maternelle."
+                                    }
+                                },
+                                "I04-78": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Il faut bien des c\u00e9r\u00e9monies avec ces sortes de Gens-ci\u00a0!"
+                                    }
+                                },
+                                "I04-79": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Que voulez-vous\u00a0?"
+                                    }
+                                },
+                                "I04-80": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Vous consulter sur une petite difficult\u00e9."
+                                    }
+                                },
+                                "I04-81": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Sur une difficult\u00e9 de Philosophie, sans doute\u00a0?"
+                                    }
+                                },
+                                "I04-82": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Pardonnez-moi. Je..."
+                                    }
+                                },
+                                "I04-83": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Vous voulez peut-\u00eatre savoir, si la substance, et l\u2019accident, sont termes synonymes, ou \u00e9quivoques, \u00e0 l\u2019\u00e9gard de l\u2019\u00catre\u00a0?"
+                                    }
+                                },
+                                "I04-84": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Point du tout. Je..."
+                                    }
+                                },
+                                "I04-85": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Si la logique est un Art, ou une Science\u00a0?"
+                                    }
+                                },
+                                "I04-86": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Ce n\u2019est pas cela. Je..."
+                                    }
+                                },
+                                "I04-87": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Si elle a pour objet les trois op\u00e9rations de l\u2019Esprit, ou la troisi\u00e8me seulement\u00a0?"
+                                    }
+                                },
+                                "I04-88": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Non. Je..."
+                                    }
+                                },
+                                "I04-89": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "S\u2019il y a dix Cat\u00e9gories, ou s\u2019il n\u2019y en a qu\u2019une\u00a0?"
+                                    }
+                                },
+                                "I04-90": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Point. Je..."
+                                    }
+                                },
+                                "I04-91": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Si la Conclusion est de l\u2019essence du Syllogisme\u00a0?"
+                                    }
+                                },
+                                "I04-92": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Nenni. Je..."
+                                    }
+                                },
+                                "I04-93": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Si l\u2019essence du Bien est mise dans l\u2019app\u00e9tibilit\u00e9, ou dans la convenance\u00a0?"
+                                    }
+                                },
+                                "I04-94": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Non. Je..."
+                                    }
+                                },
+                                "I04-95": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Si le Bien se r\u00e9ciproque avec la fin\u00a0?"
+                                    }
+                                },
+                                "I04-96": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Eh\u00a0! non. Je..."
+                                    }
+                                },
+                                "I04-97": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Si la Fin nous peut \u00e9mouvoir par son \u00catre r\u00e9el, ou par son \u00catre intentionnel\u00a0?"
+                                    }
+                                },
+                                "I04-98": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Non, non, non, non, non, de par tous les diables, non."
+                                    }
+                                },
+                                "I04-99": {
+                                    "personnage": "Pancrace",
+                                    "vers": {
+                                        "0": "Expliquez donc votre pens\u00e9e\u00a0: car je ne puis pas la deviner."
+                                    }
+                                },
+                                "I04-100": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Je vous la veux expliquer aussi\u00a0: mais il faut m\u2019\u00e9couter."
+                                    }
+                                },
+                                "I04-101": {
+                                    "personnage": "Sganarelle ",
+                                    "vers": {
+                                        "0": "L\u2019affaire que j\u2019ai \u00e0 vous dire, c\u2019est\n que j\u2019ai envie de me marier avec une Fille, qui est jeune, et belle. Je\n l\u2019aime fort, et l\u2019ai demand\u00e9e \u00e0 son P\u00e8re\u00a0: mais comme \nj\u2019appr\u00e9hende..."
+                                    }
+                                },
+                                "I04-102": {
+                                    "personnage": "Pancrace ",
+                                    "vers": {
+                                        "0": "La Parole a \u00e9t\u00e9 donn\u00e9e \u00e0 l\u2019Homme, \npour expliquer sa Pens\u00e9e\u00a0; et tout ainsi que les Pens\u00e9es sont les \nPortraits des Choses, de m\u00eame nos Paroles sont-elles les portraits de \nnos Pens\u00e9es\u00a0: mais ces Portraits diff\u00e8rent des autres Portraits, en\n ce que les autres portraits sont distingu\u00e9s partout de leurs Originaux,\n et que la Parole enferme en soi son Original, puisqu\u2019elle n\u2019est autre \nchose que la Pens\u00e9e, expliqu\u00e9e par un Signe ext\u00e9rieur\u00a0: d\u2019o\u00f9 vient \nque ceux qui pensent bien, sont aussi ceux qui parlent le mieux. \nExpliquez-moi donc votre Pens\u00e9e par la Parole, qui est le plus \nintelligible de tous les signes."
+                                    }
+                                },
+                                "I04-103": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Au Diable les Savants, qui ne veulent\n point \u00e9couter les Gens. On me l'avait bien dit, que son Ma\u00eetre Aristote\n n'\u00e9tait qu'un Bavard. Il faut que j'aille trouver l'autre ; il est plus\n pos\u00e9, et plus raisonnable. Hol\u00e0."
+                                    }
+                                }
+                            }
+                        },
+                        "I05": {
+                            "title": "Sc\u00e8ne V",
+                            "repliques": {
+                                "I05-1": {
+                                    "personnage": "Marphurius",
+                                    "vers": {
+                                        "0": "Que voulez-vous de moi, Seigneur Sganarelle\u00a0?"
+                                    }
+                                },
+                                "I05-2": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Seigneur Docteur, j\u2019aurais besoin de \nvotre Conseil sur une petite Affaire dont il s\u2019agit\u00a0; et je suis \nvenu ici pour cela. Ah\u00a0! voil\u00e0 qui va bien. Il \u00e9coute le monde, \ncelui-ci."
+                                    }
+                                },
+                                "I05-3": {
+                                    "personnage": "Marphurius",
+                                    "vers": {
+                                        "0": "Seigneur Sganarelle, changez, s\u2019il \nvous pla\u00eet, cette fa\u00e7on de parler. Notre Philosophie ordonne de ne point\n \u00e9noncer de Proposition d\u00e9cisive\u00a0; de parler de tout avec \nincertitude\u00a0; de suspendre toujours son jugement\u00a0: et par \ncette raison vous ne devez pas dire Je suis venu\u00a0; mais Il me semble que je suis venu."
+                                    }
+                                },
+                                "I05-4": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Il me semble\u00a0!"
+                                    }
+                                },
+                                "I05-5": {
+                                    "personnage": "Marphurius",
+                                    "vers": {
+                                        "0": "Oui."
+                                    }
+                                },
+                                "I05-6": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Parbleu, il faut bien qu\u2019il me le semble, puisque cela est."
+                                    }
+                                },
+                                "I05-7": {
+                                    "personnage": "Marphurius",
+                                    "vers": {
+                                        "0": "Ce n\u2019est pas une cons\u00e9quence\u00a0; et il peut vous sembler, sans que la chose soit v\u00e9ritable."
+                                    }
+                                },
+                                "I05-8": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Comment, il n\u2019est pas vrai que je suis venu\u00a0?"
+                                    }
+                                },
+                                "I05-9": {
+                                    "personnage": "Marphurius",
+                                    "vers": {
+                                        "0": "Cela est incertain\u00a0; et nous devons douter de tout."
+                                    }
+                                },
+                                "I05-10": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Quoi\u00a0? je ne suis pas ici\u00a0; et vous ne me parlez pas\u00a0?"
+                                    }
+                                },
+                                "I05-11": {
+                                    "personnage": "Marphurius",
+                                    "vers": {
+                                        "0": "Il m\u2019appara\u00eet que vous \u00eates l\u00e0, et il me semble que je vous parle\u00a0: mais il n\u2019est pas assur\u00e9 que cela soit."
+                                    }
+                                },
+                                "I05-12": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Eh\u00a0! que Diable, vous vous \nmoquez. Me voil\u00e0, et vous voil\u00e0 bien nettement\u00a0; et il n\u2019y a point \nde me semble \u00e0 tout cela. Laissons ces subtilit\u00e9s je vous prie\u00a0; et\n parlons de mon Affaire. Je viens vous dire que j\u2019ai envie de me marier."
+                                    }
+                                },
+                                "I05-13": {
+                                    "personnage": "Marphurius",
+                                    "vers": {
+                                        "0": "Je n\u2019en sais rien."
+                                    }
+                                },
+                                "I05-14": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Je vous le dis."
+                                    }
+                                },
+                                "I05-15": {
+                                    "personnage": "Marphurius",
+                                    "vers": {
+                                        "0": "Il se peut faire."
+                                    }
+                                },
+                                "I05-16": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "La Fille, que je veux prendre, est fort jeune, et fort belle."
+                                    }
+                                },
+                                "I05-17": {
+                                    "personnage": "Marphurius",
+                                    "vers": {
+                                        "0": "Il n\u2019est pas impossible."
+                                    }
+                                },
+                                "I05-18": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Ferai-je bien, ou mal, de l\u2019\u00e9pouser\u00a0?"
+                                    }
+                                },
+                                "I05-19": {
+                                    "personnage": "Marphurius",
+                                    "vers": {
+                                        "0": "L\u2019un, ou l\u2019autre."
+                                    }
+                                },
+                                "I05-20": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Ah\u00a0! ah\u00a0! voici une autre Musique. Je vous demande, si je ferai bien d\u2019\u00e9pouser la Fille dont je vous parle."
+                                    }
+                                },
+                                "I05-21": {
+                                    "personnage": "Marphurius",
+                                    "vers": {
+                                        "0": "Selon la rencontre."
+                                    }
+                                },
+                                "I05-22": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Ferai-je mal\u00a0?"
+                                    }
+                                },
+                                "I05-23": {
+                                    "personnage": "Marphurius",
+                                    "vers": {
+                                        "0": "Par aventure."
+                                    }
+                                },
+                                "I05-24": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "De gr\u00e2ce, r\u00e9pondez-moi, comme il faut."
+                                    }
+                                },
+                                "I05-25": {
+                                    "personnage": "Marphurius",
+                                    "vers": {
+                                        "0": "C\u2019est mon dessein."
+                                    }
+                                },
+                                "I05-26": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "J\u2019ai une grande inclination pour la Fille."
+                                    }
+                                },
+                                "I05-27": {
+                                    "personnage": "Marphurius",
+                                    "vers": {
+                                        "0": "Cela peut \u00eatre."
+                                    }
+                                },
+                                "I05-28": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Le P\u00e8re me l\u2019a accord\u00e9e."
+                                    }
+                                },
+                                "I05-29": {
+                                    "personnage": "Marphurius",
+                                    "vers": {
+                                        "0": "Il se pourrait."
+                                    }
+                                },
+                                "I05-30": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Mais en l\u2019\u00e9pousant, je crains d\u2019\u00eatre Cocu."
+                                    }
+                                },
+                                "I05-31": {
+                                    "personnage": "Marphurius",
+                                    "vers": {
+                                        "0": "La chose est faisable."
+                                    }
+                                },
+                                "I05-32": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Qu\u2019en pensez-vous\u00a0?"
+                                    }
+                                },
+                                "I05-33": {
+                                    "personnage": "Marphurius",
+                                    "vers": {
+                                        "0": "Il n\u2019y a pas d\u2019impossibilit\u00e9."
+                                    }
+                                },
+                                "I05-34": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Mais que feriez-vous, si vous \u00e9tiez en ma place\u00a0?"
+                                    }
+                                },
+                                "I05-35": {
+                                    "personnage": "Marphurius",
+                                    "vers": {
+                                        "0": "Je ne sais."
+                                    }
+                                },
+                                "I05-36": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Que me conseillez-vous de faire\u00a0?"
+                                    }
+                                },
+                                "I05-37": {
+                                    "personnage": "Marphurius",
+                                    "vers": {
+                                        "0": "Ce qui vous plaira."
+                                    }
+                                },
+                                "I05-38": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "J\u2019enrage\u00a0!"
+                                    }
+                                },
+                                "I05-39": {
+                                    "personnage": "Marphurius",
+                                    "vers": {
+                                        "0": "Je m\u2019en lave les mains."
+                                    }
+                                },
+                                "I05-40": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Au Diable soit le vieux r\u00eaveur."
+                                    }
+                                },
+                                "I05-41": {
+                                    "personnage": "Marphurius",
+                                    "vers": {
+                                        "0": "Il en sera ce qui pourra."
+                                    }
+                                },
+                                "I05-42": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "La peste du Bourreau. Je te ferai changer de note, chien de Philosophe enrag\u00e9."
+                                    }
+                                },
+                                "I05-43": {
+                                    "personnage": "Marphurius",
+                                    "vers": {
+                                        "0": "Ah, ah, ah."
+                                    }
+                                },
+                                "I05-44": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Te voil\u00e0 pay\u00e9 de ton galimatias\u00a0; et me voil\u00e0 content."
+                                    }
+                                },
+                                "I05-45": {
+                                    "personnage": "Marphurius",
+                                    "vers": {
+                                        "0": "Comment\u00a0? quelle insolence\u00a0! m\u2019outrager de la sorte\u00a0! Avoir eu l\u2019audace de battre un philosophe comme moi\u00a0!"
+                                    }
+                                },
+                                "I05-46": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Corrigez, s\u2019il vous pla\u00eet, cette \nmani\u00e8re de parler. Il faut douter de toutes choses\u00a0; et vous ne \ndevez pas dire que je vous ai battu\u00a0; mais qu\u2019il vous semble que je\n vous ai battu."
+                                    }
+                                },
+                                "I05-47": {
+                                    "personnage": "Marphurius",
+                                    "vers": {
+                                        "0": "Ah\u00a0! je m\u2019en vais faire ma plainte, au Commissaire du Quartier, des coups que j\u2019ai re\u00e7us."
+                                    }
+                                },
+                                "I05-48": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Je m\u2019en lave les mains."
+                                    }
+                                },
+                                "I05-49": {
+                                    "personnage": "Marphurius",
+                                    "vers": {
+                                        "0": "J\u2019en ai les marques sur ma Personne."
+                                    }
+                                },
+                                "I05-50": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Il se peut faire."
+                                    }
+                                },
+                                "I05-51": {
+                                    "personnage": "Marphurius",
+                                    "vers": {
+                                        "0": "C\u2019est toi, qui m\u2019as trait\u00e9 ainsi."
+                                    }
+                                },
+                                "I05-52": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Il n\u2019y a pas d\u2019impossibilit\u00e9."
+                                    }
+                                },
+                                "I05-53": {
+                                    "personnage": "Marphurius",
+                                    "vers": {
+                                        "0": "J\u2019aurai un D\u00e9cret contre toi."
+                                    }
+                                },
+                                "I05-54": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Je n\u2019en sais rien."
+                                    }
+                                },
+                                "I05-55": {
+                                    "personnage": "Marphurius",
+                                    "vers": {
+                                        "0": "Et tu seras condamn\u00e9 en Justice."
+                                    }
+                                },
+                                "I05-56": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Il en sera ce qui pourra."
+                                    }
+                                },
+                                "I05-57": {
+                                    "personnage": "Marphurius",
+                                    "vers": {
+                                        "0": "Laisse-moi faire."
+                                    }
+                                },
+                                "I05-58": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Comment\u00a0? on ne saurait tirer \nune Parole positive de ce chien d\u2019Homme-l\u00e0 ! et l\u2019on est aussi savant \u00e0 \nla fin, qu\u2019au commencement\u00a0! Que dois-je faire dans l\u2019incertitude \ndes suites de mon Mariage\u00a0? Jamais Homme ne fut plus embarrass\u00e9 que\n je suis. Ah\u00a0! voici des \u00c9gyptiennes. Il faut que je me fasse dire \npar elles ma bonne Aventure."
+                                    }
+                                }
+                            }
+                        },
+                        "I06": {
+                            "title": "Sc\u00e8ne VI",
+                            "repliques": {
+                                "I06-1": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Elles sont gaillardes. \u00c9coutez, vous autres, y a-t-il moyen de me dire ma bonne fortune\u00a0?"
+                                    }
+                                },
+                                "I06-2": {
+                                    "personnage": "Premi\u00e8re \u00e9gyptienne",
+                                    "vers": {
+                                        "0": "Oui, mon bon Monsieur, nous voici deux qui te la diront."
+                                    }
+                                },
+                                "I06-3": {
+                                    "personnage": "Seconde \u00e9gyptienne",
+                                    "vers": {
+                                        "0": "Tu n\u2019as seulement qu\u2019\u00e0 nous donner ta main, avec la Croix dedans\u00a0; et nous te dirons quelque chose pour ton bon profit."
+                                    }
+                                },
+                                "I06-4": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Tenez, les voil\u00e0 toutes deux, avec ce que vous demandez."
+                                    }
+                                },
+                                "I06-5": {
+                                    "personnage": "Premi\u00e8re \u00e9gyptienne",
+                                    "vers": {
+                                        "0": "Tu as une bonne physionomie, mon bon Monsieur, une bonne physionomie."
+                                    }
+                                },
+                                "I06-6": {
+                                    "personnage": "Seconde \u00e9gyptienne",
+                                    "vers": {
+                                        "0": "Oui, bonne physionomie. Physionomie d\u2019un Homme qui sera un jour quelque chose."
+                                    }
+                                },
+                                "I06-7": {
+                                    "personnage": "Premi\u00e8re \u00e9gyptienne",
+                                    "vers": {
+                                        "0": "Tu seras mari\u00e9 avant qu\u2019il soit peu, mon bon Monsieur\u00a0; tu seras mari\u00e9 avant qu\u2019il soit peu."
+                                    }
+                                },
+                                "I06-8": {
+                                    "personnage": "Seconde \u00e9gyptienne",
+                                    "vers": {
+                                        "0": "Tu \u00e9pouseras une Femme gentille\u00a0; une Femme gentille."
+                                    }
+                                },
+                                "I06-9": {
+                                    "personnage": "Premi\u00e8re \u00e9gyptienne",
+                                    "vers": {
+                                        "0": "Oui, une Femme qui sera ch\u00e9rie, et aim\u00e9e de tout le Monde."
+                                    }
+                                },
+                                "I06-10": {
+                                    "personnage": "Seconde \u00e9gyptienne",
+                                    "vers": {
+                                        "0": "Une Femme qui te fera beaucoup d\u2019Amis, mon bon Monsieur\u00a0; qui te fera beaucoup d\u2019Amis."
+                                    }
+                                },
+                                "I06-11": {
+                                    "personnage": "Premi\u00e8re \u00e9gyptienne",
+                                    "vers": {
+                                        "0": "Une femme qui fera venir l\u2019abondance chez toi."
+                                    }
+                                },
+                                "I06-12": {
+                                    "personnage": "Seconde \u00e9gyptienne",
+                                    "vers": {
+                                        "0": "Une femme qui te donnera une grande r\u00e9putation."
+                                    }
+                                },
+                                "I06-13": {
+                                    "personnage": "Premi\u00e8re \u00e9gyptienne",
+                                    "vers": {
+                                        "0": "Tu seras consid\u00e9r\u00e9 par elle, mon bon Monsieur\u00a0; tu seras consid\u00e9r\u00e9 par elle."
+                                    }
+                                },
+                                "I06-14": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Voil\u00e0 qui est bien\u00a0: mais, dites-moi un peu, suis-je menac\u00e9 d\u2019\u00eatre Cocu\u00a0?"
+                                    }
+                                },
+                                "I06-15": {
+                                    "personnage": "Seconde \u00e9gyptienne",
+                                    "vers": {
+                                        "0": "Cocu\u00a0!"
+                                    }
+                                },
+                                "I06-16": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Oui."
+                                    }
+                                },
+                                "I06-17": {
+                                    "personnage": "Premi\u00e8re \u00e9gyptienne",
+                                    "vers": {
+                                        "0": "Cocu\u00a0?"
+                                    }
+                                },
+                                "I06-18": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Oui, si je suis menac\u00e9 d\u2019\u00eatre Cocu\u00a0?"
+                                    }
+                                },
+                                "I06-19": {
+                                    "personnage": "La la la la",
+                                    "vers": {}
+                                },
+                                "I06-20": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Que Diable, ce n\u2019est pas l\u00e0 me r\u00e9pondre. Venez \u00e7\u00e0. Je vous demande \u00e0 toutes deux, si je serai Cocu\u00a0?"
+                                    }
+                                },
+                                "I06-21": {
+                                    "personnage": "Seconde \u00e9gyptienne",
+                                    "vers": {
+                                        "0": "Cocu, vous\u00a0?"
+                                    }
+                                },
+                                "I06-22": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Oui, si je serai cocu\u00a0?"
+                                    }
+                                },
+                                "i06-23": {
+                                    "personnage": "Premi\u00e8re \u00e9gyptienne",
+                                    "vers": {
+                                        "0": "Vous, Cocu\u00a0?"
+                                    }
+                                },
+                                "I06-24": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Oui, si je le serai, ou non\u00a0?"
+                                    }
+                                },
+                                "I06-25": {
+                                    "personnage": "La la la la",
+                                    "vers": {}
+                                },
+                                "I06-26": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Peste soit des Carognes, qui me \nlaissent dans l\u2019inqui\u00e9tude\u00a0! Il faut absolument que je sache la \ndestin\u00e9e de mon Mariage\u00a0: et pour cela, je veux aller trouver ce \ngrand Magicien, dont tout le monde parle tant, et qui par son art \nadmirable fait voir tout ce que l\u2019on souhaite. Ma foi, je crois que je \nn\u2019ai que faire d\u2019aller au Magicien, et voici qui me montre tout ce que \nje puis demander."
+                                    }
+                                }
+                            }
+                        },
+                        "I07": {
+                            "title": "Sc\u00e8ne VII",
+                            "repliques": {
+                                "I07-1": {
+                                    "personnage": "Lycaste",
+                                    "vers": {
+                                        "0": "Quoi\u00a0? belle Dorim\u00e8ne, c\u2019est sans raillerie que vous parlez\u00a0?"
+                                    }
+                                },
+                                "I07-2": {
+                                    "personnage": "Dorim\u00e8ne",
+                                    "vers": {
+                                        "0": "Sans raillerie."
+                                    }
+                                },
+                                "I07-3": {
+                                    "personnage": "Lycaste",
+                                    "vers": {
+                                        "0": "Vous vous mariez tout de bon\u00a0?"
+                                    }
+                                },
+                                "I07-4": {
+                                    "personnage": "Dorim\u00e8ne",
+                                    "vers": {
+                                        "0": "Tout de bon."
+                                    }
+                                },
+                                "I07-5": {
+                                    "personnage": "Lycaste",
+                                    "vers": {
+                                        "0": "Et vos Noces se feront d\u00e8s ce soir\u00a0?"
+                                    }
+                                },
+                                "I07-6": {
+                                    "personnage": "Dorim\u00e8ne",
+                                    "vers": {
+                                        "0": "D\u00e8s ce soir."
+                                    }
+                                },
+                                "I07-7": {
+                                    "personnage": "Lycaste",
+                                    "vers": {
+                                        "0": "Et vous pouvez, Cruelle que vous \n\u00eates, oublier de la sorte l\u2019amour que j\u2019ai pour vous\u00a0; et les \nobligeantes paroles que vous m\u2019aviez donn\u00e9es\u00a0?"
+                                    }
+                                },
+                                "I07-8": {
+                                    "personnage": "Dorim\u00e8ne",
+                                    "vers": {
+                                        "0": "Moi, point du tout. Je vous consid\u00e8re\n toujours de m\u00eame\u00a0; et ce Mariage ne doit point vous inqui\u00e9ter. \nC\u2019est un Homme que je n\u2019\u00e9pouse point par amour\u00a0; et sa seule \nrichesse me fait r\u00e9soudre \u00e0 l\u2019accepter. Je n\u2019ai point de bien. Vous n\u2019en\n avez point aussi\u00a0; et vous savez que sans cela on passe mal le \ntemps au Monde\u00a0; et qu\u2019\u00e0 quelque prix que ce soit, il faut t\u00e2cher \nd\u2019en avoir. J\u2019ai embrass\u00e9 cette occasion-ci de me mettre \u00e0 mon \naise\u00a0; et je l\u2019ai fait sur l\u2019esp\u00e9rance de me voir bient\u00f4t d\u00e9livr\u00e9e \ndu Barbon, que je prends. C\u2019est un Homme qui mourra avant qu\u2019il soit \npeu\u00a0; et qui n\u2019a tout au plus que six mois dans le ventre. Je vous \nle garantis d\u00e9funt dans le temps que je dis\u00a0; et je n\u2019aurai pas \nlonguement \u00e0 demander pour moi au Ciel, l\u2019heureux \u00e9tat de Veuve. \nAh\u00a0! nous parlions de vous, et nous en disions tout le bien qu\u2019on \nen saurait dire."
+                                    }
+                                },
+                                "I07-9": {
+                                    "personnage": "Lycaste",
+                                    "vers": {
+                                        "0": "Est-ce l\u00e0 Monsieur...\u00a0?"
+                                    }
+                                },
+                                "I07-10": {
+                                    "personnage": "Dorim\u00e8ne",
+                                    "vers": {
+                                        "0": "Oui, c\u2019est Monsieur, qui me prend pour Femme."
+                                    }
+                                },
+                                "I07-11": {
+                                    "personnage": "Lycaste",
+                                    "vers": {
+                                        "0": "Agr\u00e9ez, Monsieur, que je vous \nf\u00e9licite de votre Mariage, et vous pr\u00e9sente en m\u00eame temps mes tr\u00e8s \nhumbles services. Je vous assure que vous \u00e9pousez l\u00e0 une tr\u00e8s honn\u00eate \nPersonne. Et vous, Mademoiselle, je me r\u00e9jouis avec vous aussi de \nl\u2019heureux choix que vous avez fait. Vous ne pouviez pas mieux \ntrouver\u00a0; et Monsieur a toute la mine d\u2019\u00eatre un fort bon Mari. Oui,\n Monsieur, je veux faire amiti\u00e9 avec vous ; et lier ensemble un petit \ncommerce de visites et de divertissements."
+                                    }
+                                },
+                                "I07-12": {
+                                    "personnage": "Dorim\u00e8ne",
+                                    "vers": {
+                                        "0": "C\u2019est trop d\u2019honneur que vous nous \nfaites \u00e0 tous deux. Mais allons, le temps me presse\u00a0; et nous \naurons tout le loisir de nous entretenir ensemble."
+                                    }
+                                },
+                                "I07-13": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Me voil\u00e0 tout \u00e0 fait d\u00e9go\u00fbt\u00e9 de mon \nMariage\u00a0; et je crois que je ne ferai pas mal de m\u2019aller d\u00e9gager de\n ma Parole. Il m\u2019en a co\u00fbt\u00e9 quelque argent\u00a0: mais il vaut mieux \nencore perdre cela, que de m\u2019exposer \u00e0 quelque chose de pis. T\u00e2chons \nadroitement de nous d\u00e9barrasser de cette affaire. Hol\u00e0."
+                                    }
+                                }
+                            }
+                        },
+                        "I08": {
+                            "title": "Sc\u00e8ne VIII",
+                            "repliques": {
+                                "I08-1": {
+                                    "personnage": "Alcantor",
+                                    "vers": {
+                                        "0": "Ah\u00a0! mon Gendre, soyez le bienvenu\u00a0!"
+                                    }
+                                },
+                                "I08-2": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Monsieur, votre serviteur."
+                                    }
+                                },
+                                "I08-3": {
+                                    "personnage": "Alcantor",
+                                    "vers": {
+                                        "0": "Vous venez pour conclure le Mariage\u00a0?"
+                                    }
+                                },
+                                "I08-4": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Excusez-moi."
+                                    }
+                                },
+                                "I08-5": {
+                                    "personnage": "Alcantor",
+                                    "vers": {
+                                        "0": "Je vous promets que j\u2019en ai autant d\u2019impatience que vous."
+                                    }
+                                },
+                                "I08-6": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Je viens ici pour un autre sujet."
+                                    }
+                                },
+                                "I08-7": {
+                                    "personnage": "Alcantor",
+                                    "vers": {
+                                        "0": "J\u2019ai donn\u00e9 ordre \u00e0 toutes les choses n\u00e9cessaires pour cette F\u00eate."
+                                    }
+                                },
+                                "I08-8": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Il n\u2019est pas question de cela."
+                                    }
+                                },
+                                "I08-9": {
+                                    "personnage": "Alcantor",
+                                    "vers": {
+                                        "0": "Les Violons sont retenus\u00a0; le Festin est command\u00e9\u00a0; et ma Fille est par\u00e9e, pour vous recevoir."
+                                    }
+                                },
+                                "I08-10": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Ce n\u2019est pas ce qui m\u2019am\u00e8ne."
+                                    }
+                                },
+                                "I08-11": {
+                                    "personnage": "Alcantor",
+                                    "vers": {
+                                        "0": "Enfin vous allez \u00eatre satisfait\u00a0; et rien ne peut retarder votre contentement."
+                                    }
+                                },
+                                "I08-12": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Mon Dieu, c\u2019est autre chose."
+                                    }
+                                },
+                                "I08-13": {
+                                    "personnage": "Alcantor",
+                                    "vers": {
+                                        "0": "Allons, entrez donc, mon Gendre."
+                                    }
+                                },
+                                "I08-14": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "J\u2019ai un petit mot \u00e0 vous dire."
+                                    }
+                                },
+                                "I08-15": {
+                                    "personnage": "Alcantor",
+                                    "vers": {
+                                        "0": "Ah\u00a0! mon Dieu, ne faisons point de c\u00e9r\u00e9monie\u00a0: entrez vite, s\u2019il vous pla\u00eet."
+                                    }
+                                },
+                                "I08-16": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Non, vous dis-je. Je vous veux parler auparavant."
+                                    }
+                                },
+                                "I08-17": {
+                                    "personnage": "Alcantor",
+                                    "vers": {
+                                        "0": "Vous voulez me dire quelque chose\u00a0?"
+                                    }
+                                },
+                                "I08-18": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Oui."
+                                    }
+                                },
+                                "I08-19": {
+                                    "personnage": "Alcantor",
+                                    "vers": {
+                                        "0": "Et quoi\u00a0?"
+                                    }
+                                },
+                                "I08-20": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Seigneur Alcantor, j\u2019ai demand\u00e9 votre\n fille en mariage, il est vrai\u00a0; et vous me l\u2019avez accord\u00e9e\u00a0: \nmais je me trouve un peu avanc\u00e9 en \u00e2ge pour elle\u00a0; et je consid\u00e8re \nque je ne suis point du tout son fait."
+                                    }
+                                },
+                                "I08-21": {
+                                    "personnage": "Alcantor",
+                                    "vers": {
+                                        "0": "Pardonnez-moi. Ma Fille vous trouve bien, comme vous \u00eates\u00a0; et je suis s\u00fbr qu\u2019elle vivra fort contente avec vous."
+                                    }
+                                },
+                                "I08-22": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Point\u00a0; j\u2019ai parfois des bizarreries \u00e9pouvantables\u00a0; et elle aurait trop \u00e0 souffrir de ma mauvaise humeur."
+                                    }
+                                },
+                                "I08-23": {
+                                    "personnage": "Alcantor",
+                                    "vers": {
+                                        "0": "Ma Fille a de la complaisance\u00a0; et vous verrez qu\u2019elle s\u2019accommodera enti\u00e8rement \u00e0 vous."
+                                    }
+                                },
+                                "I08-24": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "J\u2019ai quelques infirmit\u00e9s sur mon Corps, qui pourraient la d\u00e9go\u00fbter."
+                                    }
+                                },
+                                "I08-25": {
+                                    "personnage": "Alcantor",
+                                    "vers": {
+                                        "0": "Cela n\u2019est rien. Une honn\u00eate Femme ne se d\u00e9go\u00fbte jamais de son Mari."
+                                    }
+                                },
+                                "I08-26": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Enfin voulez-vous que je vous dise, je ne vous conseille pas de me la donner."
+                                    }
+                                },
+                                "I08-27": {
+                                    "personnage": "Alcantor",
+                                    "vers": {
+                                        "0": "Vous moquez-vous\u00a0? J\u2019aimerais mieux mourir, que d\u2019avoir manqu\u00e9 \u00e0 ma parole."
+                                    }
+                                },
+                                "I08-28": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Mon Dieu, je vous en dispense, et je..."
+                                    }
+                                },
+                                "I08-29": {
+                                    "personnage": "Alcantor",
+                                    "vers": {
+                                        "0": "Point du tout. Je vous l\u2019ai promise\u00a0; et vous l\u2019aurez en d\u00e9pit de tous ceux qui y pr\u00e9tendent."
+                                    }
+                                },
+                                "I08-30": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Que diable\u00a0!"
+                                    }
+                                },
+                                "I08-31": {
+                                    "personnage": "Alcantor",
+                                    "vers": {
+                                        "0": "Voyez-vous, j\u2019ai une estime, et une \namiti\u00e9 pour vous, toute particuli\u00e8re\u00a0; et je refuserais ma Fille \u00e0 \nun Prince, pour vous la donner."
+                                    }
+                                },
+                                "I08-32": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Seigneur Alcantor, je vous suis \noblig\u00e9 de l\u2019honneur que vous me faites\u00a0; mais je vous d\u00e9clare que \nje ne me veux point marier."
+                                    }
+                                },
+                                "I08-33": {
+                                    "personnage": "Alcantor",
+                                    "vers": {
+                                        "0": "Qui, vous\u00a0?"
+                                    }
+                                },
+                                "I08-34": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Oui, moi."
+                                    }
+                                },
+                                "I08-35": {
+                                    "personnage": "Alcantor",
+                                    "vers": {
+                                        "0": "Et la raison\u00a0?"
+                                    }
+                                },
+                                "I08-36": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "La raison\u00a0; c\u2019est que je ne me \nsens point propre pour le Mariage\u00a0; et que je veux imiter mon P\u00e8re,\n et tous ceux de ma Race, qui ne se sont jamais voulu marier."
+                                    }
+                                },
+                                "I08-37": {
+                                    "personnage": "Alcantor",
+                                    "vers": {
+                                        "0": "\u00c9coutez, les volont\u00e9s sont \nlibres\u00a0; et je suis Homme \u00e0 ne contraindre jamais Personne. Vous \nvous \u00eates engag\u00e9 avec moi, pour \u00e9pouser ma Fille\u00a0; et tout est \npr\u00e9par\u00e9 pour cela. Mais puisque vous voulez retirer votre Parole, je \nvais voir ce qu\u2019il y a \u00e0 faire\u00a0; et vous aurez bient\u00f4t de mes \nnouvelles."
+                                    }
+                                },
+                                "I08-38": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Encore est-il plus raisonnable que je\n ne pensais\u00a0; et je croyais avoir bien plus de peine \u00e0 m\u2019en \nd\u00e9gager. Ma foi, quand j\u2019y songe, j\u2019ai fait fort sagement, de me tirer \nde cette Affaire\u00a0; et j\u2019allais faire un pas, dont je me serais \npeut-\u00eatre longtemps repenti. Mais voici le Fils qui me vient rendre \nr\u00e9ponse."
+                                    }
+                                }
+                            }
+                        },
+                        "I09": {
+                            "title": "Sc\u00e8ne IX",
+                            "repliques": {
+                                "I09-1": {
+                                    "personnage": "Alcidas ",
+                                    "vers": {
+                                        "0": "Monsieur, je suis votre serviteur tr\u00e8s humble."
+                                    }
+                                },
+                                "I09-2": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Monsieur, je suis le v\u00f4tre de tout mon c\u0153ur."
+                                    }
+                                },
+                                "I09-3": {
+                                    "personnage": "Alcidas",
+                                    "vers": {
+                                        "0": "Mon P\u00e8re, m\u2019a dit, Monsieur, que vous vous \u00e9tiez venu d\u00e9gager de la Parole que vous aviez donn\u00e9e."
+                                    }
+                                },
+                                "I09-4": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Oui, Monsieur, c\u2019est avec regret\u00a0: mais..."
+                                    }
+                                },
+                                "I09-5": {
+                                    "personnage": "Alcidas",
+                                    "vers": {
+                                        "0": "Oh\u00a0! Monsieur, il n\u2019y a pas de mal \u00e0 cela."
+                                    }
+                                },
+                                "I09-6": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "J\u2019en suis f\u00e2ch\u00e9, je vous assure\u00a0; et je souhaiterais..."
+                                    }
+                                },
+                                "I09-7": {
+                                    "personnage": "Alcidas",
+                                    "vers": {
+                                        "0": "Cela n\u2019est rien, vous dis-je.",
+                                        "1": "Monsieur, prenez la peine de choisir de ces deux \u00c9p\u00e9es, laquelle vous voulez."
+                                    }
+                                },
+                                "I09-8": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "De ces deux \u00c9p\u00e9es\u00a0?"
+                                    }
+                                },
+                                "I09-9": {
+                                    "personnage": "Alcidas",
+                                    "vers": {
+                                        "0": "Oui, s\u2019il vous pla\u00eet."
+                                    }
+                                },
+                                "I09-10": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "\u00c0 quoi bon\u00a0?"
+                                    }
+                                },
+                                "I09-11": {
+                                    "personnage": "Alcidas",
+                                    "vers": {
+                                        "0": "Monsieur, comme vous refusez \nd\u2019\u00e9pouser ma S\u0153ur, apr\u00e8s la Parole donn\u00e9e\u00a0; je crois que vous ne \ntrouverez pas mauvais le petit Compliment, que je viens vous faire."
+                                    }
+                                },
+                                "I09-12": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Comment\u00a0?"
+                                    }
+                                },
+                                "I09-13": {
+                                    "personnage": "Alcidas",
+                                    "vers": {
+                                        "0": "D\u2019autres Gens feraient du bruit, et \ns\u2019emporteraient contre vous\u00a0: mais nous sommes Personnes \u00e0 traiter \nles choses dans la douceur\u00a0; et je viens vous dire civilement, \nqu\u2019il faut, si vous le trouvez bon, que nous nous coupions la gorge \nensemble."
+                                    }
+                                },
+                                "I09-14": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Voil\u00e0 un Compliment fort mal tourn\u00e9."
+                                    }
+                                },
+                                "I09-15": {
+                                    "personnage": "Alcidas",
+                                    "vers": {
+                                        "0": "Allons, Monsieur, choisissez, je vous prie."
+                                    }
+                                },
+                                "I09-16": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Je suis votre Valet\u00a0: je n\u2019ai point de gorge \u00e0 me couper. La vilaine fa\u00e7on de parler que voil\u00e0\u00a0!"
+                                    }
+                                },
+                                "I09-17": {
+                                    "personnage": "Alcidas",
+                                    "vers": {
+                                        "0": "Monsieur, il faut que cela soit, s\u2019il vous pla\u00eet."
+                                    }
+                                },
+                                "I09-18": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Eh\u00a0! Monsieur, rengainez ce Compliment, je vous prie."
+                                    }
+                                },
+                                "I09-19": {
+                                    "personnage": "Alcidas",
+                                    "vers": {
+                                        "0": "D\u00e9p\u00eachons vite, Monsieur. J\u2019ai une petite Affaire qui m\u2019attend."
+                                    }
+                                },
+                                "I09-20": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Je ne veux point de cela, vous dis-je."
+                                    }
+                                },
+                                "I09-21": {
+                                    "personnage": "Alcidas",
+                                    "vers": {
+                                        "0": "Vous ne voulez pas vous battre\u00a0?"
+                                    }
+                                },
+                                "I09-22": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Nenni, ma foi."
+                                    }
+                                },
+                                "I09-23": {
+                                    "personnage": "Alcidas",
+                                    "vers": {
+                                        "0": "Tout de bon\u00a0?"
+                                    }
+                                },
+                                "I09-24": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Tout de bon."
+                                    }
+                                },
+                                "I09-25": {
+                                    "personnage": "Alcidas",
+                                    "vers": {
+                                        "0": "Au moins, Monsieur, vous n\u2019avez pas \nlieu de vous plaindre\u00a0; et vous voyez que je fais les choses dans \nl\u2019ordre. Vous nous manquez de Parole\u00a0: Je me veux battre contre \nvous, vous refusez de vous battre\u00a0: je vous donne des coups de \nB\u00e2ton, tout cela est dans les formes\u00a0; et vous \u00eates trop honn\u00eate \nHomme, pour ne pas approuver mon proc\u00e9d\u00e9."
+                                    }
+                                },
+                                "I09-26": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Quel Diable d\u2019Homme est-ce ci\u00a0?"
+                                    }
+                                },
+                                "I09-27": {
+                                    "personnage": "Alcidas",
+                                    "vers": {
+                                        "0": "Allons, Monsieur, faites les choses galamment, et sans vous faire tirer l\u2019oreille."
+                                    }
+                                },
+                                "I09-28": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Encore\u00a0!"
+                                    }
+                                },
+                                "I09-29": {
+                                    "personnage": "Alcidas",
+                                    "vers": {
+                                        "0": "Monsieur, je ne contrains Personne\u00a0; mais il faut que vous vous battiez, ou que vous \u00e9pousiez ma S\u0153ur."
+                                    }
+                                },
+                                "I09-30": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Monsieur, je ne puis faire ni l\u2019un, ni l\u2019autre, je vous assure."
+                                    }
+                                },
+                                "I09-31": {
+                                    "personnage": "Alcidas",
+                                    "vers": {
+                                        "0": "Assur\u00e9ment\u00a0?"
+                                    }
+                                },
+                                "I09-32": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Assur\u00e9ment."
+                                    }
+                                },
+                                "I09-33": {
+                                    "personnage": "Alcidas",
+                                    "vers": {
+                                        "0": "Avec votre permission donc..."
+                                    }
+                                },
+                                "I09-34": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Ah, ah, ah, ah."
+                                    }
+                                },
+                                "I09-35": {
+                                    "personnage": "Alcidas",
+                                    "vers": {
+                                        "0": "Monsieur, j\u2019ai tous les regrets du \nmonde d\u2019\u00eatre oblig\u00e9 d\u2019en user ainsi avec vous\u00a0; mais je ne cesserai\n point, s\u2019il vous pla\u00eet, que vous n\u2019ayez promis de vous battre, ou \nd\u2019\u00e9pouser ma S\u0153ur."
+                                    }
+                                },
+                                "I09-36": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "H\u00e9 bien\u00a0! j\u2019\u00e9pouserai, j\u2019\u00e9pouserai..."
+                                    }
+                                },
+                                "I09-37": {
+                                    "personnage": "Alcidas",
+                                    "vers": {
+                                        "0": "Ah\u00a0! Monsieur, je suis ravi que \nvous vous mettiez \u00e0 la raison ; et que les choses se passent doucement :\n car enfin vous \u00eates l\u2019Homme du Monde que j\u2019estime le plus, je vous \njure\u00a0; et j\u2019aurais \u00e9t\u00e9 au d\u00e9sespoir que vous m\u2019eussiez contraint \u00e0 \nvous maltraiter. Je vais appeler mon P\u00e8re, pour lui dire que tout est \nd\u2019accord."
+                                    }
+                                }
+                            }
+                        },
+                        "I10": {
+                            "title": "Sc\u00e8ne X",
+                            "repliques": {
+                                "I10-1": {
+                                    "personnage": "Alcidas",
+                                    "vers": {
+                                        "0": "Mon P\u00e8re, voil\u00e0 Monsieur, qui est \ntout \u00e0 fait raisonnable. Il a voulu faire les choses de bonne \ngr\u00e2ce\u00a0; et vous pouvez lui donner ma S\u0153ur."
+                                    }
+                                },
+                                "I10-2": {
+                                    "personnage": "Alcantor",
+                                    "vers": {
+                                        "0": "Monsieur, voil\u00e0 sa main\u00a0: vous \nn\u2019avez qu\u2019\u00e0 donner la v\u00f4tre. Lou\u00e9 soit le Ciel\u00a0! m\u2019en voil\u00e0 \nd\u00e9charg\u00e9\u00a0; et c\u2019est vous d\u00e9sormais que regarde le soin de sa \nconduite. Allons nous r\u00e9jouir, et c\u00e9l\u00e9brer cet heureux Mariage."
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,1886 @@
+{
+    "pieces": [
+        {
+            "title": "SGANARELLE OU LE COCU IMAGINAIRE, COM\u00c9DIE",
+            "actes": {
+                "I": {
+                    "title": "Acte premier",
+                    "scenes": {
+                        "I01": {
+                            "title": "Sc\u00e8ne Premi\u00e8re",
+                            "repliques": {
+                                "I01-1": {
+                                    "personnage": "C\u00e9lie ",
+                                    "vers": {
+                                        "0": "Ah\u00a0! n\u2019esp\u00e9rez jamais que mon c\u0153ur y consente."
+                                    }
+                                },
+                                "I01-2": {
+                                    "personnage": "Gorgibus",
+                                    "vers": {
+                                        "0": "Que marmottez-vous l\u00e0 petite impertinente\u00a0?",
+                                        "1": "Vous pr\u00e9tendez choquer ce que j\u2019ai r\u00e9solu,",
+                                        "2": "Je n\u2019aurai pas sur vous un pouvoir absolu,",
+                                        "3": "Et par sottes raisons votre jeune cervelle",
+                                        "4": "Voudrait r\u00e9gler ici la raison paternelle\u00a0?",
+                                        "5": "Qui de nous deux \u00e0 l\u2019autre a droit de faire loi,",
+                                        "6": "\u00c0 votre avis qui mieux, ou de vous, ou de moi",
+                                        "7": "\u00d4 sotte, peut juger ce qui vous est utile\u00a0?",
+                                        "8": "Par la corbleu, gardez d\u2019\u00e9chauffer trop ma bile,",
+                                        "9": "Vous pourriez \u00e9prouver sans beaucoup de longueur",
+                                        "10": "Si mon bras sait encor montrer quelque vigueur.",
+                                        "11": "Votre plus court sera, Madame la mutine,",
+                                        "12": "D\u2019accepter sans fa\u00e7ons l\u2019\u00e9poux qu\u2019on vous destine.",
+                                        "13": "J\u2019ignore, dites\u2011vous, de quelle humeur il est,",
+                                        "14": "Inform\u00e9 du grand bien qui lui tombe en partage,",
+                                        "15": "Dois-je prendre le soin d\u2019en savoir davantage,",
+                                        "16": "Et cet \u00e9poux ayant vingt mille bons Ducats,",
+                                        "17": "Pour \u00eatre aim\u00e9 de vous doit-il manquer d\u2019appas\u00a0?",
+                                        "18": "Allez tel qu\u2019il puisse \u00eatre, avec cette somme,",
+                                        "19": "Je vous suis caution qu\u2019il est tr\u00e8s honn\u00eate homme."
+                                    }
+                                },
+                                "I01-3": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "H\u00e9las\u00a0!"
+                                    }
+                                },
+                                "I01-4": {
+                                    "personnage": "Gorgibus",
+                                    "vers": {
+                                        "0": "Eh bien h\u00e9las\u00a0! que veut dire ceci,",
+                                        "1": "Voyez le bel h\u00e9las\u00a0! qu\u2019elle nous donne ici.",
+                                        "2": "H\u00e9\u00a0! que si la col\u00e8re une fois me transporte,",
+                                        "3": "Je vous ferai chanter h\u00e9las\u00a0! de belle sorte.",
+                                        "4": "Voil\u00e0, voil\u00e0, le fruit de ces empressements",
+                                        "5": "Qu\u2019on vous voit nuit et jour \u00e0 lire vos Romans,",
+                                        "6": "De quolibets d\u2019amour votre t\u00eate est remplie,",
+                                        "7": "Et vous parlez de Dieu, bien moins que de Cl\u00e9lie.",
+                                        "8": "Jetez\u2011moi dans le feu tous ces m\u00e9chants \u00e9crits",
+                                        "9": "Qui g\u00e2tent tous les jours tant de jeunes esprits,",
+                                        "10": "Lisez\u2011moi comme il faut, au lieu de ces sornettes",
+                                        "11": "Les quatrains de Pibrac, et les doctes Tablettes",
+                                        "12": "Du Conseiller Matthieu, ouvrage de valeur",
+                                        "13": "Et plein de beaux dictons \u00e0 r\u00e9citer par c\u0153ur.",
+                                        "14": "La Guide des p\u00e9cheurs est encore un bon livre\u00a0;",
+                                        "15": "C\u2019est l\u00e0 qu\u2019en peu de temps on apprend \u00e0 bien vivre,",
+                                        "16": "Et si vous n\u2019aviez lu que ces Moralit\u00e9s,",
+                                        "17": "Vous sauriez un peu mieux suivre mes volont\u00e9s."
+                                    }
+                                },
+                                "I01-5": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "Quoi vous pr\u00e9tendez donc mon p\u00e8re, que j\u2019oublie",
+                                        "1": "La constante amiti\u00e9 que je dois \u00e0 L\u00e9lie\u00a0?",
+                                        "2": "J\u2019aurais tort si sans vous je disposais de moi\u00a0;",
+                                        "3": "Mais vous\u2011m\u00eame \u00e0 ses v\u0153ux engage\u00e2tes ma foi."
+                                    }
+                                },
+                                "I01-6": {
+                                    "personnage": "Gorgibus",
+                                    "vers": {
+                                        "0": "Lui f\u00fbt-elle engag\u00e9e encore davantage,",
+                                        "1": "Un autre est survenu dont le bien l\u2019en d\u00e9gage.",
+                                        "2": "L\u00e9lie est fort bien fait\u00a0; mais apprends qu\u2019il n\u2019est rien",
+                                        "3": "Qui ne doive c\u00e9der au soin d\u2019avoir du bien,",
+                                        "4": "Que l\u2019or donne aux plus laids certain charme pour plaire,",
+                                        "5": "Et que sans lui le reste est une triste affaire.",
+                                        "6": "Val\u00e8re, je crois bien, n\u2019est pas de toi ch\u00e9ri\u00a0;",
+                                        "7": "Mais s\u2019il ne l\u2019est amant, il le sera mari.",
+                                        "8": "Plus que l\u2019on ne le croit, ce nom d\u2019\u00e9poux engage",
+                                        "9": "Et l\u2019amour est souvent un fruit du mariage.",
+                                        "10": "Mais suis-je pas bien fat de vouloir raisonner,",
+                                        "11": "O\u00f9 de droit absolu j\u2019ai pouvoir d\u2019ordonner\u00a0?",
+                                        "12": "Tr\u00eave donc je vous prie \u00e0 vos impertinences,",
+                                        "13": "Que je n\u2019entende plus vos sottes dol\u00e9ances\u00a0:",
+                                        "14": "Ce gendre doit venir vous visiter ce soir,",
+                                        "15": "Manquez un peu, manquez, \u00e0 le bien recevoir,",
+                                        "16": "Si je ne vous lui vois faire fort bon visage",
+                                        "17": "Je vous\u2026 je ne veux pas en dire davantage."
+                                    }
+                                }
+                            }
+                        },
+                        "I02": {
+                            "title": "Sc\u00e8ne II.",
+                            "repliques": {
+                                "I02-1": {
+                                    "personnage": "La Suivante",
+                                    "vers": {
+                                        "0": "Quoi refuser Madame, avec cette rigueur,",
+                                        "1": "Ce que tant d\u2019autres gens voudraient de tout leur c\u0153ur\u00a0?",
+                                        "2": "\u00c0 des offres d\u2019hymen r\u00e9pondre par des larmes",
+                                        "3": "Et tarder tant \u00e0 dire un oui si plein de charmes\u00a0?",
+                                        "4": "H\u00e9las\u00a0! que ne veut-on aussi me marier,",
+                                        "5": "Ce ne serait pas moi qui se ferait prier,",
+                                        "6": "Et loin qu\u2019un pareil oui me donn\u00e2t de la peine",
+                                        "7": "Croyez que j\u2019en dirais bien vite une douzaine.",
+                                        "8": "Le pr\u00e9cepteur qui fait r\u00e9p\u00e9ter la le\u00e7on",
+                                        "9": "\u00c0 votre jeune fr\u00e8re, a fort bonne raison,",
+                                        "10": "Lorsque nous discourant des choses de la terre,",
+                                        "11": "Il dit que la femelle est ainsi que le lierre,",
+                                        "12": "Qui cro\u00eet beau tant qu\u2019\u00e0 l\u2019arbre il se tient bien serr\u00e9",
+                                        "13": "Et ne profite point s\u2019il en est s\u00e9par\u00e9.",
+                                        "14": "Il n\u2019est rien de plus vrai, ma tr\u00e8s ch\u00e8re ma\u00eetresse,",
+                                        "15": "Et je l\u2019\u00e9prouve en moi ch\u00e9tive p\u00e9cheresse.",
+                                        "16": "Le bon Dieu fasse paix \u00e0 mon pauvre Martin,",
+                                        "17": "Mais j\u2019avais, lui vivant, le teint d\u2019un Ch\u00e9rubin,",
+                                        "18": "L\u2019embonpoint merveilleux, l\u2019\u0153il gai, l\u2019\u00e2me contente,",
+                                        "19": "Et je suis maintenant ma comm\u00e8re dolente.",
+                                        "20": "Pendant cet heureux temps, pass\u00e9 comme un \u00e9clair,",
+                                        "21": "Je me couchais sans feu dans le fort de l\u2019Hiver,",
+                                        "22": "S\u00e9cher m\u00eame les draps me semblait ridicule,",
+                                        "23": "Et je tremble \u00e0 pr\u00e9sent dedans la Canicule.",
+                                        "24": "Enfin, il n\u2019est rien tel, Madame, croyez-moi,",
+                                        "25": "Un mari sert beaucoup la nuit aupr\u00e8s de soi,",
+                                        "26": "Ne f\u00fbt-ce que pour l\u2019heur d\u2019avoir qui vous salue",
+                                        "27": "D\u2019un Dieu vous soit en aide alors qu\u2019on \u00e9ternue."
+                                    }
+                                },
+                                "I02-2": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "Peux-tu me conseiller de commettre un forfait,",
+                                        "1": "D\u2019abandonner L\u00e9lie, et prendre ce mal-fait ?"
+                                    }
+                                },
+                                "I02-3": {
+                                    "personnage": "La Suivante",
+                                    "vers": {
+                                        "0": "Votre L\u00e9lie aussi n\u2019est ma foi qu\u2019une b\u00eate,",
+                                        "1": "Puisque si hors de temps son voyage l\u2019arr\u00eate,",
+                                        "2": "Et la grande longueur de son \u00e9loignement",
+                                        "3": "Me le fait soup\u00e7onner de quelque changement."
+                                    }
+                                },
+                                "I02-4": {
+                                    "personnage": "C\u00e9lie ",
+                                    "vers": {
+                                        "0": "Ah\u00a0! ne m\u2019accable point par ce triste pr\u00e9sage,",
+                                        "1": "Vois attentivement les traits de ce visage,",
+                                        "2": "Ils jurent \u00e0 mon c\u0153ur d\u2019\u00e9ternelles ardeurs,",
+                                        "3": "Je veux croire apr\u00e8s tout qu\u2019ils ne sont pas menteurs,",
+                                        "4": "Et comme c\u2019est celui que l\u2019art y repr\u00e9sente",
+                                        "5": "Il conserve \u00e0 mes feux une amiti\u00e9 constante."
+                                    }
+                                },
+                                "I02-5": {
+                                    "personnage": "La Suivante",
+                                    "vers": {
+                                        "0": "Il est vrai que ces traits marquent un digne amant,",
+                                        "1": "Et que vous avez lieu de l\u2019aimer tendrement."
+                                    }
+                                },
+                                "I02-6": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "Et cependant il faut\u2026 ah\u00a0! soutiens-moi."
+                                    }
+                                },
+                                "I02-7": {
+                                    "personnage": "La Suivante ",
+                                    "vers": {
+                                        "0": "Madame,",
+                                        "1": "D\u2019o\u00f9 vous pourrait venir\u2026 ah\u00a0! bons Dieux elle p\u00e2me.",
+                                        "2": "H\u00e9\u00a0! vite, hol\u00e0, quelqu\u2019un."
+                                    }
+                                }
+                            }
+                        },
+                        "I03": {
+                            "title": "Sc\u00e8ne III.",
+                            "repliques": {
+                                "I03-1": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Qu\u2019est-ce donc\u00a0? me voil\u00e0."
+                                    }
+                                },
+                                "I03-2": {
+                                    "personnage": "La Suivante",
+                                    "vers": {
+                                        "0": "Ma ma\u00eetresse se meurt."
+                                    }
+                                },
+                                "I03-3": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Quoi ce n\u2019est que cela,",
+                                        "1": "Je croyais tout perdu de crier de la sorte\u00a0;",
+                                        "2": "Mais approchons pourtant. Madame \u00eates-vous morte\u00a0?",
+                                        "3": "Hays, elle ne dit mot."
+                                    }
+                                },
+                                "I03-4": {
+                                    "personnage": "La Suivante",
+                                    "vers": {
+                                        "0": "Je vais faire venir",
+                                        "1": "Quelqu\u2019un pour l\u2019emporter, veuillez la soutenir."
+                                    }
+                                }
+                            }
+                        },
+                        "I04": {
+                            "title": "Sc\u00e8ne IV.",
+                            "repliques": {
+                                "I04-1": {
+                                    "personnage": "Sganarelle ",
+                                    "vers": {
+                                        "0": "Elle est froide partout, et je ne sais qu\u2019en dire,",
+                                        "1": "Approchons\u2011nous pour voir si sa bouche respire.",
+                                        "2": "Ma foi je ne sais pas\u00a0; mais j\u2019y trouve encor moi",
+                                        "3": "Quelque signe de vie."
+                                    }
+                                },
+                                "I04-2": {
+                                    "personnage": "La Femme de Sganarelle ",
+                                    "vers": {
+                                        "0": "Ah\u00a0! qu\u2019est-ce que je vois\u00a0?",
+                                        "1": "Mon mari dans ses bras\u2026 mais je m\u2019en vais descendre,",
+                                        "2": "Il me trahit sans doute, et je veux le surprendre."
+                                    }
+                                },
+                                "I04-3": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Il faut se d\u00e9p\u00eacher de l\u2019aller secourir,",
+                                        "1": "Certes elle aurait tort de se laisser mourir,",
+                                        "2": "Aller en l\u2019autre monde est tr\u00e8s grande sottise",
+                                        "3": "Tant que dans celui-ci l\u2019on peut -\u00eatre de mise."
+                                    }
+                                }
+                            }
+                        },
+                        "I05": {
+                            "title": "Sc\u00e8ne V.",
+                            "repliques": {
+                                "I05-1": {
+                                    "personnage": "La Femme de Sganarelle ",
+                                    "vers": {
+                                        "0": "Il s\u2019est subitement \u00e9loign\u00e9 de ces lieux,",
+                                        "1": "Et sa fuite a tromp\u00e9 mon d\u00e9sir curieux.",
+                                        "2": "Mais de sa trahison je ne fais plus de doute,",
+                                        "3": "Et le peu que j\u2019ai vu me la d\u00e9couvre toute.",
+                                        "4": "Je ne m\u2019\u00e9tonne plus de l\u2019\u00e9trange froideur",
+                                        "5": "Dont je le vois r\u00e9pondre \u00e0 ma pudique ardeur,",
+                                        "6": "Il r\u00e9serve l\u2019ingrat ses caresses \u00e0 d\u2019autres,",
+                                        "7": "Et nourrit leurs plaisirs par le je\u00fbne des n\u00f4tres.",
+                                        "8": "Voil\u00e0 de nos maris, le proc\u00e9d\u00e9 commun,",
+                                        "9": "Ce qui leur est permis, leur devient importun.",
+                                        "10": "Dans les commencements ce sont toutes merveilles,",
+                                        "11": "Ils t\u00e9moignent pour nous des ardeurs non pareilles\u00a0;",
+                                        "12": "Mais les tra\u00eetres bient\u00f4t se lassent de nos feux,",
+                                        "13": "Et portent autre part ce qu\u2019ils doivent chez eux.",
+                                        "14": "Ah\u00a0! que j\u2019ai de d\u00e9pit, que la loi n\u2019autorise,",
+                                        "15": "\u00c0 changer de mari comme on fait de chemise\u00a0:",
+                                        "16": "Cela serait commode, et j\u2019en sais tel ici",
+                                        "17": "Qui comme moi ma foi le voudrait bien aussi.",
+                                        "18": "Mais quel est ce bijou que le sort me pr\u00e9sente\u00a0?",
+                                        "19": "L\u2019\u00e9mail en est fort beau, la gravure charmante,",
+                                        "20": "Ouvrons."
+                                    }
+                                }
+                            }
+                        },
+                        "I06": {
+                            "title": "Sc\u00e8ne VI.",
+                            "repliques": {
+                                "I06-1": {
+                                    "personnage": " sganarelle",
+                                    "vers": {
+                                        "0": "On la croyait morte et ce n\u2019\u00e9tait rien,",
+                                        "1": "Il n\u2019en faut plus qu\u2019autant, elle se porte bien.",
+                                        "2": "Mais j\u2019aper\u00e7ois ma femme."
+                                    }
+                                },
+                                "I06-2": {
+                                    "personnage": "Sa Femme",
+                                    "vers": {
+                                        "0": "\u00d4 Ciel\u00a0! c\u2019est miniature,\u00a0\u00a0\u00a0\u00a0",
+                                        "1": "Et voil\u00e0 d\u2019un bel homme une vive peinture."
+                                    }
+                                },
+                                "I06-3": {
+                                    "personnage": "Sganarelle ",
+                                    "vers": {
+                                        "0": "Que consid\u00e8re-t-elle avec attention,",
+                                        "1": "Ce portrait, mon honneur, ne nous dit rien de bon,",
+                                        "2": "D\u2019un fort vilain soup\u00e7on je me sens l\u2019\u00e2me \u00e9mue."
+                                    }
+                                },
+                                "I06-4": {
+                                    "personnage": "Sa Femme ",
+                                    "vers": {
+                                        "0": "Jamais rien de plus beau ne s\u2019offrit \u00e0 ma vue.",
+                                        "1": "Le travail plus que l\u2019or s\u2019en doit encor priser.",
+                                        "2": "Hon que cela sent bon."
+                                    }
+                                },
+                                "I06-5": {
+                                    "personnage": "Sganarelle ",
+                                    "vers": {
+                                        "0": "Quoi peste le baiser?",
+                                        "1": "Ah\u00a0! j\u2019en tiens."
+                                    }
+                                },
+                                "I06-6": {
+                                    "personnage": "Sa Femme ",
+                                    "vers": {
+                                        "0": "Avouons qu\u2019on doit \u00eatre ravie",
+                                        "1": "Quand d\u2019un homme ainsi fait on se peut voir servie,",
+                                        "2": "Et que s\u2019il en contait avec attention,",
+                                        "3": "Le penchant serait grand \u00e0 la tentation.",
+                                        "4": "Ah\u00a0! que n\u2019ai-je un mari d\u2019une aussi bonne mine,",
+                                        "5": "Au lieu de mon pel\u00e9, de mon rustre\u2026"
+                                    }
+                                },
+                                "I06-7": {
+                                    "personnage": "Sganarelle ",
+                                    "vers": {
+                                        "0": "Ah\u00a0! m\u00e2tine,",
+                                        "1": "Nous vous y surprenons en faute contre nous,",
+                                        "2": "Et diffamant l\u2019honneur de votre cher \u00e9poux\u00a0:",
+                                        "3": "Donc \u00e0 votre calcul, \u00f4 ma trop digne femme\u00a0!",
+                                        "4": "Monsieur, tout bien compt\u00e9, ne vaut pas bien Madame\u00a0?",
+                                        "5": "Et de par Belz\u00e9buth qui vous puisse emporter,",
+                                        "6": "Quel plus rare parti pourriez-vous souhaiter\u00a0?",
+                                        "7": "Peut-on trouver en moi quelque chose \u00e0 redire\u00a0?",
+                                        "8": "Cette taille, ce port, que tout le monde admire,",
+                                        "9": "Ce visage si propre \u00e0 donner de l\u2019amour,",
+                                        "10": "Pour qui mille beaut\u00e9s soupirent nuit et jour\u00a0;",
+                                        "11": "Bref en tout et partout ma personne charmante,",
+                                        "12": "N\u2019est donc pas un morceau dont vous soyez contente,",
+                                        "13": "Et pour rassasier votre app\u00e9tit gourmand,",
+                                        "14": "Il faut \u00e0 son Mari le rago\u00fbt d\u2019un galant."
+                                    }
+                                },
+                                "I06-8": {
+                                    "personnage": "Sa Femme",
+                                    "vers": {
+                                        "0": "J\u2019entends \u00e0 demi-mot o\u00f9 va la raillerie,",
+                                        "1": "Tu crois par ce moyen\u2026"
+                                    }
+                                },
+                                "I06-9": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "\u00c0 d\u2019autres je vous prie,",
+                                        "1": "La chose est av\u00e9r\u00e9e, et je tiens dans mes mains",
+                                        "2": "Un bon certificat du mal dont je me plains."
+                                    }
+                                },
+                                "I06-10": {
+                                    "personnage": "Sa Femme",
+                                    "vers": {
+                                        "0": "Mon courroux n\u2019a d\u00e9j\u00e0 que trop de violence,",
+                                        "1": "Sans le charger encor d\u2019une nouvelle offense\u00a0;",
+                                        "2": "\u00c9coute, ne crois pas retenir mon bijou,",
+                                        "3": "Et songe un peu\u2026"
+                                    }
+                                },
+                                "I06-11": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Je songe \u00e0 te rompre le cou.",
+                                        "1": "Que ne puis-je, aussi bien que je tiens la copie,",
+                                        "2": "Tenir l\u2019original."
+                                    }
+                                },
+                                "I06-12": {
+                                    "personnage": "Sa Femme",
+                                    "vers": {
+                                        "0": "Pourquoi\u00a0?"
+                                    }
+                                },
+                                "I06-13": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Pour rien mamie,",
+                                        "1": "Doux objet de mes v\u0153ux j\u2019ai grand tort de crier,",
+                                        "2": "Et mon front de vos dons vous doit remercier.",
+                                        "3": "Le voil\u00e0 le beau-fils, le mignon de couchette,",
+                                        "4": "Le malheureux tison de ta flamme secr\u00e8te,",
+                                        "5": "Le dr\u00f4le avec lequel\u2026"
+                                    }
+                                },
+                                "I06-14": {
+                                    "personnage": "Sa Femme",
+                                    "vers": {
+                                        "0": "Avec lequel, poursuis\u00a0?"
+                                    }
+                                },
+                                "I06-15": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Avec lequel, te dis-je\u2026 et j\u2019en cr\u00e8ve d\u2019ennuis."
+                                    }
+                                },
+                                "I06-16": {
+                                    "personnage": "Sa Femme",
+                                    "vers": {
+                                        "0": "Que me veut donc conter par l\u00e0 ce ma\u00eetre ivrogne\u00a0?"
+                                    }
+                                },
+                                "I06-17": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Tu ne m\u2019entends que trop Madame la carogne,",
+                                        "1": "Sganarelle est un nom qu\u2019on ne me dira plus,",
+                                        "2": "Et l\u2019on va m\u2019appeler Seigneur Corneillius\u00a0:",
+                                        "3": "J\u2019en suis pour mon honneur\u00a0; mais \u00e0 toi qui me l\u2019\u00f4tes,",
+                                        "4": "Je t\u2019en ferai du moins pour un bras ou deux c\u00f4tes."
+                                    }
+                                },
+                                "I06-18": {
+                                    "personnage": "Sa Femme",
+                                    "vers": {
+                                        "0": "Et tu m\u2019oses tenir de semblables discours\u00a0?"
+                                    }
+                                },
+                                "I06-19": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Et tu m\u2019oses jouer de ces diables de tours?"
+                                    }
+                                },
+                                "I06-20": {
+                                    "personnage": "Sa Femme",
+                                    "vers": {
+                                        "0": "Et quels diables de tours, parle donc sans rien feindre."
+                                    }
+                                },
+                                "I06-21": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Ah\u00a0! cela ne vaut pas la peine de se plaindre,",
+                                        "1": "D\u2019un panache de Cerf sur le front me pourvoir,",
+                                        "2": "H\u00e9las\u00a0! voil\u00e0 vraiment un beau venez-y-voir."
+                                    }
+                                },
+                                "I06-22": {
+                                    "personnage": "Sa Femme",
+                                    "vers": {
+                                        "0": "Donc apr\u00e8s m\u2019avoir fait la plus sensible offense",
+                                        "1": "Qui puisse d\u2019une femme exciter la vengeance,",
+                                        "2": "Tu prends d\u2019un feint courroux le vain amusement,",
+                                        "3": "Pour pr\u00e9venir l\u2019effet de mon ressentiment\u00a0?",
+                                        "4": "D\u2019un pareil proc\u00e9d\u00e9 l\u2019insolence est nouvelle,",
+                                        "5": "Celui qui fait l\u2019offense est celui qui querelle."
+                                    }
+                                },
+                                "I06-23": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Eh\u00a0! la bonne effront\u00e9e, \u00e0 voir ce fier maintien",
+                                        "1": "Ne la croirait-on pas une femme de bien?"
+                                    }
+                                },
+                                "I06-24": {
+                                    "personnage": "Sa Femme",
+                                    "vers": {
+                                        "0": "Va, poursuis ton chemin, cajole tes Ma\u00eetresses,",
+                                        "1": "Adresse-leur tes v\u0153ux et fais-leur des caresses\u00a0;",
+                                        "2": "Mais rends-moi mon portrait, sans te jouer de moi."
+                                    }
+                                },
+                                "I06-25": {
+                                    "personnage": "Sganarelle ",
+                                    "vers": {
+                                        "0": "Oui, tu crois m\u2019\u00e9chapper, je l\u2019aurai malgr\u00e9 toi."
+                                    }
+                                }
+                            }
+                        },
+                        "I07": {
+                            "title": "Sc\u00e8ne VII.",
+                            "repliques": {
+                                "I07-1": {
+                                    "personnage": "Grosren\u00e9",
+                                    "vers": {
+                                        "0": "Enfin nous y voici\u00a0; mais Monsieur, si je l\u2019ose,",
+                                        "1": "Je voudrais vous prier de me dire une chose."
+                                    }
+                                },
+                                "I07-2": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "H\u00e9 bien, parle."
+                                    }
+                                },
+                                "I07-3": {
+                                    "personnage": "Grosren\u00e9",
+                                    "vers": {
+                                        "0": "Avez-vous le diable dans le corps",
+                                        "1": "Pour ne pas succomber \u00e0 de pareils efforts\u00a0?",
+                                        "2": "Depuis huit jours entiers avec vos longues traites",
+                                        "3": "Nous sommes \u00e0 piquer de chiennes de mazettes,",
+                                        "4": "De qui le train maudit nous a tant secou\u00e9s,",
+                                        "5": "Que je m\u2019en sens pour moi tous les membres rou\u00e9s,",
+                                        "6": "Sans pr\u00e9judice encor d\u2019un accident bien pire,",
+                                        "7": "Qui m\u2019afflige un endroit que je ne veux pas dire ;",
+                                        "8": "Cependant arriv\u00e9, vous sortez bien et beau,",
+                                        "9": "Sans prendre de repos, ni manger un morceau."
+                                    }
+                                },
+                                "I07-4": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "Ce grand empressement n\u2019est point digne de bl\u00e2me,",
+                                        "1": "De l\u2019hymen de C\u00e9lie, on alarme mon \u00e2me\u00a0;",
+                                        "2": "Tu sais que je l\u2019adore, et je veux \u00eatre instruit",
+                                        "3": "Avant tout autre soin de ce funeste bruit."
+                                    }
+                                },
+                                "I07-5": {
+                                    "personnage": "Grosren\u00e9",
+                                    "vers": {
+                                        "0": "Oui, mais un bon repas vous serait n\u00e9cessaire",
+                                        "1": "Pour s\u2019aller \u00e9claircir, Monsieur, de cette affaire,",
+                                        "2": "Et votre c\u0153ur sans doute en deviendrait plus fort",
+                                        "3": "Pour pouvoir r\u00e9sister aux attaques du sort.",
+                                        "4": "J\u2019en juge par moi-m\u00eame, et la moindre disgr\u00e2ce,",
+                                        "5": "Lorsque je suis \u00e0 jeun, me saisit, me terrasse\u00a0;",
+                                        "6": "Mais quand j\u2019ai bien mang\u00e9, mon \u00e2me est ferme \u00e0 tout,",
+                                        "7": "Et les plus grands revers n\u2019en viendraient pas \u00e0 bout.",
+                                        "8": "Croyez-moi, bourrez-vous et sans r\u00e9serve aucune,",
+                                        "9": "Contre les coups que peut vous porter la fortune,",
+                                        "10": "Et pour fermer chez vous l\u2019entr\u00e9e \u00e0 la douleur,",
+                                        "11": "De vingt verres de vin entourez votre c\u0153ur."
+                                    }
+                                },
+                                "I07-6": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "Je ne saurais manger."
+                                    }
+                                },
+                                "I07-7": {
+                                    "personnage": "Grosren\u00e9 ",
+                                    "vers": {
+                                        "0": "Si ferai bien, je meure.",
+                                        "1": "Votre d\u00eener pourtant serait pr\u00eat tout \u00e0 l\u2019heure."
+                                    }
+                                },
+                                "I07-8": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "Tais-toi, je te l\u2019ordonne."
+                                    }
+                                },
+                                "I07-9": {
+                                    "personnage": "Grosren\u00e9",
+                                    "vers": {
+                                        "0": "Ah\u00a0! quel ordre inhumain."
+                                    }
+                                },
+                                "I07-10": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "J\u2019ai de l\u2019inqui\u00e9tude et non pas de la faim."
+                                    }
+                                },
+                                "I07-11": {
+                                    "personnage": "Grosren\u00e9",
+                                    "vers": {
+                                        "0": "Et moi j\u2019ai de la faim, et de l\u2019inqui\u00e9tude",
+                                        "1": "De voir qu\u2019un sot amour fait toute votre \u00e9tude."
+                                    }
+                                },
+                                "I07-12": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "Laisse-moi m\u2019informer de l\u2019objet de mes v\u0153ux,",
+                                        "1": "Et sans m\u2019importuner, va manger si tu veux."
+                                    }
+                                },
+                                "I07-13": {
+                                    "personnage": "Grosren\u00e9",
+                                    "vers": {
+                                        "0": "Je ne r\u00e9plique point \u00e0 ce qu\u2019un Ma\u00eetre ordonne."
+                                    }
+                                }
+                            }
+                        },
+                        "I08": {
+                            "title": "Sc\u00e8ne VIII.",
+                            "repliques": {
+                                "I08-2": {
+                                    "personnage": "L\u00e9lie ",
+                                    "vers": {
+                                        "0": "Non non, \u00e0 trop de peur mon \u00e2me s\u2019abandonne,",
+                                        "1": "Le p\u00e8re m\u2019a promis et la fille a fait voir",
+                                        "2": "Des preuves d\u2019un amour qui soutient mon espoir."
+                                    }
+                                }
+                            }
+                        },
+                        "I09": {
+                            "title": "Sc\u00e8ne IX.",
+                            "repliques": {
+                                "I09-1": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Nous l\u2019avons, et je puis voir \u00e0 l\u2019aise la trogne",
+                                        "1": "Du malheureux pendard qui cause ma vergogne.",
+                                        "2": "Il ne m\u2019est point connu."
+                                    }
+                                },
+                                "I09-2": {
+                                    "personnage": "L\u00e9lie ",
+                                    "vers": {
+                                        "0": "Dieux\u00a0! qu\u2019aper\u00e7ois-je ici\u00a0?",
+                                        "1": "Et si c\u2019est mon portrait, que dois-je croire aussi\u00a0?"
+                                    }
+                                },
+                                "I09-3": {
+                                    "personnage": "Sganarelle ",
+                                    "vers": {
+                                        "0": "Ah\u00a0! pauvre Sganarelle, \u00e0 quelle destin\u00e9e",
+                                        "1": "Ta r\u00e9putation est-elle condamn\u00e9e,",
+                                        "2": "Faut\u2026"
+                                    }
+                                },
+                                "I09-4": {
+                                    "personnage": "L\u00e9lie ",
+                                    "vers": {
+                                        "0": "Ce gage ne peut sans alarmer ma foi,",
+                                        "1": "\u00catre sorti des mains qui le tenaient de moi."
+                                    }
+                                },
+                                "I09-5": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Faut-il que d\u00e9sormais \u00e0 deux doigts on te montre,",
+                                        "1": "Qu\u2019on te mette en chansons, et qu\u2019en toute rencontre,",
+                                        "2": "On te rejette au nez le scandaleux affront",
+                                        "3": "Qu\u2019une femme mal n\u00e9e imprime sur ton front ?"
+                                    }
+                                },
+                                "I09-6": {
+                                    "personnage": "L\u00e9lie ",
+                                    "vers": {
+                                        "0": "Me trompai-je\u00a0?"
+                                    }
+                                },
+                                "I09-7": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Ah\u00a0! truande, as-tu bien le courage",
+                                        "1": "De m\u2019avoir fait cocu dans la fleur de mon \u00e2ge\u00a0?",
+                                        "2": "Et femme d\u2019un mari qui peut passer pour beau,",
+                                        "3": "Faut-il qu\u2019un Marmouset, un maudit \u00c9tourneau\u2026"
+                                    }
+                                },
+                                "I09-8": {
+                                    "personnage": "L\u00e9lie ",
+                                    "vers": {
+                                        "0": "Je ne m\u2019abuse point, c\u2019est mon portrait lui-m\u00eame."
+                                    }
+                                },
+                                "I09-9": {
+                                    "personnage": "Sganarelle ",
+                                    "vers": {
+                                        "0": "Cet homme est curieux."
+                                    }
+                                },
+                                "I09-10": {
+                                    "personnage": "L\u00e9lie ",
+                                    "vers": {
+                                        "0": "Ma surprise est extr\u00eame."
+                                    }
+                                },
+                                "I09-11": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "\u00c0 qui donc en a-t-il."
+                                    }
+                                },
+                                "I09-12": {
+                                    "personnage": "L\u00e9lie ",
+                                    "vers": {
+                                        "0": "Je le veux accoster.",
+                                        "1": "Puis-je\u2026 h\u00e9\u00a0! de gr\u00e2ce un mot."
+                                    }
+                                },
+                                "I09-13": {
+                                    "personnage": "Sganarelle ",
+                                    "vers": {
+                                        "0": "Que me veut-il conter\u00a0?"
+                                    }
+                                },
+                                "I09-14": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "Puis-je obtenir de vous, de savoir l\u2019aventure,",
+                                        "1": "Qui fait dedans vos mains trouver cette peinture ?"
+                                    }
+                                },
+                                "I09-15": {
+                                    "personnage": "Sganarelle ",
+                                    "vers": {
+                                        "0": "D\u2019o\u00f9 lui vient ce d\u00e9sir\u00a0? mais je m\u2019avise ici\u2026",
+                                        "1": "Ah\u00a0! ma foi me voil\u00e0 de son trouble \u00e9clairci,",
+                                        "2": "Sa surprise \u00e0 pr\u00e9sent n\u2019\u00e9tonne plus mon \u00e2me,",
+                                        "3": "C\u2019est mon homme, ou plut\u00f4t c\u2019est celui de ma femme."
+                                    }
+                                },
+                                "I09-16": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "Retirez\u2011moi de peine et dites d\u2019o\u00f9 vous vient\u2026"
+                                    }
+                                },
+                                "I09-17": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Nous savons Dieu merci le souci qui vous tient,",
+                                        "1": "Ce portrait qui vous f\u00e2che est votre ressemblance,",
+                                        "2": "Il \u00e9tait en des mains de votre connaissance,",
+                                        "3": "Et ce n\u2019est pas un fait qui soit secret pour nous",
+                                        "4": "Que les douces ardeurs de la Dame et de vous\u00a0:",
+                                        "5": "Je ne sais pas si j\u2019ai dans sa galanterie",
+                                        "6": "L\u2019honneur d\u2019\u00eatre connu de votre Seigneurie\u00a0;",
+                                        "7": "Mais faites-moi celui de cesser d\u00e9sormais",
+                                        "8": "Un amour qu\u2019un mari peut trouver fort mauvais,",
+                                        "9": "Et songez que les n\u0153uds du sacr\u00e9 mariage\u2026"
+                                    }
+                                },
+                                "I09-18": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "Quoi, celle, dites-vous dont vous tenez ce gage\u2026"
+                                    }
+                                },
+                                "I09-19": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Est ma femme, et je suis son mari."
+                                    }
+                                },
+                                "I09-20": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "Son mari\u00a0?"
+                                    }
+                                },
+                                "I09-21": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Oui, son mari, vous dis-je, et mari tr\u00e8s marri,",
+                                        "1": "Vous en savez la cause et je m\u2019en vais l\u2019apprendre",
+                                        "2": "Sur l\u2019heure \u00e0 ses parents."
+                                    }
+                                }
+                            }
+                        },
+                        "I10": {
+                            "title": "Sc\u00e8ne X.",
+                            "repliques": {
+                                "I10-2": {
+                                    "personnage": "L\u00e9lie ",
+                                    "vers": {
+                                        "0": "Ah\u00a0! que viens-je d\u2019entendre\u00a0?",
+                                        "1": "L\u2019on me l\u2019avait bien dit, et que c\u2019\u00e9tait de tous",
+                                        "2": "L\u2019homme le plus mal fait qu\u2019elle avait pour \u00e9poux.",
+                                        "3": "Ah\u00a0! quand mille serments de ta bouche infid\u00e8le",
+                                        "4": "Ne m\u2019auraient pas promis une flamme \u00e9ternelle,",
+                                        "5": "Le seul m\u00e9pris d\u2019un choix si bas et si honteux",
+                                        "6": "Devait bien soutenir l\u2019int\u00e9r\u00eat de mes feux,",
+                                        "7": "Ingrate, et quelque bien\u2026 mais le sensible outrage",
+                                        "8": "Se m\u00ealant aux travaux d\u2019un assez long voyage,",
+                                        "9": "Me donne tout \u00e0 coup un choc si violent,",
+                                        "10": "Que mon c\u0153ur devient faible, et mon corps chancelant."
+                                    }
+                                }
+                            }
+                        },
+                        "I11": {
+                            "title": "Sc\u00e8ne XI.",
+                            "repliques": {
+                                "I11-1": {
+                                    "personnage": "La femme de sganarelle ",
+                                    "vers": {
+                                        "0": "Malgr\u00e9 moi mon perfide\u2026 h\u00e9las\u00a0! quel mal vous presse\u00a0?",
+                                        "1": "Je vous vois pr\u00eat Monsieur \u00e0 tomber en faiblesse."
+                                    }
+                                },
+                                "I11-2": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "C\u2019est un mal qui m\u2019a pris assez subitement."
+                                    }
+                                },
+                                "I11-3": {
+                                    "personnage": "La femme de Sganarelle",
+                                    "vers": {
+                                        "0": "Je crains ici, pour vous l\u2019\u00e9vanouissement,",
+                                        "1": "Entrez dans cette salle en attendant qu\u2019il passe."
+                                    }
+                                },
+                                "I11-4": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "Pour un moment ou deux, j\u2019accepte cette gr\u00e2ce."
+                                    }
+                                }
+                            }
+                        },
+                        "I12": {
+                            "title": "Sc\u00e8ne XII.",
+                            "repliques": {
+                                "I12-1": {
+                                    "personnage": "Le Parent",
+                                    "vers": {
+                                        "0": "D\u2019un mari sur ce point j\u2019approuve le souci\u00a0;",
+                                        "1": "Mais c\u2019est prendre la ch\u00e8vre un peu bien vite aussi,",
+                                        "2": "Et tout ce que de vous je viens d\u2019ou\u00efr contre elle,",
+                                        "3": "Ne conclut point, Parent, qu\u2019elle soit criminelle\u00a0;",
+                                        "4": "C\u2019est un point d\u00e9licat et de pareils forfaits,",
+                                        "5": "Sans les bien av\u00e9rer ne s\u2019imputent jamais."
+                                    }
+                                },
+                                "I12-2": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "C\u2019est-\u00e0-dire qu\u2019il faut toucher au doigt la chose."
+                                    }
+                                },
+                                "I12-3": {
+                                    "personnage": "Le Parent",
+                                    "vers": {
+                                        "0": "Le trop de promptitude \u00e0 l\u2019erreur nous expose.",
+                                        "1": "Qui sait comme en ses mains ce portrait est venu,",
+                                        "2": "Et si l\u2019homme apr\u00e8s tout lui peut \u00eatre connu.",
+                                        "3": "Informez-vous-en donc, et si c\u2019est ce qu\u2019on pense,",
+                                        "4": "Nous serons les premiers \u00e0 punir son offense."
+                                    }
+                                }
+                            }
+                        },
+                        "I13": {
+                            "title": "Sc\u00e8ne XIII",
+                            "repliques": {
+                                "I13-1": {
+                                    "personnage": "Sganarelle ",
+                                    "vers": {
+                                        "0": "On ne peut pas mieux dire, en effet, il est bon",
+                                        "1": "D\u2019aller tout doucement. Peut-\u00eatre sans raison,",
+                                        "2": "Me suis-je en t\u00eate mis ces visions cornues,",
+                                        "3": "Et les sueurs au front m\u2019en sont trop t\u00f4t venues.",
+                                        "4": "Par ce portrait enfin dont je suis alarm\u00e9,",
+                                        "5": "Mon d\u00e9shonneur n\u2019est pas tout \u00e0 fait confirm\u00e9,",
+                                        "6": "T\u00e2chons donc par nos soins\u2026"
+                                    }
+                                }
+                            }
+                        },
+                        "I14": {
+                            "title": "Sc\u00e8ne XIV.",
+                            "repliques": {
+                                "I14-1": {
+                                    "personnage": "Sganarelle ",
+                                    "vers": {
+                                        "0": "Ah\u00a0! que vois-je, je meure,",
+                                        "1": "Il n\u2019est plus question de portrait \u00e0 cette heure,",
+                                        "2": "Voici ma foi la chose en propre original."
+                                    }
+                                },
+                                "I14-2": {
+                                    "personnage": "La femme de Sganarelle ",
+                                    "vers": {
+                                        "0": "C\u2019est par trop vous h\u00e2ter Monsieur, et votre mal,",
+                                        "1": "Si vous sortez si t\u00f4t pourra bien vous reprendre."
+                                    }
+                                },
+                                "I14-3": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "Non non, je vous rends gr\u00e2ce autant qu\u2019on puisse rendre,",
+                                        "1": "De l\u2019obligeant secours que vous m\u2019avez pr\u00eat\u00e9."
+                                    }
+                                },
+                                "I14-4": {
+                                    "personnage": "Sganarelle ",
+                                    "vers": {
+                                        "0": "La masque encore apr\u00e8s lui fait civilit\u00e9."
+                                    }
+                                }
+                            }
+                        },
+                        "I15": {
+                            "title": "Sc\u00e8ne XV.",
+                            "repliques": {
+                                "I15-1": {
+                                    "personnage": "Sganarelle ",
+                                    "vers": {
+                                        "0": "Il m\u2019aper\u00e7oit, voyons ce qu\u2019il me pourra dire."
+                                    }
+                                },
+                                "I15-2": {
+                                    "personnage": "L\u00e9lie ",
+                                    "vers": {
+                                        "0": "Ah\u00a0! mon \u00e2me s\u2019\u00e9meut et cet objet m\u2019inspire\u2026",
+                                        "1": "Mais je dois condamner cet injuste transport,",
+                                        "2": "Et n\u2019imputer mes maux qu\u2019aux rigueurs de mon sort.",
+                                        "3": "Envions seulement le bonheur de sa flamme.",
+                                        "4": "Oh\u00a0! trop heureux d\u2019avoir une si belle femme."
+                                    }
+                                }
+                            }
+                        },
+                        "I16": {
+                            "title": "Sc\u00e8ne XVI.",
+                            "repliques": {
+                                "I16-1": {
+                                    "personnage": "Sganarelle ",
+                                    "vers": {
+                                        "0": "Ce n\u2019est point s\u2019expliquer en termes ambigus,",
+                                        "1": "Cet \u00e9trange propos me rend aussi confus",
+                                        "2": "Que s\u2019il m\u2019\u00e9tait venu des cornes \u00e0 la t\u00eate.",
+                                        "3": "Allez, ce proc\u00e9d\u00e9 n\u2019est point du tout honn\u00eate."
+                                    }
+                                },
+                                "I16-2": {
+                                    "personnage": "C\u00e9lie ",
+                                    "vers": {
+                                        "0": "Quoi, L\u00e9lie a paru tout \u00e0 l\u2019heure \u00e0 mes yeux,",
+                                        "1": "Qui pourrait me cacher son retour en ces lieux\u00a0?"
+                                    }
+                                },
+                                "I16-3": {
+                                    "personnage": "Sganarelle ",
+                                    "vers": {
+                                        "0": "Oh\u00a0! trop heureux, d\u2019avoir une si belle femme,",
+                                        "1": "Malheureux bien plut\u00f4t de l\u2019avoir cette inf\u00e2me,",
+                                        "2": "Dont le coupable feu trop bien v\u00e9rifi\u00e9,",
+                                        "3": "Sans respect ni demi nous a cocufi\u00e9\u00a0;",
+                                        "4": "Mais je le laisse aller apr\u00e8s un tel indice",
+                                        "5": "Et demeure les bras crois\u00e9s comme un Jocrisse.",
+                                        "6": "Ah\u00a0! je devais du moins lui jeter son chapeau,",
+                                        "7": "Lui ruer quelque pierre, ou crotter son manteau,",
+                                        "8": "Et sur lui hautement pour contenter ma rage",
+                                        "9": "Faire au larron d\u2019honneur crier le voisinage."
+                                    }
+                                },
+                                "I16-4": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "Celui qui maintenant devers vous est venu",
+                                        "1": "Et qui vous a parl\u00e9, d\u2019o\u00f9 vous est-il connu\u00a0?"
+                                    }
+                                },
+                                "I16-5": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "H\u00e9las\u00a0! ce n\u2019est pas moi qui le connais Madame,",
+                                        "1": "C\u2019est ma femme."
+                                    }
+                                },
+                                "I16-6": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "Quel trouble agite ainsi votre \u00e2me\u00a0?"
+                                    }
+                                },
+                                "I16-7": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Ne me condamnez point d\u2019un deuil hors de saison,",
+                                        "1": "Et laissez-moi pousser des soupirs \u00e0 foison."
+                                    }
+                                },
+                                "I16-8": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "D\u2019o\u00f9 vous peuvent venir ces douleurs non communes\u00a0?"
+                                    }
+                                },
+                                "I16-9": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Si je suis afflig\u00e9, ce n\u2019est pas pour des prunes,",
+                                        "1": "Et je le donnerais \u00e0 bien d\u2019autre qu\u2019\u00e0 moi",
+                                        "2": "De se voir sans chagrin au point o\u00f9 je me vois.",
+                                        "3": "Des maris malheureux, vous voyez le mod\u00e8le,",
+                                        "4": "On d\u00e9robe l\u2019honneur au pauvre Sganarelle\u00a0;",
+                                        "5": "Mais c\u2019est peu que l\u2019honneur dans mon affliction,",
+                                        "6": "L\u2019on me d\u00e9robe encor la r\u00e9putation."
+                                    }
+                                },
+                                "I16-10": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "Comment\u00a0?"
+                                    }
+                                },
+                                "I16-11": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Ce Damoiseau, parlant par r\u00e9v\u00e9rence",
+                                        "1": "Me fait cocu Madame, avec toute licence\u00a0;",
+                                        "2": "Et j\u2019ai su par mes yeux av\u00e9rer aujourd\u2019hui",
+                                        "3": "Le commerce secret de ma femme et de lui."
+                                    }
+                                },
+                                "I16-12": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "Celui qui maintenant\u2026"
+                                    }
+                                },
+                                "I16-13": {
+                                    "personnage": "Sganarelle ",
+                                    "vers": {
+                                        "0": "Oui, oui, me d\u00e9shonore,",
+                                        "1": "Il adore ma femme, et ma femme l\u2019adore."
+                                    }
+                                },
+                                "I16-14": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "Ah\u00a0! j\u2019avais bien jug\u00e9 que ce secret retour",
+                                        "1": "Ne pouvait me couvrir que quelque l\u00e2che tour,",
+                                        "2": "Et j\u2019ai trembl\u00e9 d\u2019abord, en le voyant para\u00eetre,",
+                                        "3": "Par un pressentiment de ce qui devait \u00eatre."
+                                    }
+                                },
+                                "I16-15": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Vous prenez ma d\u00e9fense avec trop de bont\u00e9,",
+                                        "1": "Tout le monde n\u2019a pas la m\u00eame charit\u00e9",
+                                        "2": "Et plusieurs qui tant\u00f4t ont appris mon martyre,",
+                                        "3": "Bien loin d\u2019y prendre part, n\u2019en ont rien fait que rire."
+                                    }
+                                },
+                                "I16-16": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "Est-il rien de plus noir que ta l\u00e2che action,",
+                                        "1": "Et peut-on lui trouver une punition\u00a0?",
+                                        "2": "Dois-tu ne te pas croire indigne de la vie,",
+                                        "3": "Apr\u00e8s t\u2019\u00eatre souill\u00e9 de cette perfidie\u00a0?",
+                                        "4": "\u00d4 Ciel\u00a0! est-il possible\u00a0?"
+                                    }
+                                },
+                                "I16-17": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Il est trop vrai pour moi."
+                                    }
+                                },
+                                "I16-18": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "Ah\u00a0! tra\u00eetre, sc\u00e9l\u00e9rat, \u00e2me double et sans foi."
+                                    }
+                                },
+                                "I16-19": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "La bonne \u00e2me."
+                                    }
+                                },
+                                "I16-20": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "Non, non, l\u2019Enfer n\u2019a point de g\u00eane",
+                                        "1": "Qui ne soit pour ton crime une trop douce peine."
+                                    }
+                                },
+                                "I16-21": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Que voil\u00e0 bien parler\u00a0!"
+                                    }
+                                },
+                                "I16-22": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "Avoir ainsi trait\u00e9",
+                                        "1": "Et la m\u00eame innocence, et la m\u00eame bont\u00e9."
+                                    }
+                                },
+                                "I16-23": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Hay."
+                                    }
+                                },
+                                "I16-24": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "Un c\u0153ur, qui jamais n\u2019a fait la moindre chose",
+                                        "1": "A m\u00e9rit\u00e9 l\u2019affront o\u00f9 ton m\u00e9pris l\u2019expose\u00a0?"
+                                    }
+                                },
+                                "I16-25": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Il est vrai."
+                                    }
+                                },
+                                "I16-26": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "Qui bien loin\u2026 Mais c\u2019est trop, et ce c\u0153ur",
+                                        "1": "Ne saurait y songer sans mourir de douleur."
+                                    }
+                                },
+                                "I16-27": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Ne vous f\u00e2chez point tant ma tr\u00e8s ch\u00e8re Madame,",
+                                        "1": "Mon mal vous touche trop et vous me percez l\u2019\u00e2me."
+                                    }
+                                },
+                                "I16-28": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "Mais ne t\u2019abuse pas jusqu\u2019\u00e0 te figurer",
+                                        "1": "Qu\u2019\u00e0 des plaintes sans fruit j\u2019en veuille demeurer,",
+                                        "2": "Mon c\u0153ur pour se venger sait ce qu\u2019il te faut faire,",
+                                        "3": "Et j\u2019y cours de ce pas, rien ne m\u2019en peut distraire."
+                                    }
+                                }
+                            }
+                        },
+                        "I17": {
+                            "title": "Sc\u00e8ne XVII.",
+                            "repliques": {
+                                "I17-1": {
+                                    "personnage": "Sganarelle ",
+                                    "vers": {
+                                        "0": "Que le Ciel la pr\u00e9serve \u00e0 jamais de danger.",
+                                        "1": "Voyez quelle bont\u00e9 de vouloir me venger\u00a0:",
+                                        "2": "En effet, son courroux qu\u2019excite ma disgr\u00e2ce,",
+                                        "3": "M\u2019enseigne hautement ce qu\u2019il faut que je fasse,",
+                                        "4": "Et l\u2019on ne doit jamais souffrir sans dire mot",
+                                        "5": "De semblables affronts \u00e0 moins qu\u2019\u00eatre un vrai sot.",
+                                        "6": "Courons donc le chercher ce pendard qui m\u2019affronte,",
+                                        "7": "Montrons notre courage \u00e0 venger notre honte.",
+                                        "8": "Vous apprendrez, Maroufle, \u00e0 rire \u00e0 nos d\u00e9pens,",
+                                        "9": "Et sans aucun respect faire cocus les gens.",
+                                        "10": "Doucement s\u2019il vous pla\u00eet cet homme a bien la mine",
+                                        "11": "D\u2019avoir le sang bouillant et l\u2019\u00e2me un peu mutine,",
+                                        "12": "Il pourrait bien, mettant affront dessus affront",
+                                        "13": "Charger de bois mon dos, comme il a fait mon front.",
+                                        "14": "Je hais de tout mon c\u0153ur les Esprits col\u00e9riques,",
+                                        "15": "Et porte grand amour aux hommes pacifiques\u00a0:",
+                                        "16": "Je ne suis point battant de peur d\u2019\u00eatre battu",
+                                        "17": "Et l\u2019humeur d\u00e9bonnaire est ma grande vertu.",
+                                        "18": "Mais mon honneur me dit que d\u2019une telle offense",
+                                        "19": "Il faut absolument que je prenne vengeance.",
+                                        "20": "Ma foi laissons-le dire autant qu\u2019il lui plaira,",
+                                        "21": "Au diantre qui pourtant rien du tout en fera\u00a0:",
+                                        "22": "Quand j\u2019aurai fait le brave, et qu\u2019un fer pour ma peine",
+                                        "23": "M\u2019aura d\u2019un vilain coup transperc\u00e9 la bedaine,",
+                                        "24": "Que par la ville ira le bruit de mon tr\u00e9pas,",
+                                        "25": "Dites-moi, mon honneur, en serez-vous plus gras\u00a0?",
+                                        "26": "La Bi\u00e8re est un s\u00e9jour par trop m\u00e9lancolique",
+                                        "27": "Et trop malsain pour ceux qui craignent la colique,",
+                                        "28": "Et quant \u00e0 moi je trouve, ayant tout compass\u00e9,",
+                                        "29": "Qu\u2019il vaut mieux \u00eatre encor Cocu que Tr\u00e9pass\u00e9\u00a0:",
+                                        "30": "Quel mal cela fait-il\u00a0? la jambe en devient-elle",
+                                        "31": "Plus tortue apr\u00e8s tout, et la taille moins belle\u00a0?",
+                                        "32": "Peste soit qui premier trouva l\u2019invention",
+                                        "33": "De s\u2019affliger l\u2019esprit de cette vision,",
+                                        "34": "Et d\u2019attacher l\u2019honneur de l\u2019homme le plus sage",
+                                        "35": "Aux choses que peut faire une femme volage\u00a0;",
+                                        "36": "Puisqu\u2019on tient \u00e0 bon droit tout crime personnel,",
+                                        "37": "Que fait l\u00e0 notre honneur pour \u00eatre criminel\u00a0?",
+                                        "38": "Des actions d\u2019autrui l\u2019on nous donne le bl\u00e2me.",
+                                        "39": "Si nos femmes sans nous ont un commerce inf\u00e2me,",
+                                        "40": "Il faut que tout le mal tombe sur notre dos,",
+                                        "41": "Elles font la sottise, et nous sommes les sots\u00a0:",
+                                        "42": "C\u2019est un vilain abus, et les gens de Police",
+                                        "43": "Nous devraient bien r\u00e9gler une telle injustice.",
+                                        "44": "N\u2019avons-nous pas assez des autres accidents,",
+                                        "45": "Qui nous viennent happer en d\u00e9pit de nos dents ?",
+                                        "46": "Les querelles, proc\u00e8s, faim, soif, et maladie,",
+                                        "47": "Troublent-ils pas assez le repos de la vie,",
+                                        "48": "Sans s\u2019aller de surcro\u00eet aviser sottement,",
+                                        "49": "De se faire un chagrin qui n\u2019a nul fondement\u00a0?",
+                                        "50": "Moquons-nous de cela, m\u00e9prisons les alarmes,",
+                                        "51": "Et mettons sous nos pieds les soupirs et les larmes ;",
+                                        "52": "Si ma femme a failli, qu\u2019elle pleure bien fort.",
+                                        "53": "Mais pourquoi moi pleurer puisque je n\u2019ai point tort\u00a0?",
+                                        "54": "En tout cas ce qui peut m\u2019\u00f4ter ma f\u00e2cherie,",
+                                        "55": "C\u2019est que je ne suis pas seul de ma Confr\u00e9rie,",
+                                        "56": "Voir cajoler sa femme et n\u2019en t\u00e9moigner rien",
+                                        "57": "Se pratique aujourd\u2019hui par force gens de bien\u00a0:",
+                                        "58": "N\u2019allons donc point chercher \u00e0 faire une querelle",
+                                        "59": "Pour un affront qui n\u2019est que pure bagatelle.",
+                                        "60": "L\u2019on m\u2019appellera sot de ne me venger pas\u00a0;",
+                                        "61": "Mais je le serais fort de courir au tr\u00e9pas.",
+                                        "62": "Je me sens l\u00e0, pourtant remuer une bile",
+                                        "63": "Qui veut me conseiller quelque action virile\u00a0:",
+                                        "64": "Oui le courroux me prend, c\u2019est trop \u00eatre poltron,",
+                                        "65": "Je veux r\u00e9solument me venger du Larron\u00a0:",
+                                        "66": "D\u00e9j\u00e0 pour commencer dans l\u2019ardeur qui m\u2019enflamme,",
+                                        "67": "Je vais dire partout qu\u2019il couche avec ma femme.",
+                                        "68": "Avouez-moi maintenant \nla v\u00e9rit\u00e9, est-il pas vrai, Monsieur, que vous avez trouv\u00e9 ces Vers tout\n \u00e0 fait beaux, que vous ne vous \u00eates pu vous emp\u00eacher de les relire \nencore une fois, et que vous demeurez d\u2019accord que Paris a eu raison de \nnommer cette sc\u00e8ne, la belle Sc\u00e8ne\u00a0?"
+                                    }
+                                }
+                            }
+                        },
+                        "I18": {
+                            "title": "Sc\u00e8ne XVIII.",
+                            "repliques": {
+                                "I18-1": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "Oui, je veux bien subir une si juste Loi",
+                                        "1": "Mon p\u00e8re, disposez de mes v\u0153ux et de moi,",
+                                        "2": "Faites quand vous voudrez signer cette hym\u00e9n\u00e9e,",
+                                        "3": "\u00c0 suivre mon devoir je suis d\u00e9termin\u00e9e,",
+                                        "4": "Je pr\u00e9tends gourmander mes propres sentiments",
+                                        "5": "Et me soumettre en tout \u00e0 vos commandements."
+                                    }
+                                },
+                                "I18-2": {
+                                    "personnage": "Gorgibus ",
+                                    "vers": {
+                                        "0": "Ah\u00a0! voil\u00e0 qui me pla\u00eet de parler de la sorte,",
+                                        "1": "Parbleu, si grande joie \u00e0 l\u2019heure me transporte,",
+                                        "2": "Que mes jambes sur l\u2019heure en cabrioleraient",
+                                        "3": "Si nous n\u2019\u00e9tions point vus de gens qui s\u2019en riraient.",
+                                        "4": "Approche-toi de moi, viens \u00e7\u00e0 que je t\u2019embrasse\u00a0:",
+                                        "5": "Une belle action n\u2019a pas mauvaise grace,",
+                                        "6": "Un p\u00e8re, quand il veut peut sa fille baiser,",
+                                        "7": "Sans que l\u2019on ait sujet de s\u2019en scandaliser.",
+                                        "8": "Va, le contentement de te voir si bien n\u00e9e",
+                                        "9": "Me fera rajeunir de dix fois une ann\u00e9e."
+                                    }
+                                }
+                            }
+                        },
+                        "I19": {
+                            "title": "Sc\u00e8ne XIX.",
+                            "repliques": {
+                                "I19-1": {
+                                    "personnage": "La Suivante",
+                                    "vers": {
+                                        "0": "Ce changement m\u2019\u00e9tonne."
+                                    }
+                                },
+                                "I19-2": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "Et lorsque tu sauras",
+                                        "1": "Par quel motif j\u2019agis tu m\u2019en estimeras."
+                                    }
+                                },
+                                "I19-3": {
+                                    "personnage": "La Suivante",
+                                    "vers": {
+                                        "0": "Cela pourrait bien \u00eatre."
+                                    }
+                                },
+                                "I19-4": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "Apprends donc que L\u00e9lie,",
+                                        "1": "A pu blesser mon c\u0153ur par une perfidie,",
+                                        "2": "Qu\u2019il \u00e9tait en ces lieux sans\u2026"
+                                    }
+                                },
+                                "I19-5": {
+                                    "personnage": "La Suivante",
+                                    "vers": {
+                                        "0": "Mais il vient \u00e0 nous."
+                                    }
+                                }
+                            }
+                        },
+                        "I20": {
+                            "title": "Sc\u00e8ne XX.",
+                            "repliques": {
+                                "I20-1": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "Avant que pour jamais je m\u2019\u00e9loigne de vous\u00a0;",
+                                        "1": "Je veux vous reprocher au moins en cette place\u2026"
+                                    }
+                                },
+                                "I20-2": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "Quoi me parler encore, avez-vous cette audace\u00a0?"
+                                    }
+                                },
+                                "I20-3": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "Il est vrai qu\u2019elle est grande et votre choix est tel",
+                                        "1": "Qu\u2019\u00e0 vous rien reprocher je serais criminel,",
+                                        "2": "Vivez, vivez contente et bravez ma m\u00e9moire",
+                                        "3": "Avec le digne \u00c9poux qui vous comble de gloire."
+                                    }
+                                },
+                                "I20-4": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "Oui tra\u00eetre j\u2019y veux vivre, et mon plus grand d\u00e9sir",
+                                        "1": "Ce serait que ton c\u0153ur en e\u00fbt du d\u00e9plaisir."
+                                    }
+                                },
+                                "I20-5": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "Qui rend donc contre moi ce courroux l\u00e9gitime\u00a0?"
+                                    }
+                                },
+                                "I20-6": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "Quoi tu fais le surpris, et demandes ton crime\u00a0?"
+                                    }
+                                }
+                            }
+                        },
+                        "I21": {
+                            "title": "Sc\u00e8ne XXI.",
+                            "repliques": {
+                                "I21-1": {
+                                    "personnage": " sganarelle ",
+                                    "vers": {
+                                        "0": "Guerre, guerre mortelle, \u00e0 ce larron d\u2019honneur,",
+                                        "1": "Qui sans mis\u00e9ricorde a souill\u00e9 notre honneur."
+                                    }
+                                },
+                                "I21-2": {
+                                    "personnage": "C\u00e9lie ",
+                                    "vers": {
+                                        "0": "Tourne, tourne les yeux sans me faire r\u00e9pondre."
+                                    }
+                                },
+                                "I21-3": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "Ah\u00a0! je vois\u2026"
+                                    }
+                                },
+                                "I21-4": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "Cet objet suffit pour te confondre."
+                                    }
+                                },
+                                "I21-5": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "Mais pour vous obliger bien plut\u00f4t \u00e0 rougir."
+                                    }
+                                },
+                                "I21-6": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Ma col\u00e8re \u00e0 pr\u00e9sent est en \u00e9tat d\u2019agir,",
+                                        "1": "Dessus ses grands chevaux est mont\u00e9 mon courage,",
+                                        "2": "Et si je le rencontre on verra du carnage\u00a0:",
+                                        "3": "Oui j\u2019ai jur\u00e9 sa mort, rien ne peut m\u2019emp\u00eacher,",
+                                        "4": "O\u00f9 je le trouverai, je le veux d\u00e9p\u00eacher,",
+                                        "5": "Au beau milieu du c\u0153ur il faut que je lui donne\u2026"
+                                    }
+                                },
+                                "I21-7": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "\u00c0 qui donc en veut-on\u00a0?"
+                                    }
+                                },
+                                "I21-8": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Je n\u2019en veux \u00e0 personne."
+                                    }
+                                },
+                                "I21-9": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "Pourquoi ces armes-l\u00e0\u00a0?"
+                                    }
+                                },
+                                "I21-10": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "C\u2019est un habillement",
+                                        "1": "Que j\u2019ai pris pour la pluie.",
+                                        "2": "Ah\u00a0! quel contentement",
+                                        "3": "J\u2019aurais \u00e0 le tuer, prenons-en le courage."
+                                    }
+                                },
+                                "I21-11": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "Hay\u00a0?"
+                                    }
+                                },
+                                "I21-12": {
+                                    "personnage": "Sganarelle ",
+                                    "vers": {
+                                        "0": "Je ne parle pas.",
+                                        "1": "Ah\u00a0! poltron dont j\u2019enrage,",
+                                        "2": "L\u00e2che, vrai c\u0153ur de poule."
+                                    }
+                                },
+                                "I21-13": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "Il t\u2019en doit dire assez",
+                                        "1": "Cet objet, dont tes yeux nous paraissent bless\u00e9s."
+                                    }
+                                },
+                                "I21-14": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "Oui, je connais par l\u00e0 que vous \u00eates coupable",
+                                        "1": "De l\u2019infid\u00e9lit\u00e9 la plus inexcusable,",
+                                        "2": "Qui jamais d\u2019un amant puisse outrager la foi."
+                                    }
+                                },
+                                "I21-15": {
+                                    "personnage": "Sganarelle ",
+                                    "vers": {
+                                        "0": "Que n\u2019ai-je un peu de c\u0153ur."
+                                    }
+                                },
+                                "I21-16": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "Ah\u00a0! cesse devant moi,",
+                                        "1": "Tra\u00eetre, de ce discours l\u2019insolence cruelle."
+                                    }
+                                },
+                                "I21-17": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Sganarelle, tu vois qu\u2019elle prend ta querelle,",
+                                        "1": "Courage mon enfant, sois un peu vigoureux,",
+                                        "2": "L\u00e0, hardi, t\u00e2che \u00e0 faire un effort g\u00e9n\u00e9reux,",
+                                        "3": "En le tuant, tandis qu\u2019il tourne le derri\u00e8re."
+                                    }
+                                },
+                                "I21-18": {
+                                    "personnage": "L\u00e9lie ",
+                                    "vers": {
+                                        "0": "Puisqu\u2019un pareil discours \u00e9meut votre col\u00e8re,",
+                                        "1": "Je dois de votre c\u0153ur me montrer satisfait,",
+                                        "2": "Et l\u2019applaudir ici du beau choix qu\u2019il a fait."
+                                    }
+                                },
+                                "I21-19": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "Oui oui, mon choix est tel qu\u2019on n\u2019y peut rien reprendre."
+                                    }
+                                },
+                                "I21-20": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "Allez, vous faites bien de le vouloir d\u00e9fendre."
+                                    }
+                                },
+                                "I21-21": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Sans doute elle fait bien de d\u00e9fendre mes droits\u00a0:",
+                                        "1": "Cette action Monsieur, n\u2019est point selon les lois,",
+                                        "2": "J\u2019ai raison de m\u2019en plaindre et si je n\u2019\u00e9tais sage,",
+                                        "3": "On verrait arriver un \u00e9trange carnage."
+                                    }
+                                },
+                                "I21-22": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "D\u2019o\u00f9 vous na\u00eet cette plainte\u00a0? et quel chagrin brutal\u2026"
+                                    }
+                                },
+                                "I21-23": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Suffit, vous savez bien o\u00f9 le bois me fait mal\u00a0;",
+                                        "1": "Mais votre conscience et le soin de votre \u00e2me",
+                                        "2": "Vous devraient mettre aux yeux que ma femme est ma femme,",
+                                        "3": "Et vouloir \u00e0 ma barbe en faire votre bien,",
+                                        "4": "Que ce n\u2019est pas du tout agir en bon Chr\u00e9tien."
+                                    }
+                                },
+                                "I21-24": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "Un semblable soup\u00e7on est bas et ridicule,",
+                                        "1": "Allez, dessus ce point n\u2019ayez aucun scrupule,",
+                                        "2": "Je sais qu\u2019elle est \u00e0 vous, et bien loin de br\u00fbler\u2026"
+                                    }
+                                },
+                                "I21-25": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "Ah ! qu\u2019ici si tu sais bien tra\u00eetre, dissimuler."
+                                    }
+                                },
+                                "I21-26": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "Quoi me soup\u00e7onnez-vous d\u2019avoir une pens\u00e9e",
+                                        "1": "De qui son \u00e2me ait lieu de se croire offens\u00e9e\u00a0?",
+                                        "2": "De cette l\u00e2chet\u00e9 voulez-vous me noircir\u00a0?"
+                                    }
+                                },
+                                "I21-27": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "Parle, parle \u00e0 lui-m\u00eame, il pourra t\u2019\u00e9claircir."
+                                    }
+                                },
+                                "I21-28": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Vous me d\u00e9fendez mieux que je ne saurais faire,",
+                                        "1": "Et du biais qu\u2019il faut vous prenez cette affaire."
+                                    }
+                                }
+                            }
+                        },
+                        "I22": {
+                            "title": "Sc\u00e8ne XXII.",
+                            "repliques": {
+                                "I22-1": {
+                                    "personnage": "La femme de sganarelle ",
+                                    "vers": {
+                                        "0": "Je ne suis point d\u2019humeur \u00e0 vouloir contre vous",
+                                        "1": "Faire \u00e9clater Madame, un esprit trop jaloux\u00a0;",
+                                        "2": "Mais je ne suis point dupe, et vois ce qui se passe\u00a0:",
+                                        "3": "Il est de certains feux de fort mauvaise gr\u00e2ce,",
+                                        "4": "Et votre \u00e2me devrait prendre un meilleur emploi,",
+                                        "5": "Que de s\u00e9duire un c\u0153ur qui doit n\u2019\u00eatre qu\u2019\u00e0 moi."
+                                    }
+                                },
+                                "I22-2": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "La d\u00e9claration est assez ing\u00e9nue."
+                                    }
+                                },
+                                "I22-3": {
+                                    "personnage": "Sganarelle ",
+                                    "vers": {
+                                        "0": "L\u2019on ne demandait pas carogne ta venue,",
+                                        "1": "Tu la viens quereller lorsqu\u2019elle me d\u00e9fend,",
+                                        "2": "Et tu trembles de peur qu\u2019on t\u2019\u00f4te ton galant."
+                                    }
+                                },
+                                "I22-4": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "Allez, ne croyez pas que l\u2019on en ait envie.",
+                                        "1": "Tu vois si c\u2019est mensonge, et j\u2019en suis fort ravie."
+                                    }
+                                },
+                                "I22-5": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "Que me veut\u2011on conter\u00a0?"
+                                    }
+                                },
+                                "I22-6": {
+                                    "personnage": "La Suivante",
+                                    "vers": {
+                                        "0": "Ma foi je ne sais pas.",
+                                        "1": "Quand on verra finir ce galimatias,",
+                                        "2": "D\u00e9j\u00e0 depuis longtemps je t\u00e2che \u00e0 le comprendre,",
+                                        "3": "Et si plus je l\u2019\u00e9coute, et moins je puis l\u2019entendre ;",
+                                        "4": "Je vois bien \u00e0 la fin que je m\u2019en dois m\u00ealer.",
+                                        "5": "R\u00e9pondez-moi par ordre et me laissez parler.",
+                                        "6": "Vous, qu\u2019est-ce qu\u2019\u00e0 son c\u0153ur peut reprocher le v\u00f4tre\u00a0?"
+                                    }
+                                },
+                                "I22-7": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "Que l\u2019infid\u00e8le a pu me quitter pour un autre\u00a0:",
+                                        "1": "Et que lorsque sur le bruit de son Hymen fatal,",
+                                        "2": "J\u2019accours tout transport\u00e9 d\u2019un amour sans \u00e9gal,",
+                                        "3": "Dont l\u2019ardeur r\u00e9sistait \u00e0 se croire oubli\u00e9e,",
+                                        "4": "Mon abord en ces lieux la trouve mari\u00e9e."
+                                    }
+                                },
+                                "I22-8": {
+                                    "personnage": "La Suivante ",
+                                    "vers": {
+                                        "0": "Mari\u00e9e, \u00e0 qui donc\u00a0?"
+                                    }
+                                },
+                                "I22-9": {
+                                    "personnage": "L\u00e9lie ",
+                                    "vers": {
+                                        "0": "\u00c0 lui."
+                                    }
+                                },
+                                "I22-10": {
+                                    "personnage": "La Suivante",
+                                    "vers": {
+                                        "0": "Comment \u00e0 lui\u00a0?"
+                                    }
+                                },
+                                "I22-11": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "Oui-d\u00e0."
+                                    }
+                                },
+                                "I22-12": {
+                                    "personnage": "La Suivante",
+                                    "vers": {
+                                        "0": "Qui vous l\u2019a dit\u00a0?"
+                                    }
+                                },
+                                "I22-13": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "C\u2019est lui-m\u00eame aujourd\u2019hui."
+                                    }
+                                },
+                                "I22-14": {
+                                    "personnage": "La Suivante ",
+                                    "vers": {
+                                        "0": "Est-il vrai\u00a0?"
+                                    }
+                                },
+                                "I22-15": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Moi, j\u2019ai dit que c\u2019\u00e9tait \u00e0 ma femme",
+                                        "1": "Que j\u2019\u00e9tais mari\u00e9."
+                                    }
+                                },
+                                "I22-16": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "Dans un grand trouble d\u2019\u00e2me,",
+                                        "1": "Tant\u00f4t de mon portrait je vous ai vu saisi."
+                                    }
+                                },
+                                "I22-17": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Il est vrai, le voil\u00e0."
+                                    }
+                                },
+                                "I22-18": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "Vous m\u2019avez dit aussi,",
+                                        "1": "Que celle aux mains de qui vous aviez pris ce gage,",
+                                        "2": "\u00c9tait li\u00e9e \u00e0 vous des n\u0153uds du mariage."
+                                    }
+                                },
+                                "I22-19": {
+                                    "personnage": "Sganarelle ",
+                                    "vers": {
+                                        "0": "Sans doute, et je l\u2019avais de ses mains arrach\u00e9,",
+                                        "1": "Et n\u2019eusse pas sans lui d\u00e9couvert son p\u00e9ch\u00e9."
+                                    }
+                                },
+                                "I22-20": {
+                                    "personnage": "La femme de sganarelle",
+                                    "vers": {
+                                        "0": "Que me viens-tu conter par ta plainte importune\u00a0?",
+                                        "1": "Je l\u2019avais sous mes pieds rencontr\u00e9 par fortune,",
+                                        "2": "Et m\u00eame quand apr\u00e8s ton injuste courroux",
+                                        "3": "J\u2019ai fait dans sa faiblesse entrer Monsieur chez nous,",
+                                        "4": "Je n\u2019ai pas reconnu les traits de sa peinture."
+                                    }
+                                },
+                                "I22-21": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "C\u2019est moi qui du portrait ai caus\u00e9 l\u2019aventure,",
+                                        "1": "Et je l\u2019ai laiss\u00e9 choir en cette p\u00e2moison",
+                                        "2": "Qui m\u2019a fait par vos soins remettre \u00e0 la maison."
+                                    }
+                                },
+                                "I22-22": {
+                                    "personnage": "La Suivante",
+                                    "vers": {
+                                        "0": "Vous voyez que sans moi vous y seriez encore,",
+                                        "1": "Et vous aviez besoin de mon peu d\u2019Ell\u00e9bore."
+                                    }
+                                },
+                                "I22-23": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "Prendrons-nous tout ceci pour de l\u2019argent comptant\u00a0?",
+                                        "1": "Mon front l\u2019a sur mon \u00e2me eu bien chaude pourtant."
+                                    }
+                                },
+                                "I22-24": {
+                                    "personnage": "Sa Femme ",
+                                    "vers": {
+                                        "0": "Ma crainte toutefois n\u2019est pas trop dissip\u00e9e",
+                                        "1": "Et doux que soit le mal, je crains d\u2019\u00eatre tromp\u00e9e."
+                                    }
+                                },
+                                "I22-25": {
+                                    "personnage": "Sganarelle ",
+                                    "vers": {
+                                        "0": "H\u00e9\u00a0! mutuellement croyons-nous gens de bien,",
+                                        "1": "Je risque plus du mien que tu ne fais du tien\u00a0:",
+                                        "2": "Accepte sans fa\u00e7on le march\u00e9 qu\u2019on propose."
+                                    }
+                                },
+                                "I22-26": {
+                                    "personnage": "Sa Femme",
+                                    "vers": {
+                                        "0": "Soit, mais gare le bois si j\u2019apprends quelque chose."
+                                    }
+                                },
+                                "I22-27": {
+                                    "personnage": "C\u00e9lie ",
+                                    "vers": {
+                                        "0": "Ah\u00a0! Dieux\u00a0! s\u2019il est ainsi, qu\u2019est-ce donc que j\u2019ai fait\u00a0?",
+                                        "1": "Je dois de mon courroux appr\u00e9hender l\u2019effet\u00a0:",
+                                        "2": "Oui, vous croyant sans foi, j\u2019ai pris pour ma vengeance",
+                                        "3": "Le malheureux secours de mon ob\u00e9issance\u00a0;",
+                                        "4": "Et depuis un moment mon c\u0153ur vient d\u2019accepter",
+                                        "5": "Un hymen que toujours j\u2019eus lieu de rebuter,",
+                                        "6": "J\u2019ai promis \u00e0 mon p\u00e8re, et ce qui me d\u00e9sole\u2026",
+                                        "7": "Mais je le vois venir."
+                                    }
+                                },
+                                "I22-28": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "Il me tiendra parole."
+                                    }
+                                }
+                            }
+                        },
+                        "I23": {
+                            "title": "Sc\u00e8ne XXIII.",
+                            "repliques": {
+                                "I23-1": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "Monsieur, vous me voyez en ces lieux de retour,",
+                                        "1": "Br\u00fblant des m\u00eames feux, et mon ardente amour",
+                                        "2": "Verra comme je crois la promesse accomplie",
+                                        "3": "Qui me donna l\u2019espoir de l\u2019hymen de C\u00e9lie."
+                                    }
+                                },
+                                "I23-2": {
+                                    "personnage": "Gorgibus ",
+                                    "vers": {
+                                        "0": "Monsieur, que je revois en ces lieux de retour,",
+                                        "1": "Br\u00fblant des m\u00eames feux, et dont l\u2019ardente amour",
+                                        "2": "Verra que vous croyez la promesse accomplie",
+                                        "3": "Qui vous donna l\u2019espoir de l\u2019hymen de C\u00e9lie,",
+                                        "4": "Tr\u00e8s humble Serviteur \u00e0 Votre Seigneurie."
+                                    }
+                                },
+                                "I23-3": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "Quoi\u00a0? Monsieur, est-ce ainsi qu\u2019on trahit mon espoir\u00a0?"
+                                    }
+                                },
+                                "I23-4": {
+                                    "personnage": "Gorgibus",
+                                    "vers": {
+                                        "0": "Oui, Monsieur, c\u2019est ainsi que je fais mon devoir,",
+                                        "1": "Ma fille en suit les lois."
+                                    }
+                                },
+                                "I23-5": {
+                                    "personnage": "C\u00e9lie",
+                                    "vers": {
+                                        "0": "Mon devoir m\u2019int\u00e9resse,",
+                                        "1": "Mon p\u00e8re, \u00e0 d\u00e9gager vers lui votre promesse."
+                                    }
+                                },
+                                "I23-6": {
+                                    "personnage": "Gorgibus",
+                                    "vers": {
+                                        "0": "Est-ce r\u00e9pondre en fille \u00e0 mes commandements\u00a0?",
+                                        "1": "Tu te d\u00e9mens bien t\u00f4t de tes bons sentiments,",
+                                        "2": "Pour Val\u00e8re tant\u00f4t\u2026 mais j\u2019aper\u00e7ois son p\u00e8re,",
+                                        "3": "Il vient assur\u00e9ment pour conclure l\u2019affaire."
+                                    }
+                                }
+                            }
+                        },
+                        "I24": {
+                            "title": "Sc\u00e8ne Derni\u00e8re",
+                            "repliques": {
+                                "I24-1": {
+                                    "personnage": "Gorgibus",
+                                    "vers": {
+                                        "0": "Qui vous am\u00e8ne ici, seigneur Villebrequin ?"
+                                    }
+                                },
+                                "I24-2": {
+                                    "personnage": "Villebrequin",
+                                    "vers": {
+                                        "0": "Un secret important, que j\u2019ai su ce matin,",
+                                        "1": "Qui rompt absolument ma parole donn\u00e9e.",
+                                        "2": "Mon fils, dont votre fille acceptait l\u2019hym\u00e9n\u00e9e,",
+                                        "3": "Sous des liens cach\u00e9s trompant les yeux de tous,",
+                                        "4": "Vit depuis quatre mois avec Lise en \u00c9poux,",
+                                        "5": "Et comme des parents le bien et la naissance",
+                                        "6": "M\u2019\u00f4tent tout le pouvoir d\u2019en casser l\u2019alliance,",
+                                        "7": "Je vous viens\u2026"
+                                    }
+                                },
+                                "I24-3": {
+                                    "personnage": "Gorgibus",
+                                    "vers": {
+                                        "0": "Brisons l\u00e0, si sans votre cong\u00e9,",
+                                        "1": "Val\u00e8re votre fils ailleurs s\u2019est engag\u00e9,",
+                                        "2": "Je ne vous puis celer que ma fille C\u00e9lie,",
+                                        "3": "D\u00e8s longtemps par moi-m\u00eame est promise \u00e0 L\u00e9lie,",
+                                        "4": "Et que riche en vertus son retour aujourd\u2019hui",
+                                        "5": "M\u2019emp\u00eache d\u2019agr\u00e9er un autre \u00c9poux que lui."
+                                    }
+                                },
+                                "I24-4": {
+                                    "personnage": "Villebrequin",
+                                    "vers": {
+                                        "0": "Un tel choix me pla\u00eet fort."
+                                    }
+                                },
+                                "I24-5": {
+                                    "personnage": "L\u00e9lie",
+                                    "vers": {
+                                        "0": "Et cette juste envie,",
+                                        "1": "D\u2019un bonheur \u00e9ternel va couronner ma vie."
+                                    }
+                                },
+                                "I24-6": {
+                                    "personnage": "Gorgibus",
+                                    "vers": {
+                                        "0": "Allons choisir le jour pour se donner la foi."
+                                    }
+                                },
+                                "I24-7": {
+                                    "personnage": "Sganarelle",
+                                    "vers": {
+                                        "0": "A-t-on mieux cru jamais \u00eatre cocu que moi ?",
+                                        "1": "Vous croyez qu\u2019en ce fait la plus forte apparence",
+                                        "2": "Peut jeter dans l\u2019esprit une fausse cr\u00e9ance\u00a0:",
+                                        "3": "De cet exemple-ci, ressouvenez-vous bien,",
+                                        "4": "Et quand vous verriez tout, ne croyez jamais rien.",
+                                        "5": "Sans mentir, Monsieur, vous me \ndevez bien \u00eatre oblig\u00e9 de tant de belles choses que je vous envoie, et \ntous les melons de votre jardin ne sont pas suffisants pour me payer la \npeine d\u2019avoir retenu pour l\u2019amour de vous toute cette Pi\u00e8ce par \nc\u0153ur\u00a0; mais j\u2019oubliais de vous dire une chose \u00e0 l\u2019avantage de son \nAuteur, qui est que comme je n\u2019ai eu cette Pi\u00e8ce que je vous envoie que \npar effort de m\u00e9moire, il peut s\u2019y \u00eatre coul\u00e9 quantit\u00e9 de mots les uns \npour les autres, bien qu\u2019ils signifient la m\u00eame chose\u00a0; et comme \nceux de l\u2019Auteur peuvent \u00eatre plus significatifs, je vous prie de \nm\u2019imputer toutes les fautes de cette nature que vous y trouverez\u00a0; \net je vous conjure avec tous les curieux de France de venir voir \nrepr\u00e9senter cette Pi\u00e8ce comme un des plus beaux Ouvrages, et un des \nmieux jou\u00e9s qui ait jamais paru sur la Sc\u00e8ne."
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
