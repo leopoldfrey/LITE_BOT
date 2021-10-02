@@ -1,0 +1,63 @@
+table {
+  font-size: 0.8rem;
+}
+
+thead {
+  position: sticky;
+  top: 0px;
+  background-color: white;
+}
+th {
+  text-align: center;
+}
+
+tr:nth-child(2n) {
+    background: #f9f9f9;
+}
+
+.sentenceRow {
+  cursor: pointer;
+}
+
+.sentenceRow::selection {
+  background-color: none;
+}
+
+
+.selected {
+  background-color: #c1d8e6 !important;
+}
+
+.selected > .sentenceElem {
+  color: black;
+  font-size: 1.5rem;
+
+}
+
+.selected > .check {
+  border-left: 0.1px solid white;
+  border-right: 0.1px solid white;
+}
+
+.small {
+  font-size: 0.7rem;
+  width: 60px;
+}
+
+.check {
+  vertical-align: middle;
+  text-align: center;
+}
+
+.btn-group {
+  position: sticky;
+  top: 0px;
+  z-index: 20;
+}
+
+.check {
+  font-size: 1rem;
+  border-left: 0.1px solid lightgray;
+  border-right: 0.1px solid lightgray;
+  width: 60px;
+}

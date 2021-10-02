@@ -1,7 +1,6 @@
 import json, os, sys
-from html.parser import HTMLParser
 
-DEBUG = 0
+DEBUG = 1
 
 class VersParser():
     def __init__(self, filename, outname):
@@ -24,14 +23,25 @@ class VersParser():
                     r = s['repliques'][rep];
                     if(DEBUG):
                         print("\t\t\t\t"+rep+" "+r['personnage'])
+                    line = ""
                     for vers in r['vers']:
                         v = r['vers'][vers]
                         v = v.replace("              ", "")
                         v = v.replace('\n','')
                         if(DEBUG):
                             print("\t\t\t\t\t"+vers+" "+v)
-                        outfile.write(v+" ")
-                    outfile.write('\n')
+                        line += v + " "
+                    # print("bef: "+line)
+                    line = line.replace(".", ".\n").replace("?", "?\n").replace("!", "!\n")
+                    line = line.replace(". ", ".\n").replace("? ", "?\n").replace("! ", "!\n")
+                    line = line.replace("\n ", "\n")
+                    l = line.split("\n")
+                    for ll in l:
+                        ll = ll.capitalize()
+                        if(ll != ""):
+                            # print("aft: "+ll)
+                            outfile.write(ll+"\n")
+                    # outfile.write('\n')
 
 def parseFile(filename):
     if os.path.exists(filename):

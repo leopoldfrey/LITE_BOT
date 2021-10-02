@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Festin Tri Server</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="favicon.ico" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="icomoon.css" rel="stylesheet" />
+        <link href="styles.css" rel="stylesheet" />
+        <link href="custom.css" rel="stylesheet" />
+    </head>
+    <body>
+        <div class="container" style='margin-top: 20px;'>
+          <div class="btn-group" role="group">
+            <!--button type="button" id='open' class="btn btn-outline-dark" title='Recharger'><span class="icon-cycle"></button-->
+            <button type="button" id='save' class="btn btn-outline-dark" title='Sauvegarder'><span class="icon-save"></span></button>
+          </div>
+          <div class="btn-group" role="group" style='margin-left: 12px;'>
+            <button type="button" id='prev' class="btn btn-outline-dark" title='Page précédente'><span class="icon-controller-fast-backward"></button>
+            <button type="button" id='next' class="btn btn-outline-dark" title='Page suivante'><span class="icon-controller-fast-forward"></span></button>
+          </div>
+          <table class="table">
+            <thead>
+              <tr>
+                <th scope="col"></th>
+                <th scope="col">Phrase</th>
+                <th scope="col" class='small'>Intro<br/>[1]</th>
+                <th scope="col" class='small'>Séduc°<br/>[2]</th>
+                <th scope="col" class='small'>Provoca°<br/>[3]</th>
+                <th scope="col" class='small'>Fuite<br/>[4]</th>
+                <th scope="col" class='small'>Passe-<br/>partout<br/>[5]</th>
+                <th scope="col" class='small'>Off<br/>[6]</th>
+              </tr>
+            </thead>
+            <tbody id='sentences'>
+            </tbody>
+          </table>
+        </div>
+
+        <div class="modal fade" id="modalName" tabindex="-1" aria-labelledby="modalNameLabel" aria-hidden="true">
+          <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="modalNameLabel">Changer le nom de la scène</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+              <div class="modal-body">
+                <form>
+                  <div class="mb-3">
+                    <input type="text" class="form-control" id="newName" size="12">
+                  </div>
+                </form>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Annuler</button>
+                <button type="button" id="Ok" class="btn btn-secondary" data-bs-dismiss="modal">Ok</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="modal fade" id="modalSnd" tabindex="-1" aria-labelledby="modalSndLabel" aria-hidden="true">
+          <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="modalSndLabel">Volume</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+              <div class="modal-body">
+                <form>
+                  <div class="mb-3">
+                    <input type="text" class="form-control" id="vol" size="12">
+                  </div>
+                </form>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Annuler</button>
+                <button type="button" id="OkVol" class="btn btn-secondary" data-bs-dismiss="modal">Ok</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <script src="js/jquery-3.6.0.min.js"></script>
+        <script src="js/jquery-ui.min.js"></script>
+        <script src="js/jquery.ui.touch-punch.min.js"></script>
+        <script src="js/bootstrap.bundle.min.js"></script>
+        <script src="js/scripts.js"></script>
+    </body>
+</html>

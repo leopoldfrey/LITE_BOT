@@ -1,5 +1,4 @@
 import json, os, sys
-from html.parser import HTMLParser
 
 DEBUG = 0
 
@@ -7,7 +6,7 @@ if __name__ == '__main__':
     if(len(sys.argv) == 1):
         print('usage: %s filename %s filename ...')
     else:
-        outname = "conversation2.txt"
+        outname = "festin.txt"
         outfile = open(outname, 'w')
         for x in range(1, len(sys.argv)):
             filename = sys.argv[x]

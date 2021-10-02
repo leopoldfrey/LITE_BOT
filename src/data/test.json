@@ -1,0 +1,97 @@
+{
+    "pieces": [
+        {
+            "title": "LE FESTIN DE PIERRE ou LE FILS CRIMINEL",
+            "actes": {
+                "I": {
+                    "title": "ACTE I",
+                    "scenes": {
+                        "I0": {
+                            "title": "SCENE PREMI\u00c8RE",
+                            "repliques": {
+                                "II01-1": {
+                                    "personnage": "Amarille",
+                                    "vers": {
+                                        "0": "C\u2019est aujourd\u2019hui qu\u2019il faut que mon amour s\u2019exprime,",
+                                        "1": "Et que vous appreniez jusqu\u2019o\u00f9 va mon estime\u00a0;",
+                                        "2": "Que vous seul avez droit de captiver mon c\u0153ur,",
+                                        "3": "Que Dom Philippe en est le g\u00e9n\u00e9reux vainqueur",
+                                        "4": "Et que jusqu\u2019au tombeau les ardeurs de sa flamme",
+                                        "5": "Pourront avec justice obtenir sur mon \u00e2me",
+                                        "6": "Les droits que l\u2019on obtient d\u2019un objet vertueux",
+                                        "7": "Et qu\u2019en peut exiger l\u2019amant respectueux.",
+                                        "8": "Enfin, assurez-vous d\u2019un c\u0153ur qui vous honore."
+                                    }
+                                },
+                                "II01-2": {
+                                    "personnage": "Dom Philippe",
+                                    "vers": {
+                                        "0": "Miracle des beaut\u00e9s, vous que mon c\u0153ur adore,",
+                                        "1": "Qui captivez les c\u0153urs et les plus beaux esprits",
+                                        "2": "Et qui pour tant d\u2019amants n\u2019avez que des m\u00e9pris,",
+                                        "3": "Puisqu\u2019\u00e0 me rendre heureux votre grand c\u0153ur s\u2019engage,",
+                                        "4": "Je n\u2019appr\u00e9hende point qu\u2019un autre le partage.",
+                                        "5": "Je go\u00fbte des douceurs que je tiens de l\u2019espoir\u00a0:",
+                                        "6": "Il prend dessus mon \u00e2me un absolu pouvoir.",
+                                        "7": "Un esprit raisonnable est plein de confiance",
+                                        "8": "Et le doute jamais n\u2019y re\u00e7oit de naissance.",
+                                        "9": "Comme il est tout fid\u00e8le, il aime uniquement",
+                                        "10": "Et veut croire qu\u2019on l\u2019aime aussi parfaitement,",
+                                        "11": "Mais je ne puis souffrir que Dom Jouan vous aime,",
+                                        "12": "Lui qui fait voir partout une insolence extr\u00eame,",
+                                        "13": "Qui tient \u00e0 vanit\u00e9 de para\u00eetre inconstant,",
+                                        "14": "Qui ne voit point d\u2019objet qu\u2019il n\u2019ait ce qu\u2019il pr\u00e9tend,",
+                                        "15": "Qui peut-\u00eatre d\u00e9j\u00e0 dans quelque compagnie",
+                                        "16": "Fait entendre qu\u2019Amour avecque vous le lie,",
+                                        "17": "Qu\u2019il est le seul objet que vous consid\u00e9rez",
+                                        "18": "Et qu\u2019entre cent amants enfin vous l\u2019adorez,",
+                                        "19": "Que vous n\u2019avez de bien qu\u2019alors qu\u2019il vous visite",
+                                        "20": "Et que cette faveur est due \u00e0 son m\u00e9rite.",
+                                        "21": "Je sais qu\u2019en votre c\u0153ur il n\u2019eut jamais d\u2019acc\u00e8s",
+                                        "22": "Et qu\u2019il ne peut avoir qu\u2019un malheureux succ\u00e8s\u00a0;",
+                                        "23": "Mais il faut qu\u2019aujourd\u2019hui je lui fasse comprendre",
+                                        "24": "Que vous ne voulez plus ni le voir ni l\u2019entendre,",
+                                        "25": "Et de plus qu\u2019il me choque aimant en m\u00eame lieu,",
+                                        "26": "Qu\u2019il cesse ou que ce fer lui fera son adieu."
+                                    }
+                                },
+                                "II01-3": {
+                                    "personnage": "Amarille",
+                                    "vers": {
+                                        "0": "Il sait que je le hais et que c\u2019est vous que j\u2019aime,",
+                                        "1": "Sans que vous exposiez votre valeur extr\u00eame.",
+                                        "2": "Je pourrais l\u2019\u00e9loigner assez facilement,",
+                                        "3": "Et si vous n\u2019aspirez qu\u2019\u00e0 ce contentement,",
+                                        "4": "Dans peu vous conna\u00eetrez qu\u2019Amarille est fid\u00e8le",
+                                        "5": "Et qu\u2019elle vit pour vous, si vous vivez pour elle."
+                                    }
+                                },
+                                "II01-4": {
+                                    "personnage": "Dom Philippe",
+                                    "vers": {
+                                        "0": "Que je vis plein d\u2019ennuis, absent de vos beaux yeux,",
+                                        "1": "Et que votre entretien m\u2019a rendu glorieux\u00a0;",
+                                        "2": "Mais pour continuer cette faveur supr\u00eame",
+                                        "3": "Et pour me faire voir comme Amarille m\u2019aime,",
+                                        "4": "O\u00f9 pourrai-je ce soir poss\u00e9der le bonheur",
+                                        "5": "De vous entretenir, si j\u2019ai cette faveur",
+                                        "6": "Que je puis \u00e0 bon droit appeler sans seconde\u00a0?"
+                                    }
+                                },
+                                "II01-5": {
+                                    "personnage": "Amarille",
+                                    "vers": {
+                                        "0": "Alors que le soleil sera couch\u00e9 sous l\u2019onde,",
+                                        "1": "La nuit dont le silence est ami de l\u2019amant",
+                                        "2": "Produira sans obstacle un tel contentement\u00a0;",
+                                        "3": "Ce soir vous me verrez dessous cette fen\u00eatre."
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
