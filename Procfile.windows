@@ -1,1 +1,1 @@
-web: python src/FestrinTri/serveme.py
+web: python serveme.py
