@@ -1,2 +1,1 @@
-ChatterBot==1.0.8
-bottle==0.12.17
+bottle
