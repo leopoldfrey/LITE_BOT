@@ -6,7 +6,7 @@ class FestinTriServer():
     def __init__(self):
         print("FestinTriServer starting...")
 
-        with open("../festinTri.json") as f:
+        with open("festinTri.json") as f:
             self.data = json.load(f)
 
         self.host = '0.0.0.0'
@@ -47,7 +47,7 @@ class FestinTriServer():
         return response
 
     def save(self):
-        with open("../festinTri.json", "w") as f:
+        with open("festinTri.json", "w") as f:
             json.dump(self.data, f, indent=4)
         return { "msg": "Sauvegarde effectuée"}
 
