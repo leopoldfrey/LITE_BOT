@@ -1,0 +1,10 @@
+{
+  "name": "FestinTri",
+  "description": "",
+  "image": "heroku/python",
+  "repository": "https://github.com/leopoldfrey/LITE_BOT",
+  "keywords": ["python", "" ],
+  "addons": [ "" ],
+  "env": {},
+  "environments": {}
+}
