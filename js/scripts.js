@@ -27,7 +27,7 @@ function modified(m) {
     if(currRow.children(".check6").html().includes("span"))
       a.push(6);
 
-    console.log("NUM", rowNum, " ", a);
+    //console.log("NUM", rowNum, " ", a);
     $.ajax({
         url: "/mod",
         type: "POST",
@@ -255,6 +255,7 @@ $(window).keydown(function (e) {
 });
 
 $(window).on('load', function() {
+  connectToWS();
   url = new URL(window.location.href);
   from = parseInt(url.searchParams.get('from'));
   nbLines = parseInt(url.searchParams.get('max'));
@@ -292,3 +293,39 @@ $('#prev').click(function() {
 $('#next').click(function() {
   loadNextPage();
 });
+
+function connectToWS() {
+      // Connect to websocket server
+      ws = new WebSocket(wsServer);
+
+      // Log messages from the server
+      ws.onmessage = function (e) {
+          if(e.data == "uploadStart") {
+            $(".progress-bar").css("width", 0);
+            $("#progress").show();
+          } else if(e.data == "uploadStop") {
+            $("#progress").hide();
+            $(".progress-bar").css("width", 0);
+          } else if(e.data.startsWith("upload")) {
+            v = e.data.split("=")[1];
+            //console.log("UPLOAD", v);
+            $("#progress").show();
+            $(".progress-bar").css("width", v);
+          } else {
+            console.log("| WS Received message: " + e.data);
+          }
+      };
+
+      // Log errors
+      ws.onerror = function (error) {
+          console.error("WebSocket Error " + error.stack);
+      };
+
+      ws.onopen = function (event) {
+          console.log("- Connected to ws server");
+      };
+
+      ws.onclose = function (event) {
+          console.log("- Connection to ws server CLOSED!!!");
+      };
+  }

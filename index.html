@@ -14,6 +14,9 @@
         <link href="custom.css" rel="stylesheet" />
     </head>
     <body>
+      <div class="progress">
+        <div class="progress-bar bg-warning progress-bar-striped progress-bar-animated" role="progressbar" style="width: 0%; height: 100%;" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+      </div>
         <div class="container" style='margin-top: 20px;'>
           <div class="btn-group" role="group">
             <!--button type="button" id='open' class="btn btn-outline-dark" title='Recharger'><span class="icon-cycle"></button-->
@@ -41,54 +44,11 @@
           </table>
         </div>
 
-        <div class="modal fade" id="modalName" tabindex="-1" aria-labelledby="modalNameLabel" aria-hidden="true">
-          <div class="modal-dialog modal-dialog-centered">
-            <div class="modal-content">
-              <div class="modal-header">
-                <h5 class="modal-title" id="modalNameLabel">Changer le nom de la scène</h5>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-              </div>
-              <div class="modal-body">
-                <form>
-                  <div class="mb-3">
-                    <input type="text" class="form-control" id="newName" size="12">
-                  </div>
-                </form>
-              </div>
-              <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Annuler</button>
-                <button type="button" id="Ok" class="btn btn-secondary" data-bs-dismiss="modal">Ok</button>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="modal fade" id="modalSnd" tabindex="-1" aria-labelledby="modalSndLabel" aria-hidden="true">
-          <div class="modal-dialog modal-dialog-centered">
-            <div class="modal-content">
-              <div class="modal-header">
-                <h5 class="modal-title" id="modalSndLabel">Volume</h5>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-              </div>
-              <div class="modal-body">
-                <form>
-                  <div class="mb-3">
-                    <input type="text" class="form-control" id="vol" size="12">
-                  </div>
-                </form>
-              </div>
-              <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Annuler</button>
-                <button type="button" id="OkVol" class="btn btn-secondary" data-bs-dismiss="modal">Ok</button>
-              </div>
-            </div>
-          </div>
-        </div>
-
         <script src="js/jquery-3.6.0.min.js"></script>
         <script src="js/jquery-ui.min.js"></script>
         <script src="js/jquery.ui.touch-punch.min.js"></script>
         <script src="js/bootstrap.bundle.min.js"></script>
+        <script src="js/ws.js"></script>
         <script src="js/scripts.js"></script>
     </body>
 </html>

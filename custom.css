@@ -51,7 +51,7 @@ tr:nth-child(2n) {
 
 .btn-group {
   position: sticky;
-  top: 0px;
+  top: 17px;
   z-index: 20;
 }
 
@@ -60,4 +60,17 @@ tr:nth-child(2n) {
   border-left: 0.1px solid lightgray;
   border-right: 0.1px solid lightgray;
   width: 60px;
+}
+
+.progress {
+  width: 100vw;
+  position: sticky;
+  left: 0px;
+  top: -8px;
+  border-radius: 0rem;
+  z-index: 1
+}
+
+.progress-bar {
+  transition: width 0.1s ease;
 }
