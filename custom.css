@@ -68,6 +68,7 @@ tr:nth-child(2n) {
   left: 0px;
   top: -8px;
   border-radius: 0rem;
+  display: none;
   z-index: 1
 }
 

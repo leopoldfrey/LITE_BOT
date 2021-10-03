@@ -1,56 +1,56 @@
 #!/usr/bin/env python3
 import os, json
-import urllib3
-import certifi
-import shutil
+# import urllib3
+# import certifi
+# import shutil
 from bottle import post, static_file, template, Bottle, request
-from upload import Upload
-from websocket_server import WebsocketServer
+# from upload import Upload
+# from websocket_server import WebsocketServer
 import threading
 
-def new_client(client, server):
-    print("Client connected and was given id %d" % client['id'])
-    #server.send_message_to_all("Hey all, a new client has joined us")
-
-def client_left(client, server):
-    print("Client(%d) disconnected" % client['id'])
-
-def message_received(client, server, message):
-    # if len(message) > 200:
-    #     message = message[:200]+'..'
-    print("Client(%d) said: %s" % (client['id'], message))
-
-def socketSend(message):
-	socketServer.send_message_to_all(message)
-
-def initWebSocket():
-    PORT=9001
-    socketServer = WebsocketServer(PORT)
-    socketServer.set_fn_new_client(new_client)
-    socketServer.set_fn_client_left(client_left)
-    socketServer.set_fn_message_received(message_received)
-    threading.Thread(target=socketServer.run_forever).start()
-    return socketServer
+# def new_client(client, server):
+#     print("Client connected and was given id %d" % client['id'])
+#     #server.send_message_to_all("Hey all, a new client has joined us")
+#
+# def client_left(client, server):
+#     print("Client(%d) disconnected" % client['id'])
+#
+# def message_received(client, server, message):
+#     # if len(message) > 200:
+#     #     message = message[:200]+'..'
+#     print("Client(%d) said: %s" % (client['id'], message))
+#
+# def socketSend(message):
+# 	socketServer.send_message_to_all(message)
+#
+# def initWebSocket():
+#     PORT=9001
+#     socketServer = WebsocketServer(PORT)
+#     socketServer.set_fn_new_client(new_client)
+#     socketServer.set_fn_client_left(client_left)
+#     socketServer.set_fn_message_received(message_received)
+#     threading.Thread(target=socketServer.run_forever).start()
+#     return socketServer
 
 class FestinTriServer():
     def __init__(self):
 
-        print("Downloading festin.json...")
-        http = urllib3.PoolManager(
-            cert_reqs="CERT_REQUIRED",
-            ca_certs=certifi.where()
-        )
-
-        with open("festinTri.json", 'wb') as out:
-            r = http.request('GET', "https://grabugemusic.fr/g5/public/data/festin.json", preload_content=False)
-            shutil.copyfileobj(r, out)
+        # print("Downloading festin.json...")
+        # http = urllib3.PoolManager(
+        #     cert_reqs="CERT_REQUIRED",
+        #     ca_certs=certifi.where()
+        # )
+        #
+        # with open("festinTri.json", 'wb') as out:
+        #     r = http.request('GET', "https://grabugemusic.fr/g5/public/data/festin.json", preload_content=False)
+        #     shutil.copyfileobj(r, out)
 
         print("Loading data...")
-        with open("festinTri.json") as f:
-            self.data = json.load(f)
+        self.filename = "festinTri.json"
+        self.load()
 
-        print("Starting WebSocket...")
-        self.socketServer = initWebSocket()
+        # print("Starting WebSocket...")
+        # self.socketServer = initWebSocket()
 
         print("FestinTriServer starting...")
         self.host = '0.0.0.0'
@@ -58,6 +58,11 @@ class FestinTriServer():
         self.server = Bottle()
         self.route()
         self.start()
+
+    def load(self):
+        print("Loading data "+self.filename)
+        with open(self.filename) as f:
+            self.data = json.load(f)
 
     def start(self):
         # démarrage du serveur
@@ -73,6 +78,8 @@ class FestinTriServer():
         self.server.route('/getMax', method="GET", callback=self.max)
         self.server.route('/save', method="GET", callback=self.save)
         self.server.route('/mod', method="POST", callback=self.mod)
+        self.server.route('/download', method="GET", callback=self.download)
+        self.server.route('/upload', method="POST", callback=self.upload)
 
     def index(self):
         return static_file('index.html', root='./')
@@ -93,12 +100,32 @@ class FestinTriServer():
     def save(self):
         with open("festinTri.json", "w") as f:
             json.dump(self.data, f, indent=4)
-        thd = Upload("https://grabugemusic.fr/g5/public/data/backupFestin.php", "festinTri.json", self.socketServer)
-        thd.start()
+        # thd = Upload("https://grabugemusic.fr/g5/public/data/backupFestin.php", "festinTri.json", self.socketServer)
+        # thd.start()
         return { "msg": "Sauvegarde en cours"}
 
+    def download(self):
+        with open("festinTri.json", "w") as f:
+            json.dump(self.data, f, indent=4)
+        return static_file("festinTri.json", root='./')
+
+    def upload(self):
+        upload = request.files.jsonFile
+        name, ext = os.path.splitext(upload.filename)
+        print("Uploading "+upload.filename)
+
+        if ext not in ('.json'):
+            return "File extension not allowed."
+
+        save_path = "."
+        file_path = "{path}/{file}".format(path=save_path, file=upload.filename)
+        upload.save(file_path, overwrite=True)
+        self.filename = file_path
+        self.load()
+        return "File successfully saved to '{0}'.".format(save_path)
+
     def max(self):
-        print("MAX : "+str(len(self.data)))
+        # print("MAX : "+str(len(self.data)))
         return { 'max': len(self.data) }
 
     def mod(self):

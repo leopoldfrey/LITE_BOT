@@ -1,5 +1,1 @@
-websocket_server
 bottle==0.12.17
-urllib3==1.24.1
-requests==2.22.0
-certifi==2019.3.9
