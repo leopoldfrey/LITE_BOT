@@ -75,3 +75,18 @@ tr:nth-child(2n) {
 .progress-bar {
   transition: width 0.1s ease;
 }
+
+#info {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 0.9rem;
+    margin-left: 12px;
+    border: 1px solid black;
+    padding: 6px 10px 6px 10px;
+    border-radius: 0.25rem;
+    position: sticky;
+    top: 17px;
+    z-index: 20;
+    text-align: center;
+    width: 200px;
+}
