@@ -93,7 +93,7 @@ function load()
   }
   urlFromTo = "/getSentences/"+from+"/"+(from+nbLines);
   console.log("LOAD "+urlFromTo, max);
-  $("#info").html(from + " > " +(from+nbLines)+" / "+max);
+  $("#info").html(from + " > " +(from+nbLines-1)+" / "+max);
   history.pushState({}, null, "index.html?from="+from+"&max="+nbLines);
   $.ajax({
       url: urlFromTo,
