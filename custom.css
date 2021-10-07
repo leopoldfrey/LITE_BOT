@@ -6,6 +6,7 @@ thead {
   position: sticky;
   top: 0px;
   background-color: white;
+  height: 90px;
 }
 th {
   text-align: center;
@@ -89,4 +90,9 @@ tr:nth-child(2n) {
     z-index: 20;
     text-align: center;
     width: 200px;
+}
+
+.form-control {
+  /* font-size: 0.9rem; */
+  height: 15rem;
 }

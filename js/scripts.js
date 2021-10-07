@@ -1,5 +1,7 @@
 var sentencesData;
 var $sentences = $("#sentences");
+var modalSentence = $('#modalSentence');
+var newSentence = $('#newSentence')
 var sentences = new Array();
 var mod = false;
 var max = 0;
@@ -7,12 +9,14 @@ var defNbLines = 20;
 var nbLines;
 var from = 0;
 var currRow;
+var editing = false;
 
 function modified(m) {
   mod = m;
   if(mod) {
-    $("#save").addClass('btn-warning');
+    $("#download").addClass('btn-warning');
     rowNum = parseInt(currRow.children("th").first().html());
+    txt = currRow.children(".sentenceEdit").html();
     a = [];
     if(currRow.children(".check1").html().includes("span"))
       a.push(1);
@@ -24,15 +28,14 @@ function modified(m) {
       a.push(4);
     if(currRow.children(".check5").html().includes("span"))
       a.push(5);
-    // if(currRow.children(".check6").html().includes("span"))
-    //   a.push(6);
 
-    //console.log("NUM", rowNum, " ", a);
+    // console.log("NUM", rowNum, " ", a, " ", txt);
     $.ajax({
         url: "/mod",
         type: "POST",
         data: JSON.stringify({
           "num": rowNum,
+          "txt": escape(txt.replaceAll('\n','')),//JSON.stringify(txt.replaceAll(',','_COMMA_').replaceAll(';','_COMMADOT_').replaceAll('\'','_QUOT1_').replaceAll('\"','_QUOT2_')),
           "val": a
         }),
         success: function(response) {
@@ -43,7 +46,7 @@ function modified(m) {
         }
     });
   } else {
-    $("#save").removeClass('btn-warning');
+    $("#download").removeClass('btn-warning');
   }
 }
 
@@ -124,16 +127,16 @@ function fillSentences(data) {
   len = Object.keys(sentencesData).length;
   Object.keys(sentencesData).forEach((item, i) => {
     sentence = sentencesData[item];
-    ii = parseInt(item)
+    ii = parseInt(item);
+    txt = unescape(sentence['txt']).replaceAll('’','\'').replaceAll('\n','').replace(new RegExp(String.fromCharCode(160), "g"), " ");
     $sentences.append(
       "<tr class='sentenceRow'><th class='sentenceNum' scope='row'>" + ii + "</th>" +
-      "<td class='sentenceElem'>" + sentence['txt'] + "</td>"+
+      "<td class='sentenceElem sentenceEdit' id='sentence"+ii+"'>" + txt + "</td>"+
       "<td class='sentenceElem check check1'>"+(sentence['in'].includes(1) ? "<span class='icon-check'>" : "")+"</td>"+
       "<td class='sentenceElem check check2'>"+(sentence['in'].includes(2) ? "<span class='icon-check'>" : "")+"</td>"+
       "<td class='sentenceElem check check3'>"+(sentence['in'].includes(3) ? "<span class='icon-check'>" : "")+"</td>"+
       "<td class='sentenceElem check check4'>"+(sentence['in'].includes(4) ? "<span class='icon-check'>" : "")+"</td>"+
       "<td class='sentenceElem check check5'>"+(sentence['in'].includes(5) ? "<span class='icon-check'>" : "")+"</td>"+
-      /*"<td class='sentenceElem check check6'>"+(sentence['in'].includes(6) ? "<span class='icon-check'>" : "")+"</td>"+*/
       "</tr>");
   });
 
@@ -142,11 +145,24 @@ function fillSentences(data) {
     modified(true);
   });
 
+  $('.sentenceEdit').dblclick(function() {
+    edit();
+  });
+
   currRow = $('.sentenceRow').first();
   currRow.addClass("selected");
   $('.sentenceRow').click(function() {
     sel($(this));
   });
+}
+
+function edit()
+{
+  editing = true;
+  var sentence = currRow.children(".sentenceEdit").html();
+  newSentence.val(sentence);
+  setTimeout(function(){newSentence.focus();}, 500);
+  modalSentence.modal('show');
 }
 
 function next() {
@@ -168,10 +184,14 @@ function prev() {
 }
 
 $(window).keydown(function (e) {
-    //console.log(e.which);
+    if(editing)
+      return;
+    // console.log(e.which);
     shifted = e.shiftKey;
     var c = "";
-    if (e.which == 38) { // Up Arrow
+    if (e.which == 13) { // Enter
+      edit();
+    } else if (e.which == 38) { // Up Arrow
       prev();
     } else if (e.which == 40 || e.which == 32) { // Down Arrow
       next();
@@ -179,75 +199,75 @@ $(window).keydown(function (e) {
       loadPrevPage();
     } else if (e.which == 39) { // > Arrow
       loadNextPage();
-    } else if (e.which == 49) {
+    } else if (e.which == 49) { // 1
       set(currRow.children(".check1"));
       if(!e.shiftKey) {
         clear(currRow.children(".check2"));
         clear(currRow.children(".check3"));
         clear(currRow.children(".check4"));
         clear(currRow.children(".check5"));
-        //clear(currRow.children(".check6"));
       }
       modified(true);
       if(!e.shiftKey)
         next();
-    } else if (e.which == 50) {
+    } else if (e.which == 50) { // 2
       set(currRow.children(".check2"));
       if(!e.shiftKey) {
         clear(currRow.children(".check1"));
         clear(currRow.children(".check3"));
         clear(currRow.children(".check4"));
         clear(currRow.children(".check5"));
-        //clear(currRow.children(".check6"));
       }
       modified(true);
       if(!e.shiftKey)
         next();
-    } else if (e.which == 51) {
+    } else if (e.which == 51) { // 3
       set(currRow.children(".check3"));
       if(!e.shiftKey) {
         clear(currRow.children(".check1"));
         clear(currRow.children(".check2"));
         clear(currRow.children(".check4"));
         clear(currRow.children(".check5"));
-        //clear(currRow.children(".check6"));
       }
       modified(true);
       if(!e.shiftKey)
         next();
-    } else if (e.which == 52) {
+    } else if (e.which == 52) { // 4
       set(currRow.children(".check4"));
       if(!e.shiftKey) {
         clear(currRow.children(".check1"));
         clear(currRow.children(".check2"));
         clear(currRow.children(".check3"));
         clear(currRow.children(".check5"));
-        //clear(currRow.children(".check6"));
       }
       modified(true);
       if(!e.shiftKey)
         next();
-    } else if (e.which == 53) {
+    } else if (e.which == 53) { // 5
       set(currRow.children(".check5"));
       if(!e.shiftKey) {
         clear(currRow.children(".check1"));
         clear(currRow.children(".check2"));
         clear(currRow.children(".check3"));
         clear(currRow.children(".check4"));
-        //clear(currRow.children(".check6"));
       }
       modified(true);
       if(!e.shiftKey)
         next();
-    } else if (e.which == 54) {
-      //set(currRow.children(".check6"));
-      //if(currRow.children(".check6").html().includes("span")) {
-        clear(currRow.children(".check1"));
-        clear(currRow.children(".check2"));
-        clear(currRow.children(".check3"));
-        clear(currRow.children(".check4"));
-        clear(currRow.children(".check5"));
-      //}
+    } else if (e.which == 54) { // 6
+      clear(currRow.children(".check1"));
+      clear(currRow.children(".check2"));
+      clear(currRow.children(".check3"));
+      clear(currRow.children(".check4"));
+      clear(currRow.children(".check5"));
+      modified(true);
+      next();
+    } else if (e.which == 55) { //7
+      set(currRow.children(".check1"));
+      set(currRow.children(".check2"));
+      set(currRow.children(".check3"));
+      set(currRow.children(".check4"));
+      set(currRow.children(".check5"));
       modified(true);
       next();
     } else if (e.which == 83 && e.shiftKey) {
@@ -370,39 +390,28 @@ $('#download').click(function() {
   });
   modified(false);
 });
-//
-// function connectToWS() {
-//   // Connect to websocket server
-//   ws = new WebSocket(wsServer);
-//
-//   // Log messages from the server
-//   ws.onmessage = function (e) {
-//       if(e.data == "uploadStart") {
-//         $(".progress-bar").css("width", 0);
-//         $("#progress").show();
-//       } else if(e.data == "uploadStop") {
-//         $("#progress").hide();
-//         $(".progress-bar").css("width", 0);
-//       } else if(e.data.startsWith("upload")) {
-//         v = e.data.split("=")[1];
-//         //console.log("UPLOAD", v);
-//         $("#progress").show();
-//         $(".progress-bar").css("width", v);
-//       } else {
-//         console.log("| WS Received message: " + e.data);
-//       }
-//   };
-//
-//   // Log errors
-//   ws.onerror = function (error) {
-//       console.error("WebSocket Error " + error.stack);
-//   };
-//
-//   ws.onopen = function (event) {
-//       console.log("- Connected to ws server");
-//   };
-//
-//   ws.onclose = function (event) {
-//       console.log("- Connection to ws server CLOSED!!!");
-//   };
-// }
+
+// MODAL SENTENCE INPUT
+
+function validSentence(ev) {
+  ev.preventDefault();
+  currRow.children(".sentenceEdit").html(newSentence.val());
+  // console.log("VALID", newSentence.val())
+  modalSentence.modal('hide');
+  modified(true);
+}
+
+modalSentence.on("hide.bs.modal", function(){
+  // console.log("HIDE");
+  editing = false;
+});
+
+modalSentence.submit(function(ev)
+{
+  validSentence(ev);
+});
+
+$('#Ok').click(function(ev)
+{
+  validSentence(ev);
+});

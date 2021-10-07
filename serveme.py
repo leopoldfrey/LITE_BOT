@@ -130,12 +130,17 @@ class FestinTriServer():
 
     def mod(self):
         for k in request.forms:
-            #print(k,type(k))
+            # print("MOD", k)
             j = json.loads(k)
+            # print("\t>>", j)
             num = j['num']
+            txt = j['txt']
+            # txt = txt.replace("_COMMA_", ",").replace("_QUOT1_", "'").replace("_QUOT2_", "\"").replace("_COMMADOT_", ";")
+            # print(txt)
             val = j['val']
             self.data[str(num)]['in'] = val
-            print(str(num)," ",self.data[str(num)])
+            self.data[str(num)]['txt'] = txt
+            print("Modification effectuée >", str(num)," ",self.data[str(num)])
         return { "msg": "Modification "+str(num)+" effecuée"}
 
 if __name__ == "__main__":

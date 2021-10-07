@@ -52,6 +52,28 @@
 
         <input id="jsonfile-input" type="file" accept=".json" name="jsonFile" style="display: none;" />
 
+        <div class="modal fade" id="modalSentence" tabindex="-1" aria-labelledby="modalSentenceLabel" aria-hidden="true">
+          <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="modalSentenceLabel">Éditer cette phrase</h5>
+                <button type="button" id='Close' class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+              <div class="modal-body">
+                <form>
+                  <div class="mb-3">
+                    <textarea type="text" class="form-control" id="newSentence""></textarea>
+                  </div>
+                </form>
+              </div>
+              <div class="modal-footer">
+                <button type="button" id="Cancel" class="btn btn-secondary" data-bs-dismiss="modal">Annuler</button>
+                <button type="button" id="Ok" class="btn btn-secondary" data-bs-dismiss="modal">Ok</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <script src="js/jquery-3.6.0.min.js"></script>
         <script src="js/jquery-ui.min.js"></script>
         <script src="js/jquery.ui.touch-punch.min.js"></script>
