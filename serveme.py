@@ -13,16 +13,16 @@ class FestinTriServer():
         self.load()
 
         #ouverture de google chrome
-        print("___STARTING GOOGLE CHROME___")
-        url = 'http://localhost:17995/'
-        # MacOS
-        if _platform == "darwin":
-            chrome_path = 'open -a /Applications/Google\ Chrome.app %s'
-        elif _platform == "win32" or _platform == "win64":
-            chrome_path = 'C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s'
-        # Linux
-        # chrome_path = '/usr/bin/google-chrome %s'
-        webbrowser.get(chrome_path).open(url)
+        # print("___STARTING GOOGLE CHROME___")
+        # url = 'http://localhost:17995/'
+        # # MacOS
+        # if _platform == "darwin":
+        #     chrome_path = 'open -a /Applications/Google\ Chrome.app %s'
+        # elif _platform == "win32" or _platform == "win64":
+        #     chrome_path = 'C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s'
+        # # Linux
+        # # chrome_path = '/usr/bin/google-chrome %s'
+        # webbrowser.get(chrome_path).open(url)
 
         print("FestinTriServer starting...")
         self.host = '0.0.0.0'
