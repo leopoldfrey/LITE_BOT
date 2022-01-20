@@ -11288,6 +11288,7 @@ textarea.form-control-lg {
   font-weight: bold;
   height: 100%;
   background-color: white;
+  padding: 20px;
 }
 
 th span {
