@@ -1,56 +1,28 @@
 #!/usr/bin/env python3
-import os, json
-# import urllib3
-# import certifi
-# import shutil
+import os, json, webbrowser
 from bottle import post, static_file, template, Bottle, request
-# from upload import Upload
-# from websocket_server import WebsocketServer
-import threading
+from sys import platform as _platform
 
-# def new_client(client, server):
-#     print("Client connected and was given id %d" % client['id'])
-#     #server.send_message_to_all("Hey all, a new client has joined us")
-#
-# def client_left(client, server):
-#     print("Client(%d) disconnected" % client['id'])
-#
-# def message_received(client, server, message):
-#     # if len(message) > 200:
-#     #     message = message[:200]+'..'
-#     print("Client(%d) said: %s" % (client['id'], message))
-#
-# def socketSend(message):
-# 	socketServer.send_message_to_all(message)
-#
-# def initWebSocket():
-#     PORT=9001
-#     socketServer = WebsocketServer(PORT)
-#     socketServer.set_fn_new_client(new_client)
-#     socketServer.set_fn_client_left(client_left)
-#     socketServer.set_fn_message_received(message_received)
-#     threading.Thread(target=socketServer.run_forever).start()
-#     return socketServer
+import threading
 
 class FestinTriServer():
     def __init__(self):
-
-        # print("Downloading festin.json...")
-        # http = urllib3.PoolManager(
-        #     cert_reqs="CERT_REQUIRED",
-        #     ca_certs=certifi.where()
-        # )
-        #
-        # with open("festinTri.json", 'wb') as out:
-        #     r = http.request('GET', "https://grabugemusic.fr/g5/public/data/festin.json", preload_content=False)
-        #     shutil.copyfileobj(r, out)
 
         print("Loading data...")
         self.filename = "festinTri.json"
         self.load()
 
-        # print("Starting WebSocket...")
-        # self.socketServer = initWebSocket()
+        #ouverture de google chrome
+        print("___STARTING GOOGLE CHROME___")
+        url = 'http://localhost:17995/'
+        # MacOS
+        if _platform == "darwin":
+            chrome_path = 'open -a /Applications/Google\ Chrome.app %s'
+        elif _platform == "win32" or _platform == "win64":
+            chrome_path = 'C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s'
+        # Linux
+        # chrome_path = '/usr/bin/google-chrome %s'
+        webbrowser.get(chrome_path).open(url)
 
         print("FestinTriServer starting...")
         self.host = '0.0.0.0'
@@ -75,9 +47,16 @@ class FestinTriServer():
         self.server.route('/<dir>/<filename>', method="GET", callback=self.serveDir)
         self.server.route('/<filename>', method="GET", callback=self.serve)
         self.server.route('/getSentences/<a>/<b>', method="GET", callback=self.sentences)
+        self.server.route('/getCat1', method="GET", callback=self.cat1)
+        self.server.route('/getCat2', method="GET", callback=self.cat2)
+        self.server.route('/getCat3', method="GET", callback=self.cat3)
+        self.server.route('/getCat4', method="GET", callback=self.cat4)
+        self.server.route('/getCat5', method="GET", callback=self.cat5)
+        self.server.route('/getCat0', method="GET", callback=self.cat0)
         self.server.route('/getMax', method="GET", callback=self.max)
         self.server.route('/save', method="GET", callback=self.save)
         self.server.route('/mod', method="POST", callback=self.mod)
+        self.server.route('/del', method="POST", callback=self.deleteId)
         self.server.route('/download', method="GET", callback=self.download)
         self.server.route('/upload', method="POST", callback=self.upload)
 
@@ -94,7 +73,74 @@ class FestinTriServer():
         #print("getSentences from "+a+" to "+b)
         response = {}
         for i in range(int(a),int(b)):
-            response[str(i)] = self.data[str(i)]
+            try:
+                response[str(i)] = self.data[str(i)]
+            except:
+                pass
+        return response
+
+    def cat1(self):
+        # print("getCat1")
+        response = {}
+        for i in range(len(self.data)):
+            try:
+                if 1 in self.data[str(i)]['in'] :
+                    response[str(i)] = self.data[str(i)]
+            except:
+                pass
+        return response
+
+    def cat2(self):
+        # print("getCat2")
+        response = {}
+        for i in range(len(self.data)):
+            try:
+                if 2 in self.data[str(i)]['in'] :
+                    response[str(i)] = self.data[str(i)]
+            except:
+                pass
+        return response
+
+    def cat3(self):
+        # print("getCat3")
+        response = {}
+        for i in range(len(self.data)):
+            try:
+                if 3 in self.data[str(i)]['in'] :
+                    response[str(i)] = self.data[str(i)]
+            except:
+                pass
+        return response
+
+    def cat4(self):
+        # print("getCat4")
+        response = {}
+        for i in range(len(self.data)):
+            try:
+                if 4 in self.data[str(i)]['in'] :
+                    response[str(i)] = self.data[str(i)]
+            except:
+                pass
+        return response
+
+    def cat5(self):
+        # print("getCat5")
+        response = {}
+        for i in range(len(self.data)):
+            try:
+                if 5 in self.data[str(i)]['in'] :
+                    response[str(i)] = self.data[str(i)]
+            except:
+                pass
+        return response
+
+    def cat0(self):
+        response = {}
+        for i in range(len(self.data)):
+            try:
+                response[str(i)] = self.data[str(i)]
+            except:
+                pass
         return response
 
     def save(self):
@@ -125,8 +171,8 @@ class FestinTriServer():
         return "File successfully saved to '{0}'.".format(save_path)
 
     def max(self):
-        # print("MAX : "+str(len(self.data)))
-        return { 'max': len(self.data) }
+        # print("MAX : "+list(self.data.keys())[-1])
+        return { 'max': list(self.data.keys())[-1] }
 
     def mod(self):
         for k in request.forms:
@@ -138,10 +184,22 @@ class FestinTriServer():
             # txt = txt.replace("_COMMA_", ",").replace("_QUOT1_", "'").replace("_QUOT2_", "\"").replace("_COMMADOT_", ";")
             # print(txt)
             val = j['val']
-            self.data[str(num)]['in'] = val
-            self.data[str(num)]['txt'] = txt
-            print("Modification effectuée >", str(num)," ",self.data[str(num)])
-        return { "msg": "Modification "+str(num)+" effecuée"}
+            if str(num) in self.data:
+                self.data[str(num)]['in'] = val
+                self.data[str(num)]['txt'] = txt
+                print("Modification effectuée >", str(num)," ",self.data[str(num)])
+            else:
+                self.data[str(num)] = {"txt":txt,"in":val}
+                print("Ajout effectué >", str(num)," ",self.data[str(num)])
+
+        return { "msg": "Modification effecuée"}
+
+    def deleteId(self):
+        for k in request.forms:
+            idx = json.loads(k)['num']
+            # print("TODO del", idx)
+            self.data.pop(idx)
+        return { "msg": "Suppression effectuée"}
 
 if __name__ == "__main__":
     server = FestinTriServer()

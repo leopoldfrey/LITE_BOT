@@ -316,6 +316,7 @@ caption {
 th {
   text-align: inherit;
   text-align: -webkit-match-parent;
+  cursor: pointer;
 }
 
 thead,
@@ -11273,4 +11274,25 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+}
+#all:hover, #cat1:hover, #cat2:hover, #cat3:hover, #cat4:hover, #cat5:hover {
+  background-color: black;
+  color: white;
+}
+
+#all {
+  /* display: block;
+  left: calc(100% - 33px);
+  position: relative; */
+  border: none;
+  font-weight: bold;
+  height: 100%;
+  background-color: white;
+}
+
+th span {
+  padding: 10px;
+  width: 50%;
+  /* border: 0.1px solid gray; */
+  display: inline-block;
 }

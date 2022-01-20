@@ -30,18 +30,22 @@
             <button type="button" id='prev' class="btn btn-outline-dark" title='Page précédente'><span class="icon-controller-fast-backward"></button>
             <button type="button" id='next' class="btn btn-outline-dark" title='Page suivante'><span class="icon-controller-fast-forward"></span></button>
           </div>
+          <div class="btn-group" role="group" style='margin-left: 12px;'>
+            <button type="button" id='plus' class="btn btn-outline-dark" title='Ajout'><span class="icon-plus"></button>
+            <button type="button" id='del' class="btn btn-outline-dark" title='Ajout'><span class="icon-trash"></button>
+          </div>
           <div id='info'>
           </div>
           <table class="table">
             <thead>
               <tr>
                 <th scope="col"></th>
-                <th scope="col">Phrase</th>
-                <th scope="col" class='small'>Intro<br/>[1]</th>
-                <th scope="col" class='small'>Séduc°<br/>[2]</th>
-                <th scope="col" class='small'>Provoca°<br/>[3]</th>
-                <th scope="col" class='small'>Fuite<br/>[4]</th>
-                <th scope="col" class='small'>Passe-<br/>partout<br/>[5]</th>
+                <th scope="col"><span style='text-align: left'>Phrases</span><span style='text-align: right'><button id='all'>All</button></span></th>
+                <th scope="col" class='small' id='cat1'>Intro<br/>[1]</th>
+                <th scope="col" class='small' id='cat2'>Séduc°<br/>[2]</th>
+                <th scope="col" class='small' id='cat3'>Provoca°<br/>[3]</th>
+                <th scope="col" class='small' id='cat4'>Fuite<br/>[4]</th>
+                <th scope="col" class='small' id='cat5'>Passe-<br/>partout<br/>[5]</th>
                 <!--th scope="col" class='small'>Off<br/>[6]</th-->
               </tr>
             </thead>
